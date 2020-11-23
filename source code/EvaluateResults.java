@@ -12,7 +12,7 @@ import socialmedia_pos_v1.ReaderWriter;
 
 /**
  *
- * @author Souvick
+ * @author Satanu
  */
 public class EvaluateResults {
     

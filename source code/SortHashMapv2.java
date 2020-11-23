@@ -17,7 +17,7 @@ import java.util.StringTokenizer;
 
 /**
  *
- * @author Souvick
+ * @author Satanu
  */
 public class SortHashMapv2 {
     // To sort hasmap in descending order

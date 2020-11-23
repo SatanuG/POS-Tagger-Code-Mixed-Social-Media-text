@@ -12,7 +12,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  *
- * @author Souvick
+ * @author Satanu
  */
 public class FileInput {
         

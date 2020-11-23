@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Souvick
+ * @author Satanu
  */
 public class RemoveExtraLines {
     
