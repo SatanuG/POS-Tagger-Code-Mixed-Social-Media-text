@@ -1,0 +1,35 @@
+## tagger training invoked at Mon May 09 23:31:05 IST 2016 with arguments:
+                   model = hindi-pos-tagger-model.tagger
+                    arch = words(-1,1),unicodeshapes(-1,1),order(2),suffix(4)
+            wordFunction = 
+               trainFile = format=TSV,wordColumn=0,tagColumn=2,HI_EN_TRAIN.txt
+         closedClassTags = 
+ closedClassTagThreshold = 40
+ curWordMinFeatureThresh = 2
+                   debug = false
+             debugPrefix = 
+            tagSeparator = /
+                encoding = UTF-8
+              iterations = 100
+                    lang = 
+    learnClosedClassTags = false
+        minFeatureThresh = 2
+           openClassTags = 
+rareWordMinFeatureThresh = 10
+          rareWordThresh = 5
+                  search = qn
+                    sgml = false
+            sigmaSquared = 0.5
+                   regL1 = 1.0
+               tagInside = 
+                tokenize = false
+        tokenizerFactory = 
+        tokenizerOptions = asciiQuotes
+                 verbose = true
+          verboseResults = true
+    veryCommonWordThresh = 250
+                xmlInput = 
+              outputFile = 
+            outputFormat = slashTags
+     outputFormatOptions = 
+                nthreads = 1

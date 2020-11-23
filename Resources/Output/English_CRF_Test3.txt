@@ -1,0 +1,1238 @@
+1	ove	ve	lov	lo	null	null	love	all	null	0	0	1	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	love	all	null	null	0	0	0	1	0	1	1	0	1	0	1	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	oys	ys	boy	bo	null	null	boys	to	mach	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	boys	to	mach	crazy	0	0	0	0	0	0	0	1	0	0	0	0	0
+1	ach	ch	mac	ma	boys	to	mach	crazy	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	azy	zy	cra	cr	to	mach	crazy	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ree	ee	agr	ag	null	null	agree	friends	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	nds	ds	fri	fr	null	agree	friends	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	THE	CUTEST	ARGUMENT	0	0	0	0	0	0	0	0	1	0	0	0	0
+1	EST	ST	CUT	CU	null	THE	CUTEST	ARGUMENT	subtitles	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ENT	NT	ARG	AR	THE	CUTEST	ARGUMENT	subtitles	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	les	es	sub	su	CUTEST	ARGUMENT	subtitles	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	est	st	cut	cu	null	null	cutest	innocent	argument	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	ent	nt	inn	in	null	cutest	innocent	argument	ever	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	ent	nt	arg	ar	cutest	innocent	argument	ever	i	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ver	er	eve	ev	innocent	argument	ever	i	dont	0	0	0	0	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	argument	ever	i	dont	own	0	0	0	0	0	1	0	0	0	0	0	0	0
+1	ont	nt	don	do	ever	i	dont	own	this	0	0	0	0	1	0	1	0	0	0	0	0	0
+0	null	null	null	null	i	dont	own	this	video	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	his	is	thi	th	dont	own	this	video	i	0	0	1	0	0	1	0	0	1	0	0	0	0
+1	deo	eo	vid	vi	own	this	video	i	just	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	this	video	i	just	added	0	0	0	0	0	1	0	0	0	0	0	0	0
+1	ust	st	jus	ju	video	i	just	added	the	0	0	0	1	0	0	1	0	0	0	0	0	0
+1	ded	ed	add	ad	i	just	added	the	subs	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	just	added	the	subs	the	0	0	0	0	1	1	1	0	1	0	0	0	0
+1	ubs	bs	sub	su	added	the	subs	the	way	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	the	subs	the	way	i	0	0	0	0	1	1	1	0	1	0	0	0	0
+0	null	null	null	null	subs	the	way	i	understood	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	the	way	i	understood	the	0	0	0	0	0	1	0	0	0	0	0	0	0
+1	ood	od	und	un	way	i	understood	the	conversation	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	i	understood	the	conversation	null	0	0	0	0	1	1	1	0	1	0	0	0	0
+1	ion	on	con	co	understood	the	conversation	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	com	om	you	yo	null	null	youtubecom	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	kes	es	lik	li	null	null	likes	this	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	his	is	thi	th	null	likes	this	null	null	0	0	1	0	0	1	0	0	1	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ner	er	Ent	En	null	null	Entertainer	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	kes	es	Lik	Li	null	null	Likes	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ing	ng	tal	ta	null	null	talking	about	this	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	out	ut	abo	ab	null	talking	about	this	null	0	0	0	0	0	0	0	1	0	0	0	0	0
+1	his	is	thi	th	talking	about	this	null	null	0	0	1	0	0	1	0	0	1	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	bro	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ith	th	wit	wi	null	null	with	and	null	0	0	0	0	0	0	0	1	0	0	0	0	0
+0	null	null	null	null	null	with	and	null	null	0	0	0	0	0	0	0	1	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	kes	es	lik	li	null	null	likes	this	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	his	is	thi	th	null	likes	this	null	null	0	0	1	0	0	1	0	0	1	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ice	ce	nic	ni	null	null	nice	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ool	ol	Sch	Sc	null	null	School	tour	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	our	ur	tou	to	null	School	tour	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	wow	kik	game	0	0	0	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	wow	kik	game	show	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ame	me	gam	ga	wow	kik	game	show	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	how	ow	sho	sh	kik	game	show	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ood	od	goo	go	null	null	good	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	omg	omg	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	omg	omg	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ery	ry	Ver	Ve	null	null	Very	Bad	null	0	0	0	0	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	null	Very	Bad	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Bad	elephant	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	ant	nt	ele	el	null	Bad	elephant	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ger	er	Dan	Da	null	null	Danger	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ful	ul	car	ca	null	null	careful	boys	soo	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	oys	ys	boy	bo	null	careful	boys	soo	danger	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	careful	boys	soo	danger	girls	0	0	0	0	0	0	1	0	0	0	0	0	0
+1	ger	er	dan	da	boys	soo	danger	girls	Dont	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	rls	ls	gir	gi	soo	danger	girls	Dont	marry	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ont	nt	Don	Do	danger	girls	Dont	marry	be	0	0	0	0	1	0	1	0	0	0	0	0	0
+1	rry	ry	mar	ma	girls	Dont	marry	be	happy	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	Dont	marry	be	happy	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ppy	py	hap	ha	marry	be	happy	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ame	me	sam	sa	null	null	same	msg	for	0	0	0	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	same	msg	for	grls	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	same	msg	for	grls	also	0	0	0	0	0	0	0	1	0	0	0	0	0
+1	rls	ls	grl	gr	msg	for	grls	also	imagine	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	lso	so	als	al	for	grls	also	imagine	a	0	0	0	0	0	0	1	0	0	0	0	0	0
+1	ine	ne	ima	im	grls	also	imagine	a	boy	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	also	imagine	a	boy	in	0	0	0	0	0	0	0	0	1	0	1	0	0
+0	null	null	null	null	imagine	a	boy	in	the	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	a	boy	in	the	place	0	0	0	1	0	0	1	1	0	0	0	0	0
+0	null	null	null	null	boy	in	the	place	of	0	0	0	0	1	1	1	0	1	0	0	0	0
+1	ace	ce	pla	pl	in	the	place	of	this	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	the	place	of	this	girl	0	0	0	0	0	0	0	1	0	0	0	0	0
+1	his	is	thi	th	place	of	this	girl	null	0	0	1	0	1	1	0	0	1	0	0	0	0
+1	irl	rl	gir	gi	of	this	girl	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	a	funny	dance	0	0	0	0	0	0	0	0	1	0	1	0	0
+1	nny	ny	fun	fu	null	a	funny	dance	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	nce	ce	dan	da	a	funny	dance	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ery	ry	ver	ve	null	null	very	cute	null	0	0	0	0	0	0	1	0	0	0	0	0	0
+1	ute	te	cut	cu	null	very	cute	null	null	0	0	1	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	rue	ue	Tru	Tr	null	null	True	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	nds	ds	fri	fr	null	null	friends	How	is	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	friends	How	is	this	0	0	0	0	0	1	1	0	0	0	0	0	0
+0	null	null	null	null	friends	How	is	this	video	0	0	0	0	1	1	0	0	0	0	0	0	0
+1	his	is	thi	th	How	is	this	video	Created	0	0	1	0	0	1	0	0	1	0	0	0	0
+1	deo	eo	vid	vi	is	this	video	Created	by	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ted	ed	Cre	Cr	this	video	Created	by	me	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	video	Created	by	me	and	0	0	0	0	0	0	0	1	0	0	0	0	0
+0	null	null	null	null	Created	by	me	and	my	0	0	0	0	1	1	0	0	0	0	0	0	0
+0	null	null	null	null	by	me	and	my	friends	0	0	0	0	0	0	0	1	0	0	0	0	0
+0	null	null	null	null	me	and	my	friends	in	0	0	0	0	1	1	0	0	1	0	0	0	0
+1	nds	ds	fri	fr	and	my	friends	in	country	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	my	friends	in	country	language	0	0	0	1	0	0	1	1	0	0	0	0	0
+1	try	ry	cou	co	friends	in	country	language	this	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	age	ge	lan	la	in	country	language	this	video	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	his	is	thi	th	country	language	this	video	aradelittle	0	0	1	0	1	1	0	0	1	0	0	0	0
+1	deo	eo	vid	vi	language	this	video	aradelittle	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	tle	le	ara	ar	this	video	aradelittle	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Plg	comment	and	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ent	nt	com	co	null	Plg	comment	and	like	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	Plg	comment	and	like	null	0	0	0	0	1	0	0	1	0	0	0	0	0
+1	ike	ke	lik	li	comment	and	like	null	null	0	0	1	0	0	0	1	1	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	eat	at	cre	cr	null	null	creat	video	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	deo	eo	vid	vi	null	creat	video	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	HAT	AT	WHA	WH	null	null	WHAT	A	SONG	0	0	0	0	0	1	0	0	0	0	0	0	0
+0	null	null	null	null	null	WHAT	A	SONG	null	0	0	1	0	0	0	0	0	1	0	0	0	1
+1	ONG	NG	SON	SO	WHAT	A	SONG	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	a	singing	null	0	0	0	0	0	0	0	0	1	0	1	0	0
+1	ing	ng	sin	si	null	a	singing	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ree	ee	Agr	Ag	null	null	Agree	than	like	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	han	an	tha	th	null	Agree	than	like	comments	0	0	0	0	0	0	0	1	0	0	0	0	0
+1	ike	ke	lik	li	Agree	than	like	comments	Bless	0	0	1	0	1	0	1	1	0	0	0	0	0
+1	nts	ts	com	co	than	like	comments	Bless	the	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ess	ss	Ble	Bl	like	comments	Bless	the	child	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	comments	Bless	the	child	null	0	0	0	0	1	1	1	0	1	0	0	0	0
+1	ild	ld	chi	ch	Bless	the	child	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ooo	oo	soo	so	null	null	sooo	sweat	keep	0	0	0	0	0	1	1	0	0	0	0	0	0
+1	eat	at	swe	sw	null	sooo	sweat	keep	it	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	eep	ep	kee	ke	sooo	sweat	keep	it	up	0	0	0	0	1	0	1	0	0	0	0	0	0
+0	null	null	null	null	sweat	keep	it	up	god	0	0	0	0	0	1	0	0	0	0	0	0	0
+0	null	null	null	null	keep	it	up	god	bless	0	0	1	1	0	0	1	1	0	0	0	0	0
+0	null	null	null	null	it	up	god	bless	u	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	ess	ss	ble	bl	up	god	bless	u	my	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	god	bless	u	my	child	0	0	1	0	1	1	0	0	1	0	0	0	0
+0	null	null	null	null	bless	u	my	child	null	0	0	0	0	0	1	0	0	1	0	0	0	0
+1	ild	ld	chi	ch	u	my	child	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ver	er	lov	lo	null	null	lover	Boys	allwas	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	oys	ys	Boy	Bo	null	lover	Boys	allwas	rockzzz	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	was	as	all	al	lover	Boys	allwas	rockzzz	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	zzz	zz	roc	ro	Boys	allwas	rockzzz	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	lyy	yy	Rea	Re	null	null	Reallyy	True	Lover	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	rue	ue	Tru	Tr	null	Reallyy	True	Lover	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	ver	er	Lov	Lo	Reallyy	True	Lover	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ike	ke	lik	li	null	null	like	this	friends	0	0	1	0	0	0	1	1	0	0	0	0	0
+1	his	is	thi	th	null	like	this	friends	null	0	0	1	0	0	1	0	0	1	0	0	0	0
+1	nds	ds	fri	fr	like	this	friends	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	WAS	IT	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	WAS	IT	null	null	0	0	0	0	0	1	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	kes	es	jok	jo	null	null	jokes	added	a	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ded	ed	add	ad	null	jokes	added	a	new	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	jokes	added	a	new	photo	0	0	0	0	1	0	0	0	1	0	1	0	0
+0	null	null	null	null	added	a	new	photo	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	oto	to	pho	ph	a	new	photo	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ike	ke	lik	li	null	null	like	null	null	0	0	1	0	0	0	1	1	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ime	me	Tim	Ti	null	null	Time	diffrent	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ent	nt	dif	di	null	Time	diffrent	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	dom	om	Fre	Fr	null	null	Freedom	all	of	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	Freedom	all	of	u	0	0	0	1	0	1	1	0	1	0	1	0	0
+0	null	null	null	null	Freedom	all	of	u	null	0	0	0	0	1	0	0	1	0	0	0	0	0
+0	null	null	null	null	all	of	u	null	null	0	0	1	0	0	1	0	0	1	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ine	ne	Win	Wi	null	null	Wine	love	fail	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ove	ve	lov	lo	null	Wine	love	fail	useful	0	0	1	1	0	0	0	0	0	0	0	0	0
+1	ail	il	fai	fa	Wine	love	fail	useful	like	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ful	ul	use	us	love	fail	useful	like	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ike	ke	lik	li	fail	useful	like	null	null	0	0	1	0	0	0	1	1	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	I	like	null	0	0	0	0	0	1	0	0	0	0	0	0	1
+1	ike	ke	lik	li	null	I	like	null	null	0	0	1	0	0	0	1	1	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ine	ne	win	wi	null	null	wine	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ike	ke	lik	li	null	null	like	and	comments	0	0	1	0	0	0	1	1	0	0	0	0	0
+0	null	null	null	null	null	like	and	comments	friends	0	0	0	0	0	0	0	1	0	0	0	0	0
+1	nts	ts	com	co	like	and	comments	friends	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	nds	ds	fri	fr	and	comments	friends	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	erb	rb	Sup	Su	null	null	Superb	null	null	0	0	0	1	0	0	1	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ome	me	awe	aw	null	null	awesome	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ome	me	awe	aw	null	null	awesome	itz	amaizing	0	0	0	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	awesome	itz	amaizing	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ing	ng	ama	am	awesome	itz	amaizing	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ome	me	awe	aw	null	null	awesome	flip	climb	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	lip	ip	fli	fl	null	awesome	flip	climb	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	imb	mb	cli	cl	awesome	flip	climb	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ing	ng	Ama	Am	null	null	Amaizing	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	REY	EY	HUR	HU	null	null	HURREY	I	just	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	HURREY	I	just	got	0	0	0	0	0	1	0	0	0	0	0	0	1
+1	ust	st	jus	ju	HURREY	I	just	got	Free	0	0	0	1	1	0	1	0	0	0	0	0	0
+0	null	null	null	null	I	just	got	Free	Balance	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ree	ee	Fre	Fr	just	got	Free	Balance	Rs150	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	nce	ce	Bal	Ba	got	Free	Balance	Rs150	So	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	150	50	Rs1	Rs	Free	Balance	Rs150	So	excited	0	1	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	Balance	Rs150	So	excited	Thanks	0	0	0	0	1	0	1	1	0	0	0	0	0
+1	ted	ed	exc	ex	Rs150	So	excited	Thanks	to	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	nks	ks	Tha	Th	So	excited	Thanks	to	httpfree4rechargewapluxcommainphpf2928649Go	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	excited	Thanks	to	httpfree4rechargewapluxcommainphpf2928649Go	to	0	0	0	0	0	0	0	1	0	0	0	0	0
+1	9Go	Go	htt	ht	Thanks	to	httpfree4rechargewapluxcommainphpf2928649Go	to	this	0	1	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	to	httpfree4rechargewapluxcommainphpf2928649Go	to	this	link	0	0	0	0	1	0	0	1	0	0	0	0	0
+1	his	is	thi	th	httpfree4rechargewapluxcommainphpf2928649Go	to	this	link	and	0	0	1	0	0	1	0	0	1	0	0	0	0
+1	ink	nk	lin	li	to	this	link	and	get	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	this	link	and	get	your	0	0	0	0	0	0	0	1	0	0	0	0	0
+0	null	null	null	null	link	and	get	your	recharge	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	our	ur	you	yo	and	get	your	recharge	or	0	0	0	0	0	1	0	0	1	0	0	0	0
+1	rge	ge	rec	re	get	your	recharge	or	win	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	your	recharge	or	win	5GB	0	0	0	0	0	0	0	1	0	0	0	0	0
+0	null	null	null	null	recharge	or	win	5GB	httpfree4rechargewapluxcommainphpf2928649	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	or	win	5GB	httpfree4rechargewapluxcommainphpf2928649	null	0	1	0	0	0	0	0	0	0	0	0	0	0
+1	649	49	htt	ht	win	5GB	httpfree4rechargewapluxcommainphpf2928649	null	null	0	1	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	llo	lo	Hel	He	null	null	Hello	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	com	om	fre	fr	null	null	free4rechargewapluxcom	null	null	0	1	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	tle	le	Tit	Ti	null	null	Title	son	mom	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	Title	son	mom	stage	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	Title	son	mom	stage	childhood	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	age	ge	sta	st	son	mom	stage	childhood	1st	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ood	od	chi	ch	mom	stage	childhood	1st	lie	0	0	1	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	stage	childhood	1st	lie	2nd	0	1	0	1	1	0	1	0	0	0	1	0	0
+0	null	null	null	null	childhood	1st	lie	2nd	lie	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	1st	lie	2nd	lie	fish	0	1	1	1	1	0	0	0	0	1	1	0	0
+0	null	null	null	null	lie	2nd	lie	fish	fish	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ish	sh	fis	fi	2nd	lie	fish	fish	fishes	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ish	sh	fis	fi	lie	fish	fish	fishes	fish	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	hes	es	fis	fi	fish	fish	fishes	fish	3rd	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ish	sh	fis	fi	fish	fishes	fish	3rd	lie	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	fishes	fish	3rd	lie	exams	0	1	0	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	fish	3rd	lie	exams	4th	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ams	ms	exa	ex	3rd	lie	exams	4th	lie	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	lie	exams	4th	lie	studies	0	1	0	1	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	exams	4th	lie	studies	break	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ies	es	stu	st	4th	lie	studies	break	late	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	eak	ak	bre	br	lie	studies	break	late	nights	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ate	te	lat	la	studies	break	late	nights	work	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	hts	ts	nig	ni	break	late	nights	work	sing­le	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ork	rk	wor	wo	late	nights	work	sing­le	parent	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	­le	le	sin	si	nights	work	sing­le	parent	bore	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ent	nt	par	pa	work	sing­le	parent	bore	part	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ore	re	bor	bo	sing­le	parent	bore	part	time	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	art	rt	par	pa	parent	bore	part	time	work	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ime	me	tim	ti	bore	part	time	work	5th	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ork	rk	wor	wo	part	time	work	5th	lie	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	time	work	5th	lie	job	0	1	0	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	work	5th	lie	job	hyd	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	5th	lie	job	hyd	settle	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	lie	job	hyd	settle	expenses	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	tle	le	set	se	job	hyd	settle	expenses	city	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ses	es	exp	ex	hyd	settle	expenses	city	life	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ity	ty	cit	ci	settle	expenses	city	life	6th	0	0	1	1	0	0	0	0	0	0	0	0	0
+1	ife	fe	lif	li	expenses	city	life	6th	lie	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	city	life	6th	lie	cancer	0	1	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	life	6th	lie	cancer	last	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	cer	er	can	ca	6th	lie	cancer	last	stage	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ast	st	las	la	lie	cancer	last	stage	post	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	age	ge	sta	st	cancer	last	stage	post	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ost	st	pos	po	last	stage	post	null	null	0	0	1	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ing	ng	Pos	Po	null	null	Posting	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ood	od	Goo	Go	null	null	Good	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ice	ce	Nic	Ni	null	null	Nice	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hrs	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Boy	I	love	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	Boy	I	love	u	0	0	0	0	0	1	0	0	0	0	0	0	1
+1	ove	ve	lov	lo	Boy	I	love	u	Girl	0	0	1	1	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	I	love	u	Girl	Boy	0	0	1	0	1	1	0	0	1	0	0	0	0
+1	irl	rl	Gir	Gi	love	u	Girl	Boy	Me	0	0	1	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	u	Girl	Boy	Me	Girl	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	Girl	Boy	Me	Girl	After	0	0	0	0	0	1	0	0	0	0	0	0	0
+1	irl	rl	Gir	Gi	Boy	Me	Girl	After	some	0	0	1	1	1	0	0	0	0	0	0	0	0
+1	ter	er	Aft	Af	Me	Girl	After	some	days	0	0	0	0	0	0	0	1	0	0	0	0	0
+1	ome	me	som	so	Girl	After	some	days	Boy	0	0	0	1	1	0	0	0	1	0	0	0	0
+1	ays	ys	day	da	After	some	days	Boy	propose	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	some	days	Boy	propose	but	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ose	se	pro	pr	days	Boy	propose	but	u	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	Boy	propose	but	u	didnt	0	0	0	0	0	0	0	1	0	0	0	0	0
+0	null	null	null	null	propose	but	u	didnt	accept	0	0	1	0	1	1	0	0	1	0	0	0	0
+1	dnt	nt	did	di	but	u	didnt	accept	me	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ept	pt	acc	ac	u	didnt	accept	me	she	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	didnt	accept	me	she	is	0	0	0	0	1	1	0	0	0	0	0	0	0
+0	null	null	null	null	accept	me	she	is	also	0	0	0	0	1	1	0	0	0	0	0	0	0
+0	null	null	null	null	me	she	is	also	in	0	0	0	0	1	1	0	0	0	0	0	0	0
+1	lso	so	als	al	she	is	also	in	love	0	0	0	0	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	is	also	in	love	with	0	0	0	1	0	0	1	1	0	0	0	0	0
+1	ove	ve	lov	lo	also	in	love	with	me	0	0	1	1	0	0	0	0	0	0	0	0	0
+1	ith	th	wit	wi	in	love	with	me	notice	0	0	0	0	0	0	0	1	0	0	0	0	0
+0	null	null	null	null	love	with	me	notice	Boy	0	0	0	0	1	1	0	0	0	0	0	0	0
+1	ice	ce	not	no	with	me	notice	Boy	n	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	me	notice	Boy	n	cry	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	notice	Boy	n	cry	Girl	0	0	0	0	0	0	1	1	0	0	0	0	0
+0	null	null	null	null	Boy	n	cry	Girl	I	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	irl	rl	Gir	Gi	n	cry	Girl	I	Love	0	0	1	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	cry	Girl	I	Love	U	0	0	0	0	0	1	0	0	0	0	0	0	1
+1	ove	ve	Lov	Lo	Girl	I	Love	U	n	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	I	Love	U	n	Boy	0	0	0	0	0	1	0	0	0	0	0	0	1
+0	null	null	null	null	Love	U	n	Boy	Girl	0	0	0	0	0	0	1	1	0	0	0	0	0
+0	null	null	null	null	U	n	Boy	Girl	just	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	irl	rl	Gir	Gi	n	Boy	Girl	just	I	0	0	1	1	0	0	0	0	0	0	0	0	0
+1	ust	st	jus	ju	Boy	Girl	just	I	Love	0	0	0	1	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	Girl	just	I	Love	U	0	0	0	0	0	1	0	0	0	0	0	0	1
+1	ove	ve	Lov	Lo	just	I	Love	U	but	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	I	Love	U	but	Boy	0	0	0	0	0	1	0	0	0	0	0	0	1
+0	null	null	null	null	Love	U	but	Boy	paradise	0	0	0	0	0	0	0	1	0	0	0	0	0
+0	null	null	null	null	U	but	Boy	paradise	hotel	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ise	se	par	pa	but	Boy	paradise	hotel	Girl	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	tel	el	hot	ho	Boy	paradise	hotel	Girl	but	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	irl	rl	Gir	Gi	paradise	hotel	Girl	but	nt	0	0	1	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	hotel	Girl	but	nt	4	0	0	0	0	0	0	0	1	0	0	0	0	0
+0	null	null	null	null	Girl	but	nt	4	u	0	0	0	0	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	but	nt	4	u	Anyway	0	1	0	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	nt	4	u	Anyway	Lyf	0	0	1	0	0	1	0	0	1	0	0	0	0
+1	way	ay	Any	An	4	u	Anyway	Lyf	Happy	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	u	Anyway	Lyf	Happy	ga	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ppy	py	Hap	Ha	Anyway	Lyf	Happy	ga	undu	0	0	0	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	Lyf	Happy	ga	undu	boy	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ndu	du	und	un	Happy	ga	undu	boy	drama	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	ga	undu	boy	drama	I	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ama	ma	dra	dr	undu	boy	drama	I	Love	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	boy	drama	I	Love	You	0	0	0	0	0	1	0	0	0	0	0	0	1
+1	ove	ve	Lov	Lo	drama	I	Love	You	bangaram	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	I	Love	You	bangaram	girl	0	0	0	0	0	1	0	0	0	0	0	0	0
+1	ram	am	ban	ba	Love	You	bangaram	girl	I	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	irl	rl	gir	gi	You	bangaram	girl	I	Love	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	bangaram	girl	I	Love	You	0	0	0	0	0	1	0	0	0	0	0	0	1
+1	ove	ve	Lov	Lo	girl	I	Love	You	to	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	I	Love	You	to	sweet	0	0	0	0	0	1	0	0	0	0	0	0	0
+0	null	null	null	null	Love	You	to	sweet	null	0	0	0	0	0	0	0	1	0	0	0	0	0
+1	eet	et	swe	sw	You	to	sweet	null	null	0	0	1	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hrs	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ust	st	Jus	Ju	null	null	Just	for	fun	0	0	0	0	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	null	Just	for	fun	null	0	0	0	0	0	0	0	1	0	0	0	0	0
+0	null	null	null	null	Just	for	fun	null	null	0	0	1	1	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Boy	i	love	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	Boy	i	love	u	0	0	0	0	0	1	0	0	0	0	0	0	0
+1	ove	ve	lov	lo	Boy	i	love	u	girl	0	0	1	1	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	i	love	u	girl	i	0	0	1	0	1	1	0	0	1	0	0	0	0
+1	irl	rl	gir	gi	love	u	girl	i	2	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	u	girl	i	2	love	0	0	0	0	1	1	0	0	0	0	0	0	0
+0	null	null	null	null	girl	i	2	love	u	0	1	0	1	0	0	0	0	0	0	0	0	0
+1	ove	ve	lov	lo	i	2	love	u	darling	0	0	1	1	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	2	love	u	darling	boy	0	0	1	0	0	1	0	0	1	0	0	0	0
+1	ing	ng	dar	da	love	u	darling	boy	kiss	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	u	darling	boy	kiss	girl	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	iss	ss	kis	ki	darling	boy	kiss	girl	no	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	irl	rl	gir	gi	boy	kiss	girl	no	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	kiss	girl	no	null	null	0	0	1	1	0	0	1	0	1	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	boy	its	ok	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	boy	its	ok	call	0	0	0	0	0	1	0	0	1	0	0	0	1
+0	null	null	null	null	boy	its	ok	call	null	0	0	1	1	1	0	0	0	0	0	0	0	0
+1	all	ll	cal	ca	its	ok	call	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	eyy	yy	hey	he	null	null	heyy	comedy	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	edy	dy	com	co	null	heyy	comedy	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ats	ts	Tha	Th	null	null	Thats	good	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ood	od	goo	go	null	Thats	good	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Its	true	null	0	0	0	0	0	1	0	0	0	0	0	0	1
+1	rue	ue	tru	tr	null	Its	true	null	null	0	0	0	1	0	0	0	0	0	0	0	0	1
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	S	bro	null	0	0	0	0	0	0	0	0	0	0	0	0	1
+0	null	null	null	null	null	S	bro	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ubt	bt	Dou	Do	null	null	Doubt	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hrs	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	yrs	rs	7yr	7y	null	null	7yrs	boy	5yrs	0	1	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	7yrs	boy	5yrs	sistr	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	yrs	rs	5yr	5y	7yrs	boy	5yrs	sistr	Wht	0	1	0	0	1	0	0	0	0	0	0	0	0
+1	str	tr	sis	si	boy	5yrs	sistr	Wht	is	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	5yrs	sistr	Wht	is	love	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	sistr	Wht	is	love	Cute	0	0	0	0	1	1	0	0	0	0	0	0	0
+1	ove	ve	lov	lo	Wht	is	love	Cute	answr	0	0	1	1	0	0	0	0	0	0	0	0	0
+1	ute	te	Cut	Cu	is	love	Cute	answr	by	0	0	0	1	1	0	0	0	0	0	0	0	0
+1	swr	wr	ans	an	love	Cute	answr	by	brthr	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	Cute	answr	by	brthr	daily	0	0	0	0	1	0	0	1	0	0	0	0	0
+1	thr	hr	brt	br	answr	by	brthr	daily	bag	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ily	ly	dai	da	by	brthr	daily	bag	choclate	0	0	0	1	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	brthr	daily	bag	choclate	bt	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	ate	te	cho	ch	daily	bag	choclate	bt	daily	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	bag	choclate	bt	daily	choclate	0	0	0	0	1	0	0	1	0	0	0	0	0
+1	ily	ly	dai	da	choclate	bt	daily	choclate	bag	0	0	0	1	0	0	1	0	0	0	0	0	0
+1	ate	te	cho	ch	bt	daily	choclate	bag	love	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	daily	choclate	bag	love	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	ove	ve	lov	lo	choclate	bag	love	null	null	0	0	1	1	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	erb	rb	Sup	Su	null	null	Superb	superb	null	0	0	0	1	0	0	1	0	0	0	0	0	0
+1	erb	rb	sup	su	null	Superb	superb	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	per	er	Sup	Su	null	null	Supper	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	gud	morning	telugujokes	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	ing	ng	mor	mo	null	gud	morning	telugujokes	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	kes	es	tel	te	gud	morning	telugujokes	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	bbb	bb	sup	su	null	null	superbbbb	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ery	ry	Ver	Ve	null	null	Very	nice	answer	0	0	0	0	0	0	1	0	0	0	0	0	0
+1	ice	ce	nic	ni	null	Very	nice	answer	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	wer	er	ans	an	Very	nice	answer	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ice	ce	nic	ni	null	null	nice	its	true	0	0	0	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	nice	its	true	null	0	0	0	0	0	1	0	0	1	0	0	0	1
+1	rue	ue	tru	tr	nice	its	true	null	null	0	0	0	1	1	0	0	0	0	0	0	0	1
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	its	a	great	0	0	0	0	0	1	0	0	1	0	0	0	1
+0	null	null	null	null	null	its	a	great	relationship	0	0	0	0	0	0	0	0	1	0	1	0	0
+1	eat	at	gre	gr	its	a	great	relationship	in	0	0	0	1	1	0	0	0	0	0	0	0	0
+1	hip	ip	rel	re	a	great	relationship	in	the	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	great	relationship	in	the	world	0	0	0	1	0	0	1	1	0	0	0	0	0
+0	null	null	null	null	relationship	in	the	world	and	0	0	0	0	1	1	1	0	1	0	0	0	0
+1	rld	ld	wor	wo	in	the	world	and	also	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	the	world	and	also	a	0	0	0	0	1	0	0	1	0	0	0	0	0
+1	lso	so	als	al	world	and	also	a	great	0	0	0	0	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	and	also	a	great	love	0	0	0	0	1	0	0	0	1	0	1	0	0
+1	eat	at	gre	gr	also	a	great	love	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	ove	ve	lov	lo	a	great	love	null	null	0	0	1	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	erb	rb	sup	su	null	null	superb	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	per	er	sup	su	null	null	super	null	null	0	0	0	1	0	0	1	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	eet	et	Swe	Sw	null	null	Sweet	answer	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	wer	er	ans	an	null	Sweet	answer	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ply	ly	Rep	Re	null	null	Reply	me	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	Reply	me	null	null	0	0	0	0	1	1	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ice	ce	Nic	Ni	null	null	Nice	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	est	st	Swe	Sw	null	null	Sweetest	love	so	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ove	ve	lov	lo	null	Sweetest	love	so	nice	0	0	1	1	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	Sweetest	love	so	nice	null	0	0	0	0	1	0	1	1	0	0	0	0	0
+1	ice	ce	nic	ni	love	so	nice	null	null	0	0	0	1	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	lly	ly	Rea	Re	null	null	Really	super	null	0	0	0	0	0	0	1	0	0	0	0	0	0
+1	per	er	sup	su	null	Really	super	null	null	0	0	0	1	1	0	1	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	per	er	sup	su	null	null	super	null	null	0	0	0	1	0	0	1	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Ex	lent	tinking	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ent	nt	len	le	null	Ex	lent	tinking	bro	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ing	ng	tin	ti	Ex	lent	tinking	bro	nice	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	lent	tinking	bro	nice	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	ice	ce	nic	ni	tinking	bro	nice	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	K	good	null	0	0	0	0	0	0	0	0	0	0	0	0	1
+1	ood	od	goo	go	null	K	good	null	null	0	0	0	1	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ary	ry	ext	ex	null	null	extrordinary	super	thats	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	per	er	sup	su	null	extrordinary	super	thats	correct	0	0	0	1	1	0	1	0	0	0	0	0	0
+1	ats	ts	tha	th	extrordinary	super	thats	correct	null	0	0	0	0	1	1	1	1	0	0	0	0	1
+1	ect	ct	cor	co	super	thats	correct	null	null	0	0	0	1	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	one	null	null	0	0	1	1	0	1	0	0	0	1	1	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	eat	at	Gre	Gr	null	null	Great	bro	good	0	0	0	1	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	null	Great	bro	good	joke	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	ood	od	goo	go	Great	bro	good	joke	null	0	0	0	1	1	0	0	0	0	0	0	0	0
+1	oke	ke	jok	jo	bro	good	joke	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ice	ce	Nic	Ni	null	null	Nice	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ice	ce	Nic	Ni	null	null	Nice	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	upb	pb	sup	su	null	null	supb	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hrs	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	win	guess	friends	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ess	ss	gue	gu	null	win	guess	friends	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	nds	ds	fri	fr	win	guess	friends	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ect	ct	cor	co	null	null	correct	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	kes	es	jok	jo	null	null	jokes	is	winner	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	jokes	is	winner	null	0	0	0	0	1	1	0	0	0	0	0	0	0
+1	ner	er	win	wi	jokes	is	winner	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	My	guess	is	0	0	0	0	0	1	0	0	1	0	0	0	0
+1	ess	ss	gue	gu	null	My	guess	is	correct	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	My	guess	is	correct	null	0	0	0	0	1	1	0	0	0	0	0	0	0
+1	ect	ct	cor	co	guess	is	correct	null	null	0	0	0	1	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	I	think	null	0	0	0	0	0	1	0	0	0	0	0	0	1
+1	ink	nk	thi	th	null	I	think	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	nd	null	null	0	0	0	0	0	0	0	1	0	1	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	See	More	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ore	re	Mor	Mo	null	See	More	null	null	0	0	0	1	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	nd	team	null	0	0	0	0	0	0	0	1	0	1	0	0	0
+1	eam	am	tea	te	null	nd	team	null	null	0	0	1	1	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	eam	am	tea	te	null	null	team	null	null	0	0	1	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hrs	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	kit	it	ski	sk	null	null	skit	friends	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	nds	ds	fri	fr	null	skit	friends	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ice	ce	nic	ni	null	null	nice	i	think	0	0	0	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	nice	i	think	skit	0	0	0	0	1	1	0	0	0	0	0	0	0
+1	ink	nk	thi	th	nice	i	think	skit	tane	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	kit	it	ski	sk	i	think	skit	tane	kodtadu	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ane	ne	tan	ta	think	skit	tane	kodtadu	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	adu	du	kod	ko	skit	tane	kodtadu	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	I	dnt	knw	0	0	0	0	0	1	0	0	0	0	0	0	1
+0	null	null	null	null	null	I	dnt	knw	jokes	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	I	dnt	knw	jokes	page	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	kes	es	jok	jo	dnt	knw	jokes	page	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	age	ge	pag	pa	knw	jokes	page	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	err	rr	suu	su	null	null	suuuuuuuperr	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	per	er	Sup	Su	null	null	Super	null	null	0	0	0	1	0	0	1	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	TV	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hrs	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ter	er	let	le	null	null	letter	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Hai	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ppy	py	hap	ha	null	null	happy	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	tor	or	doc	do	null	null	doctor	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	and	nd	han	ha	null	null	hand	Pleasee	leg	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	see	ee	Ple	Pl	null	hand	Pleasee	leg	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	hand	Pleasee	leg	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	top	op	sto	st	null	null	stop	Promise	stomach	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ise	se	Pro	Pr	null	stop	Promise	stomach	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ach	ch	sto	st	stop	Promise	stomach	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	are	re	sha	sh	null	null	share	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	plz	respect	womens	0	0	1	0	0	0	1	0	0	0	0	0	0
+1	ect	ct	res	re	null	plz	respect	womens	every1	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ens	ns	wom	wo	plz	respect	womens	every1	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	ry1	y1	eve	ev	respect	womens	every1	null	null	0	1	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	rry	ry	sor	so	null	null	sorry	friend	null	0	0	0	1	0	0	1	0	0	0	0	0	0
+1	end	nd	fri	fr	null	sorry	friend	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	art	rt	Hea	He	null	null	Heart	touch	msg	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	uch	ch	tou	to	null	Heart	touch	msg	bro	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	Heart	touch	msg	bro	urs	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	touch	msg	bro	urs	good	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	msg	bro	urs	good	hats	0	0	0	0	0	1	0	0	1	0	0	0	0
+1	ood	od	goo	go	bro	urs	good	hats	of	0	0	0	1	1	0	0	0	0	0	0	0	0
+1	ats	ts	hat	ha	urs	good	hats	of	to	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	good	hats	of	to	u	0	0	0	0	1	0	0	1	0	0	0	0	0
+0	null	null	null	null	hats	of	to	u	bro	0	0	0	0	0	0	0	1	0	0	0	0	0
+0	null	null	null	null	of	to	u	bro	null	0	0	1	0	1	1	0	0	1	0	0	0	0
+0	null	null	null	null	to	u	bro	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Bro	like	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ike	ke	lik	li	null	Bro	like	null	null	0	0	1	0	1	0	1	1	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ice	ce	nic	ni	null	null	nice	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hrs	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	kit	it	ski	sk	null	null	skit	friends	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	nds	ds	fri	fr	null	skit	friends	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	per	er	sup	su	null	null	super	null	null	0	0	0	1	0	0	1	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	rrr	rr	Sup	Su	null	null	Superrrr	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	bad	mind	block	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	ind	nd	min	mi	null	bad	mind	block	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	ock	ck	blo	bl	bad	mind	block	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Gud	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ood	od	goo	go	null	null	good	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hrs	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	kit	it	ski	sk	null	null	skit	friends	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	nds	ds	fri	fr	null	skit	friends	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	eak	ak	bre	br	null	null	break	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	age	ge	ave	av	null	null	average	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Not	bad	null	0	0	0	0	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	null	Not	bad	null	null	0	0	0	1	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	not	bad	null	0	0	1	0	0	0	1	1	0	0	0	0	0
+0	null	null	null	null	null	not	bad	null	null	0	0	0	1	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ice	ce	nic	ni	null	null	nice	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ice	ce	Nic	Ni	null	null	Nice	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hrs	Edited	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ted	ed	Edi	Ed	null	hrs	Edited	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	how	many	members	0	0	0	0	0	1	1	0	0	0	0	0	0
+1	any	ny	man	ma	null	how	many	members	watching	0	0	0	1	1	0	0	0	1	0	1	0	0
+1	ers	rs	mem	me	how	many	members	watching	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ing	ng	wat	wa	many	members	watching	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	hen	en	the	th	null	null	then	u	watching	0	0	0	0	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	null	then	u	watching	like	0	0	1	0	1	1	0	0	1	0	0	0	0
+1	ing	ng	wat	wa	then	u	watching	like	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ike	ke	lik	li	u	watching	like	null	null	0	0	1	0	1	0	1	1	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	I	too	null	0	0	0	0	0	1	0	0	0	0	0	0	1
+0	null	null	null	null	null	I	too	null	null	0	0	1	0	1	0	1	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Im	watching	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ing	ng	wat	wa	null	Im	watching	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	i	am	watching	0	0	0	0	0	1	0	0	0	0	0	0	0
+0	null	null	null	null	null	i	am	watching	nw	0	0	0	0	1	1	0	0	0	0	0	0	0
+1	ing	ng	wat	wa	i	am	watching	nw	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	am	watching	nw	null	null	0	0	0	1	1	0	1	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	I	too	null	0	0	0	0	0	1	0	0	0	0	0	0	1
+0	null	null	null	null	null	I	too	null	null	0	0	1	0	1	0	1	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	its	me	null	0	0	0	0	0	1	0	0	1	0	0	0	1
+0	null	null	null	null	null	its	me	null	null	0	0	0	0	1	1	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	I	am	null	0	0	0	0	0	1	0	0	0	0	0	0	1
+0	null	null	null	null	null	I	am	null	null	0	0	0	0	1	1	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hrs	Edited	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ted	ed	Edi	Ed	null	hrs	Edited	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Hii	friends	I	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	nds	ds	fri	fr	null	Hii	friends	I	need	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	Hii	friends	I	need	help	0	0	0	0	1	1	0	0	0	0	0	0	1
+1	eed	ed	nee	ne	friends	I	need	help	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	elp	lp	hel	he	I	need	help	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	it	or	non	0	0	0	0	0	1	0	0	0	0	0	0	0
+0	null	null	null	null	null	it	or	non	it	0	0	0	0	1	0	0	1	0	0	0	0	0
+0	null	null	null	null	it	or	non	it	companys	0	0	0	0	1	0	1	0	0	0	0	0	0
+0	null	null	null	null	or	non	it	companys	work	0	0	0	0	1	1	0	0	0	0	0	0	0
+1	nys	ys	com	co	non	it	companys	work	page	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ork	rk	wor	wo	it	companys	work	page	comment	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	age	ge	pag	pa	companys	work	page	comment	req	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ent	nt	com	co	work	page	comment	req	add	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	page	comment	req	add	message	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	comment	req	add	message	help	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	age	ge	mes	me	req	add	message	help	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	elp	lp	hel	he	add	message	help	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	But	i	need	0	0	0	0	0	0	0	1	0	0	0	0	0
+0	null	null	null	null	null	But	i	need	help	0	0	0	0	1	1	0	0	0	0	0	0	0
+1	eed	ed	nee	ne	But	i	need	help	seriously	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	elp	lp	hel	he	i	need	help	seriously	plz	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	sly	ly	ser	se	need	help	seriously	plz	dont	0	0	0	0	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	help	seriously	plz	dont	play	0	0	1	0	1	0	1	0	0	0	0	0	0
+1	ont	nt	don	do	seriously	plz	dont	play	games	0	0	0	0	1	0	1	0	0	0	0	0	0
+1	lay	ay	pla	pl	plz	dont	play	games	dudes	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	mes	es	gam	ga	dont	play	games	dudes	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	des	es	dud	du	play	games	dudes	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Hey	add	me	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	Hey	add	me	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	Hey	add	me	null	null	0	0	0	0	1	1	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hrs	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Hii	friends	chat	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	nds	ds	fri	fr	null	Hii	friends	chat	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	hat	at	cha	ch	Hii	friends	chat	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	kes	es	jok	jo	null	null	jokes	bro	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	jokes	bro	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Hii	how	r	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	Hii	how	r	u	0	0	0	0	1	1	1	0	0	0	0	0	0
+0	null	null	null	null	Hii	how	r	u	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	how	r	u	null	null	0	0	1	0	1	1	0	0	1	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Ntg	n	u	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	Ntg	n	u	null	0	0	0	0	1	0	1	1	0	0	0	0	0
+0	null	null	null	null	Ntg	n	u	null	null	0	0	1	0	1	1	0	0	1	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	F9	n	u	0	1	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	F9	n	u	bro	0	0	0	0	1	0	1	1	0	0	0	0	0
+0	null	null	null	null	F9	n	u	bro	null	0	0	1	0	1	1	0	0	1	0	0	0	0
+0	null	null	null	null	n	u	bro	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Hii	bro	how	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	Hii	bro	how	r	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	Hii	bro	how	r	u	0	0	0	0	1	1	1	0	0	0	0	0	0
+0	null	null	null	null	bro	how	r	u	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	how	r	u	null	null	0	0	1	0	0	1	0	0	1	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Hii	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ool	ol	coo	co	null	null	cool	had	ur	0	0	0	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	cool	had	ur	dinner	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	cool	had	ur	dinner	guys	0	0	0	0	1	1	0	0	1	0	0	0	1
+1	ner	er	din	di	had	ur	dinner	guys	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	uys	ys	guy	gu	ur	dinner	guys	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	i	am	fn9	0	0	0	0	0	1	0	0	0	0	0	0	0
+0	null	null	null	null	null	i	am	fn9	wat	0	0	0	0	1	1	0	0	0	0	0	0	0
+0	null	null	null	null	i	am	fn9	wat	abt	0	1	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	am	fn9	wat	abt	u	0	0	0	0	1	1	0	0	0	0	0	0	0
+0	null	null	null	null	fn9	wat	abt	u	both	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	wat	abt	u	both	null	0	0	1	0	1	1	0	0	1	0	0	0	0
+1	oth	th	bot	bo	abt	u	both	null	null	0	0	0	0	1	1	0	0	1	1	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hw	r	u	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	hw	r	u	guys	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	hw	r	u	guys	null	0	0	1	0	1	1	0	0	1	0	0	0	0
+1	uys	ys	guy	gu	r	u	guys	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ooo	oo	hel	he	null	null	helooooo	hai	everyone	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	helooooo	hai	everyone	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	one	ne	eve	ev	helooooo	hai	everyone	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hi	guys	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	uys	ys	guy	gu	null	hi	guys	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	ha	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	aii	ii	hai	ha	null	null	haii	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ost	st	pos	po	null	null	post	ready	so	0	0	1	1	0	0	0	0	0	0	0	0	0
+1	ady	dy	rea	re	null	post	ready	so	mess	0	0	1	1	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	post	ready	so	mess	late	0	0	0	0	1	0	1	1	0	0	0	0	0
+1	ess	ss	mes	me	ready	so	mess	late	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ate	te	lat	la	so	mess	late	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	how	r	u	0	0	0	0	0	1	1	0	0	0	0	0	0
+0	null	null	null	null	null	how	r	u	had	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	how	r	u	had	u	0	0	1	0	1	1	0	0	1	0	0	0	0
+0	null	null	null	null	r	u	had	u	dinnar	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	u	had	u	dinnar	null	0	0	1	0	0	1	0	0	1	0	0	0	0
+1	nar	ar	din	di	had	u	dinnar	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hrs	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	eer	er	bee	be	null	null	beer	my	gf	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	beer	my	gf	beer	0	0	0	0	1	1	0	0	1	0	0	0	0
+0	null	null	null	null	beer	my	gf	beer	my	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	eer	er	bee	be	my	gf	beer	my	gf	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	gf	beer	my	gf	minimum	0	0	0	0	0	1	0	0	1	0	0	0	0
+0	null	null	null	null	beer	my	gf	minimum	gf	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	mum	um	min	mi	my	gf	minimum	gf	beer	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	gf	minimum	gf	beer	rupees	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	eer	er	bee	be	minimum	gf	beer	rupees	tip	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ees	es	rup	ru	gf	beer	rupees	tip	gf	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	beer	rupees	tip	gf	years	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	rupees	tip	gf	years	gf	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ars	rs	yea	ye	tip	gf	years	gf	beer	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	gf	years	gf	beer	beers	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	eer	er	bee	be	years	gf	beer	beers	rupees	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	ers	rs	bee	be	gf	beer	beers	rupees	month	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ees	es	rup	ru	beer	beers	rupees	month	gf	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	nth	th	mon	mo	beers	rupees	month	gf	month	0	0	1	0	1	0	0	0	0	1	0	0	0
+0	null	null	null	null	rupees	month	gf	month	year	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	nth	th	mon	mo	month	gf	month	year	years	0	0	1	0	1	0	0	0	0	1	0	0	0
+1	ear	ar	yea	ye	gf	month	year	years	right	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ars	rs	yea	ye	month	year	years	right	correct	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ght	ht	rig	ri	year	years	right	correct	gf	0	0	1	1	0	0	1	0	0	0	0	0	0
+1	ect	ct	cor	co	years	right	correct	gf	beer	0	0	0	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	right	correct	gf	beer	bank	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	eer	er	bee	be	correct	gf	beer	bank	ac	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ank	nk	ban	ba	gf	beer	bank	ac	save	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	beer	bank	ac	save	amount	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ave	ve	sav	sa	bank	ac	save	amount	ferrari	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	unt	nt	amo	am	ac	save	amount	ferrari	car	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ari	ri	fer	fe	save	amount	ferrari	car	beer	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	amount	ferrari	car	beer	gf	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	eer	er	bee	be	ferrari	car	beer	gf	ok	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	car	beer	gf	ok	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	beer	gf	ok	null	null	0	0	1	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	alf	lf	hal	ha	null	null	half	ticket	null	0	0	1	1	0	0	1	0	0	0	0	0	0
+1	ket	et	tic	ti	null	half	ticket	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	nch	ch	pun	pu	null	null	punch	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	It	may	be	0	0	0	0	0	1	0	0	0	0	0	0	0
+0	null	null	null	null	null	It	may	be	right	0	0	1	0	1	0	1	0	0	0	0	0	0
+0	null	null	null	null	It	may	be	right	but	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ght	ht	rig	ri	may	be	right	but	health	0	0	1	1	1	0	1	0	0	0	0	0	0
+0	null	null	null	null	be	right	but	health	null	0	0	0	0	0	0	0	1	0	0	0	0	0
+1	lth	th	hea	he	right	but	health	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ons	ns	les	le	null	null	lessons	Waste	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ste	te	Was	Wa	null	lessons	Waste	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	nch	ch	pun	pu	null	null	punch	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	per	er	Sup	Su	null	null	Super	bro	null	0	0	0	1	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	null	Super	bro	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ght	ht	rig	ri	null	null	right	null	null	0	0	1	1	0	0	1	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	per	er	sup	su	null	null	super	null	null	0	0	0	1	0	0	1	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	zzz	zz	rok	ro	null	null	rokzzzzz	Gf	shokzzzz	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	rokzzzzz	Gf	shokzzzz	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	zzz	zz	sho	sh	rokzzzzz	Gf	shokzzzz	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ect	ct	Cre	Cr	null	null	Crect	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ssu	su	Imi	Im	null	null	Imissu	bro	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	Imissu	bro	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	est	st	wes	we	null	null	west	ok	west	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	west	ok	west	west	0	0	1	1	1	0	0	0	0	0	0	0	0
+1	est	st	wes	we	west	ok	west	west	west	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	est	st	wes	we	ok	west	west	west	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	est	st	wes	we	west	west	west	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hrs	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	Boy	oy	<<B	<<	null	null	<<Boy	I	love	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	null	<<Boy	I	love	u	0	0	0	0	1	1	0	0	0	0	0	0	1
+1	ove	ve	lov	lo	<<Boy	I	love	u	Girl	0	0	1	1	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	I	love	u	Girl	Boy	0	0	1	0	1	1	0	0	1	0	0	0	0
+1	irl	rl	Gir	Gi	love	u	Girl	Boy	Me	0	0	1	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	u	Girl	Boy	Me	After	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	Girl	Boy	Me	After	some	0	0	0	0	1	1	0	0	0	0	0	0	0
+1	ter	er	Aft	Af	Boy	Me	After	some	days	0	0	0	0	1	0	0	1	0	0	0	0	0
+1	ome	me	som	so	Me	After	some	days	Boy	0	0	0	1	0	0	0	0	1	0	0	0	0
+1	ays	ys	day	da	After	some	days	Boy	propose	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	some	days	Boy	propose	but	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ose	se	pro	pr	days	Boy	propose	but	u	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	Boy	propose	but	u	didnt	0	0	0	0	1	0	0	1	0	0	0	0	0
+0	null	null	null	null	propose	but	u	didnt	accept	0	0	1	0	0	1	0	0	1	0	0	0	0
+1	dnt	nt	did	di	but	u	didnt	accept	me	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ept	pt	acc	ac	u	didnt	accept	me	she	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	didnt	accept	me	she	is	0	0	0	0	1	1	0	0	0	0	0	0	0
+0	null	null	null	null	accept	me	she	is	also	0	0	0	0	1	1	0	0	0	0	0	0	0
+0	null	null	null	null	me	she	is	also	in	0	0	0	0	1	1	0	0	0	0	0	0	0
+1	lso	so	als	al	she	is	also	in	love	0	0	0	0	1	0	1	0	0	0	0	0	0
+0	null	null	null	null	is	also	in	love	with	0	0	0	1	0	0	1	1	0	0	0	0	0
+1	ove	ve	lov	lo	also	in	love	with	me	0	0	1	1	0	0	0	0	0	0	0	0	0
+1	ith	th	wit	wi	in	love	with	me	notice	0	0	0	0	0	0	0	1	0	0	0	0	0
+0	null	null	null	null	love	with	me	notice	Boy	0	0	0	0	1	1	0	0	0	0	0	0	0
+1	ice	ce	not	no	with	me	notice	Boy	cry	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	me	notice	Boy	cry	Girl	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	notice	Boy	cry	Girl	I	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	irl	rl	Gir	Gi	Boy	cry	Girl	I	Love	0	0	1	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	cry	Girl	I	Love	U	0	0	0	0	0	1	0	0	0	0	0	0	1
+1	ove	ve	Lov	Lo	Girl	I	Love	U	n	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	I	Love	U	n	Boy	0	0	0	0	0	1	0	0	0	0	0	0	1
+0	null	null	null	null	Love	U	n	Boy	Girl	0	0	0	0	0	0	1	1	0	0	0	0	0
+0	null	null	null	null	U	n	Boy	Girl	just	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	irl	rl	Gir	Gi	n	Boy	Girl	just	I	0	0	1	1	0	0	0	0	0	0	0	0	0
+1	ust	st	jus	ju	Boy	Girl	just	I	Love	0	0	0	1	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	Girl	just	I	Love	U	0	0	0	0	0	1	0	0	0	0	0	0	1
+1	ove	ve	Lov	Lo	just	I	Love	U	but	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	I	Love	U	but	Boy	0	0	0	0	0	1	0	0	0	0	0	0	1
+0	null	null	null	null	Love	U	but	Boy	paradise	0	0	0	0	0	0	0	1	0	0	0	0	0
+0	null	null	null	null	U	but	Boy	paradise	hotel	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ise	se	par	pa	but	Boy	paradise	hotel	Girl	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	tel	el	hot	ho	Boy	paradise	hotel	Girl	but	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	irl	rl	Gir	Gi	paradise	hotel	Girl	but	nt	0	0	1	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	hotel	Girl	but	nt	4	0	0	0	0	0	0	0	1	0	0	0	0	0
+0	null	null	null	null	Girl	but	nt	4	u	0	0	0	0	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	but	nt	4	u	Anyway	0	1	0	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	nt	4	u	Anyway	Lyf	0	0	1	0	0	1	0	0	1	0	0	0	0
+1	way	ay	Any	An	4	u	Anyway	Lyf	Happy	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	u	Anyway	Lyf	Happy	ga	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ppy	py	Hap	Ha	Anyway	Lyf	Happy	ga	undu	0	0	0	1	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	Lyf	Happy	ga	undu	boy	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ndu	du	und	un	Happy	ga	undu	boy	drama	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	ga	undu	boy	drama	I	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ama	ma	dra	dr	undu	boy	drama	I	Love	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	boy	drama	I	Love	You	0	0	0	0	0	1	0	0	0	0	0	0	1
+1	ove	ve	Lov	Lo	drama	I	Love	You	bangaram	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	I	Love	You	bangaram	girl	0	0	0	0	0	1	0	0	0	0	0	0	0
+1	ram	am	ban	ba	Love	You	bangaram	girl	I	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	irl	rl	gir	gi	You	bangaram	girl	I	Love	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	bangaram	girl	I	Love	You	0	0	0	0	0	1	0	0	0	0	0	0	1
+1	ove	ve	Lov	Lo	girl	I	Love	You	to	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	null	null	null	null	I	Love	You	to	sweet	0	0	0	0	0	1	0	0	0	0	0	0	0
+0	null	null	null	null	Love	You	to	sweet	null	0	0	0	0	0	0	0	1	0	0	0	0	0
+1	eet	et	swe	sw	You	to	sweet	null	null	0	0	1	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	gud	drama	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	ama	ma	dra	dr	null	gud	drama	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ood	od	goo	go	null	null	good	story	bro	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	ory	ry	sto	st	null	good	story	bro	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	good	story	bro	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	per	er	Sup	Su	null	null	Super	null	null	0	0	0	1	0	0	1	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	eet	et	swe	sw	null	null	sweet	story	null	0	0	1	1	0	0	0	0	0	0	0	0	0
+1	ory	ry	sto	st	null	sweet	story	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ood	od	goo	go	null	null	good	brother	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	her	er	bro	br	null	good	brother	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ost	st	pos	po	null	null	post	cmnt	null	0	0	1	1	0	0	0	0	0	0	0	0	0
+1	mnt	nt	cmn	cm	null	post	cmnt	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	Cho	Chwt	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	hwt	wt	Chw	Ch	null	Cho	Chwt	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	kes	es	jok	jo	null	null	jokes	added	a	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ded	ed	add	ad	null	jokes	added	a	new	0	0	0	0	1	0	0	0	0	0	0	0	0
+0	null	null	null	null	jokes	added	a	new	photo	0	0	0	0	1	0	0	0	1	0	1	0	0
+0	null	null	null	null	added	a	new	photo	null	0	0	0	1	1	0	0	0	0	0	0	0	0
+1	oto	to	pho	ph	a	new	photo	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hrs	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	hrs	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ion	on	lio	li	null	null	lion	monkey	jungle	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	key	ey	mon	mo	null	lion	monkey	jungle	King	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	gle	le	jun	ju	lion	monkey	jungle	King	Monkey	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ing	ng	Kin	Ki	monkey	jungle	King	Monkey	lion	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	key	ey	Mon	Mo	jungle	King	Monkey	lion	Jungle	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ion	on	lio	li	King	Monkey	lion	Jungle	animals	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	gle	le	Jun	Ju	Monkey	lion	Jungle	animals	Next	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	als	ls	ani	an	lion	Jungle	animals	Next	Lion	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	ext	xt	Nex	Ne	Jungle	animals	Next	Lion	elephant	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	ion	on	Lio	Li	animals	Next	Lion	elephant	Jungle	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ant	nt	ele	el	Next	Lion	elephant	Jungle	King	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	gle	le	Jun	Ju	Lion	elephant	Jungle	King	Elephant	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ing	ng	Kin	Ki	elephant	Jungle	King	Elephant	lion	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ant	nt	Ele	El	Jungle	King	Elephant	lion	lion	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ion	on	lio	li	King	Elephant	lion	lion	lion	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	ion	on	lio	li	Elephant	lion	lion	lion	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ion	on	lio	li	lion	lion	lion	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ion	on	Con	Co	null	null	Conclusion	good	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	ood	od	goo	go	null	Conclusion	good	null	null	0	0	0	1	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	oke	ke	jok	jo	null	null	joke	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	kes	es	jok	jo	null	null	jokes	page	joke	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	age	ge	pag	pa	null	jokes	page	joke	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	oke	ke	jok	jo	jokes	page	joke	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	oke	ke	jok	jo	null	null	joke	post	interesting	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	ost	st	pos	po	null	joke	post	interesting	null	0	0	1	1	1	0	0	0	0	0	0	0	0
+1	ing	ng	int	in	joke	post	interesting	null	null	0	0	0	1	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ice	ce	nic	ni	null	null	nice	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ice	ce	nic	ni	null	null	nice	joke	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	oke	ke	jok	jo	null	nice	joke	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	per	er	Sup	Su	null	null	Super	bro	null	0	0	0	1	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	null	Super	bro	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+0	null	null	null	null	null	null	K	null	null	0	0	0	0	0	0	0	0	0	0	0	0	1
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ice	ce	nic	ni	null	null	nice	joke	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	oke	ke	jok	jo	null	nice	joke	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	per	er	Sup	Su	null	null	Super	bro	null	0	0	0	1	0	0	1	0	0	0	0	0	0
+0	null	null	null	null	null	Super	bro	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	ool	ol	Coo	Co	null	null	Cool	Joke	null	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	oke	ke	Jok	Jo	null	Cool	Joke	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	lly	ly	rea	re	null	null	really	funny	moment	0	0	0	0	0	0	1	0	0	0	0	0	0
+1	nny	ny	fun	fu	null	really	funny	moment	null	0	0	0	1	1	0	0	0	0	0	0	0	0
+1	ent	nt	mom	mo	really	funny	moment	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+
+1	per	er	sup	su	null	null	super	null	null	0	0	0	1	0	0	1	0	0	0	0	0	0
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+

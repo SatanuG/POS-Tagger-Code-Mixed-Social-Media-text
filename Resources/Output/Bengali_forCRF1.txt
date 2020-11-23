@@ -1,0 +1,9621 @@
+lokjon	N_NN
+ajke	RB_ALC
+hebby	JJ
+ashay	PSP
+ashay	PSP
+chhilo	V_VAUX
+
+duto	QT_QTF
+chand	N_NN
+dekhbe	V_VM
+bole	V_VAUX
+
+ek	N_NN
+khanao	N_NN
+joteni	V_VM
+bhagye	RB_AMN
+
+kothagulo	N_NN
+khub	QT_QTF
+sotti	N_NN
+
+ami	PR_PRP
+ekta	QT_QTC
+meye	N_NN
+er	PSP
+
+ami	PR_PRP
+ekta	QT_QTC
+khujchi	V_VM
+horin	JJ
+chokha	N_NN
+
+ami	PR_PRP
+chai	V_VM
+se	PR_PRP
+amake	PR_PRP
+er	PSP
+pichone	RB_ALC
+ghorabe	V_VM
+puro	QT_QTF
+ami	PR_PRP
+khete	V_VM
+khub	QT_QTF
+bhalobasi	N_NN
+
+se	PR_PRP
+amake	PR_PRP
+roj	RB_AMN
+khawabe	V_VM
+
+aamar	PR_PRP
+lagiye	V_VM
+debe	V_VAUX
+
+aamar	PR_PRP
+
+koro	N_NNV
+er	PSP
+gulo	N_NN
+
+ANEK	QT_QTF
+DIN	N_NN
+POR	PSP
+E	PSP
+
+BESH	N_NN
+LAGCHE	N_NNV
+
+amar	PR_PRP
+sotti	RB_AMN
+ekta	QT_QTO
+hawa	N_NN
+bodal	N_NN
+darkar	N_NN
+
+Egaro	QT_QTC
+
+y	RD_RDF
+
+Biswas	N_NN
+ekta	QT_QTO
+onubhuti	N_NN
+eta	PR_PRP
+kore	V_VM
+paoa	N_NNV
+jai	V_VAUX
+na	RP_NEG
+
+oneke	PR_PRP
+biswas	N_NN
+orjon	N_NNV
+o	CC
+korte	V_VM
+parena	V_VAUX
+abar	RB_AMN
+kaoke	PR_PRQ
+biswas	N_NN
+o	CC
+korena	V_VM
+
+Maa	N_NN
+
+Maa	N_NN
+
+Maa	N_NN
+
+Maa	N_NN
+
+Maa	N_NN
+
+Aj	RB_ALC
+dekhlam	V_VM
+
+khub	QT_QTF
+bhalo	JJ
+
+adda	N_NN
+ba	CC
+gaan	N_NN
+sesh	N_NST
+hoy	V_VAUX
+jakhon	RB_ALC
+
+mon	N_NN
+kemon	RB_AMN
+
+Boichitrohinotai	N_NN
+bhugchi	V_VM
+
+ki	PR_PRQ
+sotyi	N_NN
+katha	N_NNV
+
+ja	RP_INJ
+ta	RP_INJ
+
+ebare	RB_AMN
+gof	N_NN
+ta	N_NN
+kato	N_NNV
+boddo	JJ
+khocha	N_NN
+lage	V_VM
+ki	PR_PRQ
+j	DM_DMR
+gof	N_NN
+dea	V_VAUX
+purosotto	JJ
+dakhao	V_VM
+k	DM_DMQ
+jane	N_NNV
+amr	PR_PRP
+kache	N_NST
+toh	PSP
+1ta	QT_QTF
+chara	PSP
+r	RP_RPD
+kichui	RB_AMN
+noi	RP_NEG
+oi	DM_DMD
+suopokar	JJ
+dol	N_NN
+gulo	N_NN
+
+jodi	RP_RPD
+gof	N_NN
+na	RP_NEG
+kato	N_NNV
+porer	RB_AMN
+din	N_NN
+theke	PSP
+chumu	N_NNV
+humy	N_NNV
+
+prem	N_NN
+byaparta	N_NN
+achamkai	JJ
+
+attoyonto	QT_QTF
+aprotyashito	JJ
+vabe	RB_AMN
+hotat	RB_AMN
+hoe	V_VM
+jaay	V_VAUX
+
+bostuto	RB_AMN
+prem	N_NN
+bishoy	N_NN
+tai	RP_RPD
+hotat	RB_AMN
+kore	V_VM
+hoar	V_VAUX
+bishoy	N_NN
+
+jader	PR_PRL
+kebol	RB_AMN
+e	PSP
+prem	N_NN
+paay	V_VM
+
+tara	PR_PRP
+adou	RB_AMN
+asol	JJ
+premi	N_NN
+kina	RP_RPD
+
+take	RP_RPD
+sadarthe	RB_AMN
+byabohar	N_NN
+korle	V_VM
+valo	RB_AMN
+hoy	V_VAUX
+
+prem	N_NN
+ba	CC
+bier	N_NN
+prostaber	N_NN
+name	N_NN
+ei	DM_DMD
+je	DM_DMR
+asankhyo	QT_QTF
+kuruchi	JJ
+purno	JJ
+prostab	N_NN
+protidin	N_NN
+hochhe	V_VM
+
+ete	PR_PRP
+ki	PR_PRQ
+tar	PSP
+konoi	QT_QTF
+uddyeshyo	N_NN
+sthapito	JJ
+hochhe	V_VM
+
+bodh	N_NN
+kori	V_VM
+o	CC
+birokto	JJ
+
+tai	RP_RPD
+tar	PSP
+gulo	N_NN
+antorhito	JJ
+hoe	V_VM
+gechhe	V_VAUX
+
+chhele	N_NN
+athoba	CC
+meye	N_NN
+sobai	PR_PRP
+prem	N_NN
+bpr	RB_AMN
+ta	N_NN
+ke	PR_PRQ
+nie	V_VM
+ei	DM_DMD
+e	PSP
+kichhu	QT_QTF
+koro	V_VAUX
+
+sahor	N_NN
+jal-er	N_NN
+kobita	N_NN
+anekdin	QT_QTF
+hoye	V_VM
+gyalo	V_VM
+anekgulo	QT_QTF
+din	N_NN
+ke	PSP
+aami	PR_PRP
+chhuini	N_NNV
+baddo	JJ
+bhalo	JJ
+kore	V_VM
+kobitar	N_NN
+shabdo	N_NN
+anekdin	QT_QTF
+aamar	PR_PRF
+choukite	N_NN
+bosena	V_VM
+
+bosena	V_VM
+deoale	N_NN
+hyalan	N_NNV
+diye	V_VM
+
+anekdin	QT_QTF
+kono	DM_DMQ
+onno	RB_ALC
+shahore	N_NN
+jaoa	V_VM
+hoyna	V_VAUX
+daaoaat	N_NN
+paina	N_NNV
+anekdin	QT_QTF
+ebar	RB_ALC
+pelam	V_VM
+likhbo	V_VM
+ki	DM_DMQ
+likhbo	V_VM
+na	RP_RPD
+ta	PR_PRC
+to	RP_RPD
+janina	V_VM
+tobe	RP_RPD
+anekdin	QT_QTO
+por	N_NST
+aabar	RB_AMN
+goshaalar	N_NN
+more	N_NN
+nambo	V_VM
+bus	N_NN
+theke	PSP
+sudhu	JJ
+etukui	PR_PRL
+jaani	V_VM
+
+ei	DM_DMD
+er	DM_DMD
+e	PR_PRP
+jodi	N_NN
+kichu	JJ
+paoa	N_NN
+jetoooooooo	N_NN
+
+tahle	N_NN
+borte	N_NN
+jetam	N_NN
+
+biswas	N_NNP
+koro	N_NNP
+bhai/bon	N_NNP
+ami	N_NNP
+ekti	N_NN
+futo	JJ
+poysa	N_NN
+o	CC
+paai	N_NN
+na	RP_RPD
+eto	QT_QTF
+khatakhatnir	N_NN
+por	V_VM
+
+Asram	RD_RDF
+
+ekon	RB_ALC
+onek	N_NNP
+raat	N_NNP
+
+tomar	PR_PRP
+kadhe	V_VM
+amar	V_VAUX
+niswas	V_VAUX
+ami	PR_PRP
+beche	V_VM
+achi	JJ
+
+tomar	PR_PRP
+valobasai	N_NN
+
+kal	RD_RDF
+jachchhi	N_NN
+
+kichhu	N_NN
+kaje	N_NN
+
+mongolbaar	N_NN
+phirbo	V_VM
+
+tai	PR_PRP
+aagami	N_NN
+din	RD_RDF
+theke	PSP
+chhuti	N_NN
+
+bhalo	N_NN
+theko	PSP
+sabbai	N_NN
+
+ekla	JJ
+jalo	N_NN
+re	PSP
+
+didi	N_NN
+
+ami	N_NNP
+tomar	PR_PRP
+theke	PSP
+onek	N_NNP
+choto	N_NNP
+
+tomake	PR_PRP
+te	PSP
+onek	N_NNP
+bar	N_NNP
+jhari	N_NNP
+merechi	N_NNP
+
+gahctolar	N_NNP
+pash	N_NNP
+diye	PSP
+
+mathe	N_NN
+
+tomar	RD_RDF
+osonkkhho	RD_RDF
+der	RD_RDF
+modhhe	N_NN
+ami	N_NNP
+ekjon	N_NNP
+nogonno	N_NNP
+manush	N_NNP
+
+tomake	PR_PRP
+didir	N_NN
+chokhei	N_NN
+dekhi	V_VM
+
+sudhu	JJ
+ekta	JJ
+ache	JJ
+mone	N_NN
+
+parle	N_NN
+dio	V_VM
+
+Didi	N_NNP
+tumi	PR_PRP
+ki	PR_PRQ
+kore	RB_AMN
+tomar	PR_PRP
+oi	DM_DMD
+anindysundor	N_NN
+chehara	N_NN
+koro	V_VM
+go	CC
+sorger	N_NNP
+apsarao	N_NNP
+tomar	PR_PRP
+kache	V_VM
+har	V_VAUX
+mene	V_VM
+jabe	V_VAUX
+
+amar	N_NNP
+tomar	PR_PRP
+prai	N_NN
+ta	RP_RPD
+chobi	N_NN
+ache	N_NN
+
+rate	N_NNP
+tomar	PR_PRP
+katha	N_NN
+bhabte	N_NN
+bhabte	N_NN
+ghum	N_NN
+neme	V_VM
+ase	V_VAUX
+amar	N_NNP
+chokhe	N_NN
+
+tomar	PR_PRP
+chotto	JJ
+bhai	N_NN
+Boro	N_NNP
+Didibaz	N_NNP
+dekhchi	V_VM
+bhai	N_NN
+tumi	PR_PRP
+
+r	RD_RDF
+naki	N_NN
+
+besh	JJ
+ekta	JJ
+ache	JJ
+bhadrolok	N_NN
+er	RD_RDF
+
+ei	DM_DMD
+jeche	N_NN
+ghotkali	N_NN
+lorar	N_NN
+byaparta	JJ
+bhari	N_NN
+mojar	N_NN
+
+r	RD_PUNC
+patro-patri	N_NN
+gulo	N_NN
+bodh	RB_AMN
+hoye	N_NN
+mar	N_NN
+kheye	N_NN
+jabe	V_VM
+
+tobe	RB_AMN
+ota	JJ
+porar	N_NN
+theke	PSP
+eta	QT_QTF
+porte	N_NN
+je	V_VM
+onek	V_VAUX
+beshi	JJ
+moja	N_NN
+lage	PSP
+bolai	N_NN
+bahulyo	N_NN
+
+r	RD_PUNC
+moto	N_NN
+er	DM_DMD
+ei	DM_DMD
+fichlemi	N_NN
+r	RD_PUNC
+dik	RD_RDF
+ta	RP_RPD
+jana	N_NN
+chhilo	V_VM
+na	RP_RPD
+
+jene	V_VM
+kintu	CC
+dibbi	N_NN
+mojai	N_NN
+laglo	N_NN
+sheta	N_NNP
+bolar	N_NNP
+jonyo	N_NNP
+i	N_NNP
+aaj	CC
+ei	DM_DMD
+chhoto	N_NN
+ekta	JJ
+khub	QT_QTF
+shadharon	N_NN
+
+ke	PR_PRQ
+shadhu	N_NN
+baad	N_NN
+janai	N_NN
+
+jodi	N_NNP
+abar	N_NNP
+e	PSP
+phiri	V_VM
+ichhe	N_NN
+roilo	V_VM
+ei	DM_DMD
+notun	N_NN
+chena	V_VM
+dushtu	QT_QTF
+mishti	N_NN
+e	DM_DMD
+dhuke	N_NN
+bondhuder	N_NN
+shathe	N_NN
+boshe	N_NN
+nirbhejal	JJ
+adda	N_NN
+deyar	V_VM
+
+amader	N_NNP
+Bari	N_NNP
+
+bangla	N_NN
+moto	N_NNP
+meye	N_NN
+aaj	JJ
+porjonto	N_NN
+dekhini	V_VM
+
+tui	PR_PRP
+sudhui	N_NNP
+amr	N_NNP
+hoye	N_NN
+thakbi	V_VM
+
+nao	N_NNP
+
+tabole	CC
+lagiye	N_NN
+dileo	V_VAUX
+abar	RD_RDF
+chaap	RD_RDF
+
+e	DM_DMD
+ato	JJ
+kheya	N_NN
+r	RD_PUNC
+parchena	V_VM
+
+ghuri	N_NNP
+harano	N_NNP
+chhotobela	N_NNP
+
+ekla	JJ
+palano	JJ
+dupur	N_NN
+chhad	N_NN
+
+ghhuri-r	N_NN
+sathe	N_NN
+chupichupi	N_NN
+
+kamranga	N_NN
+r	RD_PUNC
+nun	RD_RDF
+er	RD_RDF
+swad	RD_RDF
+
+chhera	N_NN
+ghuri	N_NN
+jurte	N_NN
+sekha	N_NN
+
+lut	RD_RDF
+te	PSP
+sekha	N_NN
+arekta	JJ
+
+ghuri	N_NN
+gulo	N_NN
+sab	QT_QTF
+swapno	N_NN
+ekhon	RB_ALC
+
+ke	PR_PRQ
+jane	N_NN
+kothay	RB_ALC
+latai	N_NN
+ta	RP_RPD
+
+Jare	N_NN
+chai	JJ
+tare	N_NN
+paine	N_NN
+keno	N_NNV
+
+da	N_NN
+ami	N_NNP
+pagol	N_NNP
+hoye	N_NN
+gechhi	N_NN
+tomar	PR_PRP
+oi	DM_DMD
+lal	N_NN
+chokh	N_NN
+er	PR_PRP
+
+Tmr	RD_RDF
+oi	DM_DMD
+chokhe	N_NN
+jeno	N_NNP
+kmn	N_NNP
+1ta	QT_QTF
+nesha	N_NN
+achhe	N_NN
+
+Ami	PR_PRP
+nijeke	PR_PRF
+krte	N_NN
+parina	N_NN
+tomake	PR_PRP
+dekhe	V_VM
+
+amk	RD_RDF
+r	RD_PUNC
+kosto	N_NN
+dio	V_VM
+na	N_NNP
+sona	N_NNP
+
+Kachhe	N_NNP
+tene	N_NNP
+nao	N_NNP
+amk	N_NNP
+
+Rakshabandhan(Rakhi	RD_RDF
+
+ekta	JJ
+bhalo	N_NN
+laga	N_NN
+korte	N_NN
+chai	N_NN
+
+sokoler	N_NNP
+songe	N_NNP
+
+aboshyo	JJ
+bakira	N_NN
+kibhabe	N_NN
+nebe	V_VM
+seta	JJ
+naa	N_NN
+jenei	N_NN
+
+ei	DM_DMD
+somoy	N_NN
+shohorer	N_NNV
+rastay	N_NN
+aar	RD_RDF
+ful	V_VM
+dekhlei	V_VAUX
+monta	N_NN
+kemon	PR_PRQ
+bhalo	V_VM
+hoye	N_NN
+jay	N_NN
+
+Boishakher	RD_RDF
+norom	RD_RDF
+bikele	N_NN
+r	RD_PUNC
+janala	N_NN
+diye	PSP
+baire	N_NN
+chokh	N_NN
+rakhle	N_NN
+klantibhora	N_NNP
+mon	N_NNP
+sotej	N_NNP
+hoye	N_NN
+othe	N_NN
+
+asojyo	N_NNP
+goromer	N_NNP
+dupurgulote	N_NN
+byasto	JJ
+shohorer	N_NN
+rajpather	N_NN
+stobdhota	JJ
+sur	N_NNP
+tole	V_VM
+batase	N_NN
+
+kono	DM_DMD
+ek	DM_DMD
+uttopto	N_NN
+sondhyebelay	N_NNP
+hotat	N_NNP
+boye	N_NNP
+chola	N_NNP
+jhoro	N_NNP
+hawa	N_NNP
+ba	N_NNP
+ajachitobhabe	N_NNP
+shohorer	N_NNP
+booke	N_NNP
+neme	N_NNP
+asa	N_NNP
+brishtibindur	N_NNP
+khelay	N_NN
+moner	N_NNP
+kone	N_NNP
+jome	N_NNP
+otha	N_NNP
+megh	N_NNP
+kothay	RB_ALC
+udhao	N_NN
+hoye	N_NN
+jay	N_NN
+eknimeshe	N_NN
+
+ajker	JJ
+brishtibheja	N_NN
+sondhye	N_NN
+amay	N_NN
+aar	RD_RDF
+ekbar	RD_RDF
+ei	DM_DMD
+katha	N_NN
+mone	N_NN
+koriye	V_VM
+dilo	V_VAUX
+
+ami	N_NNP
+janina	N_NN
+keu	PR_PRP
+egulo	PR_PRP
+lokkhyo	N_NN
+kore	N_NN
+kina	V_VM
+
+sobai	N_NNP
+Bosonto	N_NNP
+niye	PSP
+eto	QT_QTF
+premer	N_NN
+katha	N_NN
+bole	N_NN
+kintu	CC
+Boisakh	N_NN
+niye	PSP
+keno	N_NNV
+noy	V_VM
+
+gorom	RD_RDF
+ar	RD_RDF
+ghamer	RD_RDF
+koshtotuku	N_NN
+dure	N_NN
+rekhe	V_VM
+Boishakhi	RB_ALC
+prem	N_NN
+niye	PSP
+kichu	JJ
+bola	N_NN
+jay	N_NN
+na	V_VM
+ki	PR_PRQ
+
+Sorbokaler	RD_RDF
+sorbojoner	N_NNP
+premer	N_NN
+itihase	N_NN
+ei	DM_DMD
+rhituti	N_NN
+eto	QT_QTF
+upekkhito	N_NN
+keno	N_NNV
+
+da	N_NNP
+
+porshu	N_NN
+din	RD_RDF
+e	DM_DMD
+jakhon	N_NN
+tomake	PR_PRP
+korlam	PR_PRQ
+tomar	PR_PRP
+mukh	N_NN
+ta	RP_RPD
+dekhe	V_VM
+amar	V_VAUX
+eto	PR_PRP
+hasi	V_VM
+pachhilo	V_VAUX
+
+or	RD_RDF
+kichui	N_NN
+to	RP_RPD
+bollena	V_VM
+
+ekhane	RB_ALC
+korchi	QT_QTF
+jate	N_NN
+tumi	PR_PRP
+ta	RP_RPD
+dao	N_NN
+
+r	RD_PUNC
+ekta	JJ
+ache	N_NN
+
+jakhon	N_NN
+asbe	N_NN
+
+hotash	N_NN
+hoye	N_NN
+matha	N_NN
+narlo	V_VM
+
+Arekha	N_NNP
+bochor	N_NNP
+kete	N_NNP
+gelo	V_VM
+jiboner	V_VAUX
+
+ai	DM_DMD
+bochorer	N_NN
+prothomdikta	JJ
+bhaloi	N_NN
+chilo	V_VM
+
+majher	N_NNP
+somoyta	N_NNP
+amar	N_NNP
+jiboner	N_NNP
+hoito	N_NNP
+sera	N_NNP
+somoy	N_NNP
+chilo	N_NNP
+
+ses	RD_RDF
+dik	RD_RDF
+hoito	N_NNP
+sobcheye	N_NNP
+kharap	N_NN
+somoy	N_NN
+gelo	V_VM
+
+Jaihok	RD_RDF
+bhalo	N_NN
+kharap	N_NN
+mishiye	V_VM
+bochor	V_VAUX
+ta	RP_RPD
+aj	RD_RDF
+ses	RD_RDF
+
+ashakori	N_NNP
+agami	N_NNP
+bochor	N_NNP
+aro	QT_QTF
+anek	QT_QTF
+notun	N_NNP
+obhigotar	N_NNP
+somukhin	N_NNP
+hobo	V_VM
+
+bondhura	N_NNP
+notun	N_NNP
+bochore	N_NN
+bhalo	V_VM
+thako	V_VAUX
+bhalo	N_NN
+thakte	V_VM
+sahajjo	N_NN
+koro	V_VM
+
+habe	V_VM
+
+thakbe	RD_RDF
+
+thakbe	V_VM
+
+besi	JJ
+paisa	N_NN
+orabe	V_VM
+na	RP_RPD
+aamar	RD_RDF
+
+bhalo	N_NN
+ranna	JJ
+korte	N_NN
+parbe	N_NN
+
+nyaka	JJ
+habe	V_VM
+na	RP_RPD
+besi	N_NN
+
+ba	N_NNP
+moto	N_NNP
+sorir	N_NNP
+bechaa	N_NNP
+nasto	JJ
+meye	N_NN
+habe	V_VM
+na	RP_RPD
+
+ba	N_NNP
+moto	N_NNP
+naak	N_NNP
+galano	N_NNP
+phoron	N_NNP
+kata	QT_QTF
+meye	N_NN
+habe	V_VM
+na	RP_RPD
+
+er	RD_RDF
+hotey	V_VM
+habe	V_VAUX
+
+Ai	$
+dol	$
+a	$
+tomake	N_NNP
+ranga	N_NN
+te	PSP
+chai	V_VM
+
+Karo	JJ
+dukhe	N_NN
+du	QT_QTF
+fota	JJ
+choker	N_NN
+jol	RD_RDF
+fela	N_NN
+kothin	RB_ALC
+
+karo	V_VM
+dukher	V_VAUX
+sate	PSP
+nijeke	PR_PRF
+jorano	JJ
+r	RD_PUNC
+o	CC
+besi	N_NN
+kothin	RB_ALC
+
+jato	JJ
+taratari	N_NN
+pari	JJ
+komanor	N_NN
+chesta	N_NN
+kori	N_NNP
+
+kono	DM_DMD
+kotha	N_NN
+hobe	V_VM
+na	RP_RPD
+
+boleche	N_NN
+te	PSP
+
+bangali	N_NN
+
+tomae	PR_PRP
+dekhei	V_VM
+khub	QT_QTF
+bhalo	N_NN
+lege	V_VM
+gelo	V_VAUX
+
+tmr	PR_PRP
+kotha	RB_ALC
+na	N_NNP
+bhebe	V_VM
+somoy	N_NNP
+i	N_NNP
+jacchena	V_VM
+
+apatoto	JJ
+hobe	V_VM
+
+Pore	RB_AMN
+onyo	PR_PRP
+kichu	JJ
+vaba	N_NN
+jabe	V_VM
+
+eta	QT_QTF
+keo	PR_PRP
+khilli	N_NN
+kore	RB_AMN
+ni	RP_RPD
+
+tar	RD_RDF
+dao	N_NN
+
+apatoto	RD_RDF
+hbe	RD_RDF
+
+eta	QT_QTF
+jodi	N_NN
+satti	N_NN
+hoto	V_VM
+
+Tahle	N_NNP
+Ki	N_NNP
+eibar	DM_DMD
+ei	DM_DMD
+kothata	QT_QTF
+bolbe	N_NN
+je	N_NNP
+e	N_NNP
+lokjon	N_NNP
+korbar	N_NNP
+jnne	N_NNP
+na	N_NNP
+kheye	N_NN
+more	N_NN
+jete	V_VM
+chaiche	V_VAUX
+
+Ja	DM_DMD
+khusi	N_NN
+Bolo	JJ
+r	RD_PUNC
+Korina	N_NNP
+Porowa	N_NNP
+
+Bristi	N_NN
+jakhon	N_NN
+poth	N_NN
+atke	N_NN
+dey	V_VM
+
+egote	V_VM
+deyna	V_VAUX
+
+ba	N_NNP
+anekta	JJ
+egiyeo	N_NN
+abar	JJ
+fire	N_NN
+aste	N_NN
+hoy	V_VM
+
+takhon	RB_ALC
+
+te	PSP
+lomba	N_NN
+
+ashi	JJ
+taka	N_NN
+chay	V_VM
+
+athocho	CC
+oi	DM_DMD
+vabe	N_NN
+geleo	V_VAUX
+deri	N_NN
+hoye	N_NN
+kaj	$
+na	$
+haoar	$
+thake	V_VM
+
+takhon	RB_ALC
+Bristi-r	RD_RDF
+opor	RD_RDF
+raag	N_NN
+hoy	V_VM
+
+e	DM_DMD
+ekta	JJ
+meye	N_NN
+ke	PR_PRQ
+niye	PSP
+beshi	JJ
+ha6e	V_VM
+
+meye	N_NN
+ta	RP_RPD
+ha6e	V_VM
+
+te	PR_PRP
+ki	PR_PRQ
+r	RD_PUNC
+kono	DM_DMD
+meye	N_NN
+nei	V_VM
+je	N_NNP
+ke	PR_PRQ
+niye	PSP
+habe	V_VM
+
+na	N_NNP
+r	RD_PUNC
+moto	N_NNP
+r	RD_PUNC
+keu	PR_PRP
+dkte	N_NN
+valo	V_VM
+ny	RP_RPD
+
+bhai	N_NN
+tora	PR_PRP
+ke	PR_PRQ
+niye	PSP
+r	RD_RDF
+karis	RD_RDF
+na	RP_RPD
+or	DM_DMD
+rastay	N_NN
+chola	N_NN
+bondo	N_NN
+haye	V_VM
+jabe	V_VAUX
+
+oky	PR_PRP
+to	RP_RPD
+bachte	N_NN
+dy	RD_RDF
+valo	N_NN
+kare	V_VM
+
+er	$
+tar	$
+chaap	$
+
+ghum	N_NN
+aase	N_NN
+na	RP_RPD
+
+e	DM_DMD
+ghumer	N_NN
+dosh	N_NN
+noy	V_VM
+dosh	N_NN
+noy	V_VM
+
+e	DM_DMD
+somoyer	N_NN
+dosh	N_NN
+
+dosh	N_NN
+
+Bastob	RD_RDF
+
+bangla	N_NN
+
+kore	N_NN
+feleche	V_VM
+
+bondhu	N_NNP
+der	N_NNP
+kachhe	N_NNP
+Murgi	N_NNP
+
+amar	N_NNP
+sathe	N_NN
+1hr	RD_RDF
+
+korar	N_NNP
+por	N_NN
+bujte	V_VM
+parlo	JJ
+je	N_NN
+o	CC
+kar	RD_RDF
+sate	N_NN
+korche	N_NN
+
+tao	N_NNP
+ami	N_NNP
+bolar	N_NNP
+por	N_NNP
+
+tini	PR_PRP
+aschhen	RD_RDF
+
+bhai	N_NN
+2mar	RD_RDF
+nijer	PR_PRF
+jodi	N_NNP
+er	DM_DMD
+opor	DM_DMD
+ato	JJ
+ato	JJ
+ohongkar	N_NN
+thake	V_VM
+to	RP_RPD
+er	DM_DMD
+r	RD_PUNC
+mon	RD_RDF
+nea	N_NN
+khala	N_NN
+dakhao	N_NN
+
+tahole	N_NN
+bujhbo	V_VM
+2mi	PR_PRP
+e	DM_DMD
+asol	N_NN
+asol	JJ
+bhogoban	N_NN
+asol	JJ
+kamdeb	N_NN
+asol	N_NNP
+kolir	N_NNP
+kesto	N_NNP
+
+lagche	N_NN
+
+Dupure	N_NNP
+adda	N_NN
+marchi	N_NN
+der	RD_RDF
+sathe	N_NN
+Ashirbad	RD_RDF
+a	N_NN
+
+j	RD_PUNC
+k	RD_PUNC
+ei	DM_DMD
+shob	N_NN
+nam	N_NN
+nichhe	N_NST
+
+Bhasha	QT_QTF
+Bhasha	QT_QTF
+Bhalobashar	RD_RDF
+Asha	N_NN
+Chilo	V_VM
+Mone	N_NN
+Sab-i	N_NN
+bheshe	N_NN
+gelo	V_VM
+sala	N_NNP
+Jheeler	N_NNP
+oi	DM_DMD
+jole	N_NN
+Dake	N_NN
+dake	N_NNP
+Deke	N_NNP
+jay	N_NN
+goat	N_NN
+Ami	PR_PRP
+kichu	QT_QTF
+bollei	N_NN
+Meye	N_NN
+bole	V_VM
+Phot	RD_RDF
+Bandhura	N_NNP
+sakkale	N_NNP
+boro	N_NNP
+Eka	N_NNP
+ami	N_NNP
+bonchito	N_NNP
+heyro	N_NNP
+Amar	PR_PRP
+jonno	N_NNV
+ki	PR_PRQ
+keu	PR_PRP
+Nei	V_VM
+
+Jetha	N_NNP
+dekhi	V_VM
+morubhumi	N_NN
+Dhu	QT_QTF
+dhu	QT_QTF
+charipashe	N_NN
+Chao	N_NN
+jodi	N_NN
+kache	V_VM
+esho	V_VAUX
+Bandhuta	JJ
+debo	N_NNP
+Eka	N_NNP
+ami	N_NNP
+boro	N_NNP
+eka	QT_QTF
+Ektu	N_NN
+toh	PR_PRP
+bhebo	V_VM
+
+Abar	JJ
+pujota	N_NN
+rongin	N_NN
+hobe	V_VM
+ki	PR_PRQ
+
+Awsm	N_NN
+sala	V_VM
+
+at	CC
+kothai	RB_ALC
+boloto	N_NNP
+
+kono	QT_QTF
+tulona	N_NN
+hoyna	V_VM
+
+aamader	RD_RDF
+
+acha	JJ
+er	RD_RDF
+chele	N_NN
+ba	N_NNP
+meyer	N_NNP
+sathe	N_NN
+er	RD_RDF
+meye	N_NN
+ba	N_NN
+cheler	N_NN
+biye	N_NN
+dile	V_VAUX
+ta	RP_RPD
+kamon	N_NN
+berobe	V_VM
+
+da	N_NN
+
+ami	N_NNP
+bohudin	N_NNP
+dhorei	N_NN
+tomar	PR_PRP
+sathe	N_NN
+kotha	RB_ALC
+bolte	N_NN
+chai	N_NN
+
+kintu	CC
+thik	N_NNP
+sahos	N_NNP
+pai	N_NNP
+na	N_NNP
+
+tomake	PR_PRP
+dekhlei	V_VAUX
+amar	JJ
+mone	N_NN
+hoy	V_VM
+
+but	CC
+tumi	PR_PRP
+to	RP_RPD
+tomar	PR_PRP
+bondhu	N_NN
+der	RD_RDF
+charaa	N_NN
+r	RD_PUNC
+karor	N_NNP
+sathei	N_NNP
+kotha	N_NNP
+bolo	N_NNP
+na	N_NNP
+
+kano	RB_ALC
+tumi	PR_PRP
+eto	V_VM
+chupchap	V_VAUX
+
+amar	N_NNP
+sathe	N_NNP
+kotha	N_NNP
+bolo	N_NNP
+
+jodi	N_NNP
+tumi	PR_PRP
+kotha	RB_ALC
+bolte	N_NN
+chao	N_NN
+tahole	N_NN
+
+aj	RD_RDF
+jokhon	CC
+tumi	PR_PRP
+bristi	N_NN
+te	PSP
+vijchile	V_VM
+te	PSP
+dariye	N_NN
+tomake	PR_PRP
+eto	PR_PRP
+lagchilo	V_VAUX
+j	RD_PUNC
+mone	N_NN
+hocchilo	V_VM
+giye	V_VAUX
+joriye	PSP
+dhori	N_NN
+
+Tahole	N_NN
+choli	N_NN
+
+ta	RP_RPD
+ta	RP_RPD
+
+te	PSP
+pechon	JJ
+dike	N_NN
+boshe	V_VM
+a	N_NN
+
+r	RD_PUNC
+moddhe	N_NN
+ei	DM_DMD
+gorom	N_NN
+e	DM_DMD
+
+panu	N_NN
+dekhte	V_VM
+chorom	V_VAUX
+lagey	V_VAUX
+
+danta	PSP
+
+Griobondi	N_NNP
+doshar	N_NN
+ghonta	N_NN
+katlo	V_VM
+
+akhono	N_NNP
+kotodin	N_NNP
+ke	PR_PRQ
+jane	N_NN
+
+Ami	PR_PRP
+je	V_VM
+oi	DM_DMD
+somoy	N_NNP
+jonmalam	N_NNP
+
+tumi	PR_PRP
+jotoi	N_NNP
+nijeke	N_NNP
+hero	N_NNP
+baniye	N_NN
+meye	N_NN
+potanor	N_NN
+chesta	N_NN
+koro	QT_QTF
+amar	JJ
+ke	PR_PRQ
+pabe	V_VM
+na	RP_RPD
+
+Mejo	N_NNP
+Jethu	N_NNP
+ar	N_NNP
+Boro	N_NNP
+Jethu	N_NNP
+er	DM_DMD
+majhe	N_NN
+
+r	RD_PUNC
+je	N_NNP
+shial	N_NNP
+sab	QT_QTF
+kichhu	N_NN
+dekhe	V_VM
+
+tinte	N_NNP
+
+tobuo	PR_PRP
+lok	N_NN
+a	N_NN
+dekhchhe	V_VM
+r	RD_PUNC
+chechachhe	N_NN
+
+sobbai	N_NNP
+ki	PR_PRQ
+poisa	N_NN
+verachhe	N_NN
+naki	N_NN
+
+mukhe	N_NN
+bole	V_VM
+KAREENA	N_NN
+KAREENA	N_NN
+
+kintu	CC
+asole	N_NN
+KORE	RD_RDF
+
+tomar	PR_PRP
+bishal	JJ
+cheharar	N_NN
+preme	N_NN
+pore6i	N_NN
+ami	N_NNP
+
+Ghum	RD_RDF
+ghum	RD_RDF
+pase	N_NN
+khola	JJ
+janlay	N_NN
+dakche	N_NN
+amake	N_NNP
+
+Tomar	N_NNP
+akash	N_NNP
+
+haoa	N_NNP
+becha	N_NNP
+poisa	N_NN
+
+sobai	N_NN
+ke	PR_PRQ
+ba	N_NN
+hote	V_VM
+hobe	V_VAUX
+
+noilei	N_NNP
+kalabe	N_NNP
+
+nie	V_VM
+onek	V_VAUX
+kichu	JJ
+holo	N_NN
+
+amra	N_NNP
+prithibir	N_NNP
+manushra	N_NN
+beche	V_VM
+achi	JJ
+
+r	RD_PUNC
+ekta	JJ
+
+tahole	N_NN
+din	RD_RDF
+ta	RP_RPD
+ki	RP_RPD
+gota	JJ
+prithibi	N_NN
+te	PSP
+din	RD_RDF
+hote	N_NN
+jache	V_VM
+
+jene	V_VM
+valo	V_VAUX
+laglo	V_VAUX
+amr	RD_RDF
+gulo	N_NN
+k	RD_PUNC
+kore	N_NN
+
+k	RD_PUNC
+ami	N_NNP
+khuje	N_NNP
+bar	N_NNP
+korbo	N_NNP
+ki	PR_PRQ
+kore	PR_PRQ
+
+ba	N_NNP
+amak	N_NNP
+khuje	N_NNP
+bar	N_NNP
+korbe	N_NNP
+ki	PR_PRQ
+kore	PR_PRQ
+
+prem	N_NN
+korte	N_NN
+chai	V_VM
+tai	PR_PRP
+2mk	RD_RDF
+jante	N_NN
+chai	N_NN
+r	RD_PUNC
+nijeke	PR_PRF
+janate	V_VM
+chai	V_VAUX
+
+akhn	N_NNP
+r	RD_PUNC
+sei	DM_DMD
+ta	RP_RPD
+nei	V_VM
+j	RD_PUNC
+lukochuri	N_NN
+khelbo	V_VM
+r	RD_PUNC
+2mi	QT_QTF
+pichon	N_NN
+theke	PSP
+ese	V_VM
+amk	JJ
+dhappa	N_NN
+bolbe	V_VM
+
+eta	QT_QTF
+k	RD_PUNC
+re	CC
+
+Acha	N_NN
+tomar	PR_PRP
+khali	N_NN
+saradin	N_NN
+bibhinyo	N_NN
+loker	N_NN
+prem	N_NN
+golpo	N_NN
+roj	RD_RDF
+roj	RD_RDF
+porte	N_NN
+kemon	PR_PRQ
+lage	PSP
+
+eirkm	DM_DMD
+thakle	V_VM
+amake	N_NNP
+e	N_NNP
+krte	N_NN
+paro	N_NN
+
+premer	N_NN
+golpo	N_NN
+jmn	RD_RDF
+porte	N_NN
+pari	JJ
+
+temni	PR_PRP
+ele	RD_RDF
+tar	RD_RDF
+e	DM_DMD
+kichu	N_NN
+likhteo	V_VM
+pari	N_NN
+
+chaalaghor	JJ
+chhere	N_NN
+chhere	N_NN
+jol	V_VM
+paathor	N_NNP
+na	N_NNP
+janiye	PSP
+tomake	PR_PRP
+aami	N_NN
+sei	DM_DMD
+shamshan-bondhuder	N_NN
+kaaNdhe	N_NN
+boye	N_NN
+chollam	N_NN
+angoguli	N_NN
+dure	N_NN
+bose	N_NN
+praanpon	N_NN
+mukhe	N_NN
+taar	CC
+koyekti	N_NN
+baadur	V_VM
+khaachati	N_NN
+paakhir	N_NN
+baalite	N_NN
+naame	V_VM
+se	PR_PRP
+raater	N_NN
+ghorati	N_NN
+mukhe	N_NN
+taar	CC
+chhaayati	N_NN
+chaaNder	V_VM
+
+mogdaale	N_NN
+phirchhe	V_VM
+kobi	N_NNP
+se	PR_PRP
+daale	N_NN
+baa	N_NN
+paatateo	N_NN
+ghumote	N_NN
+paare	N_NN
+ebar	RB_ALC
+balo	V_VM
+balo	V_VM
+hori	N_NN
+horibol	V_VM
+balo	V_VM
+hori	V_VM
+
+dakh	RD_RDF
+amar	RD_RDF
+orokom	RD_RDF
+nyka	N_NN
+nyka	N_NN
+kotha	RB_ALC
+poshay	N_NN
+na	V_VM
+amar	N_NNP
+toke	PR_PRP
+valo	V_VM
+lage	V_VAUX
+
+tor	PR_PRP
+jodi	N_NNP
+amak	N_NNP
+pochondo	N_NN
+hoi	V_VM
+tahole	CC
+sobar	N_NNP
+shamne	N_NNP
+bol	N_NNP
+seta	N_NNP
+
+tui	PR_PRP
+janis	N_NN
+e	DM_DMD
+ami	N_NN
+theke	PSP
+hote	V_VM
+chai	N_NNP
+
+onk	RD_RDF
+din	RD_RDF
+agei	N_NN
+bolechi	N_NN
+toke	PR_PRP
+seta	N_NN
+
+aantorjaatik	JJ
+khyati	N_NN
+samponno	N_NN
+behala	JJ
+baadok	N_NN
+aschhen	N_NNP
+
+maase	N_NN
+din	RD_RDF
+uni	PR_PRP
+karaben	V_VM
+ekhane	RB_ALC
+
+jara	N_NN
+shikhte	N_NN
+taalim	N_NN
+nite	V_VM
+ichchhuk	N_NN
+taara	N_NN
+ei	DM_DMD
+e	DM_DMD
+jogajog	N_NN
+korte	N_NN
+paren	N_NST
+
+tumi	PR_PRP
+jano	N_NN
+ke	PR_PRQ
+
+Bhrantibilas	RD_RDF
+
+Amra	PR_PRP
+e	DM_DMD
+sere	N_NN
+dekhi	V_VM
+baire	N_NN
+era	PR_PRP
+korchhe	N_NN
+
+Amar	PR_PRP
+baba-ma	N_NN
+kaku	N_NNP
+kaku	N_NNP
+er	RD_RDF
+
+pujote	N_NN
+ei	DM_DMD
+te	RD_RDF
+eksonge	N_NN
+ghore	N_NN
+thakur	RD_RDF
+dekhe	V_VM
+
+onek	RD_RDF
+hoechhe	V_VM
+
+ebar	CC
+porashuno	N_NN
+tao	N_NN
+kor	RD_RDF
+
+ami	N_NNP
+tomar	PR_PRP
+sathe	N_NN
+praaner	N_NN
+khela	N_NN
+khelte	N_NN
+chaai	V_VM
+
+Jake	N_NN
+pochhondo	N_NN
+tar	RD_RDF
+naam	N_NN
+ityadi	CC
+khub	QT_QTF
+porishkar	N_NN
+bhabe	N_NN
+ullekh	N_NN
+koro	V_VM
+
+Jate	V_VM
+er	RD_RDF
+bodole	N_NN
+er	RD_RDF
+kachhe	N_NN
+na	RP_RPD
+chole	N_NN
+jaay	N_NN
+
+Bhalobasar	RD_RDF
+manushgulo	N_NN
+koto	RB_ALC
+taratari	N_NN
+change	N_NN
+hoe	V_VM
+jai	N_NN
+
+biswas	N_NN
+e	PSP
+kora	N_NNP
+jai	N_NNP
+na	N_NNP
+j	RD_PUNC
+ei	DM_DMD
+manush	N_NN
+take	N_NN
+valobesechilum	RD_RDF
+
+keno	N_NNP
+emon	N_NNP
+hoi	N_NNP
+
+ta	RP_RPD
+kothai	RB_ALC
+amder	N_NNP
+ki	PR_PRQ
+sohonshilota	JJ
+kome	N_NN
+jache	N_NN
+
+tomae	PR_PRP
+te	PSP
+dekhei	V_VM
+khub	QT_QTF
+bhalo	N_NN
+lege	V_VM
+gelo	V_VAUX
+
+apatoto	JJ
+frnd	N_NN
+hobe	V_VM
+
+Pore	RB_AMN
+onyo	PR_PRP
+kichu	JJ
+vaba	N_NN
+jabe	V_VM
+
+dirgho	V_VM
+nrishongso	RP_RPD
+kichhu	N_NN
+jatona	N_NN
+
+asohayotar	JJ
+abodomito	JJ
+bedona	N_NN
+
+mishe	N_NN
+gelo	V_VM
+raater	V_VAUX
+andhokare	N_NN
+
+proti	N_NN
+niyoto	JJ
+dhorshito	N_NN
+jibon	N_NN
+
+lanchhito	N_NNP
+monushyotter	N_NNP
+bishleshon	N_NNP
+
+abar	JJ
+khoyprapto	N_NN
+holo	V_VM
+
+chupisare	N_NN
+agochore	N_NN
+
+tumi	PR_PRP
+ki	RP_RPD
+ei	DM_DMD
+jheel	N_NN
+pare	N_NST
+ascho	JJ
+
+Tomake	N_NNP
+ebar	N_NNP
+ja	N_NNP
+bolar	N_NNP
+bolei	N_NN
+debo	V_VM
+
+Ekla	N_NN
+thakar	V_VM
+ei	DM_DMD
+meghla	N_NN
+dupur	N_NN
+gulo	N_NN
+asahya	JJ
+lagche	N_NN
+
+a	RD_RDF
+tmk	RD_RDF
+dekhe6ilm	RD_RDF
+
+te	RD_RDF
+
+a	N_NN
+tmk	PR_PRP
+dekhe	V_VM
+r	RD_PUNC
+krte	N_NN
+parlam	N_NN
+na	RP_RPD
+
+gatokal	N_NN
+raate	V_VM
+kharap	N_NN
+hoye	N_NN
+gyachhe	N_NN
+
+apatoto	RD_RDF
+ei	DM_DMD
+korle	N_NNP
+jogajog	N_NNP
+kora	N_NNP
+jabe	N_NN
+
+e	DM_DMD
+bondhu	N_NN
+der	RD_RDF
+adda	N_NN
+dilei	V_VAUX
+hobe	V_VM
+
+dur	QT_QTF
+theke	PSP
+roj	N_NNP
+j	RD_PUNC
+dekhi	V_VM
+kheyal	N_NN
+koro	V_VM
+na	RP_RPD
+
+ami	QT_QTF
+sotti	N_NN
+e	DM_DMD
+tomake	PR_PRP
+prochondo	N_NN
+bhalobasi	N_NN
+
+tumi	PR_PRP
+ektu	QT_QTF
+dustu	N_NN
+gocher	V_VM
+
+tumi	PR_PRP
+ki	PR_PRQ
+aamar	JJ
+jibon	N_NN
+sangini	N_NN
+habe	V_VM
+
+ami	N_NNP
+tomake	PR_PRP
+debo	V_VAUX
+
+tomake	PR_PRP
+sara	N_NN
+jibon	N_NN
+khusi	N_NN
+rakhbo	V_VM
+
+dustu	N_NN
+kotha	RB_ALC
+ta	RP_RPD
+bhashay	N_NN
+bolar	V_VM
+ki	PR_PRQ
+chhilo	V_VM
+
+ek	DM_DMD
+bhin	N_NN
+sahorer	PSP
+ek	DM_DMD
+maajh-bayosi	N_NN
+gaachh	N_NN
+aamar	JJ
+kaaNdhe	N_NN
+taar	N_NN
+paata	JJ
+chhuiye	N_NN
+diye	V_VM
+gechhilo	V_VAUX
+se	PR_PRP
+anek	QT_QTF
+din	RD_RDF
+aage	N_NN
+
+tarpor	CC
+amio	N_NNP
+chole	N_NN
+gechhi	N_NN
+bhin	JJ
+sahore	N_NN
+ami	N_NNP
+sob	N_NNP
+maaper	N_NNP
+juto	N_NNP
+paaye	N_NNP
+golate	N_NNP
+paari	N_NNP
+emato	N_NNP
+chinta	N_NNP
+kore	N_NNP
+amio	N_NNP
+ekdin	RB_ALC
+chole	N_NN
+gechhilam	N_NN
+bhin	JJ
+sahore	N_NN
+
+aamar	JJ
+sahore	N_NN
+sei	DM_DMD
+majh-bayosi	N_NN
+gachh	N_NN
+ta	RP_RPD
+r	RD_PUNC
+nei	V_VM
+nijer	PR_PRF
+bagane	N_NN
+phire	V_VM
+gyachhe	N_NN
+gaachh	N_NN
+seo	PR_PRP
+ekhon	RB_ALC
+anekta	JJ
+buro	N_NN
+hoye	N_NN
+elo	V_VM
+bodhoy	V_VAUX
+
+kintu	CC
+ekdin	RB_ALC
+kotha	RB_ALC
+theke	PSP
+ki	RP_RPD
+ek	RD_RDF
+jor	RD_RDF
+haaoa	N_NN
+dilo	V_VM
+sei	DM_DMD
+gachhtar	N_NN
+paata	JJ
+ure	N_NN
+elo	V_VM
+aamar	JJ
+janla	N_NN
+diye	PSP
+
+aami	N_NN
+baire	N_NN
+takalam	N_NN
+hyago	V_VM
+anekdin	RD_RDF
+por	RD_RDF
+aabar	RD_RDF
+baire	N_NN
+takalam	N_NN
+ami	N_NN
+ebar	CC
+bhabchhi	N_NN
+oi	DM_DMD
+paatar	N_NN
+gandho	N_NN
+shuke	N_NN
+shuke	N_NN
+chole	N_NN
+jabo	V_VM
+taar	CC
+jalpai	N_NN
+bagane	N_NN
+
+Achha	N_NN
+ei	DM_DMD
+prosno	N_NN
+ta	RP_RPD
+ageo	N_NN
+keu	PR_PRP
+korechhe	N_NN
+kina	JJ
+jani	N_NN
+na	V_VM
+
+tobe	RP_RPD
+ei	DM_DMD
+er	RD_RDF
+of	RD_RDF
+dekhe	V_VM
+amar	RB_AMN
+akta	JJ
+prosno	N_NN
+matha	N_NN
+ghurchhe	V_VM
+
+Tumi	N_NN
+ki	PR_PRQ
+er	RD_RDF
+howa	N_NN
+ta	RP_RPD
+beshi	JJ
+niye	PSP
+felechhile	N_NN
+naki	N_NN
+er	RD_RDF
+onyo	CC
+ortho	PR_PRP
+achhe	PSP
+
+Kar	RD_RDF
+opor	RD_RDF
+eto	RD_RDF
+raag	RD_RDF
+toder	RD_RDF
+
+R	RD_PUNC
+ini	PR_PRP
+achen	JJ
+nijer	PR_PRF
+kheyal-e	N_NN
+
+tulte	V_VM
+basto	V_VAUX
+
+Dirgho	RD_RDF
+diner	N_NN
+akotrito	JJ
+er	RD_RDF
+folsorup	RD_RDF
+aj	RD_RDF
+prothom	RD_RDF
+bar	RD_RDF
+r	RD_PUNC
+torof	PR_PRP
+theke	PSP
+der	RD_RDF
+sathe	N_NN
+alochonay	N_NN
+bosa	N_NN
+holo	V_VM
+
+Dirgho	N_NNP
+alochonar	N_NNP
+por	N_NNP
+sikar	N_NNP
+kore	N_NNP
+nilo	N_NNP
+je	N_NNP
+sotti	N_NN
+e	DM_DMD
+gafiloti	N_NN
+royeche	N_NN
+
+sompurono	N_NNP
+ghotonar	N_NN
+todonte	V_VM
+tar	RD_RDF
+e	DM_DMD
+
+Aj	CC
+jodi	N_NNP
+sotti	N_NNP
+e	N_NNP
+amra	N_NNP
+mone	N_NNP
+kortam	N_NNP
+je	N_NNP
+tomader	PR_PRP
+dabi	N_NN
+vittihin	V_VM
+onoitik	CC
+tahole	N_NN
+ami	QT_QTF
+aj	JJ
+dariye	N_NN
+ato	RP_RPD
+kotha	RB_ALC
+tomader	PR_PRP
+sathe	N_NN
+boltam	N_NNP
+
+agami	N_NN
+tarikher	RD_RDF
+e	N_NNP
+sompurno	N_NNP
+ghotonar	N_NNP
+porjalochonar	N_NN
+assas	RD_RDF
+diyechen	RD_RDF
+r	RD_RDF
+nije	PR_PRF
+ese	V_VM
+somosto	JJ
+der	RD_RDF
+samne	N_NN
+
+Emotabosthay	N_NN
+dariye	PSP
+amra	N_NNP
+amoron	N_NNP
+onoson	CC
+multubi	N_NN
+rakhlam	N_NN
+
+Ei	N_NNP
+morme	N_NNP
+amar	N_NNP
+kichu	N_NNP
+kotha	N_NNP
+
+Goto	RD_RDF
+soptaho	N_NNP
+dhore	N_NNP
+je	N_NNP
+je	N_NNP
+byaktigon	N_NN
+take	N_NN
+nijeder	PR_PRF
+korechilan	N_NNP
+r	RD_PUNC
+andolon	RD_RDF
+gunda	N_NNP
+giri	N_NNP
+der	RD_RDF
+ei	DM_DMD
+boktobbo	N_NN
+procharer	N_NN
+uddyesse	N_NN
+tader	N_NN
+kache	V_VM
+onurodh	V_VAUX
+akbar	N_NNP
+apnara	N_NNP
+r	RD_PUNC
+ti	QT_QTF
+pore	N_NN
+dekhben	V_VM
+
+Tar	RD_RDF
+por	RD_RDF
+o	CC
+jodi	N_NNP
+mone	N_NN
+hoy	V_VM
+r	RD_PUNC
+andolon	RD_RDF
+onoitik	RD_RDF
+amake	N_NNP
+korben	N_NNP
+
+Tenara	N_NNP
+joto	N_NNP
+boroi	N_NNP
+RAJNITI	N_NNP
+BID	RD_RDF
+hon	V_VM
+na	RP_RPD
+kano	JJ
+er	DM_DMD
+ovab	DM_DMD
+ache	JJ
+bolei	N_NN
+amar	RB_AMN
+bodh	RB_AMN
+hoy	V_VM
+aro	QT_QTF
+kichu	QT_QTF
+kotha	QT_QTF
+tader	JJ
+uddesse	N_NN
+bolar	N_NNP
+chilo	N_NNP
+nehat	N_NNP
+tai	QT_QTF
+marjona	N_NN
+korlam	RD_RDF
+
+r	RD_PUNC
+kothay	RB_ALC
+nachben	N_NNP
+na	N_NNP
+
+tomar	PR_PRP
+ta	RP_RPD
+kal	RD_RDF
+chete	N_NN
+pute	N_NN
+dekhlam	V_VM
+
+valo	V_VM
+laglo	V_VAUX
+besh	JJ
+
+khbr	JJ
+pelam	N_NN
+bandhobir	N_NN
+kache	N_NN
+patri	N_NN
+khojar	N_NN
+abdar	N_NN
+korcho	V_VM
+
+jodi	N_NNP
+dujoner	QT_QTF
+dujon	N_NN
+k	RD_PUNC
+valo	N_NN
+lage	PSP
+porer	N_NN
+golpo	N_NN
+pore	N_NN
+bhebe	V_VM
+dakha	N_NN
+jabe	V_VM
+
+tumi	PR_PRP
+aj	RD_RDF
+kal	RD_RDF
+baba	N_NN
+dewa	N_NN
+chere	N_NN
+deacho	V_VM
+tai	PR_PRP
+tomar	PR_PRP
+hoye	N_NN
+ami	N_NN
+e	PSP
+dilam	RD_RDF
+
+na	RP_RPD
+golpo	N_NN
+
+tomar	PR_PRP
+ki	RP_RPD
+doya	N_NN
+hoy	V_VM
+na	RP_RPD
+
+Chhoto	N_NN
+Mamima	N_NN
+Masi	N_NN
+
+Dada	N_NNP
+dada	N_NNP
+amar	N_NNP
+ki	PR_PRQ
+kono	QT_QTF
+ache	JJ
+
+Ektao	N_NN
+nei	V_VM
+
+Tahole	V_VM
+ki	PR_PRQ
+ami	PR_PRP
+chole	N_NN
+jabo	V_VM
+
+6ghanta	N_NN
+chhilo	V_VAUX
+
+bhalo	N_NN
+achhi	JJ
+
+Jibonta	JJ
+boroi	N_NN
+berongin	V_VM
+lagche	V_VAUX
+
+keu	PR_PRP
+ki	RP_RPD
+amake	N_NNP
+sahajjer	JJ
+hath	N_NN
+barabe	V_VM
+
+Bangalitto	N_NN
+dekhale	V_VAUX
+ki	PR_PRQ
+ek	PR_PRP
+ghore	N_NN
+hote	V_VM
+habe	V_VAUX
+
+eta	QT_QTF
+amar	QT_QTF
+birat	JJ
+ekta	JJ
+proshno	N_NN
+
+Jodi	N_NNP
+hote	N_NN
+hoy	V_VM
+seta	JJ
+keno	N_NNV
+
+manush	N_NN
+to	RP_RPD
+age	N_NN
+nijeke	PR_PRF
+chene	N_NN
+jane	N_NN
+valo	V_VM
+kore	N_NNP
+
+nijer	PR_PRF
+take	N_NN
+bojhe	V_VM
+naki	N_NN
+
+seta	PR_PRP
+ki	PR_PRQ
+oi	DM_DMD
+te	PSP
+maal	RD_RDF
+ar	RD_RDF
+khaoa	N_NN
+diyei	PSP
+simabaddho	N_NNP
+
+hote	V_VM
+parena	V_VAUX
+to	RP_RPD
+seta	JJ
+
+ki	PR_PRQ
+hote	V_VM
+habe	V_VAUX
+amake	N_NNP
+
+udar	N_NN
+
+Biswa	JJ
+majhe	N_NN
+bilin	N_NN
+
+ei	DM_DMD
+kore	N_NN
+kore	N_NN
+jater	N_NN
+moto	JJ
+atmogorima	N_NN
+hariye	V_VM
+aaj	RD_RDF
+toh	RD_RDF
+sarbosso	N_NN
+khoyate	V_VM
+boslo	N_NNP
+jaat	N_NNP
+ta	RP_RPD
+
+er	DM_DMD
+poreo	N_NN
+aar	RD_RDF
+katokal	N_NN
+eivabe	V_VM
+cholbe	V_VAUX
+
+vabte	V_VM
+ki	PR_PRQ
+khub	QT_QTF
+lojja	N_NN
+kore	N_NNP
+amader	N_NNP
+nijeke	N_NNP
+
+voy	RD_RDF
+kore	N_NN
+
+gelo	V_VM
+koi	QT_QTF
+
+bolechilen	V_VM
+ke	PR_PRQ
+banaben	RD_RDF
+
+ami	N_NNP
+vabtei	N_NN
+parchi	N_NN
+na	RP_RPD
+
+amra	N_NNP
+er	PR_PRP
+dhare	PSP
+khelbo	N_NN
+
+Tobe	N_NNP
+Didi	N_NNP
+gulo	N_NN
+ke	PR_PRQ
+chalio	V_VM
+na	RP_RPD
+
+amra	N_NNP
+sadharon	N_NNP
+manus	N_NNP
+oto	N_NNP
+nite	N_NNP
+parbo	N_NNP
+na	N_NNP
+
+e	DM_DMD
+bochor	N_NN
+chere	N_NN
+beriye	V_VM
+jabo	V_VAUX
+
+Dhuklam	RD_RDF
+berobo	V_VM
+
+Keu	PR_PRP
+ki	PR_PRQ
+acho	JJ
+
+Amar	PR_PRP
+jonyo	V_VM
+
+Jar	RD_RDF
+sathe	N_NN
+jabo	V_VM
+hukah	N_NN
+e	PR_PRP
+nachbo	V_VM
+
+Keu	PR_PRP
+to	RP_RPD
+eso	V_VM
+
+Hukah	RD_RDF
+bar	RD_RDF
+e	DM_DMD
+nacha	N_NN
+jaay	N_NN
+na	RP_RPD
+
+ki	PR_PRQ
+
+toh	RD_RDF
+a6e	N_NN
+ble	V_VM
+
+Somoy	RD_RDF
+khub	RD_RDF
+kharap	N_NN
+jachhe	N_NN
+
+sotti	N_NNP
+dosha	N_NN
+cholche	N_NN
+
+kaan	N_NN
+dhore	N_NN
+gorur	JJ
+pith	N_NN
+theke	PSP
+namate	N_NN
+hoy	V_VM
+
+saradin	N_NNP
+te	PSP
+giye	N_NN
+khele	V_VAUX
+r	RD_PUNC
+nijer	PR_PRF
+roop	N_NN
+diye	PSP
+cheleder	N_NN
+mone	N_NN
+agun	N_NN
+lagale	N_NN
+hobe	V_VM
+
+atodn	RD_RDF
+ato	JJ
+meye	N_NN
+dekhlm	V_VM
+tomar	RD_RDF
+moton	RD_RDF
+rupoboti	N_NN
+sundori	JJ
+konna	QT_QTF
+ami	QT_QTF
+aktao	N_NN
+dekhni	V_VM
+
+Chhoto	JJ
+Dida	N_NN
+Sejo	N_NNP
+Dida	N_NNP
+
+dada	N_NN
+
+ami	N_NNP
+jani	N_NN
+tumi	PR_PRP
+kintu	CC
+koekta	JJ
+6otto	RD_RDF
+
+dekho	V_VM
+eta	QT_QTF
+bolbo	N_NNP
+na	N_NNP
+amr	N_NNP
+ma	N_NNP
+baba	N_NNP
+amai	N_NNP
+etodur	N_NNP
+ante	N_NNP
+kosto	N_NNP
+korenni	N_NNP
+
+kintu	CC
+jodi	N_NNP
+tumi	PR_PRP
+ingit	N_NN
+diye	PSP
+thaako	N_NNP
+je	N_NNP
+njer	N_NNP
+bhalomondo	N_NN
+nije	PR_PRF
+bujhina	V_VM
+
+ami	N_NNP
+bolbo	N_NNP
+je	N_NNP
+tumi	PR_PRP
+amai	JJ
+chenona	N_NN
+amr	RD_RDF
+kivbe	N_NN
+kete6e	N_NN
+tao	N_NN
+jannona	N_NN
+taina	N_NN
+
+ekhkr	RB_ALC
+ja	N_NN
+dinkaal	N_NN
+baba	N_NN
+ma	N_NN
+khuje	N_NN
+pabenna	JJ
+
+thikkore	N_NN
+
+karon	V_VM
+sekhane	RB_ALC
+jara	N_NN
+asbe	N_NN
+tara	N_NN
+amar	N_NNP
+noi	N_NNP
+
+dekeh	V_VM
+asbe	V_VAUX
+
+ekhono	RB_ALC
+porjonto	N_NN
+nijer	PR_PRF
+dayitto	N_NN
+nijei	PR_PRF
+samlie6i	N_NN
+
+nijer	PR_PRF
+bhalomondo	N_NN
+nijei	PR_PRF
+nie6i	JJ
+
+ki6u	N_NNP
+thik	N_NNP
+hoe6e	N_NNP
+ki6u	N_NNP
+bhul	N_NNP
+KINTU	$
+TOMAR	$
+ARO	$
+BARALO	$
+BOI	$
+KOMALONA	$
+
+ANANDA	N_NN
+KAR	V_VM
+
+HESHE	RD_RDF
+KHAN	RD_RDF
+KHAN	RD_RDF
+
+HASHBOBOLE	RD_RDF
+ASLAM	RD_RDF
+
+MUKHTULE	RD_RDF
+HASHITUNGE	RD_RDF
+
+HASTE	RD_RDF
+SEKH	RD_RDF
+
+KOCHI	N_NNP
+HASHI	N_NNP
+
+OMAA	N_NN
+OMAA	N_NN
+HASHBOITO	V_VM
+
+KAKABHASHE	RD_RDF
+KAKIHASHE	RD_RDF
+
+OMAAL	RD_RDF
+HASHLO	RD_RDF
+
+HESHETO	RD_RDF
+FELINI	N_NN
+
+HASHBONA	N_NN
+BOLISKI	N_NN
+
+Kenya	N_NN
+OHASHIR	N_NNP
+DAAMDE	N_NNP
+
+JAA	$
+HASH	$
+LEE	$
+
+sab	PR_PRP
+jhakjhake	N_NN
+chokchoke	N_NN
+lokjon	N_NN
+
+khali	N_NN
+taka	N_NN
+taka	N_NN
+taka	N_NN
+
+podaboli#	N_NN
+brishti	N_NN
+takhon	RB_ALC
+nemechhilo	V_VM
+e	DM_DMD
+shohore	N_NN
+megher	JJ
+rajye	N_NN
+cholchhilo	JJ
+lukochuri	N_NN
+jure	N_NN
+jolchhobi	N_NN
+anaka	JJ
+chokhe	N_NN
+kajolkalo	V_VM
+bidhyut	N_NN
+fuljhuri	N_NN
+jahok	N_NN
+naa	N_NN
+keno	N_NNV
+chai	N_NN
+shudhu	RB_AMN
+ek	PR_PRP
+nirapod	JJ
+ashroy	N_NN
+nil	JJ
+bosona	N_NN
+premika	N_NN
+jokhon	N_NN
+mugdho	N_NN
+hridoy	N_NN
+aro	QT_QTF
+nirbhik	N_NN
+hoy	V_VM
+norom	V_VAUX
+thnot	CC
+brishtikonay	N_NN
+sikto	V_VM
+
+e	DM_DMD
+tai	QT_QTF
+neshatur	N_NN
+pelobota	JJ
+roye	N_NN
+jawa	N_NN
+kichhu	QT_QTF
+ashrur	JJ
+itikatha	N_NN
+anuchharito	JJ
+nirobota	JJ
+ebhabei	RB_ALC
+gori	N_NN
+premer	N_NN
+khondochitro	V_VM
+prem	N_NN
+chirokal	N_NN
+hoy	V_VM
+anaka	JJ
+hok	V_VM
+naa	RP_RPD
+sthan	JJ
+kimba	N_NN
+somoy	N_NN
+bhinno	JJ
+kkhoti	N_NN
+ki	PR_PRQ
+jodi	N_NNP
+Abhisaar	N_NNP
+hoy	V_VM
+lekha	N_NN
+
+Hotat	RD_RDF
+mone	N_NN
+pore	N_NN
+gelo	V_VM
+er	$
+
+er	RD_RDF
+din	RD_RDF
+pujo	N_NN
+
+Rat	RD_RDF
+jege	N_NN
+pandel	JJ
+tairi	N_NN
+der	RD_RDF
+upor	N_NN
+dadagiri	N_NN
+thakur	RD_RDF
+ante	N_NN
+jaoa	N_NN
+e	DM_DMD
+prem	N_NN
+kora	N_NNP
+adda	N_NN
+nach	N_NN
+bawali	N_NN
+thakur	RD_RDF
+vasan	RD_RDF
+sidhhi	N_NNP
+kheye	N_NN
+tally	N_NN
+hoa	V_VM
+nie	V_VM
+karakari	V_VAUX
+
+ki	PR_PRQ
+rate	V_VM
+a	RD_PUNC
+pujo	N_NN
+archona	N_NN
+chalu	JJ
+hoyechhe	N_NN
+vai	QT_QTF
+
+r	RD_PUNC
+
+tor	PR_PRP
+dui	QT_QTF
+chokhe	N_NN
+jadu	N_NN
+ache	JJ
+seta	N_NN
+ki	PR_PRQ
+tui	PR_PRP
+janis	PSP
+
+toke	PR_PRP
+biye	N_NN
+korte	N_NN
+chai	N_NN
+
+Ami	PR_PRP
+jani	V_VM
+tumi	PR_PRP
+ke	PR_PRQ
+
+r	RD_PUNC
+tomake	PR_PRP
+aami	N_NN
+jedin	N_NN
+dekhechi	V_VM
+sedin	RB_ALC
+thekei	PSP
+sudhu	JJ
+tomay	N_NN
+niyei	PSP
+bhabchii	N_NN
+janina	N_NN
+tumi	PR_PRP
+hoito	V_VM
+hole	V_VM
+amay	N_NN
+ekta	JJ
+khobor	N_NN
+diyo	V_VM
+
+amar	N_NNP
+jonyo	N_NNP
+na	N_NNP
+
+amar	RD_RDF
+ek	RD_RDF
+er	RD_RDF
+jonyo	N_NNP
+bolchi	N_NNP
+
+tomader	PR_PRP
+dujon	N_NN
+ke	PR_PRQ
+hebby	JJ
+manabe	N_NN
+eksathe	N_NN
+
+daoa	N_NN
+bolchi	N_NNP
+na	N_NNP
+tumi	PR_PRP
+
+tumi	PR_PRP
+r	RD_PUNC
+dile	V_VAUX
+amake	N_NNP
+er	RD_RDF
+majhei	N_NN
+bar	RD_RDF
+bar	RD_RDF
+e	DM_DMD
+dourate	N_NN
+hobe	V_VM
+
+kon	DM_DMQ
+bole	V_VM
+dite	V_VAUX
+parte	N_NN
+bhai	N_NN
+
+tomader	PR_PRP
+ta	$
+r	$
+kortam	$
+na	$
+konodin	$
+
+Sejo	N_NNP
+Mamoni	N_NNP
+pashe	N_NN
+
+Ami	PR_PRP
+konodin	DM_DMD
+toke	PR_PRP
+vulte	N_NN
+prbona	N_NN
+
+Tui	QT_QTF
+amk	RD_RDF
+kor	RD_RDF
+na	RP_RPD
+kor	RD_RDF
+
+ami	N_NNP
+kono	QT_QTF
+khilli	N_NN
+marchina	N_NN
+
+beshi	JJ
+na	N_NN
+
+duto	QT_QTF
+chele	N_NN
+r	RD_PUNC
+duto	QT_QTF
+meye	N_NN
+
+chelera	N_NN
+tomar	PR_PRP
+moto	JJ
+hobe	V_VM
+r	RD_PUNC
+meyera	N_NNP
+amar	N_NNP
+
+amake	N_NNP
+firiye	V_VM
+dio	V_VAUX
+na	N_NNP
+sona	N_NNP
+
+jodi	N_NNP
+amake	N_NNP
+biyeo	N_NNP
+nao	N_NNP
+koro	N_NNP
+nei	V_VM
+
+akhn	RD_RDF
+i	N_NNP
+thake	N_NNP
+
+tumi	PR_PRP
+seta	JJ
+jano	JJ
+
+sokale	V_VAUX
+
+Subha	N_NNP
+antorik	N_NN
+preti	N_NN
+o	CC
+suvecha	N_NN
+sobai	N_NN
+k	RD_PUNC
+
+Olos	RD_RDF
+somoy	N_NN
+boye	N_NN
+choleche	N_NN
+
+tok	PR_PRP
+chara	N_NN
+boroi	N_NNP
+eka	QT_QTF
+bhujte	N_NN
+parchi	N_NN
+aj	PSP
+se	PR_PRP
+kotha	RB_ALC
+
+katche	N_NN
+jibon	V_VM
+cholche	N_NN
+sobi	N_NN
+agr	RD_RDF
+moton	RD_RDF
+
+tobu	N_NNP
+ami	N_NNP
+darie	N_NN
+eka	QT_QTF
+khujchi	N_NN
+tok	PR_PRP
+bokar	N_NNP
+moton	N_NNP
+
+se	PR_PRP
+dupurbela	N_NN
+tok	PR_PRP
+jorie	N_NN
+dhore	N_NN
+nouko	JJ
+chora	N_NN
+pechoner	N_NNP
+nirjon	JJ
+goli	N_NN
+te	PSP
+tor	PR_PRP
+amake	N_NNP
+ador	N_NNP
+kora	N_NNP
+
+vulei	N_NN
+giechilm	V_VM
+esob	V_VAUX
+diner	V_VAUX
+kotha	RB_ALC
+
+tobe	PR_PRP
+aj	DM_DMD
+kano	JJ
+porche	N_NN
+mone	N_NN
+
+vijche	N_NN
+kano	JJ
+chokher	N_NN
+pata	N_NN
+
+tok	PR_PRP
+chara	N_NN
+boroi	N_NNP
+eka	QT_QTF
+bhujte	N_NN
+parchi	N_NN
+aj	PSP
+se	PR_PRP
+kotha	RB_ALC
+
+female	V_VAUX
+
+tumi	PR_PRP
+kathberalir	N_NN
+moto	N_NN
+dushtu	QT_QTF
+
+bhaggis	N_NN
+kathberali	N_NN
+bolechhe	V_VM
+sudhu	JJ
+beral	V_VM
+boleni	V_VM
+
+paash	N_NN
+phire	V_VM
+shuyechhe	V_VAUX
+ek	DM_DMD
+pakhi	N_NN
+
+paash	N_NN
+phire	V_VM
+bosena	V_VAUX
+se	DM_DMD
+uthone	N_NN
+
+komore	N_NN
+taar	N_NN
+saada	N_NN
+jhokjhoke	N_NN
+tarobaari	N_NN
+
+meghera	N_NN
+jhup	N_NN
+kore	N_NN
+esechhe	V_VM
+shaakhay	N_NN
+padokkhepe	N_NN
+
+paash	N_NN
+phire	V_VM
+haawar	V_VAUX
+moddhe	PSP
+chole	N_NN
+gyachhe	N_NN
+taara	N_NN
+
+ei	DM_DMD
+to	RP_RPD
+prothom	N_NN
+ei	DM_DMD
+to	RP_RPD
+prothombaar	N_NNP
+
+shraaboner	N_NN
+rong	RD_RDF
+tomar	RD_RDF
+mukher	RD_RDF
+mato	RP_RPD
+
+KAJAL	N_NNP
+
+Uff	RD_RDF
+
+koto	RB_ALC
+taratari	N_NN
+sob	QT_QTF
+satano	JJ
+jai	N_NN
+
+Ayena	N_NNP
+amar	N_NNP
+chhade	N_NN
+cholna	N_NN
+eksathe	N_NN
+
+Rakhna	N_NN
+sahos	PSP
+kore	RB_AMN
+tor	PR_PRP
+matha	N_NN
+amar	JJ
+kandhe	N_NN
+
+dekhis	V_VM
+Tui	V_VAUX
+
+tor	PR_PRP
+sathe	N_NN
+vije	N_NN
+Mon	RD_RDF
+haraboi	N_NNP
+
+Eta	JJ
+ki	PR_PRQ
+
+sei	DM_DMD
+khilli	N_NN
+
+nake	N_NN
+aamar	JJ
+pora	N_NN
+picher	N_NN
+gandho	V_VM
+buke	N_NN
+kalo	N_NN
+dhoa	N_NN
+haate	V_VM
+paaye	N_NN
+shudhui	RB_AMN
+abokkhoy	JJ
+
+tobu	N_NNP
+kashte	N_NN
+kashte	N_NN
+ekhono	RB_ALC
+je	N_NN
+haste	V_VM
+pari	JJ
+bhalobaste	N_NN
+nijer	PR_PRF
+kachhe	N_NN
+nijeri	PR_PRF
+bissoy	N_NN
+
+korbo	N_NNP
+je	N_NNP
+r	RD_PUNC
+kato	QT_QTF
+ghenna	N_NN
+nijei	PR_PRF
+nijer	PR_PRF
+chhayatake	N_NN
+korbo	N_NNP
+je	N_NNP
+r	RD_PUNC
+kato	QT_QTF
+apoman	RD_RDF
+
+aabar	RD_RDF
+to	RP_RPD
+sei	DM_DMD
+aasteprishthe	N_NN
+joriye	V_VM
+nijer	PR_PRF
+chhayatake	N_NN
+gaaibo	N_NN
+aami	N_NN
+bhalobasar	N_NN
+gaan	N_NN
+
+eso	PR_PRP
+aamar	JJ
+ghore	N_NN
+ekbaar	RB_ALC
+
+tumi	PR_PRP
+eso	PR_PRP
+aamar	JJ
+ghore	N_NN
+ekbaar	RB_ALC
+
+paaro	JJ
+jodi	N_NN
+dekhe	V_VM
+jeo	N_NN
+beche	V_VM
+thaka	JJ
+kaare	N_NN
+bole	N_NN
+
+tumi	PR_PRP
+eso	PR_PRP
+aamar	JJ
+sahore	N_NN
+ekbaar	RB_ALC
+
+jodio	N_NN
+vishon	RD_RDF
+apochander	RD_RDF
+chhobi	N_NN
+eta	QT_QTF
+
+sokale	N_NN
+ghum	N_NN
+theke	PSP
+uthe	N_NN
+ek	DM_DMD
+
+da	N_NNP
+tomake	PR_PRP
+lage	V_VAUX
+
+Khali	N_NN
+sathe	N_NN
+ghurle	V_VM
+hobe	V_VAUX
+
+Edikeo	N_NNP
+ektu	N_NNP
+takao	N_NNP
+
+Pagli	N_NN
+
+chal	JJ
+palie	N_NN
+jaai	N_NN
+
+Tumi	N_NNP
+amar	N_NNP
+k	RD_PUNC
+khilli	N_NN
+bolle	V_VM
+
+besh	CC
+korecho	N_NNP
+
+jayi	N_NN
+hok	V_VM
+khub	V_VAUX
+shiggri	N_NNP
+janben	N_NNP
+apni	N_NNP
+ami	N_NNP
+k	RD_PUNC
+
+r	RD_PUNC
+boi	V_VM
+kortei	N_NN
+paren	N_NST
+
+korata	RB_AMN
+kichu	JJ
+khetre	N_NN
+tobey	PR_PRP
+taar	N_NN
+jonno	JJ
+agye	N_NN
+nijer	PR_PRF
+mathar	RP_RPD
+modhyer	JJ
+jaa	N_NN
+taa	N_NN
+katate	V_VM
+hoy	V_VAUX
+j	RD_PUNC
+
+Dekha	N_NN
+jak	N_NN
+shesh	N_NST
+porto	N_NN
+tor	RD_RDF
+hoy	RD_RDF
+kina	JJ
+
+Alto	JJ
+paye	N_NN
+chorano	JJ
+poth	N_NN
+vije	N_NNP
+aina	N_NNP
+
+ei	DM_DMD
+sohor	N_NN
+abcha	N_NN
+vor	RD_RDF
+ter	RD_RDF
+pai	N_NN
+na	RP_RPD
+
+jol	RD_RDF
+tuptup	RD_RDF
+paye	N_NN
+chondo	N_NN
+rattir	N_NNP
+jui	N_NNP
+ful	N_NNP
+
+hate	V_VM
+hat	V_VAUX
+rekhe	V_VM
+aluk	N_NNP
+sopne	N_NNP
+mosgul/agochalo	N_NNP
+mon	N_NNP
+
+nemeche	V_VM
+megh	JJ
+thoi	N_NN
+thoi	N_NN
+jhorna	N_NN
+
+R	RD_PUNC
+koto	N_NNP
+
+ebar	CC
+khoma	N_NN
+karo	V_VM
+
+Amai	PR_PRP
+tane	N_NN
+rat	RD_RDF
+jagano	RD_RDF
+din	RD_RDF
+
+amai	JJ
+tane	N_NN
+gurho	V_VM
+ondhokar	V_VAUX
+
+amr	RD_RDF
+ghum	N_NN
+venge	PSP
+hotat	N_NN
+khule	V_VM
+jai	N_NNP
+modhyo	N_NNP
+ratrir	N_NNP
+bondho	N_NNP
+daar	N_NNP
+
+a	N_NN
+kaje	V_VM
+lagbe	V_VAUX
+
+Gorome	N_NNP
+chotfot	N_NNP
+
+puchku	N_NN
+
+chhele	N_NN
+tir	QT_QTF
+naam	N_NN
+ta	RP_RPD
+anobodyo	JJ
+
+na	RP_RPD
+kore	RB_AMN
+parlam	N_NN
+na	RP_RPD
+
+gulo	N_NN
+chorom	N_NN
+
+Jai	QT_QTF
+jai	N_NN
+bolleo	V_VAUX
+sobta	JJ
+jai	N_NN
+na	V_VM
+kichu	N_NN
+thakei	V_VM
+
+tar	PR_PRP
+e	DM_DMD
+nam	N_NN
+jibon	V_VM
+
+jodi	N_NNP
+bola	N_NNP
+jeto	N_NNP
+
+ami	N_NNP
+kono	QT_QTF
+habo	V_VM
+etai	QT_QTF
+amar	RD_RDF
+
+Brishti	N_NN
+Tumi	N_NN
+ajhor	JJ
+hoye	N_NN
+
+sukno	JJ
+pothe	N_NN
+jhoro	V_VM
+
+swapno	N_NNP
+gulo	N_NNP
+jure	N_NNP
+jure	N_NNP
+
+dhulor	N_NNP
+soudho	N_NNP
+goro/	N_NNP
+vije	N_NNP
+saree	N_NN
+joriye	N_NN
+gaye	N_NN
+
+amar	N_NNP
+kamol	JJ
+lata	N_NN
+
+dheer	N_NN
+paye	N_NN
+kore	N_NN
+jay	N_NN
+
+jiboner	JJ
+samjhota/	N_NN
+Brishti	N_NN
+tomar	PR_PRP
+jhore	N_NN
+pora	N_NN
+ujar	N_NNP
+kora	N_NNP
+mone	N_NNP
+
+snigdhota	JJ
+makhiye	N_NN
+rakhuk	N_NN
+
+bishanno	N_NNP
+joubone/	N_NNP
+pichhle	N_NN
+giye	V_VM
+achhar	JJ
+khaoa	N_NN
+
+dekhte	V_VM
+pichhon	N_NNP
+fire/	N_NNP
+Brishti	N_NNP
+Jodi	N_NNP
+banvasi	N_NN
+hao	V_VM
+
+hoyo	N_NNP
+nahoy	N_NNP
+jatno	N_NNP
+kore	N_NNP
+
+maar	N_NN
+mukhe	N_NN
+sunechhi	N_NNP
+
+hoto	V_VM
+takhon	RB_ALC
+
+modhyoraat	JJ
+a	N_NN
+nihshabdo	JJ
+uttor	N_NN
+ek	RD_RDF
+golir	RD_RDF
+modhyo	N_NN
+diye	PSP
+onar	N_NNP
+gaari	N_NNP
+korto	N_NNP
+uddyeshye	N_NN
+
+garir	N_NN
+te	PSP
+bose	N_NN
+thaka	JJ
+abostha	N_NN
+tei	V_VM
+korte	N_NNP
+korte	N_NNP
+jeten	N_NNP
+uni	PR_PRP
+
+gaarir	N_NNP
+vetor	N_NNP
+theke	PSP
+vese	V_VM
+asto	JJ
+pobitro	N_NN
+dhup	N_NN
+dhuno-r	JJ
+gandho	N_NN
+
+er	DM_DMD
+kachher	DM_DMD
+sei	DM_DMD
+golir	JJ
+upor	N_NN
+mayeder	N_NN
+bari	V_VM
+chhilo	V_VAUX
+
+vai	N_NNP
+bonera	N_NNP
+sobai	N_NNP
+mile	N_NNP
+majhraat	N_NNP
+a	N_NN
+baranday	N_NN
+uthe	N_NN
+dariye	N_NN
+thakto	V_VM
+
+onyo	N_NNP
+bari	N_NNP
+guloteo	N_NN
+sobai	N_NN
+thakto	V_VM
+
+dekhbe	V_VM
+bole	N_NN
+
+pore	N_NN
+te	PSP
+sunto	JJ
+sobai	N_NN
+
+Maa	N_NNP
+konodin	N_NNP
+koreni	N_NNP
+sunte	N_NNP
+
+ki	PR_PRQ
+jadu	N_NN
+ache	JJ
+janina	N_NN
+konthe	N_NN
+
+tobe	RB_AMN
+sesher	PR_PRP
+dikta	JJ
+jakhon	N_NN
+kende	N_NN
+felen	V_VM
+uni	PR_PRP
+path	N_NNP
+korte	N_NNP
+korte	N_NNP
+takhon	RB_ALC
+emon	DM_DMD
+kono	DM_DMD
+ache	PSP
+kina	JJ
+janina	N_NN
+jaar	N_NN
+bukta	JJ
+mochor	N_NN
+diye	V_VM
+othena	V_VAUX
+
+ta	RP_RPD
+jeno	N_NNP
+atmosamorponer	N_NNP
+
+issh	N_NNP
+sokal	N_NNP
+theke	PSP
+kichhui	N_NN
+to	RP_RPD
+likhte	V_VM
+parlam	V_VAUX
+na	RP_RPD
+kintu	CC
+ichchhe	N_NN
+korle	V_VAUX
+anek	QT_QTF
+kichhui	QT_QTF
+lekha	N_NN
+jeto	N_NNP
+jyamon	N_NNP
+Chumu	N_NN
+Prem	RD_RDF
+Shorir	RD_RDF
+
+ta'hole	N_NN
+osob	CC
+lekha	N_NN
+gyalo	V_VM
+kothay	RB_ALC
+
+roddure	N_NNP
+roddure	N_NNP
+shukiye	N_NNP
+kaath	N_NNP
+hochchhe	N_NNP
+swapno	N_NNP
+
+tumi	PR_PRP
+bhabchho	N_NN
+dhuss	JJ
+
+ayatosob	RB_AMN
+hochchhe	V_VM
+athocho	CC
+ki	PR_PRQ
+ichchhe	N_NN
+korle	N_NN
+chumu	N_NN
+khete	V_VM
+parto	V_VAUX
+na	RP_RPD
+
+Puja	N_NN
+
+Babu	RD_RDF
+
+Shanto	RD_RDF
+rat	RD_RDF
+
+Ekposhla	N_NNP
+akal	N_NNP
+brishtir	N_NNP
+por	N_NNP
+sob	N_NNP
+dhoya	N_NN
+mocha	N_NN
+porichhonota	JJ
+charidike	N_NN
+
+kintu	CC
+mon	N_NNP
+kamon	N_NNP
+kora	N_NNP
+rat	N_NNP
+amar	N_NNP
+ashpasher	N_NNP
+flabarite	N_NNP
+andhokar	RD_RDF
+ar	RD_RDF
+shanti	N_NN
+
+amar	N_NNP
+ghum	N_NNP
+na	N_NNP
+asa	N_NNP
+rat	N_NNP
+
+valo	V_VM
+na	RP_RPD
+thaka	JJ
+mone	N_NN
+maa	N_NN
+ke	PR_PRQ
+joriye	N_NNP
+soyar	N_NNP
+arti	N_NN
+chepechupe	N_NN
+thaki	N_NN
+jani	V_VM
+ai	DM_DMD
+jibon	V_VM
+jamakapor	V_VM
+
+se	PR_PRP
+sob	RP_RPD
+to	RP_RPD
+ai	DM_DMD
+arti	N_NN
+gulor	JJ
+binimoyei	N_NN
+paoya	N_NN
+tabu	CC
+barbar	CC
+kano	JJ
+atripti	N_NN
+kure	N_NN
+kure	N_NN
+khay	N_NN
+ghun	V_VM
+pokar	V_VAUX
+moto	N_NNP
+amar	N_NNP
+Eka	N_NNP
+ghum	N_NNP
+na	N_NNP
+aasa	N_NNP
+rat	N_NNP
+
+bochor	N_NNP
+dui	QT_QTF
+age	RD_RDF
+a	N_NN
+chul	N_NN
+katate	V_VM
+gea	V_VAUX
+okhankar	RD_RDF
+lokeder	RD_RDF
+ta	RP_RPD
+sunechilam	JJ
+aj	DM_DMD
+bolchi	N_NN
+golpo	N_NN
+ta	RP_RPD
+
+a	RD_RDF
+2jon	RD_RDF
+2jon	RD_RDF
+r	RD_RDF
+amk	RD_RDF
+nea	$
+5jon	$
+
+ta	RP_RPD
+bolche	N_NN
+aj	RD_RDF
+kal	RD_RDF
+kajer	RD_RDF
+bajar	N_NN
+khub	QT_QTF
+kharap	N_NN
+hater	$
+kaj	$
+na	$
+janle	N_NN
+pet	V_VM
+chalano	V_VAUX
+muskil	N_NN
+
+tokhn	RD_RDF
+biri	N_NN
+tene	V_VM
+bole	N_NN
+utlo	N_NN
+KI	RD_RDF
+BOLCHEN	RD_RDF
+DADA	N_NN
+AJ	RD_RDF
+KAL	RD_RDF
+DER	RD_RDF
+OBDI	RD_RDF
+CHAKRI	RD_RDF
+NEI	RD_RDF
+
+JANEN	$
+NA	$
+SOB	$
+ER	$
+GULO	$
+K	$
+THEKE	$
+VAGIA	$
+DILO	$
+
+tokhn	RD_RDF
+bollo	N_NNP
+kano	N_NNP
+
+lokta	JJ
+abr	JJ
+bola	N_NN
+korlo	V_VM
+AREH	$
+JANO	$
+NA	$
+AKHN	$
+MANE	RD_RDF
+CHOTO	RD_RDF
+BAJARE	RD_RDF
+CHOLE	RD_RDF
+ASAR	RD_RDF
+POR	RD_RDF
+BORO	RD_RDF
+R	RD_RDF
+CHOLCHE	RD_RDF
+NA	RD_RDF
+AGE	RD_RDF
+BORO	RD_RDF
+BANANO	RD_RDF
+R	RD_RDF
+SARANO	RD_RDF
+NEA	RD_RDF
+J	RD_RDF
+SOB	RD_RDF
+CHELERA	RD_RDF
+PORASUNO	RD_RDF
+KORECHILO	RD_RDF
+TARA	N_NN
+TO	RD_RDF
+CHOTO	RD_RDF
+BANATE	RD_RDF
+SARATE	RD_RDF
+PARCHE	RD_RDF
+NA	RD_RDF
+R	RD_RDF
+AKHN	RD_RDF
+NOTUN	RD_RDF
+LOK	RD_RDF
+DORKAR	RD_RDF
+
+R	RD_RDF
+AMADER	RD_RDF
+EKHANE	RD_RDF
+OI	RD_RDF
+SOB	RD_RDF
+AKHN	RD_RDF
+O	RD_RDF
+SEKHANO	RD_RDF
+CHALU	RD_RDF
+KORENI	N_NN
+
+BYASS	RD_RDF
+SOB	RD_RDF
+BEKAR	RD_RDF
+HOYE	RD_RDF
+BOSE	RD_RDF
+ACHE	RD_RDF
+
+abr	RD_RDF
+jiges	RD_RDF
+korlo	RP_RPD
+ta	RP_RPD
+eder	PR_PRP
+akhn	N_NNP
+ki	PR_PRQ
+hobe	V_VM
+
+tokhn	PR_PRP
+lokta	JJ
+bole	N_NN
+KI	RD_RDF
+R	RD_RDF
+HOBE	RD_RDF
+THEKE	RD_RDF
+ESE	RD_RDF
+TE	RD_RDF
+KAJ	RD_RDF
+KORCHE	RD_RDF
+SOB	RD_RDF
+
+biri	N_NN
+tanche	N_NN
+r	RD_PUNC
+bolche	N_NN
+ARE	$
+DUDIN	$
+AGEI	$
+AMAR	$
+NIJER	$
+VAIJIR	$
+JNNO	$
+SOMMONDHO	$
+ELO	$
+CHELETA	N_NN
+KI	$
+AKTA	$
+ER	$
+TE	$
+KAJ	$
+KORE	$
+AMI	RD_RDF
+TO	RD_RDF
+PURO	RD_RDF
+NA	RD_RDF
+KORE	RD_RDF
+DILAM	RD_RDF
+BIYE	RD_RDF
+DITE	RD_RDF
+
+KONO	$
+THIK	$
+NEI	$
+KOKHN	$
+UTHE	$
+JAY	$
+BA	$
+CHATAI	$
+KORE	$
+TAR	RD_RDF
+THEKE	RD_RDF
+VAI	RD_RDF
+MUDI	RD_RDF
+DOKAN	RD_RDF
+ER	RD_RDF
+MALIK	RD_RDF
+K	RD_RDF
+BIYE	RD_RDF
+KORA	RD_RDF
+ONK	RD_RDF
+VALO	RD_RDF
+
+ami	N_NNP
+etar	QT_QTF
+kono	QT_QTF
+a	N_NN
+gelam	V_VM
+na	RP_RPD
+ota	PR_PRP
+tomader	PR_PRP
+jnno	JJ
+rakhlam	N_NN
+
+bar	RD_RDF
+bar	RD_RDF
+dekhte	V_VM
+bhalo	V_VM
+lagchhe	V_VAUX
+na	RP_RPD
+
+ota	N_NNP
+
+haay	V_VM
+chil	N_NN
+haay	V_VM
+chil	V_VAUX
+sonali	N_NNP
+daanar	N_NNP
+chil	N_NNP
+ei	DM_DMD
+bhije	JJ
+megher	N_NN
+dupure	N_NN
+tumi	PR_PRP
+ar	RD_RDF
+k(n)edo	N_NNP
+naako	N_NNP
+ure	N_NNP
+ure	N_NNP
+noditir	N_NNP
+pashe	N_NN
+
+tomar	PR_PRP
+kannar	JJ
+sure	N_NN
+beter	V_VM
+pholer	V_VAUX
+mato	RP_RPD
+taar	JJ
+mlaan	N_NN
+chokh	N_NN
+mone	N_NN
+aase	N_NN
+
+prithibir	N_NNP
+ranga	N_NNP
+rajkonyader	N_NNP
+mato	RP_RPD
+se	PR_PRP
+je	RP_RPD
+chole	N_NN
+gyachhe	N_NN
+roop	N_NN
+niye	PSP
+dure	N_NN
+
+aabar	JJ
+tahare	N_NN
+kyano	N_NN
+deke	V_VM
+aano	JJ
+
+ke	PR_PRQ
+haay	V_VM
+hridoy	N_NN
+khure	V_VM
+bedona	N_NN
+jagate	N_NN
+bhalobase	N_NN
+
+haay	V_VM
+chil	V_VAUX
+sonali	N_NNP
+daanar	N_NNP
+chil	N_NNP
+ei	DM_DMD
+bhije	JJ
+megher	N_NN
+duoure	N_NN
+tumi	PR_PRP
+ar	RD_RDF
+ure	N_NNP
+-ure	N_NNP
+k(n)edo	N_NNP
+naako	N_NNP
+noditir	N_NNP
+pashe	N_NN
+
+haat	RD_RDF
+ta	RP_RPD
+tomar	PR_PRP
+amay	N_NN
+
+pati	N_NN
+
+Arreee	N_NNP
+baba	N_NNP
+ami	PR_PRP
+tow	PR_PRP
+looks	N_NN
+nie	V_VM
+bolechilmm	V_VAUX
+hotath	N_NNP
+kauke	N_NN
+nie	V_VM
+khilli	N_NN
+hlo	V_VM
+
+oi	DM_DMD
+gaal	N_NN
+vorti	N_NN
+dari	N_NN
+kobi	N_NN
+hoe	V_VM
+jaoa	N_NN
+
+r	$
+ktha	$
+a	N_NN
+ta	RP_RPD
+achee	JJ
+bole	N_NN
+ta	RP_RPD
+boddo	N_NNP
+sonay	N_NNP
+
+otaaa	N_NN
+krbiii	N_NN
+
+chaap	N_NNP
+
+Tomai	N_NNP
+heid	N_NNP
+majare	N_NNP
+rakhbo	N_NNP
+
+brishti	N_NN
+dhoya	N_NN
+raat	N_NNP
+
+karnishe	N_NN
+kar	V_VM
+haat	V_VAUX
+
+eka	QT_QTF
+ke	PR_PRQ
+dariye	PSP
+asamaye	N_NN
+
+subha	N_NNP
+nabobarsho	N_NNP
+
+o	CC
+amr	N_NNP
+e	DM_DMD
+porto	N_NN
+
+amar	N_NNP
+cheye	PSP
+bochor	N_NNP
+
+prothom	N_NN
+kheyal	V_VM
+korechilam	N_NNP
+tomay	N_NNP
+er	DM_DMD
+songe	N_NN
+nach	N_NN
+gulote	V_VM
+
+atkate	N_NN
+parini	N_NN
+nijeke	PR_PRF
+goto	N_NN
+bochor	RD_RDF
+dhore	N_NN
+tomay	V_VM
+pagoler	V_VAUX
+moto	N_NNP
+valobasi	N_NNP
+
+koto	RB_ALC
+chesta	JJ
+korechi	N_NN
+vulte	V_VM
+parini	N_NN
+
+tumi	PR_PRP
+vulte	N_NN
+daoni	N_NN
+
+tumi	PR_PRP
+kano	RB_ALC
+eto	QT_QTF
+eto	QT_QTF
+eto	QT_QTF
+besi	N_NN
+sundor	JJ
+
+amar	RD_RDF
+rup	RD_RDF
+to	RP_RPD
+nei	V_VM
+porasonai	N_NN
+korte	N_NNP
+sikhechi	N_NNP
+sudhu	N_NNP
+
+amr	N_NNP
+e	DM_DMD
+eto	PR_PRP
+valo	V_VM
+er	DM_DMD
+pichoneo	N_NN
+tomar	PR_PRP
+e	DM_DMD
+
+ami	N_NNP
+aj	N_NNP
+je	N_NNP
+jaygay	N_NN
+ta	RP_RPD
+tomar	PR_PRP
+e	DM_DMD
+jnyo	N_NN
+
+tomar	PR_PRP
+sathe	N_NN
+kotha	RB_ALC
+bolar	N_NNP
+sujog	JJ
+hoyni	N_NN
+jibone	N_NN
+
+amake	N_NNP
+tomar	N_NNP
+bondhu	N_NNP
+korar	N_NNP
+o	CC
+jogyo	N_NNP
+mone	N_NNP
+koroni	N_NNP
+ami	N_NNP
+etotai	N_NNP
+boro	N_NNP
+
+vogobane	N_NNP
+biswas	N_NNP
+kora	N_NNP
+bohudin	N_NNP
+agei	N_NN
+chere	V_VM
+diyechi	V_VAUX
+
+vogobaner	RD_RDF
+kache	N_NN
+ses	PR_PRP
+ichha	N_NN
+chilo	N_NNP
+porer	N_NNP
+jonme	N_NNP
+jeno	N_NNP
+tomay	PR_PRP
+ma	N_NN
+hisebe	PSP
+pai	N_NN
+
+tahole	N_NN
+amay	N_NN
+valo	V_VM
+na	RP_RPD
+bese	V_VM
+tomar	PR_PRP
+kono	QT_QTF
+upay	N_NN
+thakbe	V_VM
+na	RP_RPD
+
+hyto	N_NNP
+kichuta	JJ
+pagol	N_NN
+e	DM_DMD
+hoye	N_NN
+gechi	N_NN
+
+r	RD_PUNC
+sara	N_NN
+jibon	V_VM
+e	DM_DMD
+tomay	PR_PRP
+eivabei	RB_ALC
+pagoler	N_NNP
+moto	N_NNP
+valobasbo	N_NNP
+
+ja	N_NN
+e	PR_PRP
+hok	V_VM
+khub	RB_AMN
+valo	V_VM
+theko	V_VAUX
+haste	V_VM
+theko	V_VAUX
+sukhe	N_NN
+theko	PSP
+
+2mi	PR_PRP
+ki	PR_PRQ
+sobai	N_NN
+kei	PR_PRP
+khawao	N_NN
+
+din	RD_RDF
+ki	RP_RPD
+amra	N_NNP
+1sathe	N_NN
+khete	V_VM
+parini	N_NN
+na	V_VM
+
+r	RD_SYM
+1ta	QT_QTF
+kotha	RB_ALC
+koro	V_VM
+gal	RD_RDF
+vorti	N_NN
+daree	N_NN
+2mk	RD_RDF
+1dom	RD_RDF
+manay	N_NN
+na	V_VM
+
+Mor	RD_RDF
+Bhabanare	RD_RDF
+Ki	RD_RDF
+Haoay	RD_RDF
+Matalo	RD_RDF
+
+fire	N_NN
+jete	N_NN
+satti	N_NN
+khub	QT_QTF
+ichhe	N_NN
+kore	N_NN
+
+jodi	N_NNP
+satti	N_NN
+partam	N_NN
+ar	RD_RDF
+aktibar	RD_RDF
+
+chhai	N_NN
+pore	N_NN
+gyalo	V_VM
+chhai	N_NN
+bhese	V_VM
+jaay	N_NN
+je	N_NN
+jole	N_NN
+mishe	V_VM
+achhe	RB_AMN
+aamar	JJ
+bhoirab	N_NN
+
+baap	N_NN
+re	N_NN
+baap	N_NN
+baire	N_NN
+ki	PR_PRQ
+garom	JJ
+
+agami	N_NN
+maas	RD_RDF
+aar	RD_RDF
+surjor	JJ
+mukh	N_NN
+dekhbo	V_VM
+na	RP_RPD
+
+Mrigaya	N_NN
+
+amake	N_NNP
+loke	N_NN
+bole-	N_NN
+dekhte	V_VM
+naki	N_NN
+valoi	N_NN
+
+tobuo	PR_PRP
+aj	DM_DMD
+obdhi	N_NN
+prem	N_NN
+ta	RP_RPD
+kora	N_NNP
+hoe	V_VM
+uthlo	V_VAUX
+naa	N_NNP
+
+kaekjn	N_NN
+ke	PR_PRQ
+valo	V_VM
+legechhilo	V_VAUX
+kintu	CC
+tarpor	N_NN
+r	RD_PUNC
+bpr	RD_RDF
+ta	RP_RPD
+r	RD_PUNC
+egoyni	V_VM
+
+keu	PR_PRP
+ki	PR_PRQ
+amar	JJ
+bndhu	N_NN
+hbe	V_VM
+
+ami	N_NNP
+prem	N_NNP
+kortei	N_NNP
+chai	N_NNP
+
+e	DM_DMD
+ami	N_NN
+biswasi	N_NN
+
+amar	RD_RDF
+ta	RP_RPD
+dichhi	N_NN
+
+ra	$
+kaaro	$
+
+female	CC
+
+kusanskar	N_NNP
+er	DM_DMD
+kato	QT_QTF
+rup	RD_RDF
+
+katorakom	QT_QTF
+er	DM_DMD
+pujo	N_NN
+
+ekrakom	RB_ALC
+pujo	N_NN
+ache	PSP
+jar	RD_RDF
+naam	N_NN
+holo	V_VM
+
+ajke	N_NN
+chhilo	N_NN
+
+shubho	N_NNP
+nabobarso	N_NNP
+bandhura	N_NNP
+
+PURONO	RD_RDF
+DIN	RD_RDF
+GULO	RD_RDF
+PHIRIE	RD_RDF
+DE	RD_RDF
+
+er	RD_RDF
+charom	RD_RDF
+
+ke	PR_PRQ
+bolechhe	N_NN
+valobasa	N_NN
+nei	V_VM
+
+Eto	RD_RDF
+khoraker	N_NN
+majhe	N_NN
+ektu	QT_QTF
+baktigoto	N_NN
+jontrona	N_NN
+korte	N_NN
+chai	N_NN
+
+er	PR_PRP
+theke	PSP
+chotha	N_NNP
+kore	N_NNP
+
+Saat	RD_RDF
+Koti	N_NN
+Shontaney	RD_RDF
+Hey	RD_RDF
+Mugdho	N_NN
+Janani	V_VM
+Rekhecho	V_VAUX
+Bangali	N_NN
+Kore	N_NN
+Manush	JJ
+Koroni	N_NN
+
+Amader	RD_RDF
+ager	RD_RDF
+ta	RP_RPD
+golaguli	N_NN
+
+khuno	JJ
+khuni	N_NN
+kore	N_NN
+mara	N_NN
+gelo	V_VM
+Amader	V_VAUX
+ta	RP_RPD
+r	RD_PUNC
+e	DM_DMD
+pore	N_NN
+hariye	V_VM
+gelo	V_VAUX
+bhabte	N_NN
+giye	V_VM
+lagche	N_NN
+
+age	RD_RDF
+meyeder	N_NN
+ke	PR_PRQ
+nie	PSP
+khetam	N_NN
+
+ekhon	RB_ALC
+buro	QT_QTF
+boyose	N_NN
+nie	V_VM
+khachchi	N_NN
+sala	JJ
+khaoar	N_NN
+abhyes	N_NN
+r	RD_PUNC
+gelo	V_VM
+na	RP_RPD
+
+ajke	N_NN
+die	V_VM
+khete	V_VM
+ichche	N_NN
+korche	N_NN
+
+te	PSP
+bose	N_NN
+r	RD_PUNC
+gaite	N_NN
+ichche	N_NN
+korche	N_NN
+
+ami	N_NNP
+banglay	N_NNP
+gaan	N_NNP
+gai	N_NNP
+ami	N_NNP
+gaan	N_NNP
+gai	N_NNP
+ami	N_NNP
+
+amar	N_NNP
+ami	N_NNP
+kchirodin	CC
+ei	DM_DMD
+banglay	N_NN
+khuje	N_NN
+pai	N_NN
+
+Khor	RD_RDF
+noi	RP_RPD
+jani	N_NN
+
+tate	N_NN
+chera	N_NN
+geche	V_VM
+
+Boro	N_NN
+Mamoni	V_VM
+
+veja	N_NN
+holo	V_VM
+aaj	RD_RDF
+
+Ekbar	RD_RDF
+beparai	N_NN
+marte	N_NN
+gie	V_VM
+kyal	N_NN
+kheye6ilam	V_VM
+oi	DM_DMD
+parar	JJ
+ki6u	N_NN
+gunda	N_NN
+chelepeler	N_NN
+ka6e	N_NN
+Meye	N_NN
+tar	PR_PRP
+name	V_VM
+chilo	V_VAUX
+
+Meye	N_NN
+ta	RP_RPD
+o	CC
+amake	N_NNP
+patta	N_NN
+dito	V_VM
+na	RP_RPD
+
+khub	QT_QTF
+nak	QT_QTF
+uchu	JJ
+er	DM_DMD
+meye	N_NN
+6ilo	V_VM
+
+Mar	RD_RDF
+khawar	RD_RDF
+por	RD_RDF
+kore6ilam	RD_RDF
+ei	DM_DMD
+meye	N_NN
+tar	PR_PRP
+cheye	PSP
+valo	JJ
+meye	N_NN
+tulbo	V_VM
+
+er	RD_RDF
+modhey	N_NN
+r	RD_PUNC
+ekta	JJ
+meye	N_NN
+tule	V_VM
+fellam	V_VAUX
+
+Oidin	N_NNP
+meyetola	N_NNP
+porbo	N_NNP
+somponno	N_NNP
+hole	V_VM
+kore	N_NNP
+ei	DM_DMD
+kotha	QT_QTF
+gulo	N_NN
+hubohu	N_NN
+bole6ilam	N_NN
+Parai	N_NN
+dhukle	V_VM
+thyang	V_VAUX
+khora	N_NN
+kore	V_VM
+debe	V_VAUX
+boleche	N_NN
+parar	JJ
+dada	N_NN
+ra	PSP
+onyo	PR_PRP
+parai	N_NST
+meye	N_NN
+tul6i	V_VM
+ta	RP_RPD
+
+tomake	PR_PRP
+tulbo	V_VM
+na	RP_RPD
+tomake	N_NNP
+tulbo	N_NNP
+na	N_NNP
+
+boro	N_NNP
+eka	QT_QTF
+eka	QT_QTF
+lage	PSP
+
+chhara	N_NN
+a	N_NN
+te	PSP
+emni	PR_PRP
+galpo	N_NN
+o	CC
+paoa	N_NN
+jay	N_NN
+
+te	PSP
+konta	QT_QTF
+beshi	JJ
+
+kankda	N_NNP
+na	N_NNP
+kakra	N_NNP
+
+Amar	PR_PRP
+sei	DM_DMD
+monehoy	JJ
+more	N_NN
+geche	V_VM
+
+Morichikar	N_NNP
+moto	N_NNP
+ure	N_NNP
+asa	N_NNP
+ekti	N_NNP
+palok	N_NNP
+
+pakhir	JJ
+danar	N_NN
+bistare	N_NN
+
+nibir	N_NNP
+chhayar	N_NNP
+moto	N_NNP
+amay	N_NNP
+diyechilo	RD_RDF
+ashroy	RD_RDF
+
+anekta	JJ
+path	N_NN
+hnatle	V_VM
+
+ekta	JJ
+snako	N_NN
+pawa	N_NN
+jay	N_NN
+ekhono	RB_ALC
+
+tar	RD_RDF
+haat	RD_RDF
+dhore	N_NN
+atikranto	JJ
+
+uttal	JJ
+shrote	N_NN
+bhela	N_NN
+bhasano	N_NNV
+paar	N_NN
+nei	V_VM
+kachakachi	JJ
+
+sur	N_NNP
+tola	JJ
+sandhye	N_NN
+nemeche	V_VM
+ekhon	RB_ALC
+chhayamanober	N_NNP
+klanto	N_NNP
+chokh	N_NN
+
+e	DM_DMD
+khnuje	N_NN
+fere	V_VM
+alapon	RD_RDF
+
+ta	RP_RPD
+porle	N_NN
+tmy	RD_RDF
+darun	N_NN
+lage	PSP
+
+tmy	RD_RDF
+dekhechlm	RD_RDF
+e	DM_DMD
+
+tmy	RD_RDF
+akebare	N_NN
+lagchilo	V_VM
+
+tokhno	PR_PRP
+thik	V_VM
+thak	V_VAUX
+
+Ajke	N_NN
+dekhlam	V_VM
+tomake	PR_PRP
+e	DM_DMD
+adhbheja	N_NN
+hoye	N_NN
+ekta	JJ
+cheler	N_NN
+haat	JJ
+joriye	N_NN
+egiye	V_VM
+jachchile	N_NN
+
+Dekhe	V_VM
+etotai	QT_QTF
+mugdho	N_NN
+holam	N_NN
+j	RD_PUNC
+pichhu	N_NN
+nite	V_VM
+baddho	V_VAUX
+holam	V_VAUX
+
+Kintu	CC
+er	DM_DMD
+samne	N_NN
+porjonto	N_NN
+giye	V_VM
+r	RD_PUNC
+khuje	N_NN
+pelam	V_VM
+na	RP_RPD
+
+Ki	N_NNP
+korbo	N_NNP
+bujhe	V_VM
+na	RP_RPD
+pere	N_NN
+khanikkhon	N_NN
+okekhkha	N_NN
+korlam	N_NN
+kintu	CC
+r	RD_PUNC
+dekhte	V_VM
+pelam	V_VAUX
+na	RP_RPD
+
+Tarpor	N_NNP
+ekta	JJ
+chotto	N_NN
+kaj	QT_QTF
+sere	N_NN
+firchi	N_NN
+tokhon	RD_RDF
+abar	N_NN
+dekha	V_VM
+millo	V_VAUX
+
+Brishti	N_NN
+bheja	N_NN
+chul	N_NN
+adhbheja	N_NN
+poshak	N_NN
+sob	N_NNP
+miliye	PSP
+vison	RD_RDF
+misti	N_NN
+lagchilo	V_VM
+
+Dekhlam	N_NNP
+songer	N_NNP
+cheletir	N_NNP
+songe	N_NNP
+egiye	V_VM
+er	DM_DMD
+te	PSP
+uthe	N_NN
+gele	V_VAUX
+
+amar	N_NNP
+gontobyo	N_NNP
+chilo	N_NNP
+
+Tai	N_NNP
+jabo	V_VM
+ki	PR_PRQ
+jabo	V_VM
+na	RP_RPD
+vabte	N_NN
+vabtei	N_NN
+chere	V_VM
+dilo	V_VAUX
+r	RD_PUNC
+tomake	N_NNP
+jeno	N_NNP
+ekebarei	RB_AMN
+hariye	V_VM
+fellam	V_VAUX
+
+Songer	RD_RDF
+cheleti	N_NN
+tomar	PR_PRP
+ki	PR_PRQ
+na	JJ
+jani	N_NN
+na	RP_RPD
+kintu	CC
+tomar	PR_PRP
+jodi	N_NN
+nishpap	JJ
+bondhutte	N_NN
+kono	QT_QTF
+apotti	N_NN
+na	RP_RPD
+thake	V_VM
+tahole	CC
+ekhane	RB_ALC
+janiyo	N_NN
+ami	N_NNP
+tomake	N_NNP
+kore	N_NNP
+nebo	V_VM
+
+Ei	N_NNP
+golper	N_NNP
+nayikar	N_NNP
+porone	N_NN
+chilo	N_NN
+r	RD_PUNC
+jama	N_NN
+r	RD_PUNC
+kandhe	N_NN
+ekta	JJ
+
+Songer	RD_RDF
+cheleti	N_NN
+neel	JJ
+porihito	V_VM
+chilo	V_VAUX
+
+tao	N_NN
+amar	JJ
+er	PR_PRP
+
+meyedr	N_NNP
+naam	N_NN
+likhe	V_VM
+onek	V_VAUX
+kora	N_NNP
+hoche	V_VM
+
+take	N_NN
+erom	PR_PRP
+jaega	N_NN
+na	RP_RPD
+banaleo	N_NN
+hoy	V_VM
+
+nije	PR_PRF
+naki	N_NN
+
+aj	DM_DMD
+jagbo	N_NN
+anekkhon	RD_RDF
+kal	RD_RDF
+robbar	RD_RDF
+kal	RD_RDF
+robbar	RD_RDF
+
+kono	DM_DMD
+taara	N_NN
+nei	V_VM
+
+ei	DM_DMD
+onubhutir	DM_DMD
+anondota	JJ
+aami	N_NN
+ghumiye	N_NN
+pore	N_NN
+nasto	JJ
+korte	N_NN
+chaina	V_VM
+
+Alos	N_NN
+somoy	N_NN
+katchena	V_VM
+ar	RD_RDF
+
+Eita	JJ
+amar	JJ
+
+puja	N_NN
+
+Bangali	N_NN
+ekhono	RB_ALC
+benche	N_NN
+achhe	N_NN
+duggapujoy	N_NN
+
+alada	N_NNP
+kore	N_NNP
+aar	N_NNP
+kichhu	N_NNP
+bolar	N_NNP
+obokash	N_NN
+nei	V_VM
+
+oi	DM_DMD
+pagli	N_NN
+tui	PR_PRP
+khub	V_VM
+valo	V_VAUX
+
+mon	RD_RDF
+ta	RP_RPD
+khub	QT_QTF
+e	DM_DMD
+snigdho	N_NN
+
+jamon	RD_RDF
+achis	RD_RDF
+tamon	RD_RDF
+thak	RD_RDF
+
+koris	N_NNP
+na	N_NNP
+nijeke	N_NNP
+
+tor	PR_PRP
+bondhu	N_NN
+hote	V_VM
+pere	V_VAUX
+sotti	N_NN
+e	DM_DMD
+ami	N_NN
+
+toh	RD_RDF
+pagli	N_NN
+tai	PR_PRP
+tor	PR_PRP
+samne	N_NN
+gea	V_VM
+kotha	RB_ALC
+ta	JJ
+boli	N_NN
+ni	RP_RPD
+
+kono	PR_PRP
+to	RP_RPD
+thik	N_NN
+nei	V_VM
+tor	PR_PRP
+kokhn	DM_DMQ
+khak	N_NN
+kore	N_NN
+kamre	N_NN
+dis	RD_RDF
+
+o	CC
+ei	DM_DMD
+sab	QT_QTF
+nongrami	N_NN
+gulo	N_NN
+koro	V_VM
+na	RP_RPD
+bole	N_NN
+chyangra	N_NN
+chheletar	N_NN
+sathe	N_NN
+
+tomake	N_NNP
+ami	N_NNP
+nijer	PR_PRF
+bou	N_NNP
+hisebe	PSP
+dekhi	V_VM
+
+kakhon	RB_ALC
+kelan	N_NN
+kheye	N_NN
+jabe	V_VM
+chheleta	V_VAUX
+dosh	N_NN
+ta	RP_RPD
+kintu	CC
+tomar	PR_PRP
+habe	V_VM
+
+aalpona	N_NN
+diye	PSP
+aanka	N_NN
+jol	V_VM
+
+jol	N_NNP
+diye	PSP
+ghera	N_NN
+nodi	N_NNP
+
+taar	CC
+jole	N_NN
+thake	V_VM
+maachh	N_NN
+
+nodite	N_NNP
+nouka	N_NNP
+chole	N_NN
+
+buro	N_NN
+maajhi	N_NN
+dinga	N_NN
+baay	N_NN
+
+jole	N_NN
+shabdo	N_NN
+hoy	V_VM
+chholat	V_VAUX
+chhol	V_VAUX
+
+chholat	RD_RDF
+chhol	RD_RDF
+
+noditir	N_NNP
+pashe	N_NN
+tomader	PR_PRP
+bari	N_NNP
+
+aage	N_NN
+chhilo	N_NN
+paach	N_NN
+/ekhon	N_NNP
+chaar	N_NNP
+joner	N_NNP
+songsar	N_NNP
+
+baarite	V_VM
+tomra	PR_PRP
+chharao	N_NN
+phal	N_NN
+o	CC
+phuler	N_NN
+gaachhera	N_NN
+thake	V_VM
+
+tomar	PR_PRP
+sathe	N_NN
+katha	N_NN
+hoy	V_VM
+
+r	RD_PUNC
+ami	N_NNP
+nodir	N_NNP
+gandho	N_NN
+paai	N_NN
+
+nodite	N_NNP
+nouka	N_NNP
+chole	N_NN
+
+paanite	N_NN
+shabdo	N_NN
+hoy	V_VM
+chholat	V_VAUX
+chhol	V_VAUX
+
+chholat	RD_RDF
+chhol	RD_RDF
+
+r	RD_PUNC
+aamio	N_NN
+kakhon	RB_ALC
+ajante	N_NN
+hoye	N_NN
+jai	N_NN
+bhin	JJ
+graamer	N_NN
+maajhi	N_NN
+
+amio	N_NNP
+kakhon	RB_ALC
+ajante	N_NN
+hoye	N_NN
+jai	N_NN
+tomader	PR_PRP
+baarir	N_NN
+ekti	N_NN
+phuler	N_NN
+gaachh	N_NN
+
+ekti	N_NN
+paatabaahar	N_NN
+
+tomar	PR_PRP
+sathe	N_NN
+katha	N_NN
+bolle	N_NN
+aami	N_NN
+nodir	JJ
+gandho	N_NN
+paai	N_NN
+
+aamar	N_NNP
+nodi	N_NNP
+hote	N_NNP
+ichchhe	N_NN
+kore	N_NN
+
+er	DM_DMD
+tomake	N_NN
+amr	QT_QTF
+khub	QT_QTF
+bhalo	N_NN
+lage	V_VM
+
+Iss	RD_RDF
+r	RD_RDF
+ekta	JJ
+din	RD_RDF
+tarpor	RD_RDF
+ei	DM_DMD
+ta	RP_RPD
+ses	PR_PRP
+hoe	V_VM
+jbe	V_VM
+
+aamar	JJ
+gota	JJ
+shorire	N_NN
+ekhon	RB_ALC
+tibro	QT_QTF
+jwar	N_NN
+lege	V_VM
+royrchhe	N_NN
+shorir	N_NNV
+joriye	N_NN
+lepe	V_VM
+royechhe	V_VAUX
+se	PR_PRP
+shitol	N_NN
+asukh	JJ
+
+uthaane	N_NN
+jyamon	N_NNP
+gobor	N_NNP
+lyapa	N_NNP
+thake	N_NNP
+
+seimato	CC
+jwar	N_NN
+
+seimato	RP_RPD
+ei	DM_DMD
+holud	N_NN
+asukh	JJ
+
+theke	PSP
+chini	V_VM
+
+sei	DM_DMD
+shoishob	N_NN
+theke	PSP
+aalap	JJ
+or	DM_DMD
+sathe	N_NN
+sob	N_NNP
+theke	PSP
+purono	JJ
+ebong	CC
+ekmatro	QT_QTF
+oi	DM_DMD
+aachhe	N_NN
+j	RD_PUNC
+ei	DM_DMD
+shorirtar	N_NN
+kachhe	N_NN
+ekhono	RB_ALC
+phire	V_VM
+phire	V_VM
+aase	N_NN
+
+kathagulo	N_NN
+kintu	CC
+sudhui	N_NNP
+gyaner	N_NNP
+katha	N_NN
+noy	V_VM
+
+oti	PR_PRP
+bastob	N_NN
+
+bhabchi	N_NN
+r	RD_RDF
+opor	RD_RDF
+ekta	JJ
+korbo	V_VM
+
+tini	PR_PRP
+kon	DM_DMQ
+te	PSP
+abosthan	RD_RDF
+koren	RD_RDF
+
+tnar	PR_PRP
+eto	QT_QTF
+r	RD_PUNC
+karon	V_VM
+ki	PR_PRQ
+
+biyer	JJ
+e	DM_DMD
+tnar	N_NN
+bajardor	N_NN
+kotota	JJ
+hote	N_NN
+pare	N_NST
+
+ityadi	CC
+ityadi	CC
+
+Apnader	RB_AMN
+sohojogita	JJ
+ekantobhabe	QT_QTF
+kamyo	N_NN
+
+somporke	N_NN
+kon	DM_DMQ
+monobhab	N_NNP
+poshon	N_NNP
+koren	N_NNP
+esober	N_NNP
+chulchera	N_NN
+bishleshoner	JJ
+poriborte	N_NN
+apnader	N_NNP
+boktobyer	N_NNP
+juktisommoto	N_NNP
+uposthapon	N_NN
+prathoniyo	N_NN
+
+nah	RD_RDF
+
+Tomake	N_NNP
+chai	N_NNP
+pouser	N_NNP
+roder	N_NNP
+moutate	N_NNP
+tomake	N_NNP
+chai	N_NNP
+ratbhor	N_NNP
+bristite	N_NNP
+tomake	N_NNP
+chai	N_NNP
+notun	N_NNP
+sristite	N_NN
+tomake	PR_PRP
+chai	JJ
+jiboner	N_NN
+majhe	N_NN
+tomake	PR_PRP
+chai	N_NN
+
+Ekta	JJ
+
+naam	N_NNP
+ba	N_NNP
+
+bishwadarshaner	JJ
+naam	N_NN
+a	N_NN
+galgolper	N_NN
+shabdobahar	N_NN
+
+biggapon	N_NN
+eriye	PSP
+khabor	N_NN
+khonja	N_NN
+pray	N_NN
+pahar	N_NN
+joy	V_VM
+er	DM_DMD
+kasto	JJ
+
+kichumichu	JJ
+jutbe	N_NN
+tobe	V_VM
+
+kina	V_VM
+noy	RP_RPD
+spasto	JJ
+pata	JJ
+jure	N_NN
+berobe	V_VM
+jeta	JJ
+
+seta	JJ
+loker	N_NN
+ghorer	N_NN
+kechha	N_NN
+kar	RD_RDF
+sathe	N_NN
+ke	PR_PRQ
+palalo	V_VM
+noyto	V_VAUX
+
+kar	V_VM
+ki	PR_PRQ
+khete	V_VM
+ichha	N_NN
+
+vishon	RD_RDF
+rakom	N_NN
+khilli	N_NN
+ar	RD_RDF
+bakita	JJ
+Kusanskar	RD_RDF
+
+shesher	N_NST
+patay	N_NN
+vorti	N_NN
+kora	N_NNP
+boshikaron	RD_RDF
+ar	RD_RDF
+hastobichar	RD_RDF
+
+rong	N_NNP
+bodlay	N_NNP
+tai	QT_QTF
+ruchi	JJ
+bodlay	N_NN
+
+utkrishto	JJ
+dalalitatto	N_NN
+
+tukro	N_NN
+beshi	JJ
+chhurlei	N_NN
+
+era	PR_PRP
+apnar	RD_RDF
+vakto	RD_RDF
+
+ne	N_NNP
+mota	N_NNP
+
+tor	PR_PRP
+
+notun	N_NNP
+roder	N_NNP
+ador	N_NN
+mekhe	V_VM
+gai	V_VAUX
+
+bhasalo	N_NNP
+akash	N_NNP
+sonali	N_NNP
+danar	N_NNP
+chil	N_NNP
+
+nirbak	JJ
+cheye	N_NN
+thake	V_VM
+
+najore	RB_AMN
+tahar	N_NN
+sobuj	N_NNP
+mora	N_NNP
+jhil	N_NNP
+
+ghaser	V_VM
+fulete	V_VAUX
+sajichhe	N_NN
+projapoti	N_NN
+
+majh	N_NNP
+nodite	N_NNP
+dey	V_VM
+dub	V_VAUX
+
+surabhi	N_NN
+matal	RP_RPD
+kore	N_NN
+
+amar	N_NNP
+baroi	N_NNP
+aporup	N_NNP
+
+Etai	QT_QTF
+Poriborton	RD_RDF
+
+Koyek	RD_RDF
+din	RD_RDF
+por	RD_RDF
+bolbe	N_NNP
+je	N_NNP
+chaliyeche	V_VM
+
+tai	PR_PRP
+eto	QT_QTF
+besi	N_NN
+
+Sob	RD_RDF
+er	RD_RDF
+chokranto	N_NN
+
+barong	N_NNP
+jato	N_NN
+din	V_VM
+jabe	V_VAUX
+
+maal	N_NN
+ta	RP_RPD
+aro	QT_QTF
+bigrobe	N_NN
+
+Eka	JJ
+vije	N_NN
+chole	N_NN
+amder	RD_RDF
+sahor	RD_RDF
+
+take	N_NN
+buke	N_NN
+niye	PSP
+viji	N_NN
+aami	N_NN
+
+amader	N_NNP
+sapno	JJ
+mishe	N_NN
+jay	N_NN
+brishti	N_NN
+te	PSP
+
+aar	RD_RDF
+brishtimakha	N_NN
+sahore	PSP
+ami	N_NNP
+
+pathe	N_NN
+pathe	N_NN
+paye	N_NN
+paye	N_NN
+
+chena	V_VM
+kichhu	QT_QTF
+abchha	N_NN
+achenay	JJ
+
+khatar	N_NN
+patay	N_NN
+brishtir	JJ
+fontay	N_NN
+
+kichhuta	JJ
+mulyoheen	N_NN
+kichhuta	JJ
+ba	N_NN
+dami	N_NN
+
+tai	PR_PRP
+eka	QT_QTF
+vije	N_NN
+jay	N_NN
+amader	JJ
+sahor	N_NN
+
+r	RD_PUNC
+take	N_NN
+buke	N_NN
+niye	PSP
+viji	N_NN
+aami	N_NN
+
+amr	RD_RDF
+ey	DM_DMD
+pore	N_NN
+
+o	CC
+baar	N_NN
+baar	N_NN
+aamar	JJ
+sathe	N_NN
+korte	N_NN
+chaay	V_VM
+
+aamar	JJ
+mone	N_NN
+hoy	V_VM
+o	CC
+aamar	N_NNP
+sorir	N_NNP
+k	RD_PUNC
+chaay	V_VM
+
+mone	N_NN
+k	RD_PUNC
+na	RP_RPD
+
+Ae	RD_RDF
+a	N_NN
+jabe	V_VM
+
+Aj	RD_RDF
+o	CC
+mona	N_NN
+pora	N_NN
+tor	PR_PRP
+satha	N_NN
+katano	QT_QTF
+dingulo	N_NN
+
+Sei	N_NNP
+ar	N_NNP
+sirita	N_NNP
+bosa	N_NNP
+adda	N_NN
+ditam	V_VM
+r	RD_PUNC
+majhe	N_NN
+majhe	N_NN
+tor	RD_RDF
+norom	RD_RDF
+gal	RD_RDF
+tiptam	RD_RDF
+
+Toba	N_NNP
+sei	DM_DMD
+din	RD_RDF
+ar	RD_RDF
+kotha	N_NNP
+sobcheya	N_NNP
+mona	N_NNP
+pora	N_NN
+jedin	N_NN
+bristi	N_NN
+te	PSP
+tor	PR_PRP
+thanda	N_NN
+laghchhilo	V_VM
+r	RD_PUNC
+gachh	N_NN
+er	PR_PRP
+niche	N_NST
+dariya	JJ
+ami	N_NN
+tor	RD_RDF
+norom	RD_RDF
+gal	RD_RDF
+e	RD_RDF
+amar	RD_RDF
+thoth	RD_RDF
+er	RD_RDF
+chhoya	N_NN
+diyachhilam	V_VM
+
+Oi	DM_DMD
+abesh	N_NN
+kono	QT_QTF
+din	RD_RDF
+bhulta	N_NN
+parini	N_NN
+ra	PSP
+
+Oi	DM_DMD
+prothom	N_NN
+oi	DM_DMD
+shesh	N_NN
+
+Aj	RD_RDF
+tor	RD_RDF
+achha	JJ
+
+Asha	N_NNP
+kori	N_NNP
+bujha	N_NNP
+gachhis	N_NNP
+amaka	N_NNP
+
+Valo	V_VM
+thakis	V_VAUX
+
+CHAP	RD_RDF
+
+snigdho	N_NNP
+
+sotyiii	N_NNP
+kane	N_NN
+bishal	JJ
+laage	N_NN
+
+Akhasher	N_NNP
+obosthao	N_NNP
+amar	N_NNP
+monermoto	N_NNP
+sob	N_NNP
+e	PR_PRP
+gholate	V_VM
+
+Foring	RD_RDF
+khyapa	N_NNP
+
+paglami	N_NN
+te	PSP
+toitumbur	RD_RDF
+
+ta	RP_RPD
+amulyo	N_NNP
+
+dile	V_VM
+chhoto	V_VAUX
+kora	N_NNP
+habe	V_VM
+
+aapni	N_NN
+sab	QT_QTF
+kichui	N_NN
+dekhechhilen	V_VM
+Mastermoshai	V_VAUX
+
+Lognopotro	QT_QTF
+lekha	N_NN
+cholchhe	V_VM
+
+onek	RD_RDF
+din	RD_RDF
+dhore	N_NN
+tai	PR_PRP
+na	RP_RPD
+bole	N_NN
+r	RD_PUNC
+parlam	N_NN
+na	V_VM
+
+tai	PR_PRP
+dekhei	V_VM
+chaap	V_VAUX
+kheye	N_NN
+gechhi	N_NN
+
+Tomra	N_NNP
+je	N_NNP
+sobai	N_NNP
+ki	PR_PRQ
+korchho	QT_QTF
+ekta	JJ
+e	PR_PRP
+bujhe	V_VM
+uthte	N_NN
+parchhi	N_NN
+na	$
+
+hole	V_VM
+erokm	DM_DMD
+howa	N_NN
+uchit	N_NN
+
+Tomar	N_NNP
+jonno	N_NNP
+aj	N_NNP
+o	CC
+mon	RD_RDF
+ta	RP_RPD
+khub	QT_QTF
+kande	N_NN
+tomar	PR_PRP
+jaiga	N_NN
+opuronio	V_VM
+
+Prohor	RD_RDF
+sese	N_NN
+aloy	JJ
+ranga	N_NN
+sedin	RB_ALC
+mas	RD_RDF
+
+tomar	PR_PRP
+chokhe	N_NN
+dekhechilem	V_VM
+amar	N_NNP
+sorbonas	N_NNP
+
+kemon	N_NNP
+hoto	N_NNP
+jodi	N_NNP
+maa	N_NNP
+ra	N_NNP
+nihswas	JJ
+hoye	N_NN
+jeto	V_VM
+
+joriye	N_NN
+thakto	V_VM
+jiboner	JJ
+proti	N_NN
+khone	N_NN
+
+mitiye	N_NNP
+sab	PR_PRP
+dena	V_VM
+paonar	V_VAUX
+hiseb	PSP
+
+pore	N_NN
+jodi	N_NN
+maa	N_NN
+abar	N_NN
+tomay	PR_PRP
+mone	N_NN
+
+ami	N_NNP
+hoyto	N_NNP
+takhon	RB_ALC
+tomar	PR_PRP
+bayosi	N_NN
+
+tomar	PR_PRP
+chokhe	N_NN
+rakhchi	N_NN
+takhon	RB_ALC
+duchokh	N_NN
+dekhchho	V_VM
+tumi	PR_PRP
+vetor	JJ
+suddhu	N_NN
+khure	V_VM
+
+bolchho	N_NNP
+amay	N_NNP
+bujhli	V_VM
+ekhon	RB_ALC
+tobe	V_VM
+
+keno	N_NNP
+jagot	N_NNP
+jure	N_NNP
+maa	N_NNP
+maa	N_NNP
+kore	N_NNP
+lok'	N_NN
+
+ami	N_NNP
+sedin	RB_ALC
+dekhchi	V_VM
+shirno	N_NN
+duti	N_NN
+haat	V_VM
+dekhchi	V_VM
+tomar	PR_PRP
+mukher	N_NN
+muchki	N_NN
+hasi	V_VM
+
+hoyto	V_VM
+sedin	RB_ALC
+mukhomukhi	RB_ALC
+tomar	PR_PRP
+ami	N_NNP
+
+hoyto	N_NNP
+sedin	N_NNP
+bolchi	N_NNP
+valobasi	N_NNP
+
+Oder	N_NNP
+baar	N_NN
+bereche	V_VM
+boddo	N_NNP
+oder	PR_PRP
+merei	V_VM
+koro	N_NNP
+thanda	N_NNP
+ora	PR_PRP
+bhison	JJ
+beyara	N_NN
+chatro	V_VM
+taai	RD_RDF
+chalao	V_VM
+
+Ora	N_NNP
+protibaad	N_NNP
+korey	N_NNP
+boddo	N_NNP
+toley	PR_PRP
+bipodjonok	JJ
+proshno	N_NN
+arreh	N_NNP
+amra	N_NNP
+moshaai	N_NNP
+swoccho	N_NNP
+sob	N_NNP
+nongra	N_NNP
+rajneetir	N_NNP
+i	N_NNP
+dosh-toh	N_NN
+
+Taai	N_NNP
+prothome	N_NN
+namabo	V_VM
+tarpor	CC
+kimba	N_NN
+te	PSP
+naambe	V_VM
+chatro	QT_QTF
+bolbey	N_NN
+jhinchaak	N_NN
+
+Ora	N_NNP
+onoshon	N_NNP
+korey	N_NNP
+moruk	N_NNP
+arreh	CC
+ora	PR_PRP
+toh	PR_PRP
+manush	N_NN
+noy	V_VM
+sudhu	N_NNP
+amra	N_NN
+gherao	N_NN
+holei	V_VAUX
+koshto	N_NN
+sheta	N_NNP
+er	DM_DMD
+khobor	N_NN
+hoy	V_VM
+
+Kortripokkher	RD_RDF
+
+Puchu	JJ
+
+tomar	RD_RDF
+nam	RD_RDF
+a	RD_RDF
+ager	RD_RDF
+din	RD_RDF
+akta	JJ
+
+bes	RD_RDF
+chilo	N_NN
+ta	RP_RPD
+
+se	PR_PRP
+tomar	PR_PRP
+bondhu	N_NN
+hog	$
+ba	$
+jai	$
+hog	$
+
+tumi	PR_PRP
+amar	RD_RDF
+
+r	RD_PUNC
+erom	N_NNP
+bondhu	N_NNP
+ami	N_NNP
+tomar	RD_RDF
+a	RD_RDF
+konodin	RD_RDF
+o	CC
+korbona	N_NNP
+
+jani	N_NN
+eta	QT_QTF
+bollei	V_VAUX
+tumi	PR_PRP
+tele	N_NN
+begune	N_NN
+jole	V_VM
+otho	V_VAUX
+tao	PR_PRP
+bollam	N_NN
+jalanor	N_NN
+jnno	N_NNV
+
+tomar	PR_PRP
+lekha	N_NN
+gulo	N_NN
+porte	N_NN
+valo	V_VM
+lage	V_VAUX
+onk	RD_RDF
+din	RD_RDF
+holo	N_NN
+kichu	N_NN
+likh6o	V_VM
+na	RP_RPD
+
+ki	PR_PRQ
+bapar	PSP
+
+ja	N_NN
+likhe6o	V_VM
+tar	CC
+ee	PR_PRP
+ki	PR_PRQ
+a	N_NN
+a6o	V_VAUX
+
+ToMaR	RD_RDF
+PuJaR	RD_RDF
+ChhOLe	N_NN
+ToMay	N_NN
+vuLei	N_NN
+thaKi	N_NN
+
+BujHtE	RD_RDF
+naRi	N_NN
+Kakhon	RD_RDF
+TuMi	N_NN
+dAo	V_VM
+jE	RP_RPD
+faki	N_NN
+
+dada	N_NN
+
+tumi	PR_PRP
+amar	JJ
+ta	RP_RPD
+pore	N_NN
+tomar	RD_RDF
+guru	N_NN
+keno	N_NNV
+bolle	N_NN
+bujhlam	V_VM
+
+e	PSP
+amra	N_NNP
+jakhon	N_NNP
+kori	N_NNP
+takhon	RB_ALC
+kathai	N_NN
+beshi	JJ
+hoina	N_NN
+
+dujone	N_NN
+dujoner	QT_QTF
+dike	N_NN
+takiyei	RB_ALC
+somoi	N_NNP
+kete	N_NNP
+jai	N_NNP
+
+tai	QT_QTF
+moner	JJ
+kichu	JJ
+katha	N_NN
+ekhane	RB_ALC
+bollam	N_NN
+
+cholche	N_NN
+khub	V_VM
+chap	V_VAUX
+
+er	RD_RDF
+
+potoner	N_NN
+karon	V_VM
+Andolon	RD_RDF
+
+Ma	CC
+Mati	N_NN
+Manus	RD_RDF
+koro	N_NNP
+
+Jaanbe	RD_RDF
+Na	RD_RDF
+Keu	RD_RDF
+Kon	RD_RDF
+Toophane	N_NN
+Torongodol	V_VM
+Naachbe	V_VAUX
+Prane	N_NN
+Chnader	V_VM
+Moto	V_VAUX
+Alokh	N_NN
+Taane	N_NN
+Joware	N_NN
+Dheu	N_NN
+Tolabo	V_VM
+
+bishal	N_NNP
+maaper	N_NNP
+ki	PR_PRQ
+jinis	N_NN
+
+chattor	RD_RDF
+theke	PSP
+
+sobai	N_NN
+motamuti	N_NN
+bujhe	V_VM
+jay	N_NN
+
+Janota	JJ
+Jonardon	N_NN
+ke	PR_PRQ
+Kurnish	PR_PRQ
+
+shabdo	N_NN
+jure	N_NN
+tar	RD_RDF
+swapner	RD_RDF
+rrashi	N_NN
+
+dhulomakha	N_NN
+jama	N_NN
+
+sathe	N_NN
+ekmukh	JJ
+hasi	N_NN
+
+hoe	V_VM
+geche	V_VAUX
+vul	RD_RDF
+nijei	PR_PRF
+nijer	PR_PRF
+sathe	N_NN
+jibon	N_NN
+vebe	V_VM
+
+aar	RD_RDF
+fire	N_NN
+jaoa	N_NN
+jabe	N_NN
+na	V_VM
+tor	PR_PRP
+kache	V_VM
+ba	N_NNP
+mere	V_VM
+
+SHUVO	RD_RDF
+NABO	RD_RDF
+BARSHO	RD_RDF
+
+toh	RD_RDF
+sesh	RD_RDF
+
+ebare	CC
+tomar	PR_PRP
+moner	JJ
+kichu	JJ
+hijibiji	N_NN
+lekho	V_VM
+
+tai	PR_PRP
+shudui	RB_AMN
+tomar	PR_PRP
+kobita	JJ
+porte	N_NN
+chai	V_VM
+majhe	N_NN
+majhe	N_NN
+tomar	PR_PRP
+ta	RP_RPD
+khule	V_VM
+majhe	N_NN
+majhe	N_NN
+tomar	RD_RDF
+gulo	N_NN
+gulo	N_NN
+dekhi	V_VM
+
+ami	N_NNP
+jani	N_NN
+tini	PR_PRP
+nei	V_VM
+
+kintu	CC
+kauke	N_NN
+seta	JJ
+bolona	N_NN
+tumi	PR_PRP
+
+ami	QT_QTF
+jani	N_NN
+tini	PR_PRP
+achhen	JJ
+
+kintu	CC
+kauke	N_NN
+seta	JJ
+bolona	N_NN
+tumi	PR_PRP
+
+jantrona	N_NN
+r	RD_PUNC
+srishti	N_NN
+
+mayer	RD_RDF
+lal	RD_RDF
+lal	RD_RDF
+tip	RD_RDF
+gulo	N_NN
+sab	PR_PRP
+kemon	PR_PRQ
+opekkha	N_NN
+kore	N_NN
+
+or	DM_DMD
+sathe	N_NN
+amar	JJ
+hoye	N_NN
+geche	V_VM
+agei	N_NN
+
+e	DM_DMD
+ta	RP_RPD
+hobe	V_VM
+
+ami	RD_RDF
+or	RD_RDF
+r	RD_RDF
+amader	RD_RDF
+biye	N_NN
+thik	N_NN
+hoyeche	V_VM
+jakhon	RD_RDF
+
+tomader	PR_PRP
+boudi	V_VM
+
+bhaai	N_NN
+e	DM_DMD
+peyeche	V_VM
+kaau	N_NN
+k	RD_PUNC
+bole	N_NN
+ni	RP_RPD
+
+sala	JJ
+mithya	N_NN
+baadi	N_NN
+
+ok	DM_DMD
+sobaai	N_NN
+khisti	N_NN
+de	N_NN
+
+hotao	N_NN
+desh	N_NN
+bachao	N_NN
+
+tmr	RD_RDF
+mukhe	N_NN
+j	RD_PUNC
+din	RD_RDF
+sunechilam	RD_RDF
+prothombar	RD_RDF
+valobasar	RD_RDF
+katha	N_NN
+sedin	RB_ALC
+mone	N_NN
+holo	V_VM
+jano	N_NNV
+eki	QT_QTF
+swapno	N_NN
+na	RP_RPD
+ki	RP_RPD
+bastob	N_NN
+
+j	RD_PUNC
+din	V_VM
+tumi	PR_PRP
+amay	N_NN
+dile	V_VAUX
+na	RP_RPD
+chere	N_NN
+jaoar	N_NN
+katha	N_NN
+sedin	RB_ALC
+vablam	N_NN
+eo	PR_PRP
+ki	PR_PRQ
+amr	QT_QTF
+jibone	N_NN
+samvab	N_NN
+
+tmr	RD_RDF
+hat	RD_RDF
+dhore	N_NN
+ank	RD_RDF
+bar	RD_RDF
+vebechi	N_NN
+dure	N_NN
+kothao	RB_ALC
+chole	N_NN
+jai	N_NN
+sudhu	JJ
+tomay	N_NN
+amay	N_NN
+nie	V_VM
+thakbo	V_VAUX
+amra	N_NNP
+
+tumi	PR_PRP
+aj	RD_RDF
+amk	RD_RDF
+chere	N_NN
+gele	V_VAUX
+sob	QT_QTF
+deoa	N_NN
+katha	N_NN
+venge	N_NN
+die	V_VM
+tmk	PR_PRP
+bola	N_NN
+hayni	V_VM
+ajo	RD_RDF
+tmk	RD_RDF
+khuji	N_NN
+rastay	N_NN
+amr	RD_RDF
+pashe	N_NN
+
+ajo	RD_RDF
+tmr	RD_RDF
+kotha	N_NNP
+vebe	N_NNP
+mone	N_NNP
+anondo	N_NNP
+r	RD_PUNC
+kasto	JJ
+dutoe	N_NN
+jage	N_NN
+tumi	PR_PRP
+asbe	N_NN
+vebe	V_VM
+ami	N_NNP
+ajo	N_NNP
+tmr	PR_PRP
+poth	N_NN
+chyeye	N_NN
+bose	N_NN
+swapno	N_NN
+dekhe	V_VM
+jai	N_NN
+
+eirakom	DM_DMD
+o	CC
+hoy	$
+
+kakhono	RB_ALC
+samay	N_NN
+ase	N_NN
+
+jibon	N_NNP
+muchki	N_NNP
+hase	V_VM
+
+thik	N_NNP
+jeno	N_NNP
+pore	N_NN
+paoa	N_NN
+choddo	N_NN
+ana	N_NN
+
+Dunia	N_NNP
+k	RD_PUNC
+janie	N_NN
+e	DM_DMD
+gelam	N_NN
+
+sara	N_NN
+bachor	V_VM
+k	RD_PUNC
+kono	DM_DMD
+kichu	N_NN
+nei	V_VM
+
+aaj	N_NNP
+sobai	N_NNP
+jeno	N_NNP
+ektu	N_NNP
+besi	N_NNP
+k	RD_PUNC
+nie	V_VM
+kaclachhhe	V_VAUX
+
+sudhu	JJ
+
+aberer	RD_RDF
+dol	RD_RDF
+ki	RP_RPD
+ato	JJ
+rongin	N_NN
+hobe	V_VM
+
+ei	DM_DMD
+ta	RP_RPD
+ke	PR_PRQ
+er	DM_DMD
+baniyo	N_NN
+na	V_VM
+
+tomar	PR_PRP
+anek	QT_QTF
+ey	DM_DMD
+ektuo	QT_QTF
+haasi	N_NN
+paay	N_NN
+na	V_VM
+
+jor	N_NNP
+koreo	N_NNP
+na	N_NNP
+
+r	RD_RDF
+j	RD_PUNC
+keu	PR_PRP
+holei	V_VAUX
+erakom	DM_DMD
+likhte	V_VM
+parto	V_VAUX
+
+protyek	N_NN
+er	RD_RDF
+por	RD_RDF
+por	RD_RDF
+ekbaar	RD_RDF
+kore	N_NN
+er	DM_DMD
+baar	N_NN
+khawano	N_NN
+biroktikor	JJ
+hoye	N_NN
+uthche	N_NN
+ta	RP_RPD
+
+nijei	PR_PRF
+nijer	PR_PRF
+name	V_VM
+ey	DM_DMD
+likhe	V_VM
+kore	RB_AMN
+dio	V_VM
+na	RP_RPD
+ta	RP_RPD
+k	RD_PUNC
+
+tumi	PR_PRP
+ekta	JJ
+
+galagali	N_NN
+gulo	N_NN
+kora	N_NNP
+holo	V_VM
+
+ami	PR_PRP
+nijer	PR_PRF
+name	N_NN
+kori	N_NNP
+na	N_NNP
+bhai	N_NN
+
+oto	RP_RPD
+ta	RP_RPD
+nyakamo	N_NNP
+amar	N_NNP
+o	CC
+ase	N_NN
+na	V_VM
+
+ami	N_NNP
+kokhono	N_NNP
+boli	N_NNP
+ni	RP_RPD
+erokom	DM_DMD
+anyo	PR_PRP
+keu	PR_PRP
+dite	V_VM
+pare	N_NST
+na	N_NNP
+
+seta	N_NN
+teo	PR_PRP
+apotti	N_NN
+thakle	V_VM
+bole	N_NN
+ekta	JJ
+khule	V_VM
+felo	V_VAUX
+
+amar	N_NNP
+kono	QT_QTF
+apotti	N_NN
+nei	V_VM
+
+er	RD_RDF
+eto	RD_RDF
+dekhe	V_VM
+na	RP_RPD
+likhe	V_VM
+likhechilam	V_VAUX
+
+er	RD_RDF
+theke	PSP
+ta	RP_RPD
+besi	N_NN
+bolei	N_NN
+to	RP_RPD
+jantam	N_NN
+
+jodio	N_NNP
+kono	QT_QTF
+e	DM_DMD
+ei	DM_DMD
+dur	QT_QTF
+korte	N_NN
+parben	N_NN
+
+ami	N_NNP
+keno	N_NNP
+eta	QT_QTF
+bojhar	N_NNP
+jonno	N_NNP
+apnake	N_NN
+osonkho	V_VM
+dhonnobad	V_VAUX
+
+Didi	N_NNP
+ami	N_NNP
+sadharon	JJ
+bangla	N_NN
+vashay	N_NN
+ekta	JJ
+diyechi	V_VM
+
+taar	CC
+modhye	N_NN
+te	PSP
+bangreji	N_NN
+chilo	V_VAUX
+
+ete	PR_PRP
+amar	N_NNP
+engrji	N_NNP
+apni	N_NN
+bujhe	V_VM
+gelen	V_VAUX
+
+eta	QT_QTF
+to	RP_RPD
+aam	RD_RDF
+gach	N_NN
+e	DM_DMD
+kathal	N_NN
+khojar	N_NN
+moto	JJ
+hoye	N_NN
+galo	V_VM
+
+Aro	QT_QTF
+koekta	JJ
+e	DM_DMD
+apnar	N_NN
+dekhlam	V_VM
+
+darun	N_NN
+r	RD_SYM
+
+kauke	N_NNP
+korle	N_NNP
+hoye	N_NN
+jachchhe	N_NN
+barebare	N_NN
+
+ki	PR_PRQ
+mushkil	N_NN
+
+sombar	N_NNP
+dupure	N_NN
+
+r	RD_PUNC
+bikele	N_NN
+sumane	N_NN
+eso	V_VM
+
+Keu	PR_PRP
+bole	V_VM
+o	CC
+meye	N_NN
+tui	PR_PRP
+keno	N_NNV
+re	CC
+etto	QT_QTF
+abhimani	N_NN
+
+uttor	N_NN
+dite	V_VM
+kathar	N_NN
+pithe	N_NN
+katha	N_NN
+buni	V_VM
+
+swopno	N_NNP
+dake	N_NNP
+meyeti	N_NN
+go	V_VM
+
+bondhu	N_NNP
+hobi	N_NNP
+
+uttorete	N_NN
+abar	N_NN
+akash-patal	JJ
+bhabi	N_NN
+
+udash	N_NN
+moner	N_NN
+ekla	JJ
+kone	N_NN
+ashar	QT_QTF
+alo	JJ
+pathti	N_NN
+bole	V_VM
+aei	DM_DMD
+meyeti	N_NN
+kokhono	RB_ALC
+tui	PR_PRP
+besechis	N_NN
+bhalo	V_VM
+
+proshner	N_NN
+uttor	N_NN
+diye	PSP
+klanto	N_NN
+mon	RD_RDF
+
+jhorer	N_NN
+mukhe	N_NN
+bidrohi	N_NN
+hoy	V_VM
+sarakkhon	N_NNP
+amar	N_NNP
+lojja-abhimaner	N_NNP
+bondhu	N_NNP
+hobe	V_VM
+
+proshnohin	N_NNP
+meyeli	N_NNP
+mon	N_NNP
+proshno	N_NNP
+rakhe	N_NN
+
+nijeke	PR_PRF
+khub	QT_QTF
+achena	JJ
+laage	N_NN
+
+tomeke	PR_PRP
+
+toke	PR_PRP
+
+apnake	N_NNP
+
+sobaike	N_NNP
+
+kub	QT_QTF
+achena	JJ
+lage	N_NN
+
+chinte	N_NN
+parina	N_NN
+
+sob	N_NNP
+kichhu	N_NN
+mone	N_NN
+hoy	V_VM
+bhule	V_VM
+jaoa	N_NN
+kobitar	N_NN
+
+arehh	RD_RDF
+
+lagche	V_VAUX
+
+jahhh	N_NN
+
+pore	N_NN
+gelo	V_VM
+
+Pujo	N_NNP
+
+Ajkal	RD_RDF
+ei	DM_DMD
+e	DM_DMD
+eto	QT_QTF
+nie	V_VM
+pore	N_NN
+ajkal	JJ
+tai	QT_QTF
+er	DM_DMD
+kauke	N_NN
+dekhlei	V_VAUX
+na	PR_PRQ
+kemon	PR_PRQ
+ekta	JJ
+odvut	CC
+lagey	N_NN
+
+eder	PR_PRP
+niye	PSP
+eto	QT_QTF
+tanatani	N_NN
+
+Botso	N_NNP
+tumi	PR_PRP
+jano	V_VM
+na	RP_RPD
+tumi	PR_PRP
+ki	PR_PRQ
+bole	V_VM
+felechho	V_VAUX
+
+rat	RD_RDF
+ta	RP_RPD
+ato	JJ
+maja	N_NN
+hoy	V_VM
+ki	RP_RPD
+ghum	N_NN
+peleo	V_VAUX
+ghumate	N_NN
+jeteo	N_NN
+ichhe	N_NN
+kore	RB_AMN
+na	$
+
+er	DM_DMD
+petani	N_NN
+
+kapuni	N_NN
+tarpor	N_NN
+jhakuni	N_NN
+
+porer	N_NN
+ta	RP_RPD
+r	RD_PUNC
+bollam	N_NNP
+na	N_NNP
+
+Mon	RD_RDF
+j	RD_PUNC
+kore	N_NN
+e	DM_DMD
+uru	N_NN
+uru	PR_PRP
+
+subho	N_NNP
+nabo	N_NNP
+barso	N_NN
+
+r	RD_RDF
+je	RD_RDF
+choshma	N_NN
+pora	N_NN
+meyeti	N_NN
+achho	JJ
+budhbar	N_NN
+gondogolr	JJ
+aanch	N_NN
+peye	N_NN
+dui	QT_QTF
+bondhur	N_NN
+sathe	N_NN
+bangla	N_NN
+dariechhile	N_NN
+tomar	PR_PRP
+kotha	RB_ALC
+bhebe	V_VM
+raate	V_VAUX
+ghumate	N_NN
+parchhina	N_NN
+ek	DM_DMD
+soptaho	N_NN
+
+khonikr	N_NN
+dorshon	N_NN
+dao	N_NN
+ei	DM_DMD
+becharike	N_NN
+
+tumi	PR_PRP
+tahole	N_NN
+nischoyi	JJ
+dine	N_NN
+ghumachchho	V_VM
+ek	DM_DMD
+soptaho	N_NN
+dhore	N_NN
+
+sob	N_NNP
+pakhi	N_NN
+ghare	N_NN
+ase	N_NN
+sab	QT_QTF
+nadi	N_NN
+furay	N_NN
+a	N_NN
+jibaner	N_NN
+sab	PR_PRP
+lenden	V_VM
+
+Uttal	RD_RDF
+
+cholo	N_NNP
+deser	N_NNP
+seva	N_NNP
+kori	N_NNP
+
+Manush	RD_RDF
+obhesher	RD_RDF
+dash	N_NN
+seta	JJ
+akhn	N_NN
+haare	V_VM
+haare	V_VM
+bujhchi	V_VM
+
+aashirbaad	RD_RDF
+
+mone	N_NN
+hoy	V_VM
+
+tomake	PR_PRP
+moto	N_NN
+dekhte	V_VM
+
+Khub	RD_RDF
+snigdho	N_NN
+
+aar	PR_PRP
+shundor	V_VM
+
+ami	N_NNP
+shotti	N_NN
+tomae	PR_PRP
+pochondo	N_NN
+kori	N_NNP
+
+aar	RD_RDF
+besh	N_NN
+
+biye	N_NN
+
+achaa	JJ
+
+thake	N_NNP
+sarbostore	N_NN
+
+haate	V_VM
+mathe	N_NN
+rannaghore	N_NN
+
+banu	N_NN
+tor	PR_PRP
+churi	N_NN
+hoyeche	V_VM
+
+Brishtidharar	RD_RDF
+sathe	N_NN
+tooptup	RD_RDF
+tiptop	RD_RDF
+
+hnetechi	N_NNP
+anekkhani	QT_QTF
+goli	N_NN
+theke	PSP
+raajpoth	N_NNP
+
+shobder	N_NNP
+shrot	N_NN
+bhenge	V_VM
+nischup	V_VAUX
+chorachor	V_VAUX
+
+kokhono	N_NNP
+moner	N_NNP
+akash	N_NNP
+megheder	N_NNP
+khelaghor	N_NN
+
+andharete	N_NN
+nijjhum	PR_PRF
+shohorer	N_NNP
+dhukpuk	N_NNP
+
+mon	RD_RDF
+chay	N_NN
+tai	QT_QTF
+kichu	QT_QTF
+
+kokhon	N_NNP
+furiye	N_NNP
+jawa	N_NNP
+brishtir	N_NNP
+konara	N_NNP
+
+fire	N_NNP
+ase	N_NNP
+kachakachi	N_NNP
+aloker	N_NNP
+ishara	N_NNP
+
+haate	V_VM
+haat	V_VAUX
+rekhe	V_VM
+chola	N_NN
+mepe	V_VM
+newa	N_NNP
+kichu	N_NNP
+kkhon	N_NNP
+
+ajo	JJ
+tai	QT_QTF
+ddheu	N_NN
+tole	V_VM
+gopon	N_NNP
+ferari	N_NNP
+mon	RD_RDF
+bah	CC
+
+bawa	N_NN
+
+bole	N_NN
+ki	PR_PRQ
+
+hoy	RD_RDF
+naki	N_NN
+emon	RD_RDF
+
+anekdin	RD_RDF
+por	RD_RDF
+bari	N_NNP
+te	PSP
+kintu	CC
+jor	RD_RDF
+er	RD_RDF
+jonno	N_NNP
+grihobondi	N_NNP
+
+dukhho	N_NN
+nei	V_VM
+jomie	N_NN
+ador	JJ
+khachhi	N_NN
+ma	N_NN
+baba	N_NN
+ar	RD_RDF
+sonamar	RD_RDF
+ai	DM_DMD
+sujoge	N_NN
+
+tokey	V_VM
+ami	N_NNP
+korte	N_NNP
+chaai	N_NNP
+
+er	RD_RDF
+janina	N_NNP
+faka	JJ
+achho	JJ
+
+jheelpaare	N_NN
+boshe	N_NN
+ganja	N_NN
+ar	RD_RDF
+adda	N_NN
+cholbe	V_VM
+
+amra	N_NNP
+vuktobhugi	N_NNP
+
+tobe	RB_AMN
+khonja	N_NN
+ta	RP_RPD
+besh	QT_QTF
+ekta	JJ
+byapar	RD_RDF
+
+Anonto	JJ
+otikay	N_NN
+bishonno	JJ
+mahakay	N_NN
+anonto	JJ
+achchhedyo	JJ
+ami	N_NN
+
+bishodhoro	N_NNP
+bhujongo	N_NNP
+udwel	N_NNP
+torongo	N_NNP
+morichika	N_NNP
+mridongo	N_NNP
+tumi	PR_PRP
+
+anondo	N_NNP
+toma	N_NNP
+sone	N_NNP
+rakhi	N_NN
+mone	N_NN
+sojotone	N_NN
+tomar	PR_PRP
+sannidhyo	N_NN
+jachi	JJ
+
+Mori	N_NNP
+mori	N_NNP
+hasyo	N_NNP
+tobo	N_NNP
+meduro	N_NNP
+mithe	N_NNP
+lasyo	N_NNP
+tobo	N_NNP
+toma	N_NNP
+bina	N_NNP
+kemone	N_NNP
+ami	N_NNP
+bachi	N_NN
+
+Bari	N_NNP
+theke	PSP
+beriye	V_VM
+oder	V_VAUX
+bari	N_NNP
+jawar	N_NN
+age	N_NN
+Ami	PR_PRP
+tokhono	PR_PRP
+e	DM_DMD
+kotha	RB_ALC
+bolte	N_NN
+byasto	JJ
+cholchhe	V_VM
+
+Durlov	RD_RDF
+ar	RD_RDF
+proti	N_NN
+e	DM_DMD
+manusher	N_NN
+opar	N_NST
+aagroho	V_VM
+
+Sobai	N_NN
+k	RD_PUNC
+subha	N_NNP
+onk	CC
+suvecha	N_NN
+o	CC
+ovinondon	PR_PRP
+
+ekdin	RD_RDF
+kinboi	RP_RPD
+amar	RD_RDF
+hathe	N_NN
+baksobondi	N_NN
+hobe	V_VM
+tomar	PR_PRP
+hridoy	N_NN
+
+patajhorar	N_NN
+din	V_VM
+ses	PR_PRP
+hole	V_VM
+
+lokjon	RD_RDF
+abar	RD_RDF
+kisssob	RD_RDF
+vebe	N_NN
+ney	V_VM
+
+chalo	V_VM
+
+chalo	V_VM
+
+chalo	V_VM
+
+age	RD_RDF
+
+jokon	N_NNP
+kortam	N_NNP
+gaan	N_NNP
+suntam	N_NNP
+
+Aj	RD_RDF
+jokon	RD_RDF
+gaan	RD_RDF
+suni	N_NN
+
+mone	N_NN
+hoy	V_VM
+eto	V_VAUX
+baje	N_NNP
+gaan	N_NNP
+ami	N_NNP
+sojjo	N_NNP
+korechi	N_NNP
+ki	PR_PRQ
+vabe	V_VM
+
+abar	RD_RDF
+age	RD_RDF
+
+jokon	N_NNP
+suntam	N_NNP
+
+ekdom	RB_ALC
+valo	V_VM
+lagto	V_VAUX
+na	RP_RPD
+
+r	RD_RDF
+aj	RD_RDF
+jokon	RD_RDF
+suni	N_NN
+
+mone	N_NN
+hoy	V_VM
+gaan	N_NN
+egulo	PR_PRP
+
+Eta	JJ
+ki	PR_PRQ
+Ruchi	JJ
+palteche	N_NN
+
+naki	N_NN
+Boyos	N_NN
+bereche	V_VM
+
+Jani	N_NNP
+na	N_NNP
+
+mon	RD_RDF
+e	DM_DMD
+porche	N_NN
+sei	DM_DMD
+diner	N_NN
+kotha	RB_ALC
+tor	PR_PRP
+hatti	N_NN
+dhore	N_NN
+ghumie	N_NN
+thaka	JJ
+mone	N_NN
+pore	N_NN
+tor	PR_PRP
+sei	DM_DMD
+diner	N_NN
+kotha	RB_ALC
+amr	QT_QTF
+kadhe	N_NN
+matha	N_NN
+rekhe	V_VM
+rong	N_NNP
+be	N_NNP
+rong	N_NNP
+er	DM_DMD
+swapno	N_NN
+dekha	V_VM
+tobe	V_VAUX
+hotat	N_NNP
+kano	N_NNP
+chole	N_NN
+geli	V_VM
+amy	QT_QTF
+ekala	JJ
+fele	N_NN
+geli	V_VM
+mon	RD_RDF
+aj	RD_RDF
+boroi	N_NNP
+eka	QT_QTF
+taito	JJ
+bhujhi	N_NN
+khelo	N_NN
+dhoka	N_NN
+janish	N_NN
+kanchi	N_NN
+ami	QT_QTF
+eka	QT_QTF
+eka	QT_QTF
+keo	N_NN
+nei	V_VM
+aj	RD_RDF
+r	RD_PUNC
+pase	N_NNP
+bosa	N_NNP
+tai	PR_PRP
+to	RP_RPD
+mone	N_NN
+porche	N_NN
+sei	DM_DMD
+diner	N_NN
+kotha	RB_ALC
+tor	PR_PRP
+hatti	N_NN
+dhore	N_NN
+ghumie	N_NN
+thaka	N_NN
+
+tke	PR_PRP
+bhalobasi	N_NN
+
+biye	N_NN
+koris	N_NN
+ble	V_VM
+dilam	V_VAUX
+kintu	CC
+
+ami	N_NNP
+akhon	N_NNP
+o	CC
+porchi	N_NN
+r	RD_RDF
+amr	RD_RDF
+er	RD_RDF
+biye	N_NN
+pakapaki	N_NN
+hoye	N_NN
+galo	V_VM
+
+cheleti	N_NN
+r	RD_RDF
+CHASA	N_NN
+r	RD_RDF
+amr	RD_RDF
+akhn	RD_RDF
+o	CC
+a	N_NN
+
+amr	RD_RDF
+take	N_NN
+biye	N_NN
+te	PSP
+korbe	N_NNP
+r	RD_PUNC
+ami	N_NNP
+bangla	N_NN
+chalachi	V_VM
+
+biyer	N_NN
+por	RD_RDF
+amr	RD_RDF
+chole	N_NN
+jabe	V_VM
+r	RD_RDF
+ami	RD_RDF
+more	N_NN
+daria	N_NN
+lebur	N_NN
+jol	RD_RDF
+khachi	N_NN
+
+amr	RD_RDF
+amak	RD_RDF
+biye	N_NN
+te	PSP
+nemontonno	N_NNV
+koreche	V_VM
+ta	RP_RPD
+khawa	N_NN
+charao	N_NN
+jai	N_NN
+na	V_VM
+abr	RD_RDF
+chokher	N_NN
+samne	N_NN
+k	RD_PUNC
+biye	N_NN
+hote	V_VM
+dekhbo	V_VM
+
+biye	N_NN
+te	PSP
+gea	N_NN
+dekhi	V_VM
+kalo	N_NNP
+mosh	N_NNP
+akta	JJ
+k	RD_PUNC
+biye	N_NN
+korche	N_NN
+amr	RD_RDF
+j	RD_PUNC
+kina	N_NNP
+amr	N_NNP
+theke	PSP
+nata	JJ
+r	RD_PUNC
+amr	N_NNP
+theke	PSP
+mota	JJ
+
+se	PR_PRP
+tar	RP_RPD
+bor	N_NNP
+sathe	N_NNP
+koranor	N_NNP
+somoi	N_NNP
+amk	N_NNP
+khub	QT_QTF
+bhalo	N_NN
+dada	N_NN
+bolche	N_NN
+
+dhur	JJ
+sala	N_NN
+likhte	V_VM
+gea	V_VAUX
+aro	QT_QTF
+khachi	N_NN
+baki	N_NN
+gulo	N_NN
+tomra	PR_PRP
+banao	N_NN
+
+khub	QT_QTF
+kharap	N_NN
+
+tobu	N_NNP
+kaan	N_NNP
+paatle	N_NN
+shona	N_NN
+jaay	N_NN
+
+khub	QT_QTF
+joruri	N_NN
+ekTa	JJ
+gaan	N_NN
+
+e	DM_DMD
+lekha	N_NN
+
+tmk	RD_RDF
+amr	RD_RDF
+lage	PSP
+
+dekhei	V_VM
+tomate	PR_PRP
+
+ta	RP_RPD
+ki	RP_RPD
+prem	N_NN
+a	N_NN
+o	CC
+hoi	$
+
+ek2	RD_RDF
+kore	N_NN
+boli	N_NN
+
+amader	RD_RDF
+ta	RP_RPD
+er	RD_RDF
+
+jokhn	N_NNP
+e	DM_DMD
+prem	N_NN
+kori	N_NNP
+tokhn	PR_PRP
+e	DM_DMD
+bole	N_NN
+di	PSP
+ami	QT_QTF
+
+ha	$
+manchi	$
+ra	$
+onk	$
+nai	$
+ba	$
+er	$
+dik	$
+theke	PSP
+
+holei	N_NN
+to	RP_RPD
+kharap	N_NN
+manus	N_NNP
+noi	N_NNP
+
+porar	RD_RDF
+por	RD_RDF
+pora	N_NN
+ta	RP_RPD
+bondho	N_NNP
+korben	N_NNP
+na	N_NNP
+
+tokhn	RD_RDF
+amr	RD_RDF
+er	RD_RDF
+chilo	N_NNP
+na	N_NNP
+
+aj	RD_RDF
+jokhn	RD_RDF
+tar	RD_RDF
+barir	RD_RDF
+lok	RD_RDF
+jante	N_NN
+parlo	N_NN
+amr	RD_RDF
+bapar	N_NN
+a	N_NN
+tader	PR_PRP
+chele	N_NN
+nea	QT_QTF
+apotti	N_NN
+nei	V_VM
+bole	N_NN
+apotti	N_NN
+
+ami	RD_RDF
+amr	RD_RDF
+er	RD_RDF
+theke	PSP
+akta	JJ
+pori	N_NN
+j	RD_PUNC
+ami	N_NNP
+bole	N_NN
+o	CC
+lojja	N_NN
+pay	V_VM
+sobar	N_NNP
+kache	N_NNP
+bolte	N_NNP
+
+amr	RD_RDF
+lukote	N_NN
+bole	N_NN
+amr	RD_RDF
+kache	N_NN
+
+er	RD_RDF
+theke	PSP
+kichu	N_NNP
+korchi	N_NNP
+
+Kota	JJ
+pelen	V_VM
+dada	N_NN
+
+ebar	RB_ALC
+dekhchi	V_VM
+apni	N_NN
+e	PR_PRP
+er	DM_DMD
+meyeder	N_NN
+theke	PSP
+beshi	JJ
+hoe	V_VM
+uthchen	V_VAUX
+
+le	RD_RDF
+
+Sala	N_NN
+bujhte	V_VM
+parchi	N_NN
+amr	RD_RDF
+bayesh	N_NN
+hocche	V_VM
+
+ami	N_NNP
+eto	QT_QTF
+j	RD_PUNC
+ta	RP_RPD
+bujhte	V_VM
+amr	RD_RDF
+pakka	N_NN
+ghanta	JJ
+samay	N_NN
+laglo	V_VM
+
+keno	N_NNP
+ami	N_NNP
+tomar	PR_PRP
+niyeo	PSP
+khelte	N_NN
+raaji	N_NN
+achi	JJ
+
+matha	N_NN
+ghurche	V_VM
+
+ANDHOKARER	RD_RDF
+PORE	RD_RDF
+BANDHO	RD_RDF
+DORJA	N_NN
+KHULE	V_VM
+SURJO	$
+TA	$
+THIK	$
+UTHE	$
+JAY	$
+
+KANNA	N_NN
+PETE	RD_RDF
+PETE	RD_RDF
+HOTATH	RD_RDF
+KORE	RD_RDF
+BANDHU	$
+TA	$
+THIK	$
+JUTE	$
+JAY	$
+
+HATH	N_NNP
+TA	N_NNP
+BARAI	N_NNP
+TAI	N_NNP
+TOMAR	N_NNP
+DIKE	N_NNP
+DAKI	N_NNP
+JHAPSHA	N_NNP
+CHOKHE	N_NNP
+TOMAY	N_NNP
+
+TUMI	N_NNP
+HATH	$
+TA	$
+TOMAR	$
+DAO	$
+HATH	$
+TA	$
+TOMAR	$
+HATH	$
+TA	$
+TOMAR	$
+AMAY	$
+
+SADA	N_NN
+KALO	RD_RDF
+RAAT	RD_RDF
+FIKE	RD_RDF
+HAY	RD_RDF
+JE	RD_RDF
+HOTHATH	RD_RDF
+JAY	RD_RDF
+JANTRONA	N_NN
+HARIE	RD_RDF
+KOTHAY	RD_RDF
+
+BESURO	RD_RDF
+KOTHAGULO	RD_RDF
+JAHRTE	RD_RDF
+JHARTE	RD_RDF
+VHULO	RD_RDF
+HOTHATH	RD_RDF
+E	RD_RDF
+GAAN	RD_RDF
+KHUJE	RD_RDF
+PAI	RD_RDF
+
+MITE	RD_RDF
+JAY	RD_RDF
+GHUM	RD_RDF
+GHOR	RD_RDF
+NATUN	RD_RDF
+EKTA	N_NN
+VOR	V_VM
+PASE	RD_RDF
+AMAR	RD_RDF
+JANLAY	RD_RDF
+
+TUMI	N_NNP
+SUR	$
+TA	$
+TOMAR	$
+DAO	$
+SUR	$
+TA	$
+TOMAR	$
+SUR	$
+TA	$
+TOMAR	$
+AMAY	$
+
+CHENA	N_NN
+ACHENA	N_NN
+NA	RD_RDF
+NA	RD_RDF
+GALOK	RD_RDF
+DHADHAY	RD_RDF
+MON	$
+AMAR	$
+POTH	$
+TA	$
+HARAY	$
+
+MONER	$
+KOTHA	$
+NIE	$
+EKA	$
+EKA	$
+GHURE	$
+MORI	$
+KLANTO	N_NNP
+EKLA	N_NNP
+RASTAY	N_NNP
+
+HOTHATH	N_NNP
+ESE	N_NNP
+TUMI	N_NNP
+PASE	N_NNP
+DARAO	N_NNP
+AASHE	RD_RDF
+NATUN	RD_RDF
+SWAPNO	RD_RDF
+PAYE	RD_RDF
+PAY	RD_RDF
+
+AAMI	N_NNP
+KHUJCHI	N_NNP
+JAKE	$
+THIK	$
+PAI	$
+JE	$
+TAKE	$
+AAMI	N_NN
+KHUJE	RD_RDF
+PAI	RD_RDF
+THIK	RD_RDF
+E	RD_RDF
+AAMAY	RD_RDF
+
+Tomader	N_NN
+dujon	N_NN
+k	RD_PUNC
+besh	JJ
+manai	N_NN
+
+aar	RD_RDF
+jodi	N_NN
+naa-i	N_NN
+thaki	N_NN
+
+jebhabe	N_NN
+sobai	N_NN
+thakake	N_NN
+chene	V_VM
+sebhabe	N_NNP
+hnete	N_NNP
+chloe	N_NN
+nishwase	N_NN
+aar	RD_RDF
+jodi	N_NN
+naa-i	N_NN
+thaki	N_NN
+kaal	N_NN
+theke	PSP
+jodi	N_NNP
+kaal	N_NNP
+theke	PSP
+aamar	JJ
+buke	N_NN
+ar	RD_RDF
+kashto	N_NN
+naa	JJ
+
+kaal	N_NNP
+jodi	N_NNP
+aami	N_NN
+karor	V_VM
+haater	V_VAUX
+bhetor	N_NST
+ek	DM_DMD
+muto	N_NN
+chhai	N_NN
+
+ki	PR_PRQ
+bolbe	RB_AMN
+adalot	JJ
+
+kichhu	N_NN
+bolbe	V_VM
+ki	PR_PRQ
+er	PR_PRP
+paro	V_VM
+
+Boumoni	N_NNP
+ke	PR_PRQ
+khawate	V_VM
+byasto	RP_RPD
+
+ebar	CC
+kon	DM_DMQ
+kon	DM_DMQ
+sala	N_NNP
+kotha	N_NNP
+bolbi	N_NNP
+niye	PSP
+
+Somoyta	JJ
+abr	JJ
+kharap	N_NN
+hoye	N_NN
+gelo	V_VM
+
+shironaam	N_NN
+nei	V_VM
+nil	RD_RDF
+nil	RD_RDF
+jogger	RD_RDF
+dhum	RD_RDF
+aamar	RD_RDF
+sarata	JJ
+bayos	N_NN
+sarata	JJ
+gaaner	N_NN
+gaaye	N_NN
+gaaye	N_NN
+bune	V_VM
+dichchhe	V_VAUX
+megher	N_NNP
+barno	N_NNP
+
+aami	N_NN
+prokashito	JJ
+hoye	N_NN
+jachchhi	N_NN
+maago	N_NN
+
+brishti	N_NN
+
+ei	DM_DMD
+bristi	N_NN
+barnomaalay	V_VM
+
+ei	DM_DMD
+snan	N_NN
+brishtir	JJ
+ghare	N_NN
+ei	DM_DMD
+rakto	N_NN
+nupur	N_NN
+
+ei	DM_DMD
+deoaler	N_NN
+megh	N_NN
+
+ei	DM_DMD
+durer	JJ
+nouko	N_NN
+ei	DM_DMD
+britto	JJ
+tribhuj	N_NN
+r	RD_PUNC
+ei	DM_DMD
+chouko	N_NN
+thaalar	V_VM
+opore	V_VAUX
+ami	N_NNP
+e	DM_DMD
+jaahaj	N_NN
+theke	PSP
+se	DM_DMD
+jahaaj	N_NN
+e	DM_DMD
+nouko	N_NN
+theke	PSP
+o	CC
+nouko	JJ
+paarapaar	N_NN
+shudhu	RB_AMN
+korei	N_NN
+jachchhi	N_NN
+ebong	CC
+aami	N_NN
+jachchhina	N_NN
+kothao	RB_ALC
+aami	N_NN
+bodhoy	V_VM
+e	DM_DMD
+kobitaar	DM_DMD
+prothom	N_NN
+pongktitaake	N_NN
+khuje	N_NN
+jachchhi	N_NN
+bhul	N_NN
+paarate	V_VM
+bhul	N_NN
+raastay	N_NN
+
+korte	N_NNP
+keno	N_NNP
+korchhe	N_NNP
+na	N_NNP
+
+Tahole	N_NN
+to	RP_RPD
+Laal	RD_RDF
+Kali	N_NN
+er	RD_RDF
+jhamela	N_NN
+tai	QT_QTF
+chole	N_NN
+jabe	V_VM
+
+e	PR_PRP
+ese	V_VM
+beranor	RD_RDF
+somoy	RD_RDF
+
+thekei	PSP
+suru	N_NN
+hok	V_VM
+na	RP_RPD
+
+sada	N_NN
+bangla	N_NN
+korle	N_NN
+daray	N_NN
+
+TEL	RD_RDF
+merona	N_NN
+KAJ	PR_PRP
+karo	V_VM
+
+keno	N_NNP
+pao	QT_QTF
+sasti	N_NN
+michhe	N_NN
+niyom	PSP
+kanun	N_NNP
+mano	N_NNP
+na	N_NNP
+
+tomar	PR_PRP
+ghare	N_NN
+basot	V_VM
+kore	RB_AMN
+koy	QT_QTF
+jona	N_NN
+
+mon	N_NNP
+jano	N_NNP
+na	N_NNP
+
+Nisongo	N_NNP
+dupure	N_NN
+rate	N_NNP
+halka	JJ
+bristite	N_NN
+manush	N_NN
+jake	N_NN
+kore	N_NN
+se	PR_PRP
+ki	PR_PRQ
+odhorai	PR_PRP
+thake	V_VM
+sobar	N_NNP
+kache	V_VM
+naki	N_NN
+ami	N_NN
+
+okal	RD_RDF
+bristi	N_NN
+o	CC
+amr	RD_RDF
+jibone	N_NN
+kono	QT_QTF
+anondo	JJ
+boue	N_NN
+ante	N_NN
+parlona	N_NN
+
+jani	N_NN
+ki	PR_PRQ
+hote	V_VM
+choleche	V_VAUX
+kichhu	N_NN
+bujte	V_VM
+parchi	N_NN
+na	V_VM
+
+life	N_NN
+ta	RP_RPD
+khub	QT_QTF
+dhoka	N_NN
+dichhe	V_VM
+
+thakur	RD_RDF
+durgapuja	JJ
+
+Chanda	N_NN
+tola	V_VM
+kaj	V_VAUX
+ta	RP_RPD
+khub	QT_QTF
+kothin	RB_ALC
+
+KI	RD_RDF
+BHISHAN	RD_RDF
+GARAM	RD_RDF
+
+AR	$
+PARA	$
+JACHHE	$
+NA	$
+
+orehhh	$
+na	$
+na	$
+
+khaowa	N_NN
+ta	RP_RPD
+chhar	RD_RDF
+
+tor	RD_RDF
+gaan	RD_RDF
+er	RD_RDF
+gola	N_NN
+nosto	JJ
+hoye	N_NN
+ja6e	N_NN
+kintu	CC
+
+Ajo	RB_ALC
+sei	DM_DMD
+ta	RP_RPD
+roye	N_NN
+geche	V_VM
+
+Etodin	RD_RDF
+poro	N_NN
+
+Bhabi	N_NN
+tokan	RD_RDF
+jadi	N_NN
+sahos	PSP
+kre	N_NN
+blte	N_NN
+partam	N_NN
+
+er	DM_DMD
+kauke	N_NN
+dekhei	V_VM
+aj	DM_DMD
+obdhi	N_NN
+ek	CC
+bar-o	N_NNP
+korlo	N_NNP
+na	N_NNP
+
+ami	N_NNP
+tomake	N_NNP
+biye	N_NNP
+korte	N_NNP
+chaai	N_NNP
+
+tomake	PR_PRP
+biye	N_NN
+korar	N_NNP
+jnyo	N_NNP
+ami	N_NNP
+ja	N_NNP
+khusi	N_NN
+korte	N_NN
+raaji	N_NN
+achi	JJ
+
+sabar	QT_QTF
+samne	N_NN
+khule	V_VM
+dite	V_VAUX
+raji	N_NN
+aachi	JJ
+
+haaga	N_NN
+khete	V_VM
+raaji	N_NN
+aachi	JJ
+
+kukur	N_NN
+er	DM_DMD
+pichon	N_NN
+chaat	JJ
+te	PSP
+raaji	N_NN
+achi	JJ
+
+er	DM_DMD
+er	DM_DMD
+pichone	N_NN
+laathi	N_NN
+maarte	N_NN
+o	CC
+raaji	N_NN
+achi	JJ
+
+ar	RD_RDF
+er	RD_RDF
+er	RD_RDF
+pechhone	N_NN
+hothat	JJ
+laathi	N_NN
+marbe	N_NN
+keno	N_NNV
+
+se	PR_PRP
+ki	PR_PRQ
+tomar	PR_PRP
+
+er	$
+er	$
+er	$
+jonno	$
+
+sanskriti	N_NN
+te	PSP
+tomar	PR_PRP
+gaowa	N_NN
+dekho	V_VM
+gan	RD_RDF
+ta	RP_RPD
+shune	V_VM
+shotti	N_NN
+bolchhi	N_NN
+amar	N_NNP
+chokhe	N_NN
+jol	RD_RDF
+eshe	N_NN
+gechhilo	V_VM
+
+ta	RP_RPD
+ujjho	JJ
+rakhlam	N_NN
+
+bhai	N_NN
+aar	RD_RDF
+k'din	RD_RDF
+bekaar	RD_RDF
+hoe	RD_RDF
+bose	N_NN
+thaakbo	V_VM
+
+karor	V_VM
+ajker	JJ
+eta	QT_QTF
+
+tato	CC
+kom	PR_PRP
+mane	N_NN
+
+shobdera	N_NN
+ghor	N_NN
+chay	V_VM
+
+utorol	JJ
+isharay	N_NN
+
+nirupay	JJ
+chhnuye	N_NN
+dekha	V_VM
+samanyo	N_NN
+
+r	RD_PUNC
+rastay	N_NN
+
+bhirmoy	JJ
+goti	N_NN
+chhere	V_VM
+
+adim	N_NN
+o	CC
+bonyo	N_NNP
+
+chokhe	N_NN
+chokhe	N_NN
+maapi	N_NN
+mon	RD_RDF
+
+tumi-aami	PR_PRP
+sarakkhon	N_NN
+
+noyto	N_NNP
+baa	N_NNP
+bichurno	N_NNP
+kuntol	N_NNP
+
+tiptip	QT_QTF
+brishtite	N_NN
+
+mugdhota	JJ
+drishtite	N_NN
+
+bhije	JJ
+jawa	N_NN
+premikar	N_NN
+anchol	RD_RDF
+
+ekanto	QT_QTF
+
+nirbhoy	JJ
+rosalaap	N_NN
+
+swopnera	N_NN
+nirjone	N_NN
+mogno	N_NNV
+
+chaapa	N_NNP
+thhnot	N_NNP
+
+byakulota	JJ
+nirbodh	N_NN
+
+madokota	JJ
+pichhutan	N_NN
+anonyo	N_NN
+
+amar	RD_RDF
+bor	RD_RDF
+ta	RP_RPD
+ki	RP_RPD
+bhalo	N_NN
+ami	N_NN
+toh	PR_PRP
+bhubtei	N_NN
+parini	N_NN
+j	RD_PUNC
+ami	N_NNP
+eta	QT_QTF
+pabo	N_NN
+
+Shubho	RD_RDF
+bijay	N_NN
+
+Sob-e	N_NN
+kripa	N_NN
+
+na	N_NNP
+ure	N_NNP
+themechho	N_NNP
+pakhi	N_NN
+samostota	N_NN
+oro-	PR_PRP
+
+e	DM_DMD
+bose	N_NN
+a6i	QT_QTF
+amra	N_NN
+bondhu	N_NN
+Chokhe	N_NN
+porlo	N_NN
+ekta	JJ
+meye	N_NN
+gale	V_VM
+hat	V_VAUX
+diye	PSP
+bose	N_NN
+a6e	N_NN
+eka	QT_QTF
+eka	QT_QTF
+
+Amake	N_NNP
+akjn	N_NNP
+bollo	N_NNP
+meyetar	N_NNP
+sathe	N_NN
+kotha	RB_ALC
+bolte	N_NN
+parle	N_NN
+ta	RP_RPD
+amar	N_NNP
+chokh	N_NN
+gulo	N_NN
+jol	RD_RDF
+jol	RD_RDF
+kore	N_NN
+utlo	N_NN
+
+Ki6ukhn	RD_RDF
+vablam	RD_RDF
+eta	QT_QTF
+kora	N_NNP
+ki	PR_PRQ
+thik	PSP
+hobe	V_VM
+tar	RP_RPD
+pore	N_NN
+vablam	RD_RDF
+ta	RP_RPD
+katao	QT_QTF
+vabna	JJ
+chinta	N_NN
+
+Gelam	N_NNP
+meyetar	N_NNP
+ka6e	N_NNP
+bollam	N_NNP
+ami	N_NNP
+ki	PR_PRQ
+akhane	N_NNP
+boste	N_NNP
+pari	N_NN
+se	PR_PRP
+bollo	N_NN
+ha	V_VM
+
+Tarpor	N_NNP
+ki	PR_PRQ
+j	RD_PUNC
+boli	N_NN
+ar	RD_RDF
+mathay	N_NN
+as6ilo	N_NN
+na	V_VM
+bollam	N_NN
+tomake	PR_PRP
+toh	PR_PRP
+age	PSP
+kokhono	DM_DMD
+te	PSP
+dekhini	V_VM
+ar	CC
+se	PR_PRP
+bollo	V_VM
+tao	RD_RDF
+abar	RD_RDF
+
+Kintu	N_NNP
+je	N_NNP
+dak6e	N_NN
+bollam	N_NN
+kotha	RB_ALC
+bolbo	V_VM
+
+Buker	RD_RDF
+vitor	RD_RDF
+ta	RP_RPD
+jeno	N_NNP
+thor	N_NNP
+thor	N_NNP
+kore	N_NNP
+kap6e	N_NN
+ghori	N_NN
+tar	CC
+dike	N_NN
+takiye	N_NN
+bose	N_NN
+thaklam	RD_RDF
+ar	RD_RDF
+pore	N_NN
+uthe	N_NN
+meyeta	N_NN
+ke	PR_PRQ
+ekta	JJ
+bole	N_NN
+chole	V_VM
+aslam	V_VAUX
+
+ektu	N_NN
+holei	V_VAUX
+jeno	N_NNP
+hoye	N_NN
+jeto	V_VM
+
+Jak	RD_RDF
+akhn	RD_RDF
+ta	RP_RPD
+amar	N_NNP
+
+adbhut	CC
+tumi	PR_PRP
+tomar	PR_PRP
+chokh	N_NN
+tomar	PR_PRP
+
+kintu	CC
+tomar	PR_PRP
+montao	N_NN
+tototai	PR_PRP
+sundor	JJ
+
+mane	N_NN
+tumi	PR_PRP
+anyorokom	JJ
+
+tumi	PR_PRP
+eka	QT_QTF
+thakte	V_VM
+valobaso	V_VAUX
+
+ami	N_NNP
+jani	V_VM
+esob	V_VAUX
+
+kintu	CC
+oi	DM_DMD
+birat	JJ
+boigulor	N_NN
+modhye	PSP
+tumi	PR_PRP
+jokhon	N_NN
+dube	N_NN
+jao	N_NN
+e	RD_RDF
+anyorokom	JJ
+lage	N_NN
+tomai	PR_PRP
+
+tomar	PR_PRP
+ghono	JJ
+lomba	N_NN
+chul	N_NN
+mukhe	N_NN
+ese	V_VM
+porle	N_NN
+aro	QT_QTF
+valo	V_VM
+lage	V_VAUX
+
+tomar	PR_PRP
+lekha	N_NN
+asadharon	JJ
+
+tomar	PR_PRP
+motoi	N_NNP
+tumi	PR_PRP
+
+kono	DM_DMD
+nyakamo	N_NN
+chharai	N_NN
+
+sob	N_NNP
+miliye	PSP
+tumi	PR_PRP
+tumi	PR_PRP
+
+tomar	PR_PRP
+kobitar	N_NNP
+moto	N_NNP
+
+ami	N_NNP
+tomai	N_NNP
+kori	N_NNP
+
+fuler	N_NNP
+soundorjyo	N_NNP
+jemon	N_NNP
+dur	QT_QTF
+theke	PSP
+dekhte	V_VM
+valo	V_VAUX
+lage	V_VAUX
+mone	N_NN
+hoy	V_VM
+chire	N_NN
+nile	V_VAUX
+puro	QT_QTF
+bagantai	N_NN
+nosto	JJ
+hoe	N_NN
+jabe	V_VM
+temon	PR_PRP
+tomake	PR_PRP
+tomar	PR_PRP
+jaigatei	N_NN
+rakhte	N_NN
+valo	V_VM
+lage	V_VAUX
+
+boro	N_NNP
+beshi	JJ
+pobitrota	N_NN
+tomar	PR_PRP
+modhye	N_NN
+
+ei	DM_DMD
+dingulor	N_NN
+theke	PSP
+alada	N_NN
+
+tumi	PR_PRP
+erokomi	PR_PRP
+theko	PSP
+
+amar	RD_RDF
+khub	RD_RDF
+kharap	N_NN
+jachhe	N_NN
+aj	DM_DMD
+khelete	N_NN
+giye	N_NN
+paye	N_NN
+kete	V_VM
+gelo	V_VAUX
+
+sotyi	N_NNP
+naki	N_NN
+
+mara	N_NN
+porbo	N_NN
+to	RP_RPD
+
+Jara	N_NNP
+er	RD_RDF
+por	RD_RDF
+mon	RD_RDF
+kharap	N_NN
+kore	N_NN
+bose	N_NN
+acho	JJ
+
+bhabcho	N_NN
+jibon	N_NN
+tai	QT_QTF
+sesh	N_NN
+
+valobasha	QT_QTF
+bole	N_NN
+kichui	N_NN
+nei	V_VM
+ota	PR_PRP
+kebol	PR_PRQ
+e	DM_DMD
+prohoshon	N_NN
+
+tader	CC
+jnno	N_NNP
+bolchi	N_NNP
+
+mader	RD_RDF
+ae	RD_RDF
+titap	RD_RDF
+jontrona	N_NN
+theke	PSP
+mukti	N_NN
+dite	V_VM
+ami	QT_QTF
+achi	JJ
+ami	PR_PRP
+thakbo	V_VM
+2mader	RD_RDF
+pase	N_NN
+2mader	RD_RDF
+sathe	N_NN
+
+ta	QT_QTF
+ja	N_NN
+2mader	RD_RDF
+jibon	RD_RDF
+a	RD_RDF
+abar	RD_RDF
+asar	RD_RDF
+alo	RD_RDF
+jagia	N_NN
+tulbe	V_VM
+
+moner	RD_RDF
+vaar	RD_RDF
+kome	N_NN
+jabe	V_VM
+
+abr	RD_RDF
+2mi	RD_RDF
+ager	RD_RDF
+moto	N_NN
+hashbe	V_VM
+
+jibon	N_NN
+cholbe	V_VM
+sei	DM_DMD
+purono	JJ
+chonde	N_NN
+
+tahole	N_NN
+ta	RP_RPD
+ki	RP_RPD
+r	RD_PUNC
+ki	PR_PRQ
+vabe	V_VM
+korbe	V_VAUX
+ta	RP_RPD
+bole	N_NN
+di	PSP
+
+roj	RD_RDF
+sokale	N_NN
+uthe	N_NN
+jol	RD_RDF
+khabe	N_NN
+tarpor	RD_RDF
+ta	RP_RPD
+hole	V_VM
+besi	N_NN
+valo	V_VM
+khabe	N_NN
+
+ota	JJ
+hole	V_VM
+ti	RP_RPD
+montro	N_NNP
+jop	N_NNP
+korte	N_NNP
+hobe	V_VM
+bar	RD_RDF
+
+montro	N_NNP
+ta	N_NNP
+mon	N_NNP
+dea	N_NNP
+mukhosto	N_NNP
+kore	N_NNP
+nao	N_NNP
+
+Daat	N_NNP
+dekhia	V_VM
+CHOLE	V_VAUX
+geli	N_NN
+takali	N_NN
+NA	RD_RDF
+akbar	RD_RDF
+PHIRE	RD_RDF
+
+atto	JJ
+MAAL	N_NN
+tulbo	V_VM
+Ami	PR_PRP
+tui	PR_PRP
+HARIA	N_NN
+jabi	N_NN
+VIRE	JJ
+mone	N_NN
+thake	V_VM
+jano	N_NNV
+bar	RD_RDF
+
+tana	N_NN
+din	RD_RDF
+kaj	RD_RDF
+na	RP_RPD
+dile	V_VAUX
+tar	CC
+puro	QT_QTF
+daitto	N_NN
+nebe	V_VM
+
+eto	N_NNP
+sobar	N_NNP
+valobasa	N_NNP
+nie	PSP
+gyan	RD_RDF
+er	RD_RDF
+bok	RD_RDF
+bok	RD_RDF
+aar	RD_RDF
+valo	V_VM
+lagche	V_VAUX
+na	N_NNP
+sala	N_NNP
+gyan	N_NNP
+papi	N_NNP
+
+Sob	RD_RDF
+shes	RD_RDF
+
+ami	N_NNP
+klanto	N_NNP
+oboshono	PR_PRP
+
+Sotti	N_NN
+keu	PR_PRP
+nei	V_VM
+
+ache	RB_AMN
+sudhu	JJ
+
+jantor	N_NN
+chhele	N_NN
+
+Jour	RD_RDF
+apr	RD_RDF
+s	RD_PUNC
+jour	N_NNP
+
+sesh	PR_PRP
+hote	V_VM
+chollo	V_VAUX
+
+Bhalobasa	N_NN
+kare	V_VM
+koi	QT_QTF
+seki	PR_PRP
+kebol	PR_PRQ
+e	DM_DMD
+jatona	N_NN
+moy	V_VM
+
+Dakte	N_NNP
+jodi	N_NNP
+1bar	RD_RDF
+amay	N_NN
+ek2	QT_QTF
+hriday	N_NN
+diye	PSP
+jebon	N_NNP
+amar	N_NNP
+tuchho	N_NNP
+koreo	N_NNP
+astam	N_NN
+
+sokol	N_NNP
+dukkho	QT_QTF
+vule	N_NN
+premsrote	N_NN
+vese	V_VM
+astam	V_VAUX
+
+tomar	PR_PRP
+poran	N_NN
+majher	N_NN
+oi	DM_DMD
+dak	N_NNP
+sune	N_NNP
+ami	N_NNP
+astam	N_NN
+
+Kintu	N_NNP
+jebon	N_NNP
+amar	N_NNP
+tukro	N_NNP
+bangochitro	N_NNP
+
+nijey	PR_PRF
+hasi	N_NN
+nijer	PR_PRF
+okkhomotay	N_NN
+j	RD_PUNC
+dak	RD_RDF
+peye	N_NN
+vabi	N_NN
+6ute	N_NN
+jabo	V_VM
+
+hay	V_VM
+re	RP_RPD
+poran	N_NN
+se	PR_PRP
+dak	RP_RPD
+kokhno	N_NNP
+sunte	N_NNP
+ki	PR_PRQ
+ami	PR_PRP
+pabo	V_VM
+
+ke	PR_PRQ
+chena	V_VM
+jachhe	N_NN
+to	RP_RPD
+
+tui	PR_PRP
+
+tokey	PR_PRP
+dekhle	V_VM
+amr	RD_RDF
+modhye	N_NN
+suye	N_NN
+thaka	N_NN
+hyena	V_VM
+ta	RP_RPD
+jeno	N_NNP
+jege	V_VM
+othe	V_VAUX
+
+ami	N_NNP
+ekta	JJ
+khudartho	N_NN
+bagh	N_NN
+er	RD_RDF
+rup	RD_RDF
+dharon	RD_RDF
+kori	N_NNP
+
+tor	RD_RDF
+r	RD_PUNC
+garom	N_NN
+ushnota	JJ
+aamar	JJ
+er	DM_DMD
+kaaj	N_NN
+kore	N_NN
+
+tokey	PR_PRP
+ami	QT_QTF
+bukey	N_NN
+petey	V_VM
+chaai	V_VAUX
+
+praan	N_NN
+lagiye	PSP
+bhalobaste	N_NN
+chaai	N_NN
+diye	V_VAUX
+
+kabe	RB_ALC
+aasbi	N_NN
+tui	PR_PRP
+aamar	N_NN
+kache	V_VM
+
+r	RD_RDF
+tor	RD_RDF
+soiche	N_NN
+na	V_VM
+
+puro	QT_QTF
+aagun	N_NN
+er	DM_DMD
+fulki	N_NN
+berochhe	V_VM
+jeno	N_NNP
+thikre	N_NN
+thikre	N_NN
+sab	QT_QTF
+jaayga	N_NN
+theke	PSP
+
+jabbaba	N_NN
+
+hya/na	N_NNP
+kichhu	N_NN
+toh	PR_PRP
+ekta	JJ
+bolo	N_NN
+
+bol	N_NNP
+
+kisob	RD_RDF
+er	DM_DMD
+mane	N_NN
+bujhlam	V_VM
+na	RP_RPD
+
+jibone	N_NNP
+er	DM_DMD
+khub	QT_QTF
+darkar	N_NN
+
+Arehhh	RD_RDF
+
+natakbaji	N_NNP
+
+rajnaitik	N_NNP
+bandhura	N_NNP
+ebar	N_NNP
+rajnitir	N_NNP
+o	CC
+er	RD_RDF
+bal-chaal	RD_RDF
+bakjudhho	N_NN
+thaman	RD_RDF
+
+puja	N_NN
+
+kichhu	N_NN
+manush	N_NN
+jader	N_NN
+tulona	N_NN
+hoyna	V_VM
+tader	CC
+modhye	N_NN
+ekjon	RD_RDF
+
+orre	N_NNP
+re	N_NNP
+
+PAGLA	RD_RDF
+HAOAR	RD_RDF
+BADOL	RD_RDF
+DINE	RD_RDF
+etokhn	RD_RDF
+dhore	N_NN
+tomar	PR_PRP
+bokbokani	N_NN
+sunte	N_NN
+ki	PR_PRQ
+ar	PSP
+valo	N_NN
+lage	PSP
+
+CHENA	N_NN
+SONAR	RD_RDF
+KON	RD_RDF
+BAIRE	RD_RDF
+tomak	RD_RDF
+dite	V_VM
+dite	V_VAUX
+ami	N_NNP
+vikiri	N_NNP
+hoar	N_NNP
+pothe	N_NN
+re	V_VM
+
+JEKHANE	RD_RDF
+POTH	RD_RDF
+NAI	RD_RDF
+NAIRE	RD_RDF
+shekhanei	N_NN
+nie	V_VM
+jabo	V_VM
+tomay	PR_PRP
+berate	V_VM
+dhakka	N_NN
+die	V_VM
+urie	V_VAUX
+dibo	V_VAUX
+tomay	PR_PRP
+akashe	N_NN
+
+ekta	JJ
+Ratno	N_NNP
+jaat	JJ
+bote	N_NN
+
+aste	N_NN
+ekhono	RB_ALC
+dumas	QT_QTF
+deri	N_NN
+edike	RB_ALC
+hena	V_VM
+tena	V_VAUX
+suru	N_NN
+
+suru	N_NN
+
+r	RD_PUNC
+upojukto	N_NN
+kono	QT_QTF
+kaj	QT_QTF
+a	N_NN
+daka	N_NN
+hok	V_VM
+takhon	RB_ALC
+lyadh	N_NN
+r	RD_PUNC
+unnasikotar	JJ
+sesh	N_NN
+nei	V_VM
+
+ektai	RB_ALC
+kotha	RB_ALC
+dhuuus	V_VM
+ki	PR_PRQ
+habe	V_VM
+
+baro	N_NNP
+maser	N_NNP
+tero	N_NNP
+parbon	N_NN
+r	RD_PUNC
+belellapona	N_NN
+ei	DM_DMD
+dui	QT_QTF
+niye	PSP
+valoi	QT_QTF
+ache	JJ
+jaat	N_NN
+ta	RP_RPD
+
+theke	PSP
+aaj	RD_RDF
+o	CC
+Manush	JJ
+holona	N_NN
+
+gurudev	N_NNP
+
+Jiboner	RB_AMN
+suruta	JJ
+hathe	N_NN
+thakena	V_VM
+hai	V_VM
+keno	N_NNV
+airokom	N_NN
+hoi	V_VM
+
+abar	CC
+kakhon	RB_ALC
+ghirchhe	V_VM
+amay	N_NNP
+chand	N_NNP
+r	RD_PUNC
+sakal	PR_PRP
+
+bhangche	N_NN
+awaze	N_NN
+ghum	N_NN
+
+bunte	N_NN
+bunte	N_NN
+furoy	JJ
+samay	N_NN
+
+gunte	N_NN
+gunte	N_NN
+din	RD_RDF
+
+KOBITA	N_NN
+
+nachitechho	JJ
+tarantella	N_NN
+rahosyer	RD_RDF
+
+simahin	N_NNP
+kalorab	N_NNP
+khetroguli	N_NN
+tumi	PR_PRP
+tumi	PR_PRP
+chup	N_NN
+tumi	PR_PRP
+dheu	N_NN
+tumi-i	PR_PRP
+sei	DM_DMD
+agotir	JJ
+goti	N_NN
+jodi	N_NNP
+slishto	N_NNP
+kori	N_NNP
+jodi	N_NNP
+nirobodhi	N_NN
+niyomsomuho	V_VM
+jaantrikata	V_VAUX
+na	RP_RPD
+bhabi	N_NN
+kakhono	RB_ALC
+tumi	PR_PRP
+chhile	N_NN
+aalo	V_VM
+hole	V_VM
+andhokar	V_VAUX
+
+kake	N_NNP
+je	N_NNP
+jetao	N_NNP
+guru	N_NN
+kake	N_NNP
+je	N_NNP
+haarao	N_NNP
+bojha	N_NNP
+baro	N_NNP
+daay	N_NN
+dekhi	V_VM
+bhabi	N_NN
+cheshta	JJ
+chhere	N_NN
+debo	V_VM
+kina	V_VAUX
+
+rachona	N_NN
+proyato	N_NN
+hoy	V_VM
+beNche	N_NN
+thake	V_VM
+chinho	N_NN
+d(n)aari-coma	N_NN
+baanore	N_NN
+songeet	JJ
+gaay	N_NN
+esob	PR_PRP
+to	RP_RPD
+purono	JJ
+upoma	N_NN
+roudre	N_NN
+uttap	N_NN
+thake	V_VM
+uttapeo	N_NN
+thake	V_VM
+dekhi	V_VM
+rod	V_VAUX
+e	DM_DMD
+kyamon	N_NN
+lila	N_NN
+guru	N_NN
+bodhichitte	RB_AMN
+bajao	N_NN
+sarod	JJ
+
+kake	N_NNP
+je	N_NNP
+dobaao	N_NN
+r	RD_PUNC
+kake	N_NNP
+je	N_NNP
+bhasao	N_NNP
+bhebe	V_VM
+mone	N_NN
+traas	N_NN
+jaage	N_NN
+anayaase	N_NN
+h(n)etote	N_NN
+k(n)aatao	N_NN
+tarpore	N_NN
+din	N_NN
+kaalo	V_VM
+dekhi	V_VM
+andhokar	JJ
+shaada	N_NN
+kaaday	N_NN
+padmo	N_NN
+phote	V_VM
+pankojeo	N_NN
+phute	N_NN
+thake	V_VM
+kaada	N_NN
+
+Muche	N_NN
+jawa	N_NN
+dinguli	N_NN
+amai	N_NNP
+je	N_NNP
+pichu	JJ
+dake	N_NN
+
+Achchha	N_NN
+apni	N_NN
+j	RD_PUNC
+eto	QT_QTF
+sob	QT_QTF
+chhele	N_NN
+meye	N_NN
+der	V_VM
+moner	N_NNP
+kotha	N_NNP
+bolar	N_NNP
+sujog	JJ
+kore	N_NN
+diyechen	V_VM
+ta	RP_RPD
+apnar	JJ
+moneo	N_NN
+nischoi	JJ
+keu	PR_PRP
+na	RP_RPD
+keu	PR_PRP
+ache	V_VM
+
+Apni	PR_PRP
+ki	PR_PRQ
+na	JJ
+na	RP_RPD
+ki	RP_RPD
+preme	N_NN
+byarth	N_NN
+bolei	N_NNP
+apnar	N_NNP
+amader	N_NNP
+moto	N_NNP
+obhaga	N_NNP
+der	N_NNP
+jonyo	N_NNP
+eto	QT_QTF
+dorodi	N_NN
+
+aam	RD_RDF
+khao	N_NN
+gachh	N_NNP
+guno	N_NNP
+na	N_NNP
+
+Khujchi	N_NNP
+ar	RD_RDF
+karon	RD_RDF
+
+keu	PR_PRP
+ki	RP_RPD
+sunche	N_NN
+
+Bose	N_NN
+achi	JJ
+patho	N_NN
+cheye	PSP
+
+Fagunero	QT_QTF
+gaan	N_NN
+geye	V_VM
+
+joto	N_NNP
+bhabi	N_NN
+bhule	V_VM
+jabo	V_VM
+
+mono	JJ
+mane	N_NN
+na	V_VM
+
+jara	N_NNP
+ghotona	N_NN
+ta	RP_RPD
+poris	N_NN
+ni	RP_RPD
+tader	RP_RPD
+jnno	JJ
+akta	JJ
+chomchom	N_NN
+jinis	N_NN
+dilam	RD_RDF
+
+chekhe	N_NN
+dakh	N_NN
+roshe	N_NN
+vora	N_NN
+roshmalay	N_NN
+puro	QT_QTF
+
+Asuvo	N_NNP
+ja	N_NNP
+kichu	N_NNP
+sob	N_NNP
+binash	N_NN
+hok	V_VM
+
+Suvo	N_NNP
+ja	N_NNP
+kichu	N_NNP
+asuk	N_NNP
+sobar	N_NNP
+jibon	N_NNP
+e	N_NNP
+
+suchona	N_NN
+te	PSP
+ei	DM_DMD
+kamona	N_NN
+kori	N_NNP
+
+Kichui	N_NNP
+bhalo	V_VM
+lagchena	V_VAUX
+
+jibonta	N_NNP
+boroi	N_NNP
+thekche	PSP
+
+er	RD_RDF
+j	RD_PUNC
+ki	PR_PRQ
+bujte	V_VM
+paarchi	V_VAUX
+faatche	RD_RDF
+
+ratri	N_NNP
+k	RD_PUNC
+aami	N_NN
+ekhon	RB_ALC
+chinte	N_NN
+paari	N_NN
+na	RP_RPD
+
+ratri	N_NNP
+ekhon	RB_ALC
+labon	N_NN
+chhara	N_NN
+
+se	PR_PRP
+raate	V_VM
+tui	PR_PRP
+chhili	N_NN
+sange	N_NN
+
+je	N_NNP
+raate	N_NNP
+mor	N_NNP
+duaar	QT_QTF
+guli	N_NN
+
+tarporer	CC
+galpota	N_NN
+to	RP_RPD
+sobai-i	N_NNP
+jane	N_NN
+dorja	N_NN
+venge	V_VM
+gyalo	V_VAUX
+jhore	N_NN
+
+ekhon	RB_ALC
+aami	N_NN
+r	RD_PUNC
+raatri	N_NN
+obhimukhe	V_VM
+jaatra	N_NN
+korina	N_NNP
+
+maatrahin	N_NN
+r	RD_PUNC
+kauke	N_NN
+baasina	N_NN
+bhalo	V_VM
+
+raate	N_NN
+aamar	N_NN
+bhengechhe	V_VM
+duaar	V_VAUX
+
+kintu	CC
+aaseni	N_NNP
+
+idaning	RB_ALC
+anek	QT_QTF
+manusher	N_NN
+sathe	N_NN
+katha	N_NN
+hoy	V_VM
+raate	V_VAUX
+
+katha	N_NN
+hoy	V_VM
+kintu	CC
+tor	PR_PRP
+sathe	N_NN
+r	RD_PUNC
+katha	N_NN
+hoyna	V_VM
+
+raatri	N_NN
+aage	N_NN
+aamar	JJ
+maadhyom	N_NN
+chhilo	V_VM
+
+tor	PR_PRP
+kachhe	N_NN
+pouchhobaar	N_NN
+maadhyom	N_NN
+
+tarongo	N_NN
+nei	V_VM
+r	RD_PUNC
+
+kono	DM_DMD
+tarongo	N_NN
+nei	V_VM
+kotthao	RB_ALC
+ekhon	RB_ALC
+r	RD_PUNC
+bhalo	N_NN
+laage	N_NN
+na	N_NNP
+raat	N_NNP
+sakal	PR_PRP
+dupur	N_NN
+bikel	N_NN
+kimba	N_NN
+sondhye-	N_NN
+seo	PR_PRP
+ki	PR_PRQ
+khub	QT_QTF
+bhalo	N_NN
+lage	PSP
+r	RD_PUNC
+aage	N_NN
+aami	N_NN
+anayaase	N_NN
+raatri	N_NN
+jaagtam	N_NN
+ekhon	RB_ALC
+kasto	N_NN
+hoy	V_VM
+jagte	N_NN
+
+aage	N_NN
+aami	N_NN
+anayaase	N_NN
+kobita	JJ
+likhtam	V_VM
+ekhon	RB_ALC
+kasto	JJ
+hoy	N_NN
+likhte	V_VM
+
+jai	N_NN
+hok	V_VM
+tui	PR_PRP
+bhalo	V_VM
+thakis	V_VAUX
+
+raatri	N_NN
+bhalo	V_VM
+thakuk	V_VAUX
+
+tor	PR_PRP
+sakol	JJ
+raatri	N_NN
+bhalo	V_VM
+katuk	V_VAUX
+
+bhalo	N_NN
+thaka	N_NN
+bhalo	V_VM
+
+Sayone	N_NN
+swapane	N_NN
+nidra	JJ
+jagorone	N_NN
+tumi	PR_PRP
+acho	JJ
+
+aamio	N_NN
+samanupaat	JJ
+santorpone	N_NN
+rekhe	V_VM
+maakhon	N_NNP
+maakhabo	N_NNP
+dande	N_NN
+jiver	N_NN
+choturdike	N_NN
+sutotuku	N_NN
+debe	V_VM
+taan	V_VAUX
+kaaponer	N_NN
+byabodhan	N_NN
+nije	PR_PRF
+haate	V_VM
+mekhechhi	N_NNP
+dupure	N_NN
+taar	N_NN
+jonno	JJ
+bakyoriti	N_NN
+projonon	N_NNP
+maas	N_NNP
+raakkhos	N_NNP
+hoye	N_NN
+chhorabo	V_VM
+baalishe	V_VAUX
+
+krome	N_NNP
+shorire	N_NN
+samosto	JJ
+holud	N_NN
+keute	V_VM
+daao	N_NN
+janmomukhi	N_NN
+taap	N_NN
+royechhe	N_NN
+jole	V_VM
+ekdin	RB_ALC
+taar	N_NN
+kaaNdhe	N_NN
+beje	V_VM
+uthbe	N_NN
+shorirer	V_VM
+dwitiyo	V_VAUX
+
+neel	N_NNP
+jerakom	N_NNP
+path	N_NN
+haaray	V_VM
+jangole	N_NN
+
+shamshanbondhuder	RD_RDF
+proti	N_NN
+bibhaas	N_NN
+kobita	JJ
+
+emono	PR_PRP
+hoy	V_VM
+
+er	DM_DMD
+meye	N_NN
+der	RD_RDF
+kora	N_NN
+bes	V_VM
+chaper	V_VAUX
+sab	PR_PRP
+hay	V_VM
+
+Dur	RD_RDF
+theke	PSP
+dekhai	V_VM
+valo	V_VAUX
+Tae	V_VM
+hayto	V_VAUX
+amar	N_NNP
+moto	N_NNP
+cheler	RD_RDF
+hote	N_NN
+parbe	N_NN
+na	RP_RPD
+tumi	PR_PRP
+tao	RD_RDF
+
+chorom	N_NN
+jinis	N_NN
+
+a	N_NN
+
+khuub	N_NNP
+joruri	N_NNP
+kotha	N_NNP
+
+aaj	RD_RDF
+
+keu	PR_PRP
+ki	RP_RPD
+korbe	N_NN
+amay	N_NN
+
+ta	RP_RPD
+jekono	JJ
+kichui	N_NN
+hote	V_VM
+pare	N_NST
+
+jata	N_NN
+
+2mi	PR_PRP
+keno	N_NNV
+bojho	V_VM
+na	RP_RPD
+tomake	PR_PRP
+chara	N_NN
+ami	QT_QTF
+ashohay	N_NN
+
+tomake	PR_PRP
+khub	QT_QTF
+kori	N_NNP
+2mi	RD_RDF
+e	DM_DMD
+dhuklei	N_NN
+ami	N_NN
+tomay	V_VM
+kori	N_NNP
+
+mamoni	N_NN
+ami	QT_QTF
+2mr	RD_RDF
+sei	DM_DMD
+da	N_NN
+
+amak	N_NNP
+jokhn	N_NNP
+korecho	N_NNP
+tao	N_NNP
+ami	N_NNP
+sei	DM_DMD
+vabei	DM_DMD
+dichi	N_NN
+
+dakho	N_NN
+sune	N_NN
+2mar	RD_RDF
+kharap	N_NN
+lagte	N_NN
+pare	N_NST
+
+ta	RP_RPD
+na	RP_RPD
+hole	V_VM
+er	DM_DMD
+3te	N_NN
+theke	PSP
+onk	QT_QTF
+valo	JJ
+chele	N_NN
+k	RD_PUNC
+khuje	N_NN
+pete	V_VM
+2mi	V_VAUX
+
+ja	N_NNP
+e	N_NNP
+hok	N_NNP
+ami	N_NNP
+tomak	N_NNP
+korbo	N_NNP
+a	N_NN
+kichu	N_NN
+hole	V_VM
+
+dakho	N_NN
+akta	JJ
+valo	V_VM
+er	DM_DMD
+kichu	QT_QTF
+ami	N_NN
+2mk	RD_RDF
+boli	N_NN
+2mr	RD_RDF
+ase	N_NN
+pase	N_NN
+ek2	QT_QTF
+chokh	N_NN
+mele	V_VM
+dakho	V_VAUX
+2mar	RD_RDF
+moner	RD_RDF
+manus	RD_RDF
+ti	RD_RDF
+2mar	RD_RDF
+jnno	N_NN
+duhat	JJ
+barea	N_NN
+daria	N_NN
+ache	PSP
+
+amon	RD_RDF
+akjon	RD_RDF
+j	RD_RDF
+2mk	RD_RDF
+korbe	N_NN
+
+kokhn	N_NNP
+o	CC
+kono	DM_DMD
+rokom	N_NN
+vabe	V_VM
+korbe	N_NNP
+na	N_NNP
+
+bhul	N_NNP
+korle	N_NNP
+alada	N_NNP
+kore	N_NNP
+bojhabe	N_NNP
+kokhnoi	N_NNP
+sobar	N_NNP
+samne	N_NN
+bolbe	V_VM
+na	RP_RPD
+2mi	QT_QTF
+bhul	N_NNP
+korecho	N_NNP
+
+eta	QT_QTF
+bujhte	V_VM
+parbe	N_NN
+tumi	PR_PRP
+seh	PR_PRP
+tar	RP_RPD
+ase	QT_QTF
+paser	JJ
+lokjoner	N_NN
+sathe	N_NN
+kamon	JJ
+korche	N_NN
+
+2mak	RD_RDF
+dakhanor	RD_RDF
+jnno	RD_RDF
+2mar	RD_RDF
+kache	N_NN
+valo	V_VM
+sajbe	N_NN
+rokter	RD_RDF
+dos	RD_RDF
+kintu	CC
+jawar	N_NNP
+noi	N_NNP
+
+amon	RD_RDF
+lok	RD_RDF
+k	RD_PUNC
+khojo	N_NN
+j	RD_PUNC
+sobar	N_NNP
+sathe	N_NN
+misteh	N_NN
+pare	N_NST
+
+khali	N_NN
+2mk	RD_RDF
+nea	N_NN
+e	DM_DMD
+sara	N_NN
+din	V_VM
+thaka	RP_RPD
+ta	RP_RPD
+valo	V_VM
+lagbe	V_VAUX
+pore	N_NN
+lagbe	N_NN
+
+dekho	V_VM
+se	PR_PRP
+jano	PSP
+sundor	JJ
+kore	N_NN
+kotha	RB_ALC
+bolte	N_NN
+pare	N_NST
+tor	RD_RDF
+hoe	RD_RDF
+okaloti	N_NN
+korlam	RD_RDF
+ek2	RD_RDF
+
+2mar	RD_RDF
+a	N_NN
+alap	JJ
+korao	N_NN
+takeh	N_NN
+
+chukchukani	N_NN
+thakle	V_VM
+okhanei	RB_ALC
+dhora	N_NN
+pore	N_NN
+jbe	V_VM
+
+korle	N_NN
+take	N_NN
+age	N_NN
+bad	V_VM
+dio	V_VAUX
+
+tao	$
+tar	$
+kache	$
+1ta	$
+er	DM_DMD
+e	DM_DMD
+
+
+

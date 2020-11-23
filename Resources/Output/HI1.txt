@@ -1,0 +1,645 @@
+0	null	null	null	null	null	null	kya	hai	beeee	0	0	1	1	1	1	0	0	0	0	0	0	0	PR_PRQ
+0	null	null	null	null	null	kya	hai	beeee	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	eee	ee	bee	be	kya	hai	beeee	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	RP_INJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	iya	ya	chu	ch	null	null	chutiya	null	null	0	0	0	1	1	0	0	0	0	0	0	0	0	JJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	tum	um	tum	tu	null	null	tumtum	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	bad	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aya	ya	day	da	null	null	daya	kardo	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	rdo	do	kar	ka	null	daya	kardo	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Aap	ho	null	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRP
+0	null	null	null	null	null	Aap	ho	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Yeh	kya	hai	0	0	0	0	1	0	0	0	0	0	0	0	0	DM_DMD
+0	null	null	null	null	null	Yeh	kya	hai	null	0	0	1	1	1	1	0	0	0	0	0	0	0	PR_PRQ
+0	null	null	null	null	Yeh	kya	hai	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	to	null	null	0	0	0	0	1	0	0	1	0	0	0	0	0	RP_RPD
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nta	ta	jun	ju	null	null	junta	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	is	null	null	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	tki	ki	mat	ma	null	null	matki	Truth	Matka	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+1	uth	th	Tru	Tr	null	matki	Truth	Matka	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+1	tka	ka	Mat	Ma	matki	Truth	Matka	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Ya	null	null	0	0	0	0	1	0	0	1	0	0	0	0	0	CC
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	so	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	tka	ka	mat	ma	null	null	matka	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	say	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	tka	ka	mat	ma	null	null	matka	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aar	ar	Yaa	Ya	null	null	Yaar	ki	bandi	0	0	1	0	1	0	0	0	0	0	0	0	0	RP_INJ
+0	null	null	null	null	null	Yaar	ki	bandi	ko	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+1	ndi	di	ban	ba	Yaar	ki	bandi	ko	kya	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	ki	bandi	ko	kya	Ghantaa	0	0	0	0	0	0	0	0	0	0	0	0	0	PSP
+0	null	null	null	null	bandi	ko	kya	Ghantaa	chamkega	0	0	1	1	1	1	0	0	0	0	0	0	0	PR_PRQ
+1	taa	aa	Gha	Gh	ko	kya	Ghantaa	chamkega	null	0	0	0	0	0	0	0	0	0	0	0	0	0	V_VM
+1	ega	ga	cha	ch	kya	Ghantaa	chamkega	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	era	ra	cou	co	null	null	coursera	b	junta	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+0	null	null	null	null	null	coursera	b	junta	null	0	0	0	0	1	0	1	0	0	0	0	0	0	RP_RPD
+1	nta	ta	jun	ju	coursera	b	junta	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	are	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	RP_INJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	tta	ta	sut	su	null	null	sutta	daaru	junta	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	aru	ru	daa	da	null	sutta	daaru	junta	nanga	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	nta	ta	jun	ju	sutta	daaru	junta	nanga	chootiya	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	nga	ga	nan	na	daaru	junta	nanga	chootiya	null	0	0	0	1	0	0	0	0	0	0	0	0	0	JJ
+1	iya	ya	cho	ch	junta	nanga	chootiya	null	null	0	0	1	1	1	0	0	0	0	0	0	0	0	N_NN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	bad	do	tharkiness	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+0	null	null	null	null	null	bad	do	tharkiness	null	0	0	0	0	1	0	0	0	0	0	1	0	0	V_VAUX
+1	ess	ss	tha	th	bad	do	tharkiness	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ki\	i\	tha	th	null	null	tharki\	null	null	1	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	hak	ak	bha	bh	null	null	bhak	saala	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+1	ala	la	saa	sa	null	bhak	saala	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	RP_INJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	are	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	RP_INJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	kis	mein	pasand	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRP
+1	ein	in	mei	me	null	kis	mein	pasand	hai	0	0	1	0	1	1	0	0	0	0	0	0	0	PSP
+1	and	nd	pas	pa	kis	mein	pasand	hai	saala	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+0	null	null	null	null	mein	pasand	hai	saala	naseeb	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	ala	la	saa	sa	pasand	hai	saala	naseeb	hi	0	0	0	0	1	0	0	0	0	0	0	0	0	RP_INJ
+1	eeb	eb	nas	na	hai	saala	naseeb	hi	null	0	0	0	0	0	0	0	0	0	0	0	0	0	RD_RDF
+0	null	null	null	null	saala	naseeb	hi	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nta	ta	jun	ju	null	null	junta	Bhaiyas	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	yas	as	Bha	Bh	null	junta	Bhaiyas	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ndi	di	hin	hi	null	null	hindi	null	null	0	0	1	1	1	0	0	0	0	0	0	0	0	JJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	AAP	TO	NIKLE	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+0	null	null	null	null	null	AAP	TO	NIKLE	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	KLE	LE	NIK	NI	AAP	TO	NIKLE	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nki	ki	Kyu	Ky	null	null	Kyunki	har	ek	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+0	null	null	null	null	null	Kyunki	har	ek	kameena	0	0	1	0	1	0	1	0	0	0	1	0	0	N_NN
+0	null	null	null	null	Kyunki	har	ek	kameena	hota	0	0	0	0	1	0	0	0	0	0	1	0	0	QT_QTF
+1	ena	na	kam	ka	har	ek	kameena	hota	hai	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ota	ta	hot	ho	ek	kameena	hota	hai	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	kameena	hota	hai	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nta	ta	jun	ju	null	null	junta	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	do	in	null	0	0	0	0	1	0	0	0	0	0	1	0	0	QT_QTF
+0	null	null	null	null	null	do	in	null	null	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	yeh	kya	chal	0	0	0	0	1	0	0	0	0	0	0	0	0	DM_DMD
+0	null	null	null	null	null	yeh	kya	chal	raha	0	0	1	1	1	1	0	0	0	0	0	0	0	DM_DMQ
+1	hal	al	cha	ch	yeh	kya	chal	raha	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	aha	ha	rah	ra	kya	chal	raha	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Aur	bhai	woh	0	0	0	0	1	1	0	1	0	0	0	0	0	PR_PRP
+1	hai	ai	bha	bh	null	Aur	bhai	woh	bik	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+0	null	null	null	null	Aur	bhai	woh	bik	chuka	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRP
+0	null	null	null	null	bhai	woh	bik	chuka	hai	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+1	uka	ka	chu	ch	woh	bik	chuka	hai	uske	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	bik	chuka	hai	uske	ghar	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	ske	ke	usk	us	chuka	hai	uske	ghar	pe	0	0	0	0	1	0	0	0	0	0	0	0	0	PR_PRC
+1	har	ar	gha	gh	hai	uske	ghar	pe	k	0	0	1	1	0	0	0	0	0	0	0	0	0	N_NN
+0	null	null	null	null	uske	ghar	pe	k	khajane	0	0	0	0	0	0	0	0	0	0	0	0	0	PSP
+0	null	null	null	null	ghar	pe	k	khajane	hain	0	0	0	0	0	0	0	1	0	0	0	0	0	PSP
+1	ane	ne	kha	kh	pe	k	khajane	hain	aur	0	0	0	0	0	0	0	0	0	0	0	0	0	N_NNV
+1	ain	in	hai	ha	k	khajane	hain	aur	bihari	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	khajane	hain	aur	bihari	ko	0	0	0	0	0	0	1	1	0	0	0	0	0	CC
+1	ari	ri	bih	bi	hain	aur	bihari	ko	uski	0	0	0	0	0	0	0	0	0	0	0	0	0	RD_RDF
+0	null	null	null	null	aur	bihari	ko	uski	rakhwali	0	0	0	0	0	0	0	0	0	0	0	0	0	PSP
+1	ski	ki	usk	us	bihari	ko	uski	rakhwali	karne	0	0	0	0	0	0	0	0	0	0	0	0	0	RD_RDF
+1	ali	li	rak	ra	ko	uski	rakhwali	karne	k	0	0	0	0	0	0	0	0	0	0	0	0	0	N_NNV
+1	rne	ne	kar	ka	uski	rakhwali	karne	k	liye	0	0	0	0	0	0	0	0	0	0	0	0	0	N_NNV
+0	null	null	null	null	rakhwali	karne	k	liye	rakh	0	0	0	0	0	0	0	1	0	0	0	0	0	PSP
+1	iye	ye	liy	li	karne	k	liye	rakh	raha	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+1	akh	kh	rak	ra	k	liye	rakh	raha	hai	0	0	0	0	0	0	0	0	0	0	0	0	0	V_VM
+1	aha	ha	rah	ra	liye	rakh	raha	hai	beti	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	rakh	raha	hai	beti	bhi	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	eti	ti	bet	be	raha	hai	beti	bhi	de	0	0	1	0	0	0	0	0	0	0	0	0	0	N_NN
+0	null	null	null	null	hai	beti	bhi	de	rha	0	0	1	0	1	1	0	0	0	0	0	0	0	RP_RPD
+0	null	null	null	null	beti	bhi	de	rha	hai	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	bhi	de	rha	hai	apni	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	de	rha	hai	apni	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	pni	ni	apn	ap	rha	hai	apni	null	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PR_PRL
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	end	nd	Nee	Ne	null	null	Neend	chura	ke	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+1	ura	ra	chu	ch	null	Neend	chura	ke	raaton	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+0	null	null	null	null	Neend	chura	ke	raaton	mein	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+1	ton	on	raa	ra	chura	ke	raaton	mein	tumne	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ein	in	mei	me	ke	raaton	mein	tumne	baton	0	0	1	0	1	1	0	0	0	0	0	0	0	PSP
+1	mne	ne	tum	tu	raaton	mein	tumne	baton	baaton	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRP
+1	ton	on	bat	ba	mein	tumne	baton	baaton	mein	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ton	on	baa	ba	tumne	baton	baaton	mein	dekho	0	0	0	0	0	0	0	0	0	0	0	0	0	RD_RDF
+1	ein	in	mei	me	baton	baaton	mein	dekho	baat	0	0	1	0	0	1	0	0	0	0	0	0	0	RD_RDF
+1	kho	ho	dek	de	baaton	mein	dekho	baat	badal	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	aat	at	baa	ba	mein	dekho	baat	badal	di	0	0	1	0	0	0	0	0	0	0	0	0	0	N_NN
+1	dal	al	bad	ba	dekho	baat	badal	di	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	baat	badal	di	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ki	to	nikal	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+0	null	null	null	null	null	ki	to	nikal	padi	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+1	kal	al	nik	ni	ki	to	nikal	padi	faaltu	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	adi	di	pad	pa	to	nikal	padi	faaltu	mein	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ltu	tu	faa	fa	nikal	padi	faaltu	mein	rota	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ein	in	mei	me	padi	faaltu	mein	rota	rehta	0	0	1	0	1	1	0	0	0	0	0	0	0	PSP
+1	ota	ta	rot	ro	faaltu	mein	rota	rehta	tha	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	hta	ta	reh	re	mein	rota	rehta	tha	prakash	0	0	1	0	0	0	0	0	0	0	0	0	0	N_NN
+0	null	null	null	null	rota	rehta	tha	prakash	daalo	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	ash	sh	pra	pr	rehta	tha	prakash	daalo	is	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	alo	lo	daa	da	tha	prakash	daalo	is	mamle	0	0	0	0	0	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	prakash	daalo	is	mamle	per	0	0	0	0	1	1	0	0	0	0	0	0	0	DM_DMD
+1	mle	le	mam	ma	daalo	is	mamle	per	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+0	null	null	null	null	is	mamle	per	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	RD_RDF
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ski	ki	usk	us	null	null	uski	shadi	ho	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+1	adi	di	sha	sh	null	uski	shadi	ho	gayi	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+0	null	null	null	null	uski	shadi	ho	gayi	hai	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ayi	yi	gay	ga	shadi	ho	gayi	hai	aur	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	ho	gayi	hai	aur	bandi	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	gayi	hai	aur	bandi	ki	0	0	0	0	1	0	1	1	0	0	0	0	0	CC
+1	ndi	di	ban	ba	hai	aur	bandi	ki	hai	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	aur	bandi	ki	hai	null	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+0	null	null	null	null	bandi	ki	hai	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	sa	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	abe	pyaar	andha	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+1	aar	ar	pya	py	null	abe	pyaar	andha	hota	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+1	dha	ha	and	an	abe	pyaar	andha	hota	hai	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ota	ta	hot	ho	pyaar	andha	hota	hai	aur	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	andha	hota	hai	aur	waise	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	hota	hai	aur	waise	bhi	0	0	0	0	1	0	1	1	0	0	0	0	0	CC
+1	ise	se	wai	wa	hai	aur	waise	bhi	kam	0	0	0	0	1	0	1	0	0	0	0	0	0	RB_AMN
+0	null	null	null	null	aur	waise	bhi	kam	jyada	0	0	1	0	1	1	0	0	0	0	0	0	0	RP_RPD
+0	null	null	null	null	waise	bhi	kam	jyada	lagta	0	0	1	1	1	0	1	0	0	0	1	0	0	QT_QTF
+1	ada	da	jya	jy	bhi	kam	jyada	lagta	hai	0	0	1	0	1	0	0	0	0	0	1	0	0	QT_QTF
+1	gta	ta	lag	la	kam	jyada	lagta	hai	null	0	0	0	0	1	0	1	0	0	0	0	0	0	V_VM
+0	null	null	null	null	jyada	lagta	hai	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	h	kya	null	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+0	null	null	null	null	null	h	kya	null	null	0	0	1	1	1	1	0	0	0	0	0	0	0	PR_PRQ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	koi	naa	null	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRQ
+0	null	null	null	null	null	koi	naa	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	are	in	null	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+0	null	null	null	null	null	are	in	null	null	0	0	0	0	1	0	0	1	0	0	0	0	0	CC
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	toh	seedhe	bol	0	0	1	0	1	0	1	1	0	0	0	0	0	RP_RPD
+1	dhe	he	see	se	null	toh	seedhe	bol	de	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	toh	seedhe	bol	de	yaar	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	seedhe	bol	de	yaar	usko	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	aar	ar	yaa	ya	bol	de	yaar	usko	achha	0	0	1	0	1	0	0	0	0	0	0	0	0	RP_INJ
+1	sko	ko	usk	us	de	yaar	usko	achha	lagega	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRP
+1	hha	ha	ach	ac	yaar	usko	achha	lagega	use	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ega	ga	lag	la	usko	achha	lagega	use	karne	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	achha	lagega	use	karne	ki	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+1	rne	ne	kar	ka	lagega	use	karne	ki	alag	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNV
+0	null	null	null	null	use	karne	ki	alag	hi	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+1	lag	ag	ala	al	karne	ki	alag	hi	chul	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	ki	alag	hi	chul	machi	0	0	1	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	hul	ul	chu	ch	alag	hi	chul	machi	hoti	0	0	0	0	0	0	0	0	0	0	0	0	0	N_NNP
+1	chi	hi	mac	ma	hi	chul	machi	hoti	hain	0	0	0	0	0	0	0	0	0	0	0	0	0	N_NNP
+1	oti	ti	hot	ho	chul	machi	hoti	hain	sala	0	0	0	0	0	0	0	0	0	0	0	0	0	V_VM
+1	ain	in	hai	ha	machi	hoti	hain	sala	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	ala	la	sal	sa	hoti	hain	sala	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	N_NN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ekh	kh	dek	de	null	null	dekh	pehle	kya	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	hle	le	peh	pe	null	dekh	pehle	kya	kya	0	0	0	0	1	0	0	0	0	0	1	0	0	N_NST
+0	null	null	null	null	dekh	pehle	kya	kya	hota	0	0	1	1	1	1	0	0	0	0	0	0	0	PR_PRQ
+0	null	null	null	null	pehle	kya	kya	hota	tha	0	0	1	1	1	1	0	0	0	0	0	0	0	PR_PRQ
+1	ota	ta	hot	ho	kya	kya	hota	tha	m	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	kya	hota	tha	m	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	hota	tha	m	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	to	null	null	0	0	0	0	1	0	0	1	0	0	0	0	0	RP_RPD
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ell	ll	Wel	We	null	null	Well	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	dic	ic	ayu	ay	null	null	ayurvedic	eyedrops	contamination	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+1	ops	ps	eye	ey	null	ayurvedic	eyedrops	contamination	to	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ion	on	con	co	ayurvedic	eyedrops	contamination	to	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	eyedrops	contamination	to	null	null	0	0	0	0	1	0	0	1	0	0	0	0	0	RP_RPD
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	is	null	null	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	is	do	null	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRP
+0	null	null	null	null	null	is	do	null	null	0	0	0	0	1	0	0	0	0	0	1	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ki	lag	rahi	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+0	null	null	null	null	null	ki	lag	rahi	hai	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ahi	hi	rah	ra	ki	lag	rahi	hai	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	lag	rahi	hai	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	to	is	daaru	0	0	0	0	1	0	0	1	0	0	0	0	0	RP_RPD
+0	null	null	null	null	null	to	is	daaru	m	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRP
+1	aru	ru	daa	da	to	is	daaru	m	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	is	daaru	m	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	iya	ya	bha	bh	null	null	bhaiya	r	null	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+0	null	null	null	null	null	bhaiya	r	null	null	0	0	0	0	1	0	0	1	0	0	0	0	0	CC
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	pas	as	vap	va	null	null	vapas	chalu	karwaaoo	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+1	alu	lu	cha	ch	null	vapas	chalu	karwaaoo	yaar	0	0	0	1	1	0	0	0	0	0	0	0	0	JJ
+1	aoo	oo	kar	ka	vapas	chalu	karwaaoo	yaar	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	aar	ar	yaa	ya	chalu	karwaaoo	yaar	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0	RP_INJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	rki	ki	tha	th	null	null	tharki	junta	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+1	nta	ta	jun	ju	null	tharki	junta	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	A	is	null	0	0	0	0	1	0	0	0	1	0	0	0	0	DT
+0	null	null	null	null	null	A	is	null	null	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	in	to	profs/colleagues	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+0	null	null	null	null	null	in	to	profs/colleagues	are	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+1	ues	es	pro	pr	in	to	profs/colleagues	are	null	1	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	to	profs/colleagues	are	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	rns	ns	hor	ho	null	null	horns	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	hod	od	Beh	Be	null	null	Behanchod	hoke	chutiyap	0	0	0	0	1	0	0	0	0	0	0	0	0	RP_INJ
+1	oke	ke	hok	ho	null	Behanchod	hoke	chutiyap	karta	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	yap	ap	chu	ch	Behanchod	hoke	chutiyap	karta	hai	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+1	rta	ta	kar	ka	hoke	chutiyap	karta	hai	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	chutiyap	karta	hai	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	is	null	null	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	sla	la	mas	ma	null	null	masla	hai	ka	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	null	masla	hai	ka	sambhal	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	masla	hai	ka	sambhal	lo	0	0	1	0	1	0	0	1	0	0	0	0	0	PSP
+1	hal	al	sam	sa	hai	ka	sambhal	lo	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	ka	sambhal	lo	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	lo	machaai	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	aai	ai	mac	ma	null	lo	machaai	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	eta	ta	bet	be	null	null	beta	gaon	nhi	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+1	aon	on	gao	ga	null	beta	gaon	nhi	hai	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	beta	gaon	nhi	hai	jo	0	0	0	0	1	0	1	0	0	0	0	0	0	RP_NEG
+0	null	null	null	null	gaon	nhi	hai	jo	hum	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	nhi	hai	jo	hum	sabko	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRL
+0	null	null	null	null	hai	jo	hum	sabko	jaante	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRP
+1	bko	ko	sab	sa	jo	hum	sabko	jaante	ho	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	nte	te	jaa	ja	hum	sabko	jaante	ho	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	sabko	jaante	ho	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	to	null	null	0	0	0	0	1	0	0	1	0	0	0	0	0	RP_RPD
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	to	to	is	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+0	null	null	null	null	null	to	to	is	to	0	0	0	0	1	0	0	1	0	0	0	0	0	RP_RPD
+0	null	null	null	null	to	to	is	to	kanjoos	0	0	0	0	1	1	0	0	0	0	0	0	0	DM_DMD
+0	null	null	null	null	to	is	to	kanjoos	null	0	0	0	0	1	0	0	1	0	0	0	0	0	RP_RPD
+1	oos	os	kan	ka	is	to	kanjoos	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	He	null	null	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	are	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	RP_INJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	DAS	AS	KEE	KE	null	null	KEEDAS	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aru	ru	daa	da	null	null	daaru	ganja	in	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	nja	ja	gan	ga	null	daaru	ganja	in	Do	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	daaru	ganja	in	Do	is	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+0	null	null	null	null	ganja	in	Do	is	in	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	in	Do	is	in	null	0	0	0	0	1	1	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	Do	is	in	null	null	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	kka	ka	fak	fa	null	null	fakka	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ka	banda	hoga	0	0	1	0	1	0	0	1	0	0	0	0	0	PSP
+1	nda	da	ban	ba	null	ka	banda	hoga	fakka	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	oga	ga	hog	ho	ka	banda	hoga	fakka	wahin	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	kka	ka	fak	fa	banda	hoga	fakka	wahin	hota	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	hin	in	wah	wa	hoga	fakka	wahin	hota	hai	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+1	ota	ta	hot	ho	fakka	wahin	hota	hai	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	wahin	hota	hai	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	rra	ra	fur	fu	null	null	furra	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	lag	rha	h	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	null	lag	rha	h	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	lag	rha	h	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	be	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	hha	ha	luk	lu	null	null	lukhha	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	pat	at	pop	po	null	null	popat	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	day	ay	Yes	Ye	null	null	Yesterday	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	F	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	bad	in	be	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+0	null	null	null	null	null	bad	in	be	null	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+0	null	null	null	null	bad	in	be	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	de	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	iri	ri	cha	ch	null	null	chamchagiri	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	isi	si	kis	ki	null	null	kisi	ne	tere	0	0	1	0	1	1	0	0	0	0	0	0	0	PR_PRQ
+0	null	null	null	null	null	kisi	ne	tere	badle	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+1	ere	re	ter	te	kisi	ne	tere	badle	likh	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRP
+1	dle	le	bad	ba	ne	tere	badle	likh	dia	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ikh	kh	lik	li	tere	badle	likh	dia	hoga	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	badle	likh	dia	hoga	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	oga	ga	hog	ho	likh	dia	hoga	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	esi	si	des	de	null	null	desi	maddu	null	0	0	0	1	1	0	0	0	0	0	0	0	0	JJ
+1	ddu	du	mad	ma	null	desi	maddu	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ho	raha	hu	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	aha	ha	rah	ra	null	ho	raha	hu	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	ho	raha	hu	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	rds	ds	ner	ne	null	null	nerds	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	une	ne	tun	tu	null	null	tune	likha	h	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNV
+1	kha	ha	lik	li	null	tune	likha	h	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	tune	likha	h	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ko	raat	ko	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+1	aat	at	raa	ra	null	ko	raat	ko	baygon	0	0	1	0	1	0	1	0	0	0	0	0	0	N_NN
+0	null	null	null	null	ko	raat	ko	baygon	ka	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+1	gon	on	bay	ba	raat	ko	baygon	ka	bharta	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	ko	baygon	ka	bharta	khila	0	0	1	0	1	0	0	1	0	0	0	0	0	PSP
+1	rta	ta	bha	bh	baygon	ka	bharta	khila	dene	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ila	la	khi	kh	ka	bharta	khila	dene	ka	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ene	ne	den	de	bharta	khila	dene	ka	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNV
+0	null	null	null	null	khila	dene	ka	null	null	0	0	1	0	1	0	0	1	0	0	0	0	0	PSP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	in	in	null	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+0	null	null	null	null	null	in	in	null	null	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	odi	di	bkc	bk	null	null	bkchodi	hai	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+0	null	null	null	null	null	bkchodi	hai	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	lop	op	plo	pl	null	null	plop	benchod	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+1	hod	od	ben	be	null	plop	benchod	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	RP_INJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	yas	as	cho	ch	null	null	chootiyas	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	gus	us	mug	mu	null	null	muggus	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	h	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	dda	da	dud	du	null	null	dudda	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ndi	di	ban	ba	null	null	bandi	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	d	are	in	0	0	0	0	1	0	0	0	1	0	0	0	0	DT
+0	null	null	null	null	null	d	are	in	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	d	are	in	null	null	0	0	0	0	1	0	0	1	0	0	0	0	0	CC
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	in	desi	null	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+1	esi	si	des	de	null	in	desi	null	null	0	0	0	1	1	0	0	0	0	0	0	0	0	JJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aal	al	maa	ma	null	null	maal	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	abe	thodi	chahiye	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+1	odi	di	tho	th	null	abe	thodi	chahiye	kuch	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	iye	ye	cha	ch	abe	thodi	chahiye	kuch	kaam	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	uch	ch	kuc	ku	thodi	chahiye	kuch	kaam	hai	0	0	0	0	1	0	0	0	0	0	1	0	0	QT_QTF
+1	aam	am	kaa	ka	chahiye	kuch	kaam	hai	tu	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+0	null	null	null	null	kuch	kaam	hai	tu	kab	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	kaam	hai	tu	kab	nahi	0	0	0	0	1	1	0	1	0	0	0	0	0	PR_PRP
+0	null	null	null	null	hai	tu	kab	nahi	hoga	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRQ
+1	ahi	hi	nah	na	tu	kab	nahi	hoga	pe	0	0	1	0	1	0	0	0	0	0	0	0	0	RP_NEG
+1	oga	ga	hog	ho	kab	nahi	hoga	pe	bata	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	nahi	hoga	pe	bata	de	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+1	ata	ta	bat	ba	hoga	pe	bata	de	tab	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	pe	bata	de	tab	aajaunga	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	bata	de	tab	aajaunga	mera	0	0	0	0	0	1	0	0	0	0	0	0	0	PR_PRL
+1	nga	ga	aaj	aa	de	tab	aajaunga	mera	maanta	0	0	0	0	0	0	0	0	0	0	0	0	0	N_NNP
+1	era	ra	mer	me	tab	aajaunga	mera	maanta	hi	0	0	0	0	0	1	0	0	0	0	0	0	0	N_NNP
+1	nta	ta	maa	ma	aajaunga	mera	maanta	hi	saala\	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	mera	maanta	hi	saala\	randis	0	0	1	0	1	0	0	0	0	0	0	0	0	RP_RPD
+1	la\	a\	saa	sa	maanta	hi	saala\	randis	null	1	0	0	0	0	0	0	0	0	0	0	0	0	N_NNP
+1	dis	is	ran	ra	hi	saala\	randis	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	usu	su	sus	su	null	null	susu	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aya	ya	mac	ma	null	null	machaya	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ki	bandi	nahi	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+1	ndi	di	ban	ba	null	ki	bandi	nahi	milti	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ahi	hi	nah	na	ki	bandi	nahi	milti	null	0	0	1	0	1	0	0	0	0	0	0	0	0	RP_NEG
+1	lti	ti	mil	mi	bandi	nahi	milti	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ein	in	ham	ha	null	null	hamein	mein	koi	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+1	ein	in	mei	me	null	hamein	mein	koi	bandi	0	0	1	0	1	1	0	0	0	0	0	0	0	PSP
+0	null	null	null	null	hamein	mein	koi	bandi	nahi	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRP
+1	ndi	di	ban	ba	mein	koi	bandi	nahi	chahiye	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ahi	hi	nah	na	koi	bandi	nahi	chahiye	null	0	0	1	0	1	0	0	0	0	0	0	0	0	RP_NEG
+1	iye	ye	cha	ch	bandi	nahi	chahiye	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	in	null	null	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	yon	on	lad	la	null	null	ladkiyon	ko	ka	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+0	null	null	null	null	null	ladkiyon	ko	ka	ek	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+0	null	null	null	null	ladkiyon	ko	ka	ek	kyun	0	0	1	0	1	0	0	1	0	0	0	0	0	PSP
+0	null	null	null	null	ko	ka	ek	kyun	nhi	0	0	0	0	1	0	0	0	0	0	1	0	0	QT_QTO
+1	yun	un	kyu	ky	ka	ek	kyun	nhi	de	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRP
+0	null	null	null	null	ek	kyun	nhi	de	dete	0	0	0	0	1	0	1	0	0	0	0	0	0	RP_NEG
+0	null	null	null	null	kyun	nhi	de	dete	se	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	ete	te	det	de	nhi	de	dete	se	chutkkara	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	de	dete	se	chutkkara	milega	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+1	ara	ra	chu	ch	dete	se	chutkkara	milega	n	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ega	ga	mil	mi	se	chutkkara	milega	n	ka	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+0	null	null	null	null	chutkkara	milega	n	ka	fayda	0	0	0	0	1	0	1	0	0	0	0	0	0	RB_AMN
+0	null	null	null	null	milega	n	ka	fayda	ho	0	0	1	0	1	0	0	1	0	0	0	0	0	PSP
+1	yda	da	fay	fa	n	ka	fayda	ho	jayega	0	0	0	0	0	0	0	0	0	0	0	0	0	N_NNV
+0	null	null	null	null	ka	fayda	ho	jayega	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	ega	ga	jay	ja	fayda	ho	jayega	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	kka	ka	pak	pa	null	null	pakka	yahi	hai	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ahi	hi	yah	ya	null	pakka	yahi	hai	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+0	null	null	null	null	pakka	yahi	hai	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	mei	ladko	ladkiyo	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+1	dko	ko	lad	la	null	mei	ladko	ladkiyo	ko	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	iyo	yo	lad	la	mei	ladko	ladkiyo	ko	milne	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	ladko	ladkiyo	ko	milne	wala	0	0	0	0	1	0	0	0	0	0	0	0	0	PSP
+1	lne	ne	mil	mi	ladkiyo	ko	milne	wala	hai	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ala	la	wal	wa	ko	milne	wala	hai	kuch	0	0	0	0	1	0	0	0	0	0	0	0	0	RP_RPD
+0	null	null	null	null	milne	wala	hai	kuch	dino	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	uch	ch	kuc	ku	wala	hai	kuch	dino	ka	0	0	0	0	1	0	0	0	0	0	1	0	0	QT_QTF
+1	ino	no	din	di	hai	kuch	dino	ka	intezaar	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+0	null	null	null	null	kuch	dino	ka	intezaar	karlo	0	0	1	0	1	0	0	1	0	0	0	0	0	PSP
+1	aar	ar	int	in	dino	ka	intezaar	karlo	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	rlo	lo	kar	ka	ka	intezaar	karlo	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	na	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0	RP_RPD
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ha	ha	ha	0	0	0	0	1	0	0	0	0	0	0	0	0	RP_INJ
+0	null	null	null	null	null	ha	ha	ha	null	0	0	0	0	1	0	0	0	0	0	0	0	0	RP_INJ
+0	null	null	null	null	ha	ha	ha	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	abe	marna	hai	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+1	rna	na	mar	ma	null	abe	marna	hai	aur	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	abe	marna	hai	aur	kahi	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	marna	hai	aur	kahi	maar	0	0	0	0	1	0	1	1	0	0	0	0	0	CC
+1	ahi	hi	kah	ka	hai	aur	kahi	maar	ki	0	0	0	0	1	1	0	0	0	0	0	0	0	PR_PRQ
+1	aar	ar	maa	ma	aur	kahi	maar	ki	bejaati	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+0	null	null	null	null	kahi	maar	ki	bejaati	maat	0	0	0	0	1	0	0	1	0	0	0	0	0	PSP
+1	ati	ti	bej	be	maar	ki	bejaati	maat	ker	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	aat	at	maa	ma	ki	bejaati	maat	ker	bhai	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	bejaati	maat	ker	bhai	MARA	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	hai	ai	bha	bh	maat	ker	bhai	MARA	HASU	0	0	1	0	1	0	0	0	0	0	0	0	0	N_NN
+1	ARA	RA	MAR	MA	ker	bhai	MARA	HASU	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+1	ASU	SU	HAS	HA	bhai	MARA	HASU	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	do	null	null	0	0	0	0	1	0	0	0	0	0	1	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aru	ru	dar	da	null	null	daru	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	als	ls	cha	ch	null	null	chappals	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	als	ls	cha	ch	null	null	chappals	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	est	st	Tec	Te	null	null	Techfest	Bus	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+0	null	null	null	null	null	Techfest	Bus	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ent	nt	the	th	null	null	thebcurrent	MI	Anyways	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	null	thebcurrent	MI	Anyways	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+1	ays	ys	Any	An	thebcurrent	MI	Anyways	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	oos	os	kha	kh	null	null	khadoos	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ola	la	Bho	Bh	null	null	Bhola	tu	hai	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VM
+0	null	null	null	null	null	Bhola	tu	hai	na	0	0	0	0	1	1	0	1	0	0	0	0	0	PR_PRP
+0	null	null	null	null	Bhola	tu	hai	na	null	0	0	0	0	1	0	0	0	0	0	0	0	0	V_VAUX
+0	null	null	null	null	tu	hai	na	null	null	0	0	1	0	1	0	0	0	0	0	0	0	0	RP_NEG
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aah	ah	naa	na	null	null	naah	null	null	0	0	0	0	1	0	0	0	0	0	0	0	0	N_NNP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+

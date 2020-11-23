@@ -1,0 +1,2533 @@
+Arun	N	PROPN
+Mudhirajlions	N	PROPN
+love	E	VERB
+all	E	NOUN
+
+boys	E	NOUN
+to	E	ADV
+mach	E	ADJ
+crazy	E	ADJ
+
+agree	E	VERB
+friends	E	NOUN
+
+‪‎Sri	N	PROPN	
+
+THE	E	DET
+CUTEST	E	ADJ
+ARGUMENT	E	NOUN
+subtitles	E	NOUN
+
+cutest	E	ADJ
+innocent	E	ADJ
+argument	E	NOUN
+ever	E	ADV
+i	E	PRON
+dont	E	AUX
+own	E	VERB
+this	E	DET
+video	E	NOUN
+i	E	PRON
+just	E	ADV
+added	E	VERB
+the	E	DET
+subs	E	NOUN
+the	E	DET
+way	E	NOUN
+i	E	PRON
+understood	E	VERB
+the	E	DET
+conversation	E	NOUN
+
+youtubecom	E	X
+
+Bharath	N	PROPN
+Kumar	N	PROPN
+likes	E	VERB
+this	E	NOUN
+
+Em	T	ADV	
+sesthiri	T	VERB
+Em	T	ADV
+sesthiri	T	VERB
+
+Entertainer	E	NOUN
+
+10113	R	NUM
+Likes	E	NOUN
+
+142	R	NUM
+talking	E	VERB
+about	E	ADP
+this	E	NOUN
+
+Sandeep	N	PROPN
+Sandy	N	PROPN
+avuna	T	NOUN
+bro	E	NOUN
+
+Telugu	T	PROPN
+jokes	T	NOUN
+with	E	ADP
+Dipanjali	N	PROPN
+Wahane	N	PROPN
+and	E	CONJ
+Nadiminti	N	PROPN
+Sridhar	N	PROPN
+Sridhar	N	PROPN
+
+Mahesh	N	PROPN
+Puli	N	PROPN
+likes	E	VERB
+this	E	NOUN
+
+Telugu	T	PROPN
+jokes	T	NOUN
+nice	E	ADJ
+Mahesh	N	PROPN
+Puli	N	PROPN
+
+Venkat	N	PROPN
+Subbaiah	N	PROPN
+School	E	NOUN
+tour	E	NOUN
+
+Mahesh	N	PROPN
+Puli	N	PROPN
+pelli	T	NOUN
+
+Hemanth	N	PROPN
+Jagadala	N	PROPN
+wow	E	ADJ
+manchi	T	ADJ
+kik	E	NOUN
+eche	T	VERB
+game	E	NOUN
+show	E	NOUN
+
+Pretty	N	PROPN
+Keerthi	N	PROPN
+good	E	ADJ
+
+omg	E	X
+omg	E	X
+
+‪‎Sri‬	N	PROPN	
+
+Chandra	N	PROPN
+Sekhar	N	PROPN
+Very	E	ADV
+Bad	E	ADJ
+
+Suman	N	PROPN
+Burolla	N	PROPN
+Bad	E	ADJ
+elephant	E	NOUN
+
+Naresh	N	PROPN
+Kumar	N	PROPN
+Danger	E	ADJ
+
+careful	E	ADJ
+boys	E	NOUN
+soo	E	ADV
+danger	E	ADJ
+girls	E	NOUN
+Dont	E	AUX
+marry	E	VERB
+be	E	VERB
+happy	E	ADJ
+
+‪‎Sri‬	N	PROPN	
+
+Shameem	N	PROPN
+Khans	N	PROPN
+same	E	ADJ
+msg	E	NOUN
+for	E	ADP
+grls	E	NOUN
+also	E	ADV
+imagine	E	VERB
+a	E	DET
+boy	E	NOUN	
+in	E	ADP
+the	E	DET
+place	E	NOUN
+of	E	ADP
+this	E	DET
+girl	E	NOUN
+
+a	E	DET
+funny	E	ADJ
+dance	E	NOUN
+Ha	R	X
+ha	R	X
+ha	R	X
+vedu	T	PRON
+dasamuduru	T	NOUN
+
+‪‎Sri‬	N	PROPN
+
+Mari	T	CONJ
+Muthu	N	PROPN
+
+Krishna	N	PROPN
+Kota	N	PROPN
+Murthy	N	PROPN
+very	E	ADV
+cute	E	ADJ
+
+Manoj	N	PROPN
+Reddy	N	PROPN
+True	E	ADJ
+tammi	T	NOUN
+
+friends	E	NOUN
+How	E	ADV
+is	E	VERB
+this	E	DET
+video	E	NOUN
+Created	E	VERB
+by	E	ADP
+me	E	PRON
+and	E	CONJ
+my	E	DET
+friends	E	NOUN
+in	E	ADP
+Kuwait	N	PROPN
+Arad	N	PROPN	
+country	E	NOUN
+language	E	NOUN
+this	E	DET
+video	E	NOUN
+aradelittle	E	NOUN
+Tamil	N	PROPN
+
+Plg	E	ADV
+comment	E	VERB
+and	E	CONJ
+like	E	VERB
+
+Me	T	PRON
+‪‎Sri‬	N	PROPN
+
+Mohammed	N	PROPN
+Kaleem	N	PROPN
+abey	R	NOUN
+oo	T	NOUN
+haule	T	NOUN
+ee	T	DET
+video	T	NOUN
+nuvvu	T	PRON
+creat	E	NOUN
+chesava	T	VERB
+ee	T	DET
+video	E	NOUN
+kuwait	N	PROPN
+lo	T	ADP
+kadu	T	VERB
+saudi	N	PROPN
+arab	N	PROPN
+lo	T	ADP
+tisaru	T	VERB
+telusu	T	VERB
+ko	T	ADP
+mundu	T	ADV
+
+Snigdha	N	PROPN
+Cuty	N	PROPN
+WHAT	E	INTJ
+A	E	DET
+SONG	E	NOUN
+
+a	E	DET
+singing	E	NOUN
+
+Agree	E	VERB
+than	E	ADP
+like	E	VERB
+comments	E	NOUN
+Bless	E	VERB
+the	E	DET	
+child	E	NOUN
+
+‪‎Sri‬	N	PROPN
+
+Nani	N	PROPN
+Venkat	N	PROPN
+Ho	T	X
+sooo	E	ADV
+sweat	E	ADJ
+keep	E	VERB
+it	E	PRON
+up	E	PART
+god	E	NOUN
+bless	E	VERB
+u	E	PRON
+my	E	DET
+child	E	NOUN
+
+lover	E	ADJ
+Boys	E	NOUN
+allwas	E	ADV
+rockzzz	E	VERB
+‪‎Sri‬	N	PROPN
+
+Arunkumar	N	PROPN
+Na	T	DET
+santhi	T	NOUN
+masuri	T	NOUN
+
+Phalguna	N	PROPN
+Kancherla	N	PROPN
+Reallyy	E	ADV
+True	E	ADJ
+Lover	E	NOUN
+
+like	E	VERB
+this	E	DET
+friends	E	NOUN
+
+‪‎Sri‬	N	PROPN
+
+Sathwik	N	PROPN
+Vallabhaneni	N	PROPN
+WAS	E	AUX
+IT	E	PRON
+ANACONDA	N	PROPN
+
+Telugu	T	PROPN
+jokes	E	NOUN
+added	E	VERB
+a	E	DET
+new	E	ADJ
+photo	E	NOUN
+
+na	T	PRON
+Kottu	T	VERB
+like	E	NOUN
+
+‪‎jay‬	T	NOUN
+
+Immanuel	N	PROPN
+Vinay	N	PROPN
+Time	E	NOUN
+diffrent	E	ADJ
+
+Pramod	N	PROPN
+Freedom	E	NOUN
+all	E	DET
+of	E	ADP
+u	E	PRON
+keka	T	NOUN
+
+Sai	N	PROPN
+Krish	N	PROPN
+Wine	E	NOUN
+love	E	NOUN
+lo	T	ADP
+fail	E	NOUN
+tha	T	VERB
+matram	T	ADV
+chala	T	ADV
+useful	E	ADJ
+kada	T	PART
+like	E	NOUN
+
+Chandu	N	PROPN
+Pashikanti	N	PROPN
+I	E	PRON
+like	E	VERB
+visham	T	NOUN
+
+Vinay	N	PROPN
+Kumar	N	PROPN
+wine	E	NOUN
+kikkutho	T	NOUN
+champuthundi	T	VERB
+visham	T	NOUN
+kikku	T	NOUN
+lekunda	T	ADV
+champuthundi	T	VERB
+
+like	E	VERB
+and	E	CONJ
+comments	E	VERB
+friends	E	NOUN
+
+‪‎Sri‬	N	PROPN
+
+Ashok	N	PROPN
+Chakri	N	PROPN
+Superb	E	ADJ
+
+Srikanth	N	PROPN
+Sathu	N	PROPN
+awesome	E	ADJ
+
+Hemesh	N	PROPN
+Hem	N	PROPN
+Jyothi	N	PROPN
+kadha	T	PART
+
+Madhan	N	PROPN
+Cheruku	N	PROPN
+ohhhhhhhhhhh	R	INTJ
+awesome	E	ADJ
+itz	E	X
+amaizing	E	ADJ
+
+Boney	N	PROPN
+Sh	N	PROPN
+awesome	E	ADJ
+flip	E	VERB
+climb	E	VERB
+
+Lovely	N	PROPN
+Cherry	N	PROPN
+Amaizing	E	ADJ
+
+Sandhya	N	PROPN
+Reddy	N	PROPN
+HURREY	E	VERB
+I	E	PRON
+just	E	ADV
+got	E	VERB
+Free	E	ADJ
+Balance	E	NOUN
+Rs150	E	NOUN
+So	E	ADV
+excited	E	VERB
+Thanks	E	VERB
+to	E	ADP
+httpfree4rechargewapluxcommainphpf2928649Go	E	X
+to	E	ADP
+this	E	DET
+link	E	NOUN
+and	E	CONJ
+get	E	VERB
+your	E	DET
+recharge	E	NOUN
+or	E	CONJ
+win	E	VERB
+5GB	E	NOUN
+httpfree4rechargewapluxcommainphpf2928649	E	X
+
+Hello	E	NOUN
+
+free4rechargewapluxcom	E	X
+
+Amma	T	NOUN
+koduku	T	NOUN
+la	T	X
+khadha	T	NOUN
+
+Title	E	NOUN
+amma	T	NOUN
+prema	T	NOUN
+Oka	T	ADJ
+son	E	NOUN
+valla	T	ADP
+mom	E	NOUN
+chivari	T	ADJ
+stage	E	NOUN
+lo	T	ADP
+chudataniki	T	VERB
+vachi	T	VERB
+thana	T	DET
+childhood	E	NOUN
+nundi	T	ADP
+Amma	T	NOUN
+em	T	ADV
+em	T	ADV
+chesindhooo	T	VERB
+gurthucheskuntuuu	T	VERB
+vuntadu	T	VERB
+ila	T	NOUN
+1st	E	ADJ
+lie	E	NOUN
+Amma	T	NOUN
+Nenu	T	PRON
+Chinna	T	ADJ
+vadiga	T	NOUN
+vunnappudu	T	VERB
+manam	T	PRON
+chala	T	ADJ
+pedharikam	T	NOUN
+lo	T	ADP
+vunnam	T	VERB
+appudu	T	NOUN
+nuv	T	PRON
+natho	T	PRON
+cheppina	T	VERB
+abadham	T	NOUN
+naku	T	PRON
+aakaliga	T	ADV
+ledhu	T	VERB
+Nanna	T	NOUN
+Nuvve	T	NOUN
+thinu	T	VERB
+ani	T	SCONJ
+nee	T	PRON
+annam	T	NOUN
+kuda	T	ADV
+naku	T	PRON
+pettav	T	VERB
+2nd	E	ADJ
+lie	E	NOUN
+Amma	T	NOUN
+neeku	T	PRON
+gurthundha	T	VERB
+Nuvvu	T	PRON
+Nenu	T	PRON
+oka	T	ADJ
+sari	T	NOUN
+chepalu	T	NOUN
+pattadaniki	T	VERB
+velthe	T	VERB
+2	R	NUM
+chepalu	T	NOUN
+dorikay	T	VERB
+Neeku	T	PRON
+fish	E	NOUN
+istamina	T	VERB
+kuda	T	ADV
+malli	T	ADV
+veediki	T	PRON
+Nenu	T	PRON
+fish	E	NOUN
+vandi	T	VERB
+pettagalano	T	VERB
+ledho	T	VERB
+ani	T	SCONJ
+2	R	NUM
+fishes	E	NOUN
+ni	T	ADP
+Nake	T	PRON
+Kali	T	ADJ
+kadupu	T	NOUN
+tho	T	ADP
+padukunnav	T	VERB
+kada	T	PART
+Amma	T	NOUN
+appudu	T	NOUN
+Nenu	T	NOUN
+adigithe	T	VERB
+nuv	T	PRON
+cheppina	T	VERB
+abaddam	T	NOUN
+Nanna	T	NOUN
+naku	T	PRON
+fish	E	NOUN
+istam	T	NOUN
+vundadhu	T	VERB
+ra	T	NOUN
+ani	T	SCONJ
+3rd	E	ADJ
+lie	E	NOUN
+naku	T	PRON
+exams	E	NOUN
+jaruguthuu	T	VERB
+vunte	T	VERB
+nuv	T	PRON
+Nenu	T	PRON
+padukone	T	VERB
+varakuu	T	ADP
+melkone	T	VERB
+dhanivi	T	PRON
+velli	T	VERB
+padukomma	T	VERB
+ani	T	SCONJ
+Nenu	T	PRON
+antenuv	T	VERB
+cheppina	T	VERB
+abadham	T	NOUN
+Nanna	T	NOUN
+Ivvala	T	NOUN
+naku	T	PRON
+endhuko	T	ADV
+nidra	T	NOUN
+ravatledhu	T	VERB
+ra	T	NOUN
+ani	T	SCONJ
+4th	E	ADJ
+lie	E	NOUN
+Nanna	T	NOUN	
+garu	T	NOUN
+chanipothe	T	VERB
+naa	T	PRON
+studies	E	NOUN
+ki	T	ADP
+ekkada	T	ADV
+break	E	NOUN
+vastundho	T	VERB
+ani	T	SCONJ
+nuv	T	PRON
+late	E	ADJ
+nights	E	NOUN
+varakuu	T	ADP
+work	E	NOUN
+chesedhanivi	T	VERB
+sing­le	E	ADJ
+parent	E	NOUN
+ga	T	ADP
+nuv	T	PRON
+nannau	T	PRON
+entha	T	ADV
+premaga	T	ADV
+chuskunnavo	T	VERB
+naku	T	PRON
+thelsu	T	VERB
+Amma	T	NOUN
+Appudu	T	NOUN
+nuv	T	PRON
+cheppina	T	NOUN
+abadham	T	NOUN
+Nanna	T	NOUN
+Naku	T	PRON
+okka	T	ADJ
+dhanike	T	PRON
+intlo	T	NOUN
+bore	E	NOUN
+koduthundhi	T	VERB
+Andhuke	T	ADV
+part	E	ADJ
+time	E	NOUN
+work	E	NOUN
+chestunna	T	VERB
+ani	T	SCONJ
+5th	E	ADJ
+lie	E	NOUN
+naku	T	PRON
+manchi	T	ADJ
+job	E	NOUN
+vachi	T	VERB
+hyd	E	VERB
+lo	T	ADP
+settle	E	NOUN
+ayyi	T	VERB
+ninnu	T	PRON
+kuda	T	ADV
+rammani	T	VERB
+pilisthe	T	VERB
+naku	T	PRON
+ekkada	T	ADV
+expenses	E	NOUN
+ekkuva	T	ADJ
+ayipothayo	T	VERB
+nuv	T	PRON
+cheppina	T	VERB
+abadham	T	NOUN
+Nanna	T	NOUN
+Nenu	T	PRON
+aa	T	DET
+city	E	NOUN	
+life	E	NOUN
+ki	T	ADP
+alavatu	T	NOUN
+padalenu	T	VERB
+ra	T	NOUN
+ani	T	SCONJ
+6th	E	ADJ
+lie	E	NOUN
+chivariki	T	ADV
+ippudu	T	NOUN
+kuda	T	ADV
+cancer	E	NOUN
+vachi	T	VERB
+last	E	ADJ
+stage	E	NOUN
+lo	T	ADP
+vunnappudu	T	NOUN
+kuda	T	ADV
+Nenu	T	PRON
+ekkada	T	ADV
+edusthano	T	VERB
+ani	T	SCONJ
+nuv	T	PRON
+chepthunna	T	VERB
+abadham	T	NOUN
+Nanna	T	NOUN
+Naku	T	PRON
+noppi	T	ADV
+ga	T	ADP
+ledhu	T	VERB
+ra	T	NOUN
+nuv	T	PRON
+edavaku	T	VERB
+ani	T	SCONJ
+Inni	T	ADJ
+abadhalu	T	NOUN
+cheppinandhuku	T	VERB
+neeku	T	PRON
+padina	T	VERB
+siksha	T	NOUN
+ento	T	PRON
+thelsa	T	VERB
+Amma	T	NOUN
+Naa	T	PRON
+lanti	T	ADP
+prema	T	NOUN
+leni	T	VERB
+vadunee	T	PRON
+kadupuna	T	NOUN
+nee	T	PRON
+koduku	T	ADV
+ga	T	ADP
+puttadame	T	VERB
+Ani	T	SCONJ
+pedhaga	T	ADV
+edchesadu	T	VERB
+Nijamga	T	VERBB
+Amma	T	NOUN
+amme	T	NOUN
+ennistori­es	M	NOUN
+rasina	T	VERB
+enni	T	ADJ
+post	E	NOUN
+lu	T	ADP
+pettina	T	VERB
+Amman­ee	T	NOUN
+lo	T	ADP
+vunna	T	VERB
+prema	T	NOUN
+ni	T	ADP
+1	R	NUM
+kuda	T	ADV
+cheppalem	T	VERB
+emantaru	T	VERB	
+idi	T	PRON
+evarini	T	NOUN
+uddesinchi	T	NOUN
+cheppatam	T	VERB
+ledu	T	ADV
+edo	T	ADJ
+naku	T	NOUN
+anI	T	SCONJ
+pinchinadi	T	VERB
+rasanu	T	VERB
+tappulunte	T	VERB
+manninchandi	T	VERB
+
+Seelam	N	PROPN
+Buttagandla	N	PROPN
+Posting	E	VERB
+chalaa	T	ADJ
+bagundi	T	NOUN
+
+Nagaprasad	N	PROPN
+Seelam	N	PROPN
+Buttagandla	N	PROPN
+Good	E	ADJ
+prati	T	ADJ
+vokkru	T	NOUN
+chadvaali	T	VERB
+
+Sandeep	N	PROPN
+
+Nice	E	ADJ
+
+4	R	NUM
+hrs	E	NOUN
+
+Boy	E	NOUN
+I	E	PRON
+love	E	VERB
+u	E	PRON
+Girl	E	NOUN
+Enni	T	ADJ
+sarlu	T	NOUN
+chepthav	T	VERB
+Boy	E	NOUN
+Me	E	PRON
+2	R	NUM
+ani	T	SCONJ
+nv	T	PRON
+cheppentha	T	VERB
+varaku	T	ADP
+Girl	E	NOUN
+Aiethe	T	CONJ
+adi	T	PRON
+jarige	T	VERB
+pani	T	NOUN
+kadu	T	VERB
+le	T	PART
+After	E	ADP
+some	E	DET
+days	E	NOUN
+Boy	E	NOUN
+Neku	T	PRON
+nenu	T	PRON
+chala	T	ADJ
+sarlu	T	NOUN
+propose	E	NOUN
+chesanu	T	VERB
+but	E	CONJ
+u	E	PRON
+didnt	E	AUX
+accept	E	VERB
+me	E	PRON
+naku	T	PRON
+nekanna	T	PRON
+anandhamaina	T	ADJ
+ammai	T	NOUN
+dorikindi	T	VERB
+she	E	PRON
+is	E	VERB
+also	E	ADV
+in	E	ADP
+love	E	NOUN
+with	E	ADP
+me	E	PRON
+Aa	T	DET
+ammai	T	NOUN
+kochem	T	ADJ
+badha	T	NOUN
+paduthu	T	VERB
+inka	T	CONJ
+akkadi	T	NOUN
+nundi	T	ADP
+velli	T	VERB
+poyindi	T	VERB
+Adi	T	PRON
+notice	E	NOUN
+chesina	T	VERB
+aa	T	DET
+abbai	T	NOUN
+Boy	E	NOUN
+Oy	T	NOUN
+Nenu	T	PRON
+ante	T	VERB
+neku	T	PRON
+estam	T	NOUN
+ledu	T	VERB
+ani	T	SCONJ
+telusukunnanu	T	VERB
+le	T	PART
+n	E	CONJ
+malli	T	ADJ
+e	T	DET
+dongaedpu	T	NOUN
+cry	E	NOUN
+lu	T	X
+enduku	T	ADV
+aapu	T	VERB
+Girl	E	NOUN
+Nv	T	PRON
+ante	T	VERB
+naku	T	PRON
+estam	T	NOUN
+leka	T	ADV
+poyunteanni	T	VERB
+sarlu	T	NOUN
+netho	T	PRON
+ala	T	ADV
+I	E	PRON
+Love	E	VERB
+U	E	PRON
+ani	T	SCONJ
+cheppinchukonu	T	VERB
+n	E	CONJ
+tharvatha	T	ADP
+ninnu	T	PRON
+badhapatte	T	ADV
+danni	T	PRON
+kadhu	T	VERB
+Boy	E	NOUN
+Ante	T	VERB
+ne	T	PRON
+vudhesaam	T	NOUN
+Girl	E	NOUN
+Nv	T	PRON
+just	E	ADV
+matala	T	ADJ
+rupam	T	NOUN
+lo	T	ADP
+I	E	PRON
+Love	E	VERB
+U	E	PRON
+ani	T	SCONJ
+cheppi	T	VERB
+vodilese	T	VERB
+vadivi	T	PRON
+but	E	CONJ
+nenu	T	PRON
+nelage	T	PRON
+cheppakunda	T	VERB
+ah	T	X
+Prema	T	NOUN
+ni	T	ADP
+chupinchanu	T	VERB
+Boy	E	NOUN
+Chupisthe	T	VERB
+chudadaniki	T	VERB
+adi	T	PRON
+emaina	T	VERB
+paradise	E	NOUN
+hotel	E	NOUN
+lo	T	ADP
+biryani	T	NOUN
+aa	T	DET
+Prema	T	NOUN
+chepthene	T	VERB
+kada	T	PART
+avadikaina	T	NOUN
+thelisedi	T	VERB
+Girl	E	NOUN
+Nijamga	T	ADV
+preminche	T	VERB
+vallaki	T	PRON
+ah	T	X
+Prema	T	NOUN
+ni	T	ADP
+manam	T	PRON
+cheppaka	T	VERB
+poyina	T	VERB
+chupisthe	T	VERB
+kanipisthundi	T	VERB
+le	T	PART
+but	E	CONJ
+nt	E	PART
+4	E	NUM
+u	E	PRON
+Anyway	E	ADV
+Lyf	E	NOUN
+lo	T	ADP
+Happy	E	ADV
+ga	E	ADP
+undu	E	VERB
+boy	E	NOUN
+osy	T	NOUN
+nee	T	PRON
+enkamma	T	NOUN
+ippatidhaka	T	ADP
+drama	E	NOUN
+aadane	T	VERB
+nitho	T	PRON
+nijam	T	NOUN
+cheppinchadaniki	T	VERB
+nuv	T	PRON
+nijam	T	NOUN
+cheppesav	T	VERB
+I	E	PRON
+Love	E	VERB
+You	E	PRON
+bangaram	E	ADJ
+girl	E	NOUN
+neeeeeee	T	NOUN
+I	E	PRON
+Love	E	VERB
+You	E	PRON
+to	E	ADP
+ra	T	NOUN
+haha	R	X
+sweet	E	ADJ
+kadha	T	PART
+
+5	R	NUM
+hrs	E	NOUN
+
+Just	E	ADV
+for	E	ADP
+fun	E	NOUN
+
+Boy	E	NOUN
+i	E	PRON
+love	E	VERB
+u	E	PRON
+girl	E	NOUN
+i	E	PRON
+2	E	ADV
+love	E	VERB
+u	E	PRON
+darling	E	NOUN
+boy	E	NOUN
+oka	T	ADJ
+kiss	E	NOUN
+ivvava	T	VERB
+girl	E	NOUN
+no	E	INTJ
+Ealantivi	T	NOUN
+anni	T	ADJ
+pelli	T	NOUN
+tarvathe	T	ADP
+
+boy	E	NOUN
+its	E	X
+ok	E	adj
+pelli	T	NOUN
+kagane	T	ADP
+naaku	T	PRON
+call	E	NOUN
+chey	T	VERB
+
+Srinivas	N	PROPN
+Reddy	N	PROPN
+
+Nagur	N	PROPN
+Nannam	N	PROPN
+ha	T	X
+ha	T	X
+ha	T	X
+
+heyy	E	NOUN
+comedy	E	NOUN
+
+Vijay	N	PROPN
+Kasu	N	PROPN
+Deeeeeeevuda	T	NOUN
+
+Prema	T	NOUN
+vishayamlo	T	NOUN
+andaru	T	NOUN
+Sadharanamga	T	ADV
+rendu	T	ADJ
+thappulu	T	NOUN
+chesthuntaaru	T	VERB
+
+Thamanu	T	PRON
+nirlakshyam	T	NOUN
+chesevarini	T	VERB
+preminchadam	T	NOUN
+Thamanu	T	PRON
+preminche	T	VERB
+varini	T	PRON
+nirlakshyam	T	NOUN
+cheyadam	T	VERB
+
+Nageswararao	N	PROPN
+Alapati	N	PROPN
+Thats	E	X
+good	E	ADJ
+
+Raja	N	PROPN
+Kumar	N	PROPN
+Its	E	X
+true	E	ADJ
+
+Vijay	N	PROPN
+Kasu	N	PROPN
+S	E	NOUN
+bro	E	NOUN
+
+Nene	T	PRON
+Jaffa	T	NOUN
+Doubt	E	NOUN
+Ha	T	X
+Sss	T	NOUN
+
+hrs	E	NOUN
+·	T	PUNCT
+
+7yrs	E	NOUN
+boy	E	NOUN
+ni	T	ADP
+5yrs	E	NOUN
+unna	T	VERB
+thana	T	PRON
+sistr	E	NOUN
+ila	T	ADV
+adigindhiii	T	VERB
+Annayya	T	NOUN
+Wht	E	PRON
+is	E	VERB
+love	E	NOUN
+Cute	E	ADJ
+answr	E	NOUN
+by	E	ADP
+brthr	E	NOUN
+Nuvvu	T	PRON
+daily	E	ADV
+na	T	DET
+bag	E	NOUN
+nundi	T	ADP
+choclate	E	NOUN
+dongalisthunnav	T	VERB
+Thisukoni	T	VERB
+poyi	T	VERB
+thintunnav	T	VERB
+bt	E	CONJ
+aina	T	SCONJ
+kuda	T	ADV
+nenu	T	PRON
+nee	T	PRON
+kosam	T	ADP
+daily	E	ADV
+choclate	E	NOUN
+ni	T	ADP
+bag	E	NOUN
+lo	T	ADP
+peduthunna	T	VERB
+ga	T	ADP
+adhe	T	PRON
+love	E	NOUN
+ante	T	VERB
+
+Avanthika	N	PROPN
+Superb	E	ADJ
+superb	E	ADJ
+
+Sivaparvathi	N	PROPN
+Maguluri	N	PROPN
+Supper	E	ADJ
+
+Ch	N	PROPN
+Mahesh	N	PROPN
+gud	E	ADJ
+morning	E	NOUN
+telugujokes	E	NOUN
+
+Manoj	N	PROPN
+Kuppili	N	PROPN
+superbbbb	E	ADJ
+
+anna	T	NOUN
+chelli	T	NOUN
+
+Rayavaram	N	PROPN
+Nomakumar	N	PROPN
+esari	T	NOUN
+directga	M	ADV
+ivvu	T	VERB
+inkosari	T	ADJ
+dongalinchadu	T	VERB
+
+Srikanth	N	PROPN
+Jami	N	PROPN
+Very	E	ADV
+nice	E	ADJ
+answer	E	NOUN
+
+Satrampalli	N	PROPN
+Sandeep	N	PROPN
+
+Neha	N	PROPN
+Mishra	N	PROPN
+nice	E	ADJ
+its	E	X
+true	E	ADJ
+
+Buthukuri	N	PROPN
+Jagadesh	N	PROPN
+Reddy	N	PROPN
+its	E	X
+a	E	DET
+great	E	ADJ
+relationship	E	NOUN
+in	E	ADP
+the	E	DET
+world	E	NOUN
+and	E	CONJ
+also	E	ADV
+a	E	DET
+great	E	ADJ
+love	E	NOUN
+
+Chaitanya	N	PROPN
+Rama	N	PROPN
+superb	E	ADJ
+
+Abhi	N	PROPN
+Nai	N	PROPN
+super	E	ADJ
+
+Dhanamj	N	PROPN
+Battu	N	PROPN
+Sweet	E	ADJ
+answer	E	NOUN
+
+Ramesh	N	PROPN
+TheHero	N	PROPN
+Reply	E	VERB
+me	E	PRON
+vani	N	PROPN
+
+Minnu	N	PROPN
+Bujji	N	PROPN
+Keka	T	NOUN
+
+Chaitanya	N	PROPN
+Reddy	N	PROPN
+Thiyyagura	T	VERB
+Nice	E	ADJ
+
+Hony	N	PROPN
+Hayathi	N	PROPN
+Alaga	T	ADV
+
+Srivani	N	PROPN
+Sri	N	PROPN
+Sweetest	E	ADJ
+love	E	NOUN
+so	E	ADV
+nice	E	ADJ
+
+Really	E	ADV
+super	E	ADJ
+
+super	E	ADJ
+machhi	R	NOUN
+
+Ex	E	X
+lent	E	X
+tinking	E	NOUN
+bro	E	NOUN
+andaru	T	PRON
+nilage	T	NOUN
+alochiste	T	VERB
+bagundu	T	VERB
+nice	E	ADJ
+ahhhhhh	R	X
+
+K	E	NOUN
+good	E	ADJ
+
+Idhi	T	PRON
+nijame	T	NOUN
+adhi	T	PRON
+chadhivithe	T	VERB
+ala	T	ADV
+mararu	T	VERB
+
+extrordinary	E	ADJ
+super	E	ADJ
+thats	E	X
+correct	E	ADJ
+
+Chalaaa	T	ADV
+bhagundigood	T	ADJ
+one	E	NOUN
+
+Great	E	ADJ
+bro	E	NOUN
+good	E	ADJ
+joke	E	NOUN
+
+Nice	E	ADJ
+
+Srinivas	N	PROPN
+Nice	E	ADJ
+
+supb	E	ADJ
+
+hrs	E	NOUN
+·	T	PUNCT
+
+extra	N	PROPN	
+jabardhasth	N	PROPN
+lo	T	ADP
+evaru	T	PRON
+win	E	NOUN
+avtharu	T	VERB
+guess	E	NOUN
+cheyandi	T	VERB
+friends	E	NOUN
+
+entha	T	ADJ
+mandhi	T	NOUN
+correct	E	ADJ
+cheptharo	T	VERB
+chuddham	T	VERB
+
+Telugu	T	PROPN
+jokes	E	NOUN
+ha	R	X
+ha	R	X
+chandra	N	PROPN
+is	E	VERB
+winner	E	NOUN
+
+Venkata	N	PROPN
+Naresh	N	PROPN
+Gollapudi	N	PROPN
+My	E	PRON
+guess	E	NOUN
+is	E	VERB
+correct	E	ADJ
+
+Chendhra	N	PROPN
+
+chandra	N	PROPN
+
+Gollapudi	N	PROPN
+I	E	PRON
+think	E	VERB
+chandra	N	PROPN
+
+Chandra	N	PROPN
+
+Pawan	N	PROPN
+AL	N	PROPN
+Chandra	N	PROPN
+
+chammak	N	PROPN
+chandra	N	PROPN
+
+chemmak	N	PROPN
+chandra	N	PROPN
+nd	E	CONJ
+sudher	N	PROPN
+
+chanti	N	PROPN
+
+gelichina	T	VERB
+vallu	T	PRON
+win	T	NOUN
+aavutharu	T	VERB
+pole	T	X
+aadhiripole	T	VERB
+See	E	VERB
+More	E	ADJ
+
+chammak	N	PROPN
+chandra	N	PROPN
+
+sudheer	N	PROPN
+nd	E	CONJ
+team	E	NOUN
+
+sudheer	N	PROPN
+team	E	NOUN
+
+Nuvvu	T	PRON
+kadhu	T	PART
+ra	T	NOUN
+nenu	T	PRON
+
+Nenu	T	PRON
+
+16	R	NUM
+hrs	E	NOUN
+·	T	PUNCT
+
+Chammak	N	PROPN
+Chandra	N	PROPN
+skit	E	NOUN
+ela	T	ADV
+vundhi	T	VERB
+friends	E	NOUN
+ha	R	X
+ha	R	X
+
+nice	E	ADJ
+i	E	PRON
+think	E	VERB
+skit	E	NOUN
+tane	E	PRON
+kodtadu	E	VERB
+anukuntunna	T	VERB
+chuddham	T	VERB
+enka	T	CONJ
+sudher	N	PROPN
+unnadu	T	VERB
+kada	T	PART
+
+I	E	PRON
+dnt	E	AUX
+knw	E	VERB
+Telugu	T	PROPN
+jokes	E	NOUN
+page	E	NOUN
+jabardasta	N	PROPN
+pagega	T	ADJ
+apudu	T	ADV
+changechesaru	T	VERB
+
+Abbbaacha	T	X
+
+Kevuu	T	ADJ
+keka	T	NOUN
+
+Kirrak	T	ADJ
+
+suuuuuuuperr	E	ADJ
+machhii	R	NOUN
+
+kekaaa	T	NOUN
+
+Super	E	ADJ
+
+Me	T	PRON
+entlo	T	NOUN
+TV	E	NOUN
+leda	T	VERB
+
+16	R	NUM
+hrs	E	NOUN
+·	T	PUNCT
+
+Prathi	T	ADV
+Okooru	T	ADJ
+kaneelu	T	NOUN
+pette	T	VERB
+adapilla	T	NOUN
+deevenagadha	T	NOUN
+kadupulo	T	NOUN
+papa	T	NOUN
+thalli	T	NOUN
+ki	T	ADP
+utharam	T	NOUN
+letter	E	NOUN
+
+Hai	E	NOUN
+Amma	T	NOUN
+Ella	T	ADV
+unav	T	VERB
+ipudipude	T	NOUN
+pranam	T	NOUN
+posukunanu	T	VERB
+thelusa	T	VERB
+
+Nuvu	T	PRON
+Naa	T	PRON
+ammavainanduku	T	VERB
+happy	E	ADV
+ga	T	ADP
+undhi	T	VERB
+mee	T	PRON
+premaku	T	NOUN
+gurthuga	T	ADV
+vachanu	T	VERB
+kadama	T	PART
+gharvanga	T	ADV
+undhi	T	VERB
+Naku	T	PRON
+thelusu	T	VERB
+Nee	T	PRON
+kuthuruga	T	ADV
+nenu	T	PRON
+entho	T	ADV
+santhosham	T	ADV
+ga	T	ADP
+jeevisthanu	T	VERB
+
+Amma	T	NOUN
+Nee	T	PRON
+kadupulo	T	NOUN
+peruguthundhi	T	VERB
+papa	T	NOUN
+ani	T	SCONJ
+thelisi	T	VERB
+adusthunava	T	VERB
+papaithe	T	NOUN
+enti	T	ADV
+Amma	T	NOUN
+
+Neekosam	T	NOUN
+nenu	T	PRON
+emaina	T	ADV
+chesthanama	T	VERB
+adavakamma	T	VERB
+
+Nuvu	T	PRON
+Nana	T	PRON
+endukud	T	ADV
+tharuchuga	T	ADV
+odava	T	NOUN
+padthunaru	T	VERB
+nana	T	NOUN
+ni	T	ADP
+kottodhu	T	VERB
+ani	T	SCONJ
+cheppamma	T	VERB
+nee	T	PRON
+pottalo	T	NOUN
+una	T	VERB
+naa	T	PRON
+pottaki	T	NOUN
+debbalu	T	NOUN
+thaguluthunay	T	VERB
+
+eroju	T	NOUN
+doctor	E	NOUN
+ni	T	ADP
+kalisava	T	VERB
+
+endukamma	T	VERB
+
+nenu	T	PRON
+bagane	T	ADV
+unanu	T	VERB
+kada	T	PART
+
+Em	T	PRON
+jaruguthundhemo	T	VERB
+
+Nenundey	T	NOUN
+chottuku	T	NOUN
+idhedho	T	NOUN
+kotha	T	ADJ
+vasthuvu	T	NOUN
+vachidenti	T	VERB
+
+adhemaina	T	NOUN
+kotha	T	ADJ
+rakam	T	NOUN
+bomma	T	NOUN
+na	T	PART
+
+Amma	T	NOUN
+valani	T	PRON
+appamma	T	VERB
+adhi	T	PRON
+naa	T	PRON
+chey	T	NOUN
+hand	E	NOUN
+ayyo	T	INTJ
+Pleasee	E	ADV
+Naku	T	PRON
+noppiga	T	ADV
+undhi	T	VERB
+Nanu	T	PRON
+gunchodhu	T	VERB
+laagodhu	T	VERB
+ani	T	SCONJ
+cheppamma	T	VERB
+nanu	T	PRON
+kapadamma	T	VERB
+nenu	T	PRON
+chinna	T	ADJ
+papani	T	NOUN
+kada	T	PART
+nanu	T	PRON
+nenu	T	PRON
+rakshinchukolenu	T	VERB
+ani	T	SCONJ
+thelusu	T	VERB
+kada	T	PART
+Amma	T	NOUN
+adi	T	PRON
+naa	T	PRON
+kaalu	T	NOUN
+leg	E	NOUN
+
+valani	T	PRON
+apamani	T	VERB
+stop	E	NOUN
+cheppamma	T	VERB
+Promise	E	NOUN
+Nenu	T	PRON
+naa	T	PRON
+kalatho	T	NOUN
+legstho	M	NOUN
+ni	T	ADP
+bojjani	T	NOUN
+stomach	E	NOUN
+ni	T	ADP
+thananamma	T	VERB
+valu	T	PRON
+manushule	T	NOUN
+kada	T	PART
+nanu	T	PRON
+ella	T	ADV
+cheyagalguthunaramma	T	VERB
+
+Ammaaa	T	NOUN
+
+ikaaananu	T	X
+
+Rakshinchammaaaaa	T	VERB
+
+Ammaaa	T	NOUN
+
+idhi	T	PRON
+okka	T	ADJ
+adapila	T	NOUN
+kadupulo	T	NOUN
+una	T	VERB
+aavedhana	T	NOUN
+champadam	T	NOUN
+neram	T	NOUN
+
+Champpemundu	T	VERB
+manamu	T	PRON
+okka	T	ADJ
+adapilla	T	NOUN
+kadupune	T	NOUN
+putaam	T	VERB
+ani	T	SCONJ
+marichipokandi	T	VERB
+
+1	R	NUM
+share	E	NOUN
+
+plz	E	ADV
+respect	E	VERB
+womens	E	NOUN
+every1	E	PRON
+
+sorry	E	ADJ
+friend	E	NOUN
+adupu	T	NOUN
+vasthundhi	T	VERB
+
+Heart	E	NOUN
+touch	E	NOUN
+msg	E	NOUN
+bro	E	NOUN
+urs	E	X
+good	e	ADJ
+kadupu	T	NOUN
+loni	T	ADP
+pappa	T	NOUN
+chepaleni	T	VERB
+mattalu	T	NOUN
+nuvu	T	PRON
+chepavu	T	VERB
+hats	E	NOUN
+of	E	PART
+to	E	ADP
+u	E	PRON
+bro	E	NOUN
+
+Bro	E	NOUN
+nenu	T	PRON
+like	E	NOUN
+kottanu	T	VERB
+entha	T	ADV
+dharunam	T	ADJ
+kadupu	T	NOUN
+lo	T	ADP
+papani	T	NOUN
+kadupu	T	NOUN
+lo	T	ADP
+champuthara	T	VERB
+
+Chala	T	ADJ
+badha	T	NOUN
+vestandi	T	VERB	
+elanti	T	ADJ
+manashulu	T	NOUN
+kuda	T	ADV
+unaru	T	VERB
+
+nice	E	ADJ
+
+16	R	NUM
+hrs	E	NOUN
+·	T	PUNCT
+
+Adhire	N	PROPN
+Abhi	N	PROPN
+skit	E	NOUN
+ela	T	ADV
+vundi	T	VERB
+friends	E	NOUN
+
+super	E	ADJ
+andaru	T	PRON
+pichi	T	ADV
+pichi	T	ADV
+ga	T	ADP
+chesaru	T	VERB
+
+Bhongiri	N	PROPN
+Superrrr	E	ADJ
+
+bad	E	ADJ
+mind	E	NOUN
+block	E	NOUN
+ayindhi	T	VERB
+vallaki	T	PRON
+
+Pichiga	T	ADV
+Undi	T	VERB
+
+Gud	E	ADJ
+
+good	E	ADJ
+
+16	R	NUM
+hrs	E	NOUN
+·	T	PUNCT
+
+shakalaka	N	PROPN
+shanker	N	PROPN
+skit	E	NOUN
+ela	T	ADV
+vundhi	T	VERB
+friends	E	NOUN
+
+ippude	T	ADV
+break	E	NOUN
+icharu	T	VERB
+
+average	E	ADJ
+
+Gollapudi	N	PROPN
+Not	E	part
+bad	E	ADJ
+
+not	E	part
+bad	E	ADJ
+
+Siddhu	N	PROPN
+Siddharth	N	PROPN
+nice	E	ADJ
+
+Narmada	N	PROPN
+Mupidi	N	PROPN
+Nice	E	ADJ
+
+Apadilana	T	ADV
+undi	T	VERB
+
+16	R	NUM
+hrs	E	NOUN
+·	T	PUNCT
+Edited	E	VERB
+·	T	PUNCT
+
+how	E	ADV
+many	E	ADJ
+members	E	NOUN
+watching	E	VERB
+Extra	N	PROPN
+Jabardhasth	N	PROPN
+
+then	E	CONJ
+u	E	PRON
+watching	E	VERB
+like	E	ADV
+
+I	E	PRON
+too	E	ADV
+
+Babu	T	NOUN
+Next	T	ADJ
+Wave	T	NOUN
+Im	E	X
+watching	E	VERB
+
+i	E	PRON
+am	E	AUX
+watching	E	VERB
+nw	E	ADV
+
+I	E	PRON
+too	E	ADV
+
+Siddhu	N	PROPN
+Siddharth	N	PROPN
+its	E	X
+me	E	PRON
+
+I	E	PRON
+am	E	AUX
+
+17	R	NUM
+hrs	E	NOUN
+·	T	PUNCT
+Edited	E	VERB
+·	T	PUNCT
+
+Hii	E	NOUN
+friends	E	NOUN
+I	E	PRON
+need	E	VERB
+help	E	NOUN
+
+Hyderabad	N	PROPN
+lo	T	ADP
+it	E	PRON
+or	E	CONJ
+non	E	PART
+it	E	ADJ
+companys	E	NOUN
+lo	T	ADP
+work	E	NOUN
+chese	T	VERB
+vallu	T	PRON
+evarena	T	PRON
+ei	T	DET
+page	E	NOUN
+lo	T	ADP
+unte	T	VERB
+kuncham	T	ADV
+comment	E	NOUN
+petandi	T	VERB
+nenu	T	PRON
+req	E	NOUN
+pamputha	T	VERB
+add	E	NOUN
+chesukondi	T	VERB
+message	E	NOUN
+lo	T	ADP
+cheputha	T	VERB
+em	T	ADJ
+help	E	NOUN
+kavalo	T	VERB
+
+But	E	CONJ
+i	E	PRON
+need	E	VERB
+help	E	NOUN
+seriously	E	ADV
+plz	E	ADV
+dont	E	AUX
+play	E	VERB
+games	E	NOUN
+dudes	E	NOUN
+
+Hey	E	NOUN
+add	E	VERB
+me	E	PRON
+
+17	R	NUM
+hrs	E	NOUN
+·	T	PUNCT
+
+Hii	E	NOUN
+friends	E	NOUN
+chat	E	NOUN
+chesukundam	T	VERB
+randi	T	VERB
+‪‎Pall‬	T	NOUN
+
+Telugu	T	PROPN
+jokes	E	NOUN
+Ledu	T	VERB
+nvu	T	PRON
+bro	E	NOUN
+prashnth	N	PROPN
+
+Hii	E	NOUN
+how	E	ADV
+r	E	VERB
+u	E	PRON
+siva	N	PROPN
+sai	N	PROPN
+
+Ntg	E	NOUN
+n	E	CONJ
+u	E	PRON
+ur	T	PRON
+s	T	X	
+cherry	T	NOUN
+
+F9	E	ADJ
+n	E	CONJ
+u	E	PRON
+bro	E	NOUN
+prashnth	N	PROPN
+
+Hii	E	NOUN
+bro	E	NOUN
+how	E	ADV
+r	E	VERB
+u	E	PRON
+ur	T	PRON
+s	T	X
+cherry	T	NOUN
+
+Hii	E	NOUN
+prashnth	N	PROPN
+
+cool	E	ADJ
+had	E	VERB
+ur	E	DET
+dinner	E	NOUN
+guys	E	NOUN
+
+i	E	PRON
+am	E	VERB
+fn9	E	ADJ
+wat	E	ADV
+abt	E	ADP
+u	E	DET
+both	E	NOUN
+
+hw	E	ADV
+r	E	VERB
+u	E	PRON
+guys	E	NOUN
+
+helooooo	E	NOUN
+hai	E	NOUN
+everyone	E	PRON
+
+Prashanth	N	PROPN
+Bhargav	N	PROPN
+hi	E	NOUN
+guys	E	NOUN
+
+Siddhu	N	PROPN
+Siddharth	N	PROPN
+ha	E	X
+
+Siva	N	PROPN
+Sai	N	PROPN
+Maddiboyana	N	PROPN
+haii	E	NOUN
+
+ledhu	T	VERB
+abba	T	NOUN
+post	E	NOUN
+ready	E	NOUN
+chestunna	T	VERB
+so	E	CONJ
+mess	E	NOUN
+ki	T	ADP
+late	E	NOUN
+ayindhi	T	VERB
+vadu	T	PRON
+po	T	VERB
+annadu	T	VERB
+
+how	E	ADV
+r	E	VERB
+u	E	PRON
+had	E	VERB
+u	E	PRON
+dinnar	E	NOUN
+
+18	R	NUM
+hrs	E	NOUN
+·	T	PUNCT
+
+okasari	T	ADJ
+nenu	T	PRON
+beer	E	NOUN
+thaguthunnappudu	T	VERB
+my	E	PRON
+gf	E	NOUN
+rey	T	NOUN
+nuvvu	T	PRON
+beer	E	NOUN
+thaguthava	T	VERB
+haa	T	X
+thagutha	T	VERB
+my	E	PRON
+gf	E	NOUN
+rojuki	T	NOUN
+enni	T	ADJ
+thaguthav	T	VERB
+bunny	T	NOUN
+minimum	E	ADJ
+3	R	ADJ
+gf	E	NOUN
+oka	T	ADJ
+beer	E	NOUN
+entha	T	ADJ
+bunny	N	PROPN
+300	R	ADJ
+rupees	E	NOUN
+tip	E	NOUN
+tho	T	ADP
+kalipi	T	VERB
+gf	E	NOUN
+eppatnunchi	T	ADV
+thaaguthunnav	T	VERB
+bunny	N	PROPN
+gatha	T	ADV
+20	R	ADJ
+years	E	NOUN
+nunchi	T	ADP
+gf	E	NOUN
+oka	T	ADJ
+beer	E	NOUN
+300	R	NUM
+ante	T	VERB
+rojuki	T	NOUN	
+3	R	ADJ
+beers	E	NOUN
+900	R	ADJ
+rupees	E	NOUN
+ante	T	VEB
+1	R	ADJ
+month	E	NOUN
+ki	T	ADP
+27000	R	NUM
+anthena	T	ADV
+bunny	N	PROPN
+avunu	T	NOUN
+gf	E	NOUN
+1	R	ADJ
+month	E	NOUN
+ki	T	ADP
+27000	R	NUM
+ante	T	VERB
+1	R	ADJ
+year	E	NOUN
+ki	T	ADP
+648000	R	NUM
+aithe	T	CONJ
+20	R	ADJ
+years	E	NOUN
+6480000	R	NUM
+right	E	NOUN
+yena	T	CONJ
+bunny	N	PROPN
+correct	E	NOUN
+gf	E	NOUN
+nv	T	PRON
+ila	T	ADV
+beer	E	NOUN
+lu	T	X
+thagakunda	T	VERB
+ah	T	PART
+dabbu	T	NOUN
+motham	T	ADJ
+bank	E	NOUN
+ac	E	NOUN
+lo	T	ADP
+save	E	NOUN
+chesunte	T	VERB
+chakravaddi	T	NOUN
+tho	T	ADP
+kalipi	T	VERB
+vachina	T	VERB
+amount	E	NOUN
+tho	T	ADP
+ferrari	E	NOUN
+car	E	NOUN
+konukkoni	T	VERB
+andhulo	T	PRON
+thirige	T	VERB
+vaadivi	T	PRON
+bunny	N	PROPN
+nv	T	PRON
+beer	E	NOUN
+thaguthava	T	VERB
+gf	E	NOUN
+ledu	T	ADV
+bunny	N	PROPN
+mari	T	CONJ
+nee	T	PRON
+ferrari	N	PROPN
+car	T	NOUN
+yekkadeee	T	VERB
+sollu	T	ADJ
+vaagudu	T	NOUN
+vaagodhu	T	VERB
+ok	E	NOUN
+‪‎bunny‬	N	PROPN
+
+pora	T	VERB
+half	E	ADJ
+ticket	E	NOUN
+
+hahahaha	R	X
+balley	T	ADJ
+vundhi	T	VERB
+punch	E	NOUN
+
+It	E	PRON
+may	E	AUX
+be	E	VERB
+right	E	ADJ
+but	E	CONJ
+health	E	NOUN
+
+thage	T	VERB
+vadu	T	PRON
+prathodu	T	NOUN
+pothada	T	VERB
+nti	T	ADV
+
+Chudu	T	VERB
+bunny	N	PROPN
+Nuvu	T	PRON
+mundu	T	ADV
+veli	T	VERB
+paatalu	T	NOUN
+lessons	E	NOUN
+nerchuko	T	VERB
+Nuvu	T	PRON
+ne	T	PRON
+yadava	T	NOUN
+jokulu	M	NOUN
+Waste	E	ADV
+ga	T	ADP
+Sigguledhu	T	VERB
+
+punch	E	NOUN
+patak	T	NOUN
+
+annam	T	NOUN
+tinadam	T	VERB
+maaneymanu	T	VERB
+anavsramga	T	ADV
+karchulenduku	T	VERB
+daridram	T	NOUN
+oduluddi	T	VERB
+
+Pointe	M	VERB
+
+Super	E	ADJ
+bro	E	NOUN
+
+right	E	ADJ
+
+super	E	ADJ
+
+Bunny	N	PROPN
+rokzzzzz	E	VERB
+Gf	E	NOUN
+shokzzzz	E	VERB
+
+Crect	E	ADJ
+bs	R	NOUN
+
+Imissu	E	X
+Champesav	T	VERB
+bro	E	NOUN
+
+Oreyyyyyy	R	NOUN
+west	E	ADJ
+gaa	T	ADP
+manchi	T	NOUN
+eivaru	T	PRON
+cheppinaa	T	VERB
+vinali	T	VERB
+raa	T	NOUN
+babu	T	NOUN
+ok	E	NOUN
+west	E	ADV
+ga	T	ADP
+west	E	ADV
+ga	T	ADP
+west	E	ADV
+ga	T	ADP
+
+Kirak	T	ADJ
+mamA	T	NOUN
+
+18	R	NUM
+hrs	E	NOUN
+·	T	PUNCT
+
+<<Boy	E	NOUN
+I	E	PRON
+love	E	VERB
+u	E	PRON
+Girl	E	NOUN
+Enni	T	ADJ
+sarlu	T	NOUN
+chepthav	T	VERB
+Boy	E	NOUN
+Me	E	PRON
+2	T	ADV
+ani	T	SCONJ
+nv	T	PRON
+cheppentha	T	VERB
+varaku	T	ADP
+Girl	T	NOUN
+Aiethe	T	SCONJ
+adi	T	PRON
+jarige	T	VERB
+pani	T	NOUN
+kadu	T	PART
+le	T	PART
+After	E	ADP
+some	E	ADJ
+days	E	NOUN
+Boy	E	NOUN
+Neku	T	PRON
+nenu	T	PRON
+chala	T	ADJ
+sarlu	T	NOUN
+propose	E	NOUN
+chesanu	T	VERB
+but	E	CONJ
+u	E	PRON
+didnt	E	AUX
+accept	E	VERB
+me	E	PRON
+naku	T	PRON
+nekanna	T	PRON
+anandhamaina	T	ADJ
+ammai	T	NOUN
+dorikindi	T	VERB
+she	E	PRON
+is	E	AUX
+also	E	ADV
+in	E	ADP
+love	E	NOUN
+with	E	ADP
+me	E	PRON
+Aa	T	DET
+ammai	T	NOUN
+kochem	T	ADV
+badha	T	NOUN
+paduthu	T	VERB	
+inka	T	CONJ
+akkadi	T	NOUN
+nundi	T	ADP
+velli	T	VERB
+poyindi	T	VERB
+Adi	T	PRON
+notice	E	NOUN
+chesina	T	VERB
+aa	T	DET
+abbai	T	NOUN
+Boy	E	NOUN
+Oy	T	NOUN
+Nenu	T	PRON
+ante	T	VERB
+neku	T	PRON
+estam	T	NOUN
+ledu	T	VERB
+ani	T	SCONJ
+telusukunnanu	T	VERB
+le	T	PART
+n	T	CONJ
+malli	T	ADV
+e	T	DET
+dongaedpu	T	NOUN
+cry	E	NOUN
+lu	T	X
+enduku	T	ADV
+aapu	T	VERB
+Girl	E	NOUN
+Nv	T	PRON
+ante	T	VERB
+naku	T	PRON
+estam	T	NOUN
+leka	T	PART
+poyunte	T	VERB
+anni	T	ADJ
+sarlu	T	NOUN
+netho	T	PRON
+ala	T	ADV
+I	E	PRON
+Love	E	VERB
+U	E	PRON
+ani	T	SCONJ
+cheppinchukonu	T	VERB
+n	E	CONJ
+tharvatha	T	ADP
+ninnu	T	PRON
+badhapatte	T	VERB
+danni	T	PRON
+kadhu	T	PART
+Boy	E	NOUN
+Ante	T	VERB
+ne	T	PRON
+vudhesaam	T	NOUN
+Girl	E	NOUN
+Nv	T	PRON
+just	E	ADV
+matala	T	NOUN
+rupam	T	NOUN
+lo	T	ADP
+I	E	PRON
+Love	E	VERB
+U	E	PRON
+ani	T	SCONJ
+cheppi	T	VERB
+vodilese	T	VERB
+vadivi	T	PRON
+but	E	CONJ
+nenu	T	PRON
+nelage	T	NOUN
+cheppakunda	T	VERB
+ah	T	X
+Prema	T	NOUN
+ni	T	ADP
+chupinchanu	T	VERB
+Boy	E	NOUN
+Chupisthe	T	VERB
+chudadaniki	T	VERB
+adi	T	PRON
+emaina	T	PRON
+paradise	E	NOUN
+hotel	E	NOUN
+lo	T	ADP
+biryani	T	NOUN
+aa	T	X
+Prema	T	NOUN
+chepthene	T	VERB
+kada	T	PART
+avadikaina	T	PRON
+thelisedi	T	VERB
+Girl	E	NOUN
+Nijamga	T	ADV
+preminche	T	VERB
+vallaki	T	PRON
+ah	T	DET
+Prema	T	NOUN
+ni	T	ADP
+manam	T	PRON
+cheppaka	T	VERB
+poyina	T	VERB
+chupisthe	T	VERB
+kanipisthundi	T	VERB
+le	T	PART
+but	E	CONJ
+nt	E	PART
+4	E	ADP
+u	E	PRON
+Anyway	E	ADv
+Lyf	E	NOUN
+lo	T	ADP
+Happy	E	ADV
+ga	E	ADP
+undu	E	VERB
+boy	E	NOUN
+osy	T	NOUN
+nee	T	PRON
+enkamma	T	NOUN
+ippatidhaka	T	ADP
+drama	E	NOUN
+aadane	T	VERB
+nitho	T	PRON
+nijam	T	NOUN
+cheppinchadaniki	T	VERB
+nuv	T	PRON
+nijam	T	NOUN
+cheppesav	T	VERB
+I	E	PRON
+Love	E	VERB
+You	E	PRON
+bangaram	E	ADJ
+girl	E	NOUN
+neeeeeee	T	PRON
+I	E	PRON
+Love	E	VERB
+You	E	PRON
+to	E	ADV
+ra	T	NOUN
+haha	T	X
+sweet	E	ADJ
+kadha	T	PART
+
+edsav	T	VERB
+le	T	PART
+
+gud	E	ADJ
+drama	E	NOUN
+
+good	E	ADJ
+story	E	NOUN
+bro	E	NOUN
+
+Nijangane	T	ADV
+edcharu	T	VERB
+
+Rao	N	PROPN
+Pallepati	N	PROPN
+
+Super	E	ADJ
+
+aunu	N	PROPN	
+sweet	E	ADJ
+story	E	NOUN
+
+Edchav	T	VERB
+le	T	PART
+bhaga	T	ADV
+
+good	E	ADJ
+ma	T	PRON
+ammailu	T	NOUN
+manasu	T	NOUN
+alane	T	ADV
+untundi	T	VERB
+brother	E	NOUN
+
+vadu	T	PRON
+petina	T	VERB
+post	E	NOUN
+ki	T	ADP
+navu	T	NOUN
+rale	T	VERB
+kani	T	CONJ
+ni	T	PRON
+cmnt	E	NOUN
+ki	T	ADP
+vasthundi	T	VERB
+haha	R	X
+
+Cho	E	ADV
+Chwt	E	ADJ
+
+Telugu	T	PROPN
+jokes	E	NOUN
+added	E	VERB
+a	E	DET
+new	E	ADJ
+photo	E	NOUN
+
+19	R	NUM
+hrs	E	NOUN
+·	T	PUNCT
+
+20	R	NUM
+hrs	E	NOUN
+·	T>>	PUNCT
+
+Oka	T	ADJ
+lion	E	NOUN
+Dhaarina	T	NOUN
+pothunna	T	VERB
+monkey	E	NOUN
+ni	T	ADP
+aapi	T	VERB
+Meda	T	NOUN
+pattukuni	T	VERB
+paiki	T	ADP
+lepi	T	VERB
+Adigindhi	T	VERB
+Ee	T	DET
+jungle	E	NOUN
+ki	T	ADP
+King	E	NOUN
+Yevaruu	T	PRON
+Monkey	E	NOUN
+Vanikipothuu	T	VERB
+Inkevaruu	T	PRON
+Mere	T	PRON
+Simharaajaa	T	NOUN
+Tharvaatha	T	ADP
+Aaa	T	DET
+lion	E	NOUN
+Jungle	E	NOUN
+lo	T	ADP
+Anni	T	ADJ
+animals	E	NOUN
+alaane	T	ADV
+Aduguthuu	T	VERB
+Thega	T	ADV
+aanandha	T	ADJ
+Padipothuundhi	T	VERB
+Next	E	ADJ
+Lion	E	NOUN
+Oka	T	ADJ
+elephant	E	NOUN
+Dhaggaraki	T	ADP
+Velli	T	VERB
+Thondam	T	NOUN
+Pattukuni	T	VERB
+Laagi	T	VERB
+Adigindhi	T	VERB
+Ee	T	DET
+Jungle	E	NOUN
+Ki	T	ADP
+King	E	NOUN
+Yevaruu	T	PRON
+Elephant	E	NOUN
+ventane	T	ADV
+lion	E	NOUN
+Joolu	T	NOUN
+ni	T	ADP
+Thondam	T	NOUN
+tho	T	ADP
+pattukuni	T	VERB
+lepi	T	VERB
+Atuu	T	PRON
+Ituu	T	PRON
+Jaadinchi	T	NOUN	
+nela	T	NOUN
+kesi	T	ADP
+kottindhi	T	VERB
+Tharvaatha	T	ADP
+Thondam	T	NOUN
+tho	T	ADP
+pattukuni	T	VERB
+Oka	T	ADJ
+Buradha	T	NOUN
+gunta	T	NOUN
+lo	T	ADP
+Aaa	T	DET
+lion	E	NOUN
+ni	T	ADP
+Visiresindhi	T	VERB
+lion	E	NOUN
+Aaa	T	DET
+Buradha	T	NOUN
+lo	T	ADP
+nundi	T	ADP
+bayataki	T	NOUN
+vacchi	T	VERB
+Dhulupukuntooo	T	VERB
+Theliyakapothe	T	VERB
+Theliyadhu	T	VERB
+Ani	T	SCONJ
+Cheppocchugaa	T	VERB
+Enduku	T	ADV
+ila	T	ADV
+koduthunnav	T	VERB
+
+Conclusion	E	NOUN
+unte	T	VERB
+good	E	ADV
+ga	T	ADP
+undedi	T	VERB
+
+Bagundhi	T	ADJ
+joke	E	NOUN
+
+Ha	R	X
+ha	R	X
+
+Chala	T	ADJ
+rojula	T	NOUN
+tharvatha	T	ADP
+telugu	T	PROPN
+jokes	E	NOUN
+ane	T	VERB
+page	E	NOUN
+okati	T	NOUN
+undhi	T	VERB
+ani	T	SCONJ
+e	T	DET
+joke	E	NOUN
+tho	T	ADP
+gurthuku	T	NOUN
+vachindix	T	VERB
+
+joke	E	NOUN
+bagundhi	T	VERB
+ilantivi	T	PRON
+post	E	NOUN
+cheyandi	T	VERB
+interesting	E	NOUN*
+vi	T	X
+
+ha	R	X
+ha	R	X
+ha	R	X
+nice	E	ADJ
+
+nice	E	ADJ
+joke	E	NOUN
+
+Super	E	ADJ
+bro	E	NOUN
+Navvocchindhi	T	VERB
+
+K	E	NOUN
+dula	T	NOUN
+teerindi	T	VERB
+
+nice	E	ADJ
+joke	E	NOUN
+
+Ha	R	X
+haa	R	X
+
+Super	E	ADJ
+bro	E	NOUN
+
+Cool	E	ADJ
+Joke	E	NOUN
+bagundhi	T	VERB
+
+really	E	ADV
+funny	E	ADJ
+moment	E	NOUN
+ha	R	X
+ha	R	X
+
+Allu	N	PROPN
+Sai	N	PROPN
+super	E	ADJ
+
+Bagundi	T	VERB
+
+Hahaha	R	X
+
+22	R	NUM
+hrs	T	NOUN
+·	T	PUNCT

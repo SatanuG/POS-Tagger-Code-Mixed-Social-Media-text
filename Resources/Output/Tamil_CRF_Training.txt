@@ -1,0 +1,2319 @@
+1	ima	ma	mah	ma	null	null	mahima	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ame	me	Nej	Ne	null	null	Nejame	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ulo	lo	End	En	null	null	Endulo	amundi	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ndi	di	amu	am	null	Endulo	amundi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	AUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Oka	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0	NUM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	lla	la	val	va	null	null	valla	konni	gadichaka	0	0	0	0	0	1	0	1	1	0	0	0	0	DET
+1	nni	ni	kon	ko	null	valla	konni	gadichaka	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	aka	ka	gad	ga	valla	konni	gadichaka	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	iki	ki	cha	ch	null	null	chaduvkodaniki	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ere	re	ver	ve	null	null	vere	vuru	vellindi	0	0	0	1	0	0	0	0	1	0	0	0	0	DET
+1	uru	ru	vur	vu	null	vere	vuru	vellindi	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ndi	di	vel	ve	vere	vuru	vellindi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ada	da	akk	ak	null	null	akkada	lo	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	null	akkada	lo	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	eka	ka	lek	le	null	null	leka	povadam	tho	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	dam	am	pov	po	null	leka	povadam	tho	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	leka	povadam	tho	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PART
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	dhi	hi	ras	ra	null	null	rasedhi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	oju	ju	oka	ok	null	null	okaroju	ki	epatilage	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	null	okaroju	ki	epatilage	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	age	ge	epa	ep	okaroju	ki	epatilage	null	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ara	ra	dag	da	null	null	dagara	nundi	vachindi	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ndi	di	nun	nu	null	dagara	nundi	vachindi	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ndi	di	vac	va	dagara	nundi	vachindi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	aa	lo	ila	0	0	0	0	0	1	0	0	1	0	0	0	0	DER
+0	null	null	null	null	null	aa	lo	ila	rasundi	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+0	null	null	null	null	aa	lo	ila	rasundi	null	0	0	0	0	0	1	1	0	1	0	0	0	0	DET
+1	ndi	di	ras	ra	lo	ila	rasundi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aku	ku	nak	na	null	null	naku	aindhi	null	0	0	1	0	0	1	0	0	0	0	0	0	0	PRON
+1	dhi	hi	ain	ai	null	naku	aindhi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	na	mottam	paadai	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	tam	am	mot	mo	null	na	mottam	paadai	poyindhi	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	dai	ai	paa	pa	na	mottam	paadai	poyindhi	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dhi	hi	poy	po	mottam	paadai	poyindhi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	AUX
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	udu	du	ipu	ip	null	null	ipudu	nuvvu	na	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	vvu	vu	nuv	nu	null	ipudu	nuvvu	na	chudalev	0	0	1	0	0	1	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	ipudu	nuvvu	na	chudalev	null	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	lev	ev	chu	ch	nuvvu	na	chudalev	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nka	ka	ink	in	null	null	inka	nanu	marchipo	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+1	anu	nu	nan	na	null	inka	nanu	marchipo	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ipo	po	mar	ma	inka	nanu	marchipo	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ni	cheyadaniki	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	iki	ki	che	ch	null	ni	cheyadaniki	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ala	la	cha	ch	null	null	chala	rastadu	null	0	0	0	1	0	0	1	0	0	0	0	0	0	ADJ
+1	adu	du	ras	ra	null	chala	rastadu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	dhu	hu	ava	av	null	null	avaledhu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	thu	hu	gee	ge	null	null	geethu	ki	oka	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+0	null	null	null	null	null	geethu	ki	oka	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+0	null	null	null	null	geethu	ki	oka	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ndi	di	vac	va	null	null	vachindi	andulo	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ulo	lo	and	an	null	vachindi	andulo	null	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ram	am	ban	ba	null	null	bangaram	nenu	na	0	0	1	0	0	0	0	0	0	0	0	0	0	INTJ
+1	enu	nu	nen	ne	null	bangaram	nenu	na	ni	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	bangaram	nenu	na	ni	null	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+0	null	null	null	null	nenu	na	ni	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ate	te	don	do	null	null	donate	chesesanu	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	anu	nu	che	ch	null	donate	chesesanu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	udu	du	ipu	ip	null	null	ipudu	nenu	ninnu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	enu	nu	nen	ne	null	ipudu	nenu	ninnu	chudalenuga	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	nnu	nu	nin	ni	ipudu	nenu	ninnu	chudalenuga	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	uga	ga	chu	ch	nenu	ninnu	chudalenuga	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	mga	ga	dha	dh	null	null	dhairyamga	na	munduku	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	null	dhairyamga	na	munduku	ra	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	uku	ku	mun	mu	dhairyamga	na	munduku	ra	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	na	munduku	ra	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nam	am	man	ma	null	null	manam	pelli	chesukundham	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	lli	li	pel	pe	null	manam	pelli	chesukundham	null	0	0	1	0	0	0	1	0	0	0	0	0	0	NOUN
+1	ham	am	che	ch	manam	pelli	chesukundham	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ee	chusaka	null	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	aka	ka	chu	ch	null	ee	chusaka	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	vvu	vu	nuv	nu	null	null	nuvvu	rayaku	null	0	0	1	0	0	1	0	0	0	0	0	0	0	PRON
+1	aku	ku	ray	ra	null	nuvvu	rayaku	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	vve	ve	nuv	nu	null	null	nuvve	vachei	endukante	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	hei	ei	vac	va	null	nuvve	vachei	endukante	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nte	te	end	en	nuvve	vachei	endukante	null	null	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	vvu	vu	nuv	nu	null	null	nuvvu	rasina	null	0	0	1	0	0	1	0	0	0	0	0	0	0	NOUN
+1	ina	na	ras	ra	null	nuvvu	rasina	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	enu	nu	nen	ne	null	null	nenu	chadavalenuga	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	uga	ga	cha	ch	null	nenu	chadavalenuga	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ati	ti	ela	el	null	null	elati	ki	ante	0	0	0	1	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	null	elati	ki	ante	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	nte	te	ant	an	elati	ki	ante	null	null	0	0	0	0	0	0	1	0	0	0	0	0	0	PART
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	edi	nijam	aithe	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	jam	am	nij	ni	null	edi	nijam	aithe	inkaaa	0	0	1	1	0	0	0	0	0	0	0	0	0	ADJ
+1	the	he	ait	ai	edi	nijam	aithe	inkaaa	null	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+1	aaa	aa	ink	in	nijam	aithe	inkaaa	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	tha	ha	int	in	null	null	intha	lo	chudadam	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+0	null	null	null	null	null	intha	lo	chudadam	tappa	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	dam	am	chu	ch	intha	lo	chudadam	tappa	lo	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ppa	pa	tap	ta	lo	chudadam	tappa	lo	jaragav	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+0	null	null	null	null	chudadam	tappa	lo	jaragav	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	gav	av	jar	ja	tappa	lo	jaragav	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ana	null	null	0	0	0	0	0	0	1	0	0	0	0	0	1	X
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	S	kantlo	nunchi	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	tlo	lo	kan	ka	null	S	kantlo	nunchi	neellu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	chi	hi	nun	nu	S	kantlo	nunchi	neellu	thepinchesav	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	llu	lu	nee	ne	kantlo	nunchi	neellu	thepinchesav	asalu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	sav	av	the	th	nunchi	neellu	thepinchesav	asalu	emcheppalo	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	alu	lu	asa	as	neellu	thepinchesav	asalu	emcheppalo	ardham	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	alo	lo	emc	em	thepinchesav	asalu	emcheppalo	ardham	kaavatla	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ham	am	ard	ar	asalu	emcheppalo	ardham	kaavatla	anthe	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	tla	la	kaa	ka	emcheppalo	ardham	kaavatla	anthe	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	the	he	ant	an	ardham	kaavatla	anthe	null	null	0	0	0	1	0	0	1	0	0	0	0	0	0	ADV
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	udu	du	apu	ap	null	null	apudu	a	kani	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	null	apudu	a	kani	null	0	0	0	0	0	0	0	0	1	0	0	0	0	PART
+1	ani	ni	kan	ka	apudu	a	kani	null	null	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	tti	ti	bat	ba	null	null	batti	emardamaindi	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ndi	di	ema	em	null	batti	emardamaindi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ila	evvaru	cheyyadu	0	0	0	0	0	1	1	0	1	0	0	0	0	PRON
+1	aru	ru	evv	ev	null	ila	evvaru	cheyyadu	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	adu	du	che	ch	ila	evvaru	cheyyadu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	e	rojullo	ilanti	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	llo	lo	roj	ro	null	e	rojullo	ilanti	ni	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	nti	ti	ila	il	e	rojullo	ilanti	ni	manam	0	0	1	1	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	rojullo	ilanti	ni	manam	cinimaallone	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	nam	am	man	ma	ilanti	ni	manam	cinimaallone	choodagalam	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	one	ne	cin	ci	ni	manam	cinimaallone	choodagalam	manushulu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	lam	am	cho	ch	manam	cinimaallone	choodagalam	manushulu	maripoyaru	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ulu	lu	man	ma	cinimaallone	choodagalam	manushulu	maripoyaru	chi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aru	ru	mar	ma	choodagalam	manushulu	maripoyaru	chi	chi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	manushulu	maripoyaru	chi	chi	e	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+0	null	null	null	null	maripoyaru	chi	chi	e	ammailu	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+0	null	null	null	null	chi	chi	e	ammailu	kuda	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	ilu	lu	amm	am	chi	e	ammailu	kuda	kori	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	uda	da	kud	ku	e	ammailu	kuda	kori	kori	0	0	0	0	0	0	1	0	0	0	0	0	0	PART
+1	ori	ri	kor	ko	ammailu	kuda	kori	kori	alantivaallane	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ori	ri	kor	ko	kuda	kori	kori	alantivaallane	chesukuntunnaru	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ane	ne	ala	al	kori	kori	alantivaallane	chesukuntunnaru	chi	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	aru	ru	che	ch	kori	alantivaallane	chesukuntunnaru	chi	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	alantivaallane	chesukuntunnaru	chi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ani	ni	Kan	Ka	null	null	Kani	enti	aa	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+1	nti	ti	ent	en	null	Kani	enti	aa	ammai	0	0	0	0	0	1	1	0	0	0	0	0	0	PRON
+0	null	null	null	null	Kani	enti	aa	ammai	raledha	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	mai	ai	amm	am	enti	aa	ammai	raledha	mari	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dha	ha	ral	ra	aa	ammai	raledha	mari	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ari	ri	mar	ma	ammai	raledha	mari	null	null	0	0	0	0	0	0	1	1	0	0	0	0	0	PART
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	enu	nu	nen	ne	null	null	nenu	chesthe	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	the	he	che	ch	null	nenu	chesthe	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ola	la	adh	ad	null	null	adhola	vuntadani	vallu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ani	ni	vun	vu	null	adhola	vuntadani	vallu	cheppadam	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	llu	lu	val	va	adhola	vuntadani	vallu	cheppadam	thappa	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	dam	am	che	ch	vuntadani	vallu	cheppadam	thappa	naku	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ppa	pa	tha	th	vallu	cheppadam	thappa	naku	thelidhu	0	0	0	0	0	0	1	1	0	0	0	0	0	ADV
+1	aku	ku	nak	na	cheppadam	thappa	naku	thelidhu	null	0	0	1	0	0	1	0	0	0	0	0	0	0	PRON
+1	dhu	hu	the	th	thappa	naku	thelidhu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aak	ak	Kee	Ke	null	null	Keeraaaaak	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	na	null	null	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	daa	aa	dey	de	null	null	deyvudaa	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aka	ka	chu	ch	null	null	chusaka	nenu	cheppanavasarm	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	enu	nu	nen	ne	null	chusaka	nenu	cheppanavasarm	le	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	arm	rm	che	ch	chusaka	nenu	cheppanavasarm	le	meere	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	nenu	cheppanavasarm	le	meere	chestharuuu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ere	re	mee	me	cheppanavasarm	le	meere	chestharuuu	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	uuu	uu	che	ch	le	meere	chestharuuu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	jokes	with	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	null	Telugu	jokes	with	and	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ith	th	wit	wi	Telugu	jokes	with	and	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+0	null	null	null	null	jokes	with	and	null	null	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aru	ru	aan	aa	null	null	aandharu	kalisi	patisthe	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	isi	si	kal	ka	null	aandharu	kalisi	patisthe	yappudu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	the	he	pat	pa	aandharu	kalisi	patisthe	yappudu	agunu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	udu	du	yap	ya	kalisi	patisthe	yappudu	agunu	telugu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	unu	nu	agu	ag	patisthe	yappudu	agunu	telugu	jokes	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ugu	gu	tel	te	yappudu	agunu	telugu	jokes	badhyatha	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	agunu	telugu	jokes	badhyatha	aanukovali	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	tha	ha	bad	ba	telugu	jokes	badhyatha	aanukovali	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ali	li	aan	aa	jokes	badhyatha	aanukovali	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	imo	mo	Log	Lo	null	null	Logistimo	vitekka	vitiki	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kka	ka	vit	vi	null	Logistimo	vitekka	vitiki	rules	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+1	iki	ki	vit	vi	Logistimo	vitekka	vitiki	rules	telidu	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	les	es	rul	ru	vitekka	vitiki	rules	telidu	emo	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	idu	du	tel	te	vitiki	rules	telidu	emo	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	rules	telidu	emo	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PART
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Nuv	adigava	evarinaina	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ava	va	adi	ad	null	Nuv	adigava	evarinaina	ra	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ina	na	eva	ev	Nuv	adigava	evarinaina	ra	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	adigava	evarinaina	ra	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aru	ru	and	an	null	null	andaru	marali	anukone	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ali	li	mar	ma	null	andaru	marali	anukone	manam	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	one	ne	anu	an	andaru	marali	anukone	manam	marali	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nam	am	man	ma	marali	anukone	manam	marali	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ali	li	mar	ma	anukone	manam	marali	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	jokes	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	null	Telugu	jokes	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ati	ti	Gan	Ga	null	null	Ganapati	Bappa	Morya	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	ppa	pa	Bap	Ba	null	Ganapati	Bappa	Morya	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	rya	ya	Mor	Mo	Ganapati	Bappa	Morya	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nti	ti	ila	il	null	null	ilanti	null	null	0	0	1	1	0	1	0	0	0	0	0	0	0	ADJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	adu	du	vaa	va	null	null	vaadu	okkadu	unna	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	adu	du	okk	ok	null	vaadu	okkadu	unna	mana	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	nna	na	unn	un	vaadu	okkadu	unna	mana	dhesham	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ana	na	man	ma	okkadu	unna	mana	dhesham	eppudo	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	ham	am	dhe	dh	unna	mana	dhesham	eppudo	bhagupadu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	udo	do	epp	ep	mana	dhesham	eppudo	bhagupadu	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	adu	du	bha	bh	dhesham	eppudo	bhagupadu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nti	ti	ala	al	null	null	alanti	vadu	vunta	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	adu	du	vad	va	null	alanti	vadu	vunta	baguntundi	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	nta	ta	vun	vu	alanti	vadu	vunta	baguntundi	anukuna	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ndi	di	bag	ba	vadu	vunta	baguntundi	anukuna	kanta	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	una	na	anu	an	vunta	baguntundi	anukuna	kanta	manam	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nta	ta	kan	ka	baguntundi	anukuna	kanta	manam	ala	0	0	0	0	0	0	0	0	0	0	0	0	0	PART
+1	nam	am	man	ma	anukuna	kanta	manam	ala	vunta	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	kanta	manam	ala	vunta	baguntundi	0	0	0	0	0	1	1	0	1	0	0	0	0	DET
+1	nta	ta	vun	vu	manam	ala	vunta	baguntundi	kada	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ndi	di	bag	ba	ala	vunta	baguntundi	kada	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ada	da	kad	ka	vunta	baguntundi	kada	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PART
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ppa	pa	tap	ta	null	null	tappa	kunda	bagu	0	0	0	0	0	0	1	1	0	0	0	0	0	ADV
+1	nda	da	kun	ku	null	tappa	kunda	bagu	paduuddi	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	agu	gu	bag	ba	tappa	kunda	bagu	paduuddi	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ddi	di	pad	pa	kunda	bagu	paduuddi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	pah	ah	tap	ta	null	null	tappah	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nav	av	che	ch	null	null	chepinav	alanti	vodu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nti	ti	ala	al	null	chepinav	alanti	vodu	okadu	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	odu	du	vod	vo	chepinav	alanti	vodu	okadu	untey	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	adu	du	oka	ok	alanti	vodu	okadu	untey	chalu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	tey	ey	unt	un	vodu	okadu	untey	chalu	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	alu	lu	cha	ch	okadu	untey	chalu	null	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ted	ed	Res	Re	null	null	Respected	police	dit	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ice	ce	pol	po	null	Respected	police	dit	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	Respected	police	dit	null	null	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ala	andaru	unte	0	0	0	0	0	1	1	0	1	0	0	0	0	ADV
+1	aru	ru	and	an	null	ala	andaru	unte	kachithamga	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	nte	te	unt	un	ala	andaru	unte	kachithamga	maruthundi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	mga	ga	kac	ka	andaru	unte	kachithamga	maruthundi	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ndi	di	mar	ma	unte	kachithamga	maruthundi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ana	na	man	ma	null	null	mana	dhesam	bagupadadhu	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	sam	am	dhe	dh	null	mana	dhesam	bagupadadhu	endukante	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dhu	hu	bag	ba	mana	dhesam	bagupadadhu	endukante	manchi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nte	te	end	en	dhesam	bagupadadhu	endukante	manchi	vallani	0	0	0	0	0	0	1	1	0	0	0	0	0	CONJ
+1	chi	hi	man	ma	bagupadadhu	endukante	manchi	vallani	chudalanukuntunnaru	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ani	ni	val	va	endukante	manchi	vallani	chudalanukuntunnaru	thappa	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	aru	ru	chu	ch	manchi	vallani	chudalanukuntunnaru	thappa	manch	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ppa	pa	tha	th	vallani	chudalanukuntunnaru	thappa	manch	valluga	0	0	0	0	0	0	1	1	0	0	0	0	0	CONJ
+1	nch	ch	man	ma	chudalanukuntunnaru	thappa	manch	valluga	undalankovadam	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	uga	ga	val	va	thappa	manch	valluga	undalankovadam	ledu	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	dam	am	und	un	manch	valluga	undalankovadam	ledu	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	edu	du	led	le	valluga	undalankovadam	ledu	null	null	0	0	1	0	0	0	1	0	0	0	0	0	0	ADV
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	jokes	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	null	Telugu	jokes	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	tel	te	null	null	telugu	jokes	ki	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	null	telugu	jokes	ki	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	telugu	jokes	ki	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	jokes	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	null	Telugu	jokes	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	S	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nna	na	nan	na	null	null	nanna	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nna	na	Ann	An	null	null	Anna	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	udu	du	tha	th	null	null	thammudu	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ery	ry	Ver	Ve	null	null	Very	null	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nti	ti	Eda	Ed	null	null	Edamakanti	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aak	ak	Kir	Ki	null	null	Kirraak	icharu	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	aru	ru	ich	ic	null	Kirraak	icharu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ala	la	cha	ch	null	null	chala	bagundhi	null	0	0	0	1	0	0	1	0	0	0	0	0	0	ADV
+1	dhi	hi	bag	ba	null	chala	bagundhi	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	vvu	vu	Nuv	Nu	null	null	Nuvvu	keka	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	eka	ka	kek	ke	null	Nuvvu	keka	null	null	0	0	1	1	0	0	0	0	0	0	0	0	0	ADJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ala	la	cha	ch	null	null	chala	baga	chapavu	0	0	0	1	0	0	1	0	0	0	0	0	0	ADV
+1	aga	ga	bag	ba	null	chala	baga	chapavu	kani	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	avu	vu	cha	ch	chala	baga	chapavu	kani	kontamandi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ani	ni	kan	ka	baga	chapavu	kani	kontamandi	valla	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+1	ndi	di	kon	ko	chapavu	kani	kontamandi	valla	ana	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	lla	la	val	va	kani	kontamandi	valla	ana	meaning	0	0	0	0	0	1	0	1	1	0	0	0	0	SCONJ
+0	null	null	null	null	kontamandi	valla	ana	meaning	lakunda	0	0	0	0	0	0	1	0	0	0	0	0	1	ADV
+1	ing	ng	mea	me	valla	ana	meaning	lakunda	potundiallanti	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	nda	da	lak	la	ana	meaning	lakunda	potundiallanti	valla	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	nti	ti	pot	po	meaning	lakunda	potundiallanti	valla	kosam	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	lla	la	val	va	lakunda	potundiallanti	valla	kosam	oka	0	0	0	0	0	1	0	1	1	0	0	0	0	PRON
+1	sam	am	kos	ko	potundiallanti	valla	kosam	oka	chey	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+0	null	null	null	null	valla	kosam	oka	chey	nanu	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	hey	ey	che	ch	kosam	oka	chey	nanu	ne	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	anu	nu	nan	na	oka	chey	nanu	ne	chadivina	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	chey	nanu	ne	chadivina	tarvata	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	ina	na	cha	ch	nanu	ne	chadivina	tarvata	na	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ata	ta	tar	ta	ne	chadivina	tarvata	na	marchukuntanu	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+0	null	null	null	null	chadivina	tarvata	na	marchukuntanu	null	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	anu	nu	mar	ma	tarvata	na	marchukuntanu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	vvu	vu	Kev	Ke	null	null	Kevvvu	kekaa	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	kaa	aa	kek	ke	null	Kevvvu	kekaa	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ra	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	nv	ante	naku	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	nte	te	ant	an	null	nv	ante	naku	chala	0	0	0	0	0	0	1	0	0	0	0	0	0	VERB
+1	aku	ku	nak	na	nv	ante	naku	chala	istam	0	0	1	0	0	1	0	0	0	0	0	0	0	PRON
+1	ala	la	cha	ch	ante	naku	chala	istam	nv	0	0	0	1	0	0	1	0	0	0	0	0	0	ADJ
+1	tam	am	ist	is	naku	chala	istam	nv	lekapothe	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	chala	istam	nv	lekapothe	nen	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	the	he	lek	le	istam	nv	lekapothe	nen	undalenu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	nv	lekapothe	nen	undalenu	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	enu	nu	und	un	lekapothe	nen	undalenu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nnu	nu	nan	na	null	null	nannu	vadiley	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ley	ey	vad	va	null	nannu	vadiley	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	sam	am	nik	ni	null	null	nikosam	chachipotha	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	tha	ha	cha	ch	null	nikosam	chachipotha	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nnu	nu	nan	na	null	null	nannu	marchipo	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ipo	po	mar	ma	null	nannu	marchipo	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nam	am	man	ma	null	null	manam	chesukunnaka	nene	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	aka	ka	che	ch	null	manam	chesukunnaka	nene	chesi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ene	ne	nen	ne	manam	chesukunnaka	nene	chesi	ninnu	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	esi	si	che	ch	chesukunnaka	nene	chesi	ninnu	poshista	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nnu	nu	nin	ni	nene	chesi	ninnu	poshista	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	sta	ta	pos	po	chesi	ninnu	poshista	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aru	ru	gar	ga	null	null	garu	na	ila	0	0	1	0	0	1	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	null	garu	na	ila	asalu	0	0	0	0	0	1	0	0	1	0	0	0	0	PART
+0	null	null	null	null	garu	na	ila	asalu	jaragadhu	0	0	0	0	0	1	1	0	1	0	0	0	0	ADV
+1	alu	lu	asa	as	na	ila	asalu	jaragadhu	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	dhu	hu	jar	ja	ila	asalu	jaragadhu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	oka	ela	chayptundhi	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+0	null	null	null	null	null	oka	ela	chayptundhi	ante	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	dhi	hi	cha	ch	oka	ela	chayptundhi	ante	ani	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nte	te	ant	an	ela	chayptundhi	ante	ani	null	0	0	0	0	0	0	1	0	0	0	0	0	0	VERB
+0	null	null	null	null	chayptundhi	ante	ani	null	null	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	rey	ey	ore	or	null	null	orey	nijam	anukoni	0	0	0	0	0	0	0	0	0	0	0	0	0	INTJ
+1	jam	am	nij	ni	null	orey	nijam	anukoni	ayyanu	0	0	1	1	0	0	0	0	0	0	0	0	0	NOUN
+1	oni	ni	anu	an	orey	nijam	anukoni	ayyanu	kada	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	anu	nu	ayy	ay	nijam	anukoni	ayyanu	kada	ra	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ada	da	kad	ka	anukoni	ayyanu	kada	ra	babu	0	0	0	0	0	0	0	0	0	0	0	0	0	PART
+0	null	null	null	null	ayyanu	kada	ra	babu	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	abu	bu	bab	ba	kada	ra	babu	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aru	ru	And	An	null	null	Andaru	nelagae	undaru	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	gae	ae	nel	ne	null	Andaru	nelagae	undaru	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	aru	ru	und	un	Andaru	nelagae	undaru	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	vna	na	avn	av	null	null	avna	mari	nelaga	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ari	ri	mar	ma	null	avna	mari	nelaga	untara	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+1	aga	ga	nel	ne	avna	mari	nelaga	untara	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ara	ra	unt	un	mari	nelaga	untara	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ina	na	ava	av	null	null	avarina	akadina	ala	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ina	na	aka	ak	null	avarina	akadina	ala	chpadm	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	avarina	akadina	ala	chpadm	chusara	0	0	0	0	0	1	1	0	1	0	0	0	0	PRON
+1	adm	dm	chp	ch	akadina	ala	chpadm	chusara	adi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ara	ra	chu	ch	ala	chpadm	chusara	adi	jaragani	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	chpadm	chusara	adi	jaragani	pani	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ani	ni	jar	ja	chusara	adi	jaragani	pani	kada	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ani	ni	pan	pa	adi	jaragani	pani	kada	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ada	da	kad	ka	jaragani	pani	kada	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PART
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	oka	ka	Tho	Th	null	null	Thoka	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nga	ga	Nij	Ni	null	null	Nijanga	jarigitha	keka	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	tha	ha	jar	ja	null	Nijanga	jarigitha	keka	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	eka	ka	kek	ke	Nijanga	jarigitha	keka	null	null	0	0	1	1	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	em	chepav	null	0	0	0	0	0	1	1	0	0	0	0	0	0	PRON
+1	pav	av	che	ch	null	em	chepav	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aru	ru	and	an	null	null	andharu	elane	untaru	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ane	ne	ela	el	null	andharu	elane	untaru	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	aru	ru	unt	un	andharu	elane	untaru	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nga	ga	nij	ni	null	null	nijanga	lo	cheppadanike	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	null	nijanga	lo	cheppadanike	chachhipotharu	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ike	ke	che	ch	nijanga	lo	cheppadanike	chachhipotharu	inka	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	aru	ru	cha	ch	lo	cheppadanike	chachhipotharu	inka	pelli	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nka	ka	ink	in	cheppadanike	chachhipotharu	inka	pelli	ayyaka	0	0	0	0	0	0	0	1	0	0	0	0	0	SCONJ
+1	lli	li	pel	pe	chachhipotharu	inka	pelli	ayyaka	poshisthara	0	0	1	0	0	0	1	0	0	0	0	0	0	NOUN
+1	aka	ka	ayy	ay	inka	pelli	ayyaka	poshisthara	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ara	ra	pos	po	pelli	ayyaka	poshisthara	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	eku	ku	nek	ne	null	null	neku	medha	antha	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	dha	ha	med	me	null	neku	medha	antha	namakoma	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	tha	ha	ant	an	neku	medha	antha	namakoma	null	0	0	0	1	0	1	0	0	0	0	0	0	0	ADJ
+1	oma	ma	nam	na	medha	antha	namakoma	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Ela	jarigete	yenimedo	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ete	te	jar	ja	null	Ela	jarigete	yenimedo	avutundi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	edo	do	yen	ye	Ela	jarigete	yenimedo	avutundi	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ndi	di	avu	av	jarigete	yenimedo	avutundi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ppa	pa	Chu	Ch	null	null	Chudappa	Andharu	ammay	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	aru	ru	And	An	null	Chudappa	Andharu	ammay	lu	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	may	ay	amm	am	Chudappa	Andharu	ammay	lu	okela	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	Andharu	ammay	lu	okela	undaru	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+1	ela	la	oke	ok	ammay	lu	okela	undaru	kadha	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	aru	ru	und	un	lu	okela	undaru	kadha	ila	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dha	ha	kad	ka	okela	undaru	kadha	ila	unde	0	0	0	0	0	0	0	0	0	0	0	0	0	PART
+0	null	null	null	null	undaru	kadha	ila	unde	ammay	0	0	0	0	0	1	1	0	1	0	0	0	0	PRON
+1	nde	de	und	un	kadha	ila	unde	ammay	ye	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	may	ay	amm	am	ila	unde	ammay	ye	verappa	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	unde	ammay	ye	verappa	aa	0	0	0	0	0	0	0	0	0	0	0	0	0	PART
+1	ppa	pa	ver	ve	ammay	ye	verappa	aa	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	ye	verappa	aa	null	null	0	0	0	0	0	1	0	0	1	0	0	0	0	PART
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ndi	di	jar	ja	null	null	jarugutundi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ala	cheppevaru	kuda	0	0	0	0	0	1	1	0	1	0	0	0	0	PRON
+1	aru	ru	che	ch	null	ala	cheppevaru	kuda	vunnaru	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	uda	da	kud	ku	ala	cheppevaru	kuda	vunnaru	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	aru	ru	vun	vu	cheppevaru	kuda	vunnaru	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	sav	av	ase	as	null	null	asesav	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	alu	lu	amm	am	null	null	ammayalu	enduku	ala	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	uku	ku	end	en	null	ammayalu	enduku	ala	undaru	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	ammayalu	enduku	ala	undaru	null	0	0	0	0	0	1	1	0	1	0	0	0	0	ADV
+1	aru	ru	und	un	enduku	ala	undaru	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	kka	ka	Okk	Ok	null	null	Okka	roju	akaliga	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	oju	ju	roj	ro	null	Okka	roju	akaliga	vundani	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	iga	ga	aka	ak	Okka	roju	akaliga	vundani	vellanu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ani	ni	vun	vu	roju	akaliga	vundani	vellanu	Okka	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	anu	nu	vel	ve	akaliga	vundani	vellanu	Okka	idly	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	kka	ka	Okk	Ok	vundani	vellanu	Okka	idly	chepanu	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	dly	ly	idl	id	vellanu	Okka	idly	chepanu	Andentto	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	anu	nu	che	ch	Okka	idly	chepanu	Andentto	okka	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	tto	to	And	An	idly	chepanu	Andentto	okka	idly	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	kka	ka	okk	ok	chepanu	Andentto	okka	idly	thinagane	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	dly	ly	idl	id	Andentto	okka	idly	thinagane	saripoindi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ane	ne	thi	th	okka	idly	thinagane	saripoindi	Kani	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ndi	di	sar	sa	idly	thinagane	saripoindi	Kani	enka	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ani	ni	Kan	Ka	thinagane	saripoindi	Kani	enka	2idly	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+1	nka	ka	enk	en	saripoindi	Kani	enka	2idly	vunai	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	dly	ly	2id	2i	Kani	enka	2idly	vunai	enchedamo	0	1	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	nai	ai	vun	vu	enka	2idly	vunai	enchedamo	anukunte	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	amo	mo	enc	en	2idly	vunai	enchedamo	anukunte	gurthuku	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nte	te	anu	an	vunai	enchedamo	anukunte	gurthuku	vachindi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	uku	ku	gur	gu	enchedamo	anukunte	gurthuku	vachindi	ventane	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ndi	di	vac	va	anukunte	gurthuku	vachindi	ventane	tho	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ane	ne	ven	ve	gurthuku	vachindi	ventane	tho	koni	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	vachindi	ventane	tho	koni	idly	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	oni	ni	kon	ko	ventane	tho	koni	idly	pics	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	dly	ly	idl	id	tho	koni	idly	pics	thisi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ics	cs	pic	pi	koni	idly	pics	thisi	lo	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	isi	si	thi	th	idly	pics	thisi	lo	chesanu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	pics	thisi	lo	chesanu	naa	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	anu	nu	che	ch	thisi	lo	chesanu	naa	adrustam	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	lo	chesanu	naa	adrustam	kodi	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	tam	am	adr	ad	chesanu	naa	adrustam	kodi	lo	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	odi	di	kod	ko	naa	adrustam	kodi	lo	naa	0	0	0	0	0	0	0	0	0	0	0	0	0	PART
+0	null	null	null	null	adrustam	kodi	lo	naa	pakane	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+0	null	null	null	null	kodi	lo	naa	pakane	okka	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ane	ne	pak	pa	lo	naa	pakane	okka	naa	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	kka	ka	okk	ok	naa	pakane	okka	naa	chusi	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+0	null	null	null	null	pakane	okka	naa	chusi	naaku	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	usi	si	chu	ch	okka	naa	chusi	naaku	chesadu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	aku	ku	naa	na	naa	chusi	naaku	chesadu	ventane	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	adu	du	che	ch	chusi	naaku	chesadu	ventane	aa	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ane	ne	ven	ve	naaku	chesadu	ventane	aa	idly	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	chesadu	ventane	aa	idly	ni	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	dly	ly	idl	id	ventane	aa	idly	ni	athaniki	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	aa	idly	ni	athaniki	chesanu	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	iki	ki	ath	at	idly	ni	athaniki	chesanu	Nenu	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	anu	nu	che	ch	ni	athaniki	chesanu	Nenu	Aa	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	enu	nu	Nen	Ne	athaniki	chesanu	Nenu	Aa	tho	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	chesanu	Nenu	Aa	tho	naku	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+0	null	null	null	null	Nenu	Aa	tho	naku	vachindi	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	aku	ku	nak	na	Aa	tho	naku	vachindi	null	0	0	1	0	0	1	0	0	0	0	0	0	0	PRON
+1	ndi	di	vac	va	tho	naku	vachindi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	uvu	vu	nuv	nu	null	null	nuvu	vesav	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	sav	av	ves	ve	null	nuvu	vesav	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ala	la	cha	ch	null	null	chala	ayyaru	null	0	0	0	1	0	0	1	0	0	0	0	0	0	ADJ
+1	aru	ru	ayy	ay	null	chala	ayyaru	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	uda	da	dev	de	null	null	devuda	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ari	ri	Mar	Ma	null	null	Mari	kontada	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PART
+1	ada	da	kon	ko	null	Mari	kontada	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Oka	abbai	poyina	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	bai	ai	abb	ab	null	Oka	abbai	poyina	yedavadu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ina	na	poy	po	Oka	abbai	poyina	yedavadu	Kani	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	adu	du	yed	ye	abbai	poyina	yedavadu	Kani	Oka	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ani	ni	Kan	Ka	poyina	yedavadu	Kani	Oka	ammai	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+0	null	null	null	null	yedavadu	Kani	Oka	ammai	poyina	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	mai	ai	amm	am	Kani	Oka	ammai	poyina	edusthadi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ina	na	poy	po	Oka	ammai	poyina	edusthadi	endhuko	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	adi	di	edu	ed	ammai	poyina	edusthadi	endhuko	telsa	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	uko	ko	end	en	poyina	edusthadi	endhuko	telsa	Ah	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	lsa	sa	tel	te	edusthadi	endhuko	telsa	Ah	abbai	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	endhuko	telsa	Ah	abbai	ki	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	bai	ai	abb	ab	telsa	Ah	abbai	ki	telsu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	Ah	abbai	ki	telsu	poyina	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	lsu	su	tel	te	abbai	ki	telsu	poyina	tirigi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ina	na	poy	po	ki	telsu	poyina	tirigi	raadhu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	igi	gi	tir	ti	telsu	poyina	tirigi	raadhu	ani	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	dhu	hu	raa	ra	poyina	tirigi	raadhu	ani	ammai	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	tirigi	raadhu	ani	ammai	ki	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+1	mai	ai	amm	am	raadhu	ani	ammai	ki	telsu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	ani	ammai	ki	telsu	thanu	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	lsu	su	tel	te	ammai	ki	telsu	thanu	yedisthey	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	anu	nu	tha	th	ki	telsu	thanu	yedisthey	yevado	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	hey	ey	yed	ye	telsu	thanu	yedisthey	yevado	oka	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ado	do	yev	ye	thanu	yedisthey	yevado	oka	gadu	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	yedisthey	yevado	oka	gadu	kothadi	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	adu	du	gad	ga	yevado	oka	gadu	kothadi	konisthadu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	adi	di	kot	ko	oka	gadu	kothadi	konisthadu	ani	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	adu	du	kon	ko	gadu	kothadi	konisthadu	ani	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	kothadi	konisthadu	ani	null	null	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	yna	na	ava	av	null	null	avakapoyna	parledhu	kakudadhu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dhu	hu	par	pa	null	avakapoyna	parledhu	kakudadhu	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	dhu	hu	kak	ka	avakapoyna	parledhu	kakudadhu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	uru	ru	And	An	null	null	Anduru	avuthunaru	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	aru	ru	avu	av	null	Anduru	avuthunaru	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	vvu	vu	nuv	nu	null	null	nuvvu	aiyava	ante	0	0	1	0	0	1	0	0	0	0	0	0	0	PRON
+1	ava	va	aiy	ai	null	nuvvu	aiyava	ante	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nte	te	ant	an	nuvvu	aiyava	ante	null	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	kka	ka	tok	to	null	null	tokka	yam	kadu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	null	tokka	yam	kadu	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	adu	du	kad	ka	tokka	yam	kadu	null	null	0	0	0	0	0	0	1	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aku	ku	mak	ma	null	null	maku	mila	panilaydhu	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ila	la	mil	mi	null	maku	mila	panilaydhu	ani	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	dhu	hu	pan	pa	maku	mila	panilaydhu	ani	anukunara	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	mila	panilaydhu	ani	anukunara	enti	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+1	ara	ra	anu	an	panilaydhu	ani	anukunara	enti	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nti	ti	ent	en	ani	anukunara	enti	null	null	0	0	0	0	0	1	1	0	0	0	0	0	0	PRON
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ila	la	amm	am	null	null	ammaila	kosamay	vastharu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	may	ay	kos	ko	null	ammaila	kosamay	vastharu	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	aru	ru	vas	va	ammaila	kosamay	vastharu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	sam	am	cha	ch	null	null	chanekosam	entha	mandi	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+1	tha	ha	ent	en	null	chanekosam	entha	mandi	vacharu	0	0	0	1	0	1	1	0	0	0	0	0	0	ADV
+1	ndi	di	man	ma	chanekosam	entha	mandi	vacharu	nti	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aru	ru	vac	va	entha	mandi	vacharu	nti	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	mandi	vacharu	nti	null	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	unu	nu	avu	av	null	null	avunu	nejame	null	0	0	0	0	0	0	0	0	0	0	0	0	0	INTJ
+1	ame	me	nej	ne	null	avunu	nejame	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ane	meku	meru	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	eku	ku	mek	me	null	ane	meku	meru	chapukokudadhu	0	0	0	0	0	1	0	0	0	0	0	0	0	PROPN
+1	eru	ru	mer	me	ane	meku	meru	chapukokudadhu	adi	0	0	1	0	0	1	0	0	0	0	0	0	0	NOUN
+1	dhu	hu	cha	ch	meku	meru	chapukokudadhu	adi	mamu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	meru	chapukokudadhu	adi	mamu	chapale	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	amu	mu	mam	ma	chapukokudadhu	adi	mamu	chapale	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ale	le	cha	ch	adi	mamu	chapale	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ike	ke	epa	ep	null	null	epatike	ae	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	null	epatike	ae	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PART
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	llu	lu	Val	Va	null	null	Vallu	em	maraledhu	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	null	Vallu	em	maraledhu	nunchi	0	0	0	0	0	1	1	0	0	0	0	0	0	PRON
+1	dhu	hu	mar	ma	Vallu	em	maraledhu	nunchi	anthe	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	chi	hi	nun	nu	em	maraledhu	nunchi	anthe	ammaila	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	the	he	ant	an	maraledhu	nunchi	anthe	ammaila	kosam	0	0	0	1	0	0	1	0	0	0	0	0	0	ADJ
+1	ila	la	amm	am	nunchi	anthe	ammaila	kosam	vosthune	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	sam	am	kos	ko	anthe	ammaila	kosam	vosthune	unnaru	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	une	ne	vos	vo	ammaila	kosam	vosthune	unnaru	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	aru	ru	unn	un	kosam	vosthune	unnaru	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	nik	ela	teisindi	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	null	nik	ela	teisindi	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ndi	di	tei	te	nik	ela	teisindi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	dhi	hi	ain	ai	null	null	aindhi	kabatti	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	tti	ti	kab	ka	null	aindhi	kabatti	null	null	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	oya	ya	mar	ma	null	null	marchipoya	gurtochinaka	chepta	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	aka	ka	gur	gu	null	marchipoya	gurtochinaka	chepta	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	pta	ta	che	ch	marchipoya	gurtochinaka	chepta	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	dam	am	Aba	Ab	null	null	Abadam	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ari	ri	mar	ma	null	null	mari	povatum	kadhe	0	0	0	0	0	0	1	1	0	0	0	0	0	ADV
+1	tum	um	pov	po	null	mari	povatum	kadhe	picha	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dhe	he	kad	ka	mari	povatum	kadhe	picha	mohama	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	cha	ha	pic	pi	povatum	kadhe	picha	mohama	girls	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ama	ma	moh	mo	kadhe	picha	mohama	girls	ki	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	rls	ls	gir	gi	picha	mohama	girls	ki	line	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	mohama	girls	ki	line	vayataniki	0	0	0	0	0	0	0	0	0	0	0	0	0	ASP
+1	ine	ne	lin	li	girls	ki	line	vayataniki	vacharu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	iki	ki	vay	va	ki	line	vayataniki	vacharu	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	aru	ru	vac	va	line	vayataniki	vacharu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	opd	pd	gop	go	null	null	gopd	appudantay	ammailu	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	tay	ay	app	ap	null	gopd	appudantay	ammailu	laynappudu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ilu	lu	amm	am	gopd	appudantay	ammailu	laynappudu	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	udu	du	lay	la	appudantay	ammailu	laynappudu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ppu	pu	tha	th	null	null	thappu	ledu	vayasu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	edu	du	led	le	null	thappu	ledu	vayasu	alantidi	0	0	1	0	0	0	1	0	0	0	0	0	0	VERB
+1	asu	su	vay	va	thappu	ledu	vayasu	alantidi	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	idi	di	ala	al	ledu	vayasu	alantidi	null	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	Bollu	Raju	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	llu	lu	Bol	Bo	null	Telugu	Bollu	Raju	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	aju	ju	Raj	Ra	Telugu	Bollu	Raju	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aha	ha	mah	ma	null	null	maha	shivaratri	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	tri	ri	shi	sh	null	maha	shivaratri	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Eee	Nagaraniki	emaindhi	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	iki	ki	Nag	Na	null	Eee	Nagaraniki	emaindhi	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dhi	hi	ema	em	Eee	Nagaraniki	emaindhi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	Kka	ka	OKk	OK	null	null	OKka	pakka	Ammayilu	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	kka	ka	pak	pa	null	OKka	pakka	Ammayilu	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ilu	lu	Amm	Am	OKka	pakka	Ammayilu	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	kka	ka	Okk	Ok	null	null	Okka	pakka	Abbayilu	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	kka	ka	pak	pa	null	Okka	pakka	Abbayilu	Premaku	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ilu	lu	Abb	Ab	Okka	pakka	Abbayilu	Premaku	thappadhu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aku	ku	Pre	Pr	pakka	Abbayilu	Premaku	thappadhu	Baari	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dhu	hu	tha	th	Abbayilu	Premaku	thappadhu	Baari	mulyam	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ari	ri	Baa	Ba	Premaku	thappadhu	Baari	mulyam	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	yam	am	mul	mu	thappadhu	Baari	mulyam	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Eee	Nagaraniki	emaindhi	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	iki	ki	Nag	Na	null	Eee	Nagaraniki	emaindhi	OKka	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dhi	hi	ema	em	Eee	Nagaraniki	emaindhi	OKka	pakka	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	Kka	ka	OKk	OK	Nagaraniki	emaindhi	OKka	pakka	Ammayilu	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	kka	ka	pak	pa	emaindhi	OKka	pakka	Ammayilu	Okka	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ilu	lu	Amm	Am	OKka	pakka	Ammayilu	Okka	pakka	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	kka	ka	Okk	Ok	pakka	Ammayilu	Okka	pakka	Abbayiluevaru	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	kka	ka	pak	pa	Ammayilu	Okka	pakka	Abbayiluevaru	noru	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aru	ru	Abb	Ab	Okka	pakka	Abbayiluevaru	noru	medaparemtie	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	oru	ru	nor	no	pakka	Abbayiluevaru	noru	medaparemtie	ananda	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	tie	ie	med	me	Abbayiluevaru	noru	medaparemtie	ananda	doraniki	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nda	da	ana	an	noru	medaparemtie	ananda	doraniki	paadali	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	iki	ki	dor	do	medaparemtie	ananda	doraniki	paadali	charama	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ali	li	paa	pa	ananda	doraniki	paadali	charama	tirige	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ama	ma	cha	ch	doraniki	paadali	charama	tirige	pelli	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ige	ge	tir	ti	paadali	charama	tirige	pelli	gani	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	lli	li	pel	pe	charama	tirige	pelli	gani	pillalanu	0	0	1	0	0	0	1	0	0	0	0	0	0	ADV
+1	ani	ni	gan	ga	tirige	pelli	gani	pillalanu	upekshinchakandi	0	0	0	0	0	0	1	1	0	0	0	0	0	ADV
+1	anu	nu	pil	pi	pelli	gani	pillalanu	upekshinchakandi	Premaku	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ndi	di	upe	up	gani	pillalanu	upekshinchakandi	Premaku	thappadhu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	aku	ku	Pre	Pr	pillalanu	upekshinchakandi	Premaku	thappadhu	Baari	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dhu	hu	tha	th	upekshinchakandi	Premaku	thappadhu	Baari	mulyam	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ari	ri	Baa	Ba	Premaku	thappadhu	Baari	mulyam	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	yam	am	mul	mu	thappadhu	Baari	mulyam	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nte	te	Ant	An	null	null	Ante	bablo	kuda	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	blo	lo	bab	ba	null	Ante	bablo	kuda	vadalava	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	uda	da	kud	ku	Ante	bablo	kuda	vadalava	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ava	va	vad	va	bablo	kuda	vadalava	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	eku	ku	Mee	Me	null	null	Meeku	ranivu	rendu	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ivu	vu	ran	ra	null	Meeku	ranivu	rendu	unay	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ndu	du	ren	re	Meeku	ranivu	rendu	unay	null	0	0	0	0	0	0	0	0	0	0	0	0	0	NUM
+1	nay	ay	una	un	ranivu	rendu	unay	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ulo	lo	ind	in	null	null	indulo	baada	padadaniki	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ada	da	baa	ba	null	indulo	baada	padadaniki	siggu	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	iki	ki	pad	pa	indulo	baada	padadaniki	siggu	padadaniki	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ggu	gu	sig	si	baada	padadaniki	siggu	padadaniki	e	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	iki	ki	pad	pa	padadaniki	siggu	padadaniki	e	lo	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	siggu	padadaniki	e	lo	tappemi	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+0	null	null	null	null	padadaniki	e	lo	tappemi	ledu	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	emi	mi	tap	ta	e	lo	tappemi	ledu	endukante	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	edu	du	led	le	lo	tappemi	ledu	endukante	idi	0	0	1	0	0	0	1	0	0	0	0	0	0	VERB
+1	nte	te	end	en	tappemi	ledu	endukante	idi	nijam	0	0	0	0	0	0	1	1	0	0	0	0	0	ADV
+0	null	null	null	null	ledu	endukante	idi	nijam	kabatti	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	jam	am	nij	ni	endukante	idi	nijam	kabatti	manade	0	0	1	1	0	0	0	0	0	0	0	0	0	NOUN
+1	tti	ti	kab	ka	idi	nijam	kabatti	manade	jarige	0	0	0	0	0	0	1	1	0	0	0	0	0	ADV
+1	ade	de	man	ma	nijam	kabatti	manade	jarige	vijayam	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ige	ge	jar	ja	kabatti	manade	jarige	vijayam	manade	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	yam	am	vij	vi	manade	jarige	vijayam	manade	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ade	de	man	ma	jarige	vijayam	manade	null	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ulo	lo	And	An	null	null	Andulo	thappu	emundi	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ppu	pu	tha	th	null	Andulo	thappu	emundi	ante	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ndi	di	emu	em	Andulo	thappu	emundi	ante	mana	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	nte	te	ant	an	thappu	emundi	ante	mana	thala	0	0	0	0	0	0	1	0	0	0	0	0	0	VERB
+1	ana	na	man	ma	emundi	ante	mana	thala	ni	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	ala	la	tha	th	ante	mana	thala	ni	vidagotti	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	mana	thala	ni	vidagotti	theesina	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	tti	ti	vid	vi	thala	ni	vidagotti	theesina	desam	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ina	na	the	th	ni	vidagotti	theesina	desam	danni	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	sam	am	des	de	vidagotti	theesina	desam	danni	thappuga	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	nni	ni	dan	da	theesina	desam	danni	thappuga	anadam	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	uga	ga	tha	th	desam	danni	thappuga	anadam	thappem	0	0	0	0	0	0	1	0	0	0	0	0	0	VERB
+1	dam	am	ana	an	danni	thappuga	anadam	thappem	ledu	0	0	1	0	0	0	0	0	0	0	0	0	0	VERB
+1	pem	em	tha	th	thappuga	anadam	thappem	ledu	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	edu	du	led	le	anadam	thappem	ledu	null	null	0	0	1	0	0	0	1	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Em	nv	vadivaa	0	0	0	0	0	1	1	0	0	0	0	0	0	PRON
+0	null	null	null	null	null	Em	nv	vadivaa	alaa	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	vaa	aa	vad	va	Em	nv	vadivaa	alaa	anadaniki	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	laa	aa	ala	al	nv	vadivaa	alaa	anadaniki	siggu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	iki	ki	ana	an	vadivaa	alaa	anadaniki	siggu	ledhaaa	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ggu	gu	sig	si	alaa	anadaniki	siggu	ledhaaa	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aaa	aa	led	le	anadaniki	siggu	ledhaaa	null	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	udu	du	chu	ch	null	null	chudu	thammudu	manaki	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	udu	du	tha	th	null	chudu	thammudu	manaki	shatru	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aki	ki	man	ma	chudu	thammudu	manaki	shatru	desham	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	tru	ru	sha	sh	thammudu	manaki	shatru	desham	kadu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ham	am	des	de	manaki	shatru	desham	kadu	anudhu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	adu	du	kad	ka	shatru	desham	kadu	anudhu	lo	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	dhu	hu	anu	an	desham	kadu	anudhu	lo	unde	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	kadu	anudhu	lo	unde	kontha	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	nde	de	und	un	anudhu	lo	unde	kontha	mandi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	tha	ha	kon	ko	lo	unde	kontha	mandi	yedavala	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ndi	di	man	ma	unde	kontha	mandi	yedavala	valla	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ala	la	yed	ye	kontha	mandi	yedavala	valla	mottham	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	lla	la	val	va	mandi	yedavala	valla	mottham	desham	0	0	0	0	0	1	0	1	1	0	0	0	0	SCONJ
+1	ham	am	mot	mo	yedavala	valla	mottham	desham	gurinchi	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ham	am	des	de	valla	mottham	desham	gurinchi	cheduga	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	chi	hi	gur	gu	mottham	desham	gurinchi	cheduga	alochincha	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	uga	ga	che	ch	desham	gurinchi	cheduga	alochincha	kudadu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	cha	ha	alo	al	gurinchi	cheduga	alochincha	kudadu	inkosari	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	adu	du	kud	ku	cheduga	alochincha	kudadu	inkosari	reccha	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ari	ri	ink	in	alochincha	kudadu	inkosari	reccha	gotte	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	cha	ha	rec	re	kudadu	inkosari	reccha	gotte	pettaddu	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	tte	te	got	go	inkosari	reccha	gotte	pettaddu	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ddu	du	pet	pe	reccha	gotte	pettaddu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	tha	ha	unn	un	null	null	unnavallantha	mana	desham	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ana	na	man	ma	null	unnavallantha	mana	desham	nundi	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	ham	am	des	de	unnavallantha	mana	desham	nundi	lakundamani	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ndi	di	nun	nu	mana	desham	nundi	lakundamani	chusthunnaru	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ani	ni	lak	la	desham	nundi	lakundamani	chusthunnaru	vallu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	aru	ru	chu	ch	nundi	lakundamani	chusthunnaru	vallu	andaru	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	llu	lu	val	va	lakundamani	chusthunnaru	vallu	andaru	anthe	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	aru	ru	and	an	chusthunnaru	vallu	andaru	anthe	west	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	the	he	ant	an	vallu	andaru	anthe	west	gallu	0	0	0	1	0	0	1	0	0	0	0	0	0	ADV
+1	est	st	wes	we	andaru	anthe	west	gallu	valla	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	llu	lu	gal	ga	anthe	west	gallu	valla	gurunchi	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	lla	la	val	va	west	gallu	valla	gurunchi	appudu	0	0	0	0	0	1	0	1	1	0	0	0	0	PRON
+1	chi	hi	gur	gu	gallu	valla	gurunchi	appudu	matladaku	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	udu	du	app	ap	valla	gurunchi	appudu	matladaku	null	0	0	1	0	0	0	1	0	0	0	0	0	0	ADV
+1	aku	ku	mat	ma	gurunchi	appudu	matladaku	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aro	ro	eva	ev	null	null	evaro	vedhavala	vall	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ala	la	ved	ve	null	evaro	vedhavala	vall	desham	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	all	ll	val	va	evaro	vedhavala	vall	desham	mothhani	0	0	0	0	0	0	0	1	0	0	0	0	0	SCONJ
+1	ham	am	des	de	vedhavala	vall	desham	mothhani	dheshichatam	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ani	ni	mot	mo	vall	desham	mothhani	dheshichatam	manchidhi	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	tam	am	dhe	dh	desham	mothhani	dheshichatam	manchidhi	kadhu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dhi	hi	man	ma	mothhani	dheshichatam	manchidhi	kadhu	ani	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	dhu	hu	kad	ka	dheshichatam	manchidhi	kadhu	ani	chepparu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	manchidhi	kadhu	ani	chepparu	mana	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+1	aru	ru	che	ch	kadhu	ani	chepparu	mana	anthe	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ana	na	man	ma	ani	chepparu	mana	anthe	kaani	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	the	he	ant	an	chepparu	mana	anthe	kaani	mimmalni	0	0	0	1	0	0	1	0	0	0	0	0	0	ADV
+1	ani	ni	kaa	ka	mana	anthe	kaani	mimmalni	badha	0	0	0	0	0	0	0	1	0	0	0	0	0	SCONJ
+1	lni	ni	mim	mi	anthe	kaani	mimmalni	badha	pettalani	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	dha	ha	bad	ba	kaani	mimmalni	badha	pettalani	kadhu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ani	ni	pet	pe	mimmalni	badha	pettalani	kadhu	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dhu	hu	kad	ka	badha	pettalani	kadhu	null	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aru	ru	gar	ga	null	null	garu	nenu	kabatti	0	0	1	0	0	1	0	0	0	0	0	0	0	PRON
+1	enu	nu	nen	ne	null	garu	nenu	kabatti	inko	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	tti	ti	kab	ka	garu	nenu	kabatti	inko	desham	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+1	nko	ko	ink	in	nenu	kabatti	inko	desham	gurinchi	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ham	am	des	de	kabatti	inko	desham	gurinchi	alochinchi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	chi	hi	gur	gu	inko	desham	gurinchi	alochinchi	post	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	chi	hi	alo	al	desham	gurinchi	alochinchi	post	pettamannanu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ost	st	pos	po	gurinchi	alochinchi	post	pettamannanu	yendhu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	anu	nu	pet	pe	alochinchi	post	pettamannanu	yendhu	kante	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dhu	hu	yen	ye	post	pettamannanu	yendhu	kante	ithara	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	nte	te	kan	ka	pettamannanu	yendhu	kante	ithara	deshalani	0	0	0	0	0	0	0	0	0	0	0	0	0	PART
+1	ara	ra	ith	it	yendhu	kante	ithara	deshalani	gowravinchatam	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ani	ni	des	de	kante	ithara	deshalani	gowravinchatam	mana	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	tam	am	gow	go	ithara	deshalani	gowravinchatam	mana	barathiya	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ana	na	man	ma	deshalani	gowravinchatam	mana	barathiya	samskurthi	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	iya	ya	bar	ba	gowravinchatam	mana	barathiya	samskurthi	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	thi	hi	sam	sa	mana	barathiya	samskurthi	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	udu	du	Tha	Th	null	null	Thamudu	gurvindha	ginja	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dha	ha	gur	gu	null	Thamudu	gurvindha	ginja	dhani	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	nja	ja	gin	gi	Thamudu	gurvindha	ginja	dhani	kindha	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ani	ni	dha	dh	gurvindha	ginja	dhani	kindha	unna	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	dha	ha	kin	ki	ginja	dhani	kindha	unna	nalupu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	nna	na	unn	un	dhani	kindha	unna	nalupu	chuskokuna	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	upu	pu	nal	na	kindha	unna	nalupu	chuskokuna	migatha	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	una	na	chu	ch	unna	nalupu	chuskokuna	migatha	ginjalni	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	tha	ha	mig	mi	nalupu	chuskokuna	migatha	ginjalni	na	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	lni	ni	gin	gi	chuskokuna	migatha	ginjalni	na	antha	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	migatha	ginjalni	na	antha	erupu	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	tha	ha	ant	an	ginjalni	na	antha	erupu	edhi	0	0	0	1	0	1	0	0	0	0	0	0	0	VERB
+1	upu	pu	eru	er	na	antha	erupu	edhi	ledhu	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	dhi	hi	edh	ed	antha	erupu	edhi	ledhu	ani	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	dhu	hu	led	le	erupu	edhi	ledhu	ani	chepindhata	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	edhi	ledhu	ani	chepindhata	ala	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+1	ata	ta	che	ch	ledhu	ani	chepindhata	ala	undi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	ani	chepindhata	ala	undi	nv	0	0	0	0	0	1	1	0	1	0	0	0	0	ADV
+1	ndi	di	und	un	chepindhata	ala	undi	nv	chepindi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	ala	undi	nv	chepindi	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ndi	di	che	ch	undi	nv	chepindi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ela	chappi	ga	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ppi	pi	cha	ch	null	ela	chappi	ga	sdduvasthundi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	ela	chappi	ga	sdduvasthundi	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ndi	di	sdd	sd	chappi	ga	sdduvasthundi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	jokes	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	null	Telugu	jokes	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	Yadav	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	dav	av	Yad	Ya	null	Telugu	Yadav	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ram	am	ban	ba	null	null	bangaram	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ndi	di	und	un	null	null	undi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	jokes	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	null	Telugu	jokes	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	alu	lu	pra	pr	null	null	pranalu	teesesta	ni	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	sta	ta	tee	te	null	pranalu	teesesta	ni	tappu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	pranalu	teesesta	ni	tappu	pattarante	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ppu	pu	tap	ta	teesesta	ni	tappu	pattarante	idhi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	nte	te	pat	pa	ni	tappu	pattarante	idhi	nijamgaane	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dhi	hi	idh	id	tappu	pattarante	idhi	nijamgaane	naama	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ane	ne	nij	ni	pattarante	idhi	nijamgaane	naama	samvastaram	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ama	ma	naa	na	idhi	nijamgaane	naama	samvastaram	gurtunchukondi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ram	am	sam	sa	nijamgaane	naama	samvastaram	gurtunchukondi	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ndi	di	gur	gu	naama	samvastaram	gurtunchukondi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ami	kadhu	avavani	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	dhu	hu	kad	ka	null	ami	kadhu	avavani	ki	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ani	ni	ava	av	ami	kadhu	avavani	ki	thelisi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	kadhu	avavani	ki	thelisi	andhari	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	isi	si	the	th	avavani	ki	thelisi	andhari	movies	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ari	ri	and	an	ki	thelisi	andhari	movies	chudali	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ies	es	mov	mo	thelisi	andhari	movies	chudali	anadu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ali	li	chu	ch	andhari	movies	chudali	anadu	adhey	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	adu	du	ana	an	movies	chudali	anadu	adhey	movie	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	hey	ey	adh	ad	chudali	anadu	adhey	movie	thapaka	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	vie	ie	mov	mo	anadu	adhey	movie	thapaka	avuthudhi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aka	ka	tha	th	adhey	movie	thapaka	avuthudhi	ani	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	dhi	hi	avu	av	movie	thapaka	avuthudhi	ani	theylisi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	thapaka	avuthudhi	ani	theylisi	edhi	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+1	isi	si	the	th	avuthudhi	ani	theylisi	edhi	namasavthasram	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dhi	hi	edh	ed	ani	theylisi	edhi	namasavthasram	ga	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ram	am	nam	na	theylisi	edhi	namasavthasram	ga	cheypadu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	edhi	namasavthasram	ga	cheypadu	null	0	0	0	0	0	0	1	0	0	0	0	0	0	PART
+1	adu	du	che	ch	namasavthasram	ga	cheypadu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	kem	em	tho	th	null	null	thokkem	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	iki	ki	Eva	Ev	null	null	Evariki	kavali	aa	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ali	li	kav	ka	null	Evariki	kavali	aa	sooodi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	Evariki	kavali	aa	sooodi	maa	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	odi	di	soo	so	kavali	aa	sooodi	maa	vi	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+0	null	null	null	null	aa	sooodi	maa	vi	chaluu	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+0	null	null	null	null	sooodi	maa	vi	chaluu	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	luu	uu	cha	ch	maa	vi	chaluu	null	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	voy	oy	pov	po	null	null	povoy	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	jokes	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	null	Telugu	jokes	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Ne	sneham	naku	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	ham	am	sne	sn	null	Ne	sneham	naku	oka	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aku	ku	nak	na	Ne	sneham	naku	oka	varam	0	0	1	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	sneham	naku	oka	varam	ne	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ram	am	var	va	naku	oka	varam	ne	tho	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	oka	varam	ne	tho	nadiche	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+0	null	null	null	null	varam	ne	tho	nadiche	prathi	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	che	he	nad	na	ne	tho	nadiche	prathi	kshanam	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	thi	hi	pra	pr	tho	nadiche	prathi	kshanam	undali	0	0	0	1	0	0	1	0	0	0	0	0	0	ADJ
+1	nam	am	ksh	ks	nadiche	prathi	kshanam	undali	ilane	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ali	li	und	un	prathi	kshanam	undali	ilane	nirantharam	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ane	ne	ila	il	kshanam	undali	ilane	nirantharam	na	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ram	am	nir	ni	undali	ilane	nirantharam	na	sneham	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	ilane	nirantharam	na	sneham	kalmasham	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	ham	am	sne	sn	nirantharam	na	sneham	kalmasham	lenidhi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ham	am	kal	ka	na	sneham	kalmasham	lenidhi	na	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	dhi	hi	len	le	sneham	kalmasham	lenidhi	na	sneham	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	kalmasham	lenidhi	na	sneham	vadhulu	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	ham	am	sne	sn	lenidhi	na	sneham	vadhulu	koledhu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ulu	lu	vad	va	na	sneham	vadhulu	koledhu	ne	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dhu	hu	kol	ko	sneham	vadhulu	koledhu	ne	sneham	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	vadhulu	koledhu	ne	sneham	na	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	ham	am	sne	sn	koledhu	ne	sneham	na	nesthamai	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	ne	sneham	na	nesthamai	nuv	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	mai	ai	nes	ne	sneham	na	nesthamai	nuv	vunte	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	na	nesthamai	nuv	vunte	na	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	nte	te	vun	vu	nesthamai	nuv	vunte	na	upiri	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	nuv	vunte	na	upiri	unnantha	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	iri	ri	upi	up	vunte	na	upiri	unnantha	varaku	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	tha	ha	unn	un	na	upiri	unnantha	varaku	vadhulu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	aku	ku	var	va	upiri	unnantha	varaku	vadhulu	konu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ulu	lu	vad	va	unnantha	varaku	vadhulu	konu	ne	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	onu	nu	kon	ko	varaku	vadhulu	konu	ne	thodu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	vadhulu	konu	ne	thodu	null	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	odu	du	tho	th	konu	ne	thodu	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nni	ni	enn	en	null	null	enni	unna	antha	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	nna	na	unn	un	null	enni	unna	antha	chusedhi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	tha	ha	ant	an	enni	unna	antha	chusedhi	Prapanchamlo	0	0	0	1	0	1	0	0	0	0	0	0	0	PRON
+1	dhi	hi	chu	ch	unna	antha	chusedhi	Prapanchamlo	nakantu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	mlo	lo	Pra	Pr	antha	chusedhi	Prapanchamlo	nakantu	emi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ntu	tu	nak	na	chusedhi	Prapanchamlo	nakantu	emi	lekapoyina	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	Prapanchamlo	nakantu	emi	lekapoyina	nenu	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ina	na	lek	le	nakantu	emi	lekapoyina	nenu	korukunedhi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	enu	nu	nen	ne	emi	lekapoyina	nenu	korukunedhi	ne	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	dhi	hi	kor	ko	lekapoyina	nenu	korukunedhi	ne	snehanni	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	nenu	korukunedhi	ne	snehanni	Ne	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	nni	ni	sne	sn	korukunedhi	ne	snehanni	Ne	kalalo	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	ne	snehanni	Ne	kalalo	oka	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	alo	lo	kal	ka	snehanni	Ne	kalalo	oka	merupula	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	Ne	kalalo	oka	merupula	vacchi	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ula	la	mer	me	kalalo	oka	merupula	vacchi	ne	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	chi	hi	vac	va	oka	merupula	vacchi	ne	nija	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	merupula	vacchi	ne	nija	jevitham	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	ija	ja	nij	ni	vacchi	ne	nija	jevitham	lo	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ham	am	jev	je	ne	nija	jevitham	lo	oka	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	nija	jevitham	lo	oka	snehithuraliga	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+0	null	null	null	null	jevitham	lo	oka	snehithuraliga	undali	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	iga	ga	sne	sn	lo	oka	snehithuraliga	undali	anukuntunna	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ali	li	und	un	oka	snehithuraliga	undali	anukuntunna	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nna	na	anu	an	snehithuraliga	undali	anukuntunna	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	dhi	hi	Adh	Ad	null	null	Adhi	na	kavitha	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	null	Adhi	na	kavitha	null	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	tha	ha	kav	ka	Adhi	na	kavitha	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	uda	da	Dav	Da	null	null	Davuda	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	kka	ka	Okk	Ok	null	null	Okka	visyam	gurthu	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	yam	am	vis	vi	null	Okka	visyam	gurthu	pettuko	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	thu	hu	gur	gu	Okka	visyam	gurthu	pettuko	nanna	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	uko	ko	pet	pe	visyam	gurthu	pettuko	nanna	pedthe	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nna	na	nan	na	gurthu	pettuko	nanna	pedthe	vastay	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	the	he	ped	pe	pettuko	nanna	pedthe	vastay	gani	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	tay	ay	vas	va	nanna	pedthe	vastay	gani	kodithe	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ani	ni	gan	ga	pedthe	vastay	gani	kodithe	ravu	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+1	the	he	kod	ko	vastay	gani	kodithe	ravu	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	avu	vu	rav	ra	gani	kodithe	ravu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	with	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	ith	th	wit	wi	null	Telugu	with	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	జరీ	సంజీవ్	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+0	null	null	null	null	null	Telugu	జరీ	సంజీవ్	జే	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	ీవ్	వ్	సంజ	సం	Telugu	జరీ	సంజీవ్	జే	సంజీవ్	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+0	null	null	null	null	జరీ	సంజీవ్	జే	సంజీవ్	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	ీవ్	వ్	సంజ	సం	సంజీవ్	జే	సంజీవ్	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	tho	ho	eva	ev	null	null	evaritho	prema	lo	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ema	ma	pre	pr	null	evaritho	prema	lo	paddadhi	0	0	1	0	0	0	1	0	0	0	0	0	0	NOUN
+0	null	null	null	null	evaritho	prema	lo	paddadhi	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	dhi	hi	pad	pa	prema	lo	paddadhi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ini	ni	Amm	Am	null	null	Ammayini	marichipodam	ela	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dam	am	mar	ma	null	Ammayini	marichipodam	ela	Ane	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	Ammayini	marichipodam	ela	Ane	rasthe	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	marichipodam	ela	Ane	rasthe	entha	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	the	he	ras	ra	ela	Ane	rasthe	entha	mandi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	tha	ha	ent	en	Ane	rasthe	entha	mandi	konukuntaru	0	0	0	1	0	1	1	0	0	0	0	0	0	PRON
+1	ndi	di	man	ma	rasthe	entha	mandi	konukuntaru	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aru	ru	kon	ko	entha	mandi	konukuntaru	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	iki	ki	mar	ma	null	null	marchipotaniki	enduku	prema	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	uku	ku	end	en	null	marchipotaniki	enduku	prema	anedi	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ema	ma	pre	pr	marchipotaniki	enduku	prema	anedi	theepi	0	0	1	0	0	0	1	0	0	0	0	0	0	NOUN
+1	edi	di	ane	an	enduku	prema	anedi	theepi	gnapakam	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	epi	pi	the	th	prema	anedi	theepi	gnapakam	aaa	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	kam	am	gna	gn	anedi	theepi	gnapakam	aaa	gnapakalanu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	theepi	gnapakam	aaa	gnapakalanu	rayii	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	anu	nu	gna	gn	gnapakam	aaa	gnapakalanu	rayii	nenu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	yii	ii	ray	ra	aaa	gnapakalanu	rayii	nenu	kontanu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	enu	nu	nen	ne	gnapakalanu	rayii	nenu	kontanu	inka	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	anu	nu	kon	ko	rayii	nenu	kontanu	inka	veelaithe	0	0	0	0	0	0	0	0	0	0	0	0	0	VERN
+1	nka	ka	ink	in	nenu	kontanu	inka	veelaithe	nalugurni	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+1	the	he	vee	ve	kontanu	inka	veelaithe	nalugurni	premimchela	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	rni	ni	nal	na	inka	veelaithe	nalugurni	premimchela	rayyyyii	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ela	la	pre	pr	veelaithe	nalugurni	premimchela	rayyyyii	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	yii	ii	ray	ra	nalugurni	premimchela	rayyyyii	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	iki	ki	mar	ma	null	null	marchipodhanniki	ayyite	dhanni	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ite	te	ayy	ay	null	marchipodhanniki	ayyite	dhanni	ki	0	0	0	0	0	0	0	1	0	0	0	0	0	SCONJ
+1	nni	ni	dha	dh	marchipodhanniki	ayyite	dhanni	ki	konttarru	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	ayyite	dhanni	ki	konttarru	untte	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	rru	ru	kon	ko	dhanni	ki	konttarru	untte	bagunnu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	tte	te	unt	un	ki	konttarru	untte	bagunnu	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nnu	nu	bag	ba	konttarru	untte	bagunnu	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	iki	ki	mar	ma	null	null	marchipovadaniki	book	unte	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ook	ok	boo	bo	null	marchipovadaniki	book	unte	mandi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	nte	te	unt	un	marchipovadaniki	book	unte	mandi	kontaru	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ndi	di	man	ma	book	unte	mandi	kontaru	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aru	ru	kon	ko	unte	mandi	kontaru	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ley	ey	tho	th	null	null	thokkaley	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	enu	nu	nen	ne	null	null	nenu	null	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ale	le	tho	th	null	null	thokkale	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	uku	ku	and	an	null	null	anduku	untechaluga	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	uga	ga	unt	un	null	anduku	untechaluga	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	enu	nu	nen	ne	null	null	nenu	Enni	raasna	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	nni	ni	Enn	En	null	nenu	Enni	raasna	entha	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	sna	na	raa	ra	nenu	Enni	raasna	entha	mandhi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	tha	ha	ent	en	Enni	raasna	entha	mandhi	konna	0	0	0	1	0	1	1	0	0	0	0	0	0	ADJ
+1	dhi	hi	man	ma	raasna	entha	mandhi	konna	marchipoleru	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	nna	na	kon	ko	entha	mandhi	konna	marchipoleru	memanta	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	eru	ru	mar	ma	mandhi	konna	marchipoleru	memanta	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nta	ta	mem	me	konna	marchipoleru	memanta	null	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	eku	ku	mek	me	null	null	meku	nachina	kathalu	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ina	na	nac	na	null	meku	nachina	kathalu	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	alu	lu	kat	ka	meku	nachina	kathalu	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ram	am	mat	ma	null	null	matram	naku	evali	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	aku	ku	nak	na	null	matram	naku	evali	null	0	0	1	0	0	1	0	0	0	0	0	0	0	PRON
+1	ali	li	eva	ev	matram	naku	evali	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aku	ku	nak	na	null	null	naku	kavali	null	0	0	1	0	0	1	0	0	0	0	0	0	0	PRON
+1	ali	li	kav	ka	null	naku	kavali	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	enu	nu	nen	ne	null	null	nenu	null	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	enu	nu	nen	ne	null	null	nenu	null	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ada	da	ekk	ek	null	null	ekkada	dorukuthundi	cheppandi	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ndi	di	dor	do	null	ekkada	dorukuthundi	cheppandi	nen	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ndi	di	che	ch	ekkada	dorukuthundi	cheppandi	nen	konta	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	dorukuthundi	cheppandi	nen	konta	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	nta	ta	kon	ko	cheppandi	nen	konta	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	chi	hi	man	ma	null	null	manchi	maata	cheppaV	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ata	ta	maa	ma	null	manchi	maata	cheppaV	null	0	0	0	0	0	0	0	0	0	0	0	0	0	NOUUN
+1	paV	aV	che	ch	manchi	maata	cheppaV	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	eru	ru	Ter	Te	null	null	Teru	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aku	ku	naa	na	null	null	naaku	naluguru	kodukulu	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	uru	ru	nal	na	null	naaku	naluguru	kodukulu	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ulu	lu	kod	ko	naaku	naluguru	kodukulu	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ani	ni	Dho	Dh	null	null	Dhongani	intlo	endhuku	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	tlo	lo	int	in	null	Dhongani	intlo	endhuku	uncharu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	uku	ku	end	en	Dhongani	intlo	endhuku	uncharu	bayatiki	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	aru	ru	unc	un	intlo	endhuku	uncharu	bayatiki	vellagottakunda	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	iki	ki	bay	ba	endhuku	uncharu	bayatiki	vellagottakunda	Vaadokkade	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	nda	da	vel	ve	uncharu	bayatiki	vellagottakunda	Vaadokkade	maa	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ade	de	Vaa	Va	bayatiki	vellagottakunda	Vaadokkade	maa	intlo	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	vellagottakunda	Vaadokkade	maa	intlo	baaga	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	tlo	lo	int	in	Vaadokkade	maa	intlo	baaga	sampaadinchedhi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aga	ga	baa	ba	maa	intlo	baaga	sampaadinchedhi	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	dhi	hi	sam	sa	intlo	baaga	sampaadinchedhi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nte	te	ant	an	null	null	ante	ento	telusa	0	0	0	0	0	0	1	0	0	0	0	0	0	VERB
+1	nto	to	ent	en	null	ante	ento	telusa	oka	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	usa	sa	tel	te	ante	ento	telusa	oka	ammay	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	ento	telusa	oka	ammay	ninnu	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	may	ay	amm	am	telusa	oka	ammay	ninnu	chuste	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	nnu	nu	nin	ni	oka	ammay	ninnu	chuste	nee	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ste	te	chu	ch	ammay	ninnu	chuste	nee	avuthundi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	ninnu	chuste	nee	avuthundi	ame	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	ndi	di	avu	av	chuste	nee	avuthundi	ame	navvithe	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	nee	avuthundi	ame	navvithe	ne	0	0	0	0	0	1	1	0	0	0	0	0	0	PRON
+1	the	he	nav	na	avuthundi	ame	navvithe	ne	avutundi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	ame	navvithe	ne	avutundi	Ame	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	ndi	di	avu	av	navvithe	ne	avutundi	Ame	ninnu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	ne	avutundi	Ame	ninnu	chusi	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	nnu	nu	nin	ni	avutundi	Ame	ninnu	chusi	daggaraku	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	usi	si	chu	ch	Ame	ninnu	chusi	daggaraku	vaste	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	aku	ku	dag	da	ninnu	chusi	daggaraku	vaste	ne	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ste	te	vas	va	chusi	daggaraku	vaste	ne	raise	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	daggaraku	vaste	ne	raise	avutundi	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	ise	se	rai	ra	vaste	ne	raise	avutundi	naaluka	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ndi	di	avu	av	ne	raise	avutundi	naaluka	tadi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	uka	ka	naa	na	raise	avutundi	naaluka	tadi	aripothundi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	adi	di	tad	ta	avutundi	naaluka	tadi	aripothundi	ame	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ndi	di	ari	ar	naaluka	tadi	aripothundi	ame	tana	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	tadi	aripothundi	ame	tana	andamaina	0	0	0	0	0	1	1	0	0	0	0	0	0	PRON
+1	ana	na	tan	ta	aripothundi	ame	tana	andamaina	chesi	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ina	na	and	an	ame	tana	andamaina	chesi	ANNAYYA	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	esi	si	che	ch	tana	andamaina	chesi	ANNAYYA	E	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	YYA	YA	ANN	AN	andamaina	chesi	ANNAYYA	E	nee	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	chesi	ANNAYYA	E	nee	evava	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+0	null	null	null	null	ANNAYYA	E	nee	evava	annapudu	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	ava	va	eva	ev	E	nee	evava	annapudu	ne	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	udu	du	ann	an	nee	evava	annapudu	ne	ani	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	evava	annapudu	ne	ani	vastundi	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+0	null	null	null	null	annapudu	ne	ani	vastundi	null	0	0	0	0	0	0	1	1	0	0	0	0	0	ADV
+1	ndi	di	vas	va	ne	ani	vastundi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ama	ma	nij	ni	null	null	nijama	aa	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+0	null	null	null	null	null	nijama	aa	null	null	0	0	0	0	0	1	0	0	1	0	0	0	0	PART
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aro	ro	eva	ev	null	null	evaro	kadhu	ma	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	dhu	hu	kad	ka	null	evaro	kadhu	ma	null	0	0	0	0	0	0	1	0	0	0	0	0	0	VERB
+0	null	null	null	null	evaro	kadhu	ma	null	null	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ooo	oo	Hoo	Ho	null	null	Hooo	elati	evariki	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+1	ati	ti	ela	el	null	Hooo	elati	evariki	rakudadhu	0	0	0	1	0	1	0	0	0	0	0	0	0	ADJ
+1	iki	ki	eva	ev	Hooo	elati	evariki	rakudadhu	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	dhu	hu	rak	ra	elati	evariki	rakudadhu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	kem	em	Tho	Th	null	null	Thokem	kaadu	miru	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	adu	du	kaa	ka	null	Thokem	kaadu	miru	annayya	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	iru	ru	mir	mi	Thokem	kaadu	miru	annayya	ante	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	yya	ya	ann	an	kaadu	miru	annayya	ante	anty	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	nte	te	ant	an	miru	annayya	ante	anty	ma	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	nty	ty	ant	an	annayya	ante	anty	ma	chala	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	ante	anty	ma	chala	gatiga	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	ala	la	cha	ch	anty	ma	chala	gatiga	undi	0	0	0	1	0	0	1	0	0	0	0	0	0	ADJ
+1	iga	ga	gat	ga	ma	chala	gatiga	undi	mem	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ndi	di	und	un	chala	gatiga	undi	mem	kuda	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	gatiga	undi	mem	kuda	tintunnam	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	uda	da	kud	ku	undi	mem	kuda	tintunnam	mi	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	nam	am	tin	ti	mem	kuda	tintunnam	mi	untarukada	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	kuda	tintunnam	mi	untarukada	pakkana	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	ada	da	unt	un	tintunnam	mi	untarukada	pakkana	vallaku	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ana	na	pak	pa	mi	untarukada	pakkana	vallaku	try	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	aku	ku	val	va	untarukada	pakkana	vallaku	try	chestham	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	pakkana	vallaku	try	chestham	chudandi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ham	am	che	ch	vallaku	try	chestham	chudandi	oka	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ndi	di	chu	ch	try	chestham	chudandi	oka	ammay	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	chestham	chudandi	oka	ammay	chudagane	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	may	ay	amm	am	chudandi	oka	ammay	chudagane	paduthundi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ane	ne	chu	ch	oka	ammay	chudagane	paduthundi	inko	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ndi	di	pad	pa	ammay	chudagane	paduthundi	inko	ammay	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nko	ko	ink	in	chudagane	paduthundi	inko	ammay	ki	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	may	ay	amm	am	paduthundi	inko	ammay	ki	paduthundi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	inko	ammay	ki	paduthundi	inko	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ndi	di	pad	pa	ammay	ki	paduthundi	inko	ammai	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nko	ko	ink	in	ki	paduthundi	inko	ammai	varaniki	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	mai	ai	amm	am	paduthundi	inko	ammai	varaniki	paduthundi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	iki	ki	var	va	inko	ammai	varaniki	paduthundi	inkoti	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ndi	di	pad	pa	ammai	varaniki	paduthundi	inkoti	nelaki	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	oti	ti	ink	in	varaniki	paduthundi	inkoti	nelaki	inkokaru	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	aki	ki	nel	ne	paduthundi	inkoti	nelaki	inkokaru	1	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aru	ru	ink	in	inkoti	nelaki	inkokaru	1	ala	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	nelaki	inkokaru	1	ala	padalsimdnde	0	1	0	0	0	0	0	0	0	0	0	0	0	NUM
+0	null	null	null	null	inkokaru	1	ala	padalsimdnde	padi	0	0	0	0	0	1	1	0	1	0	0	0	0	PRON
+1	nde	de	pad	pa	1	ala	padalsimdnde	padi	thiruthundi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	adi	di	pad	pa	ala	padalsimdnde	padi	thiruthundi	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ndi	di	thi	th	padalsimdnde	padi	thiruthundi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Nee	abba	avadra	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	bba	ba	abb	ab	null	Nee	abba	avadra	e	0	0	0	0	0	0	0	0	0	0	0	0	0	INTJ
+1	dra	ra	ava	av	Nee	abba	avadra	e	chasendi	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	abba	avadra	e	chasendi	null	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	ndi	di	cha	ch	avadra	e	chasendi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	enu	nu	Nen	Ne	null	null	Nenu	Adaviki	velthuna	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	iki	ki	Ada	Ad	null	Nenu	Adaviki	velthuna	Simhanni	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	una	na	vel	ve	Nenu	Adaviki	velthuna	Simhanni	vetadaniki	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nni	ni	Sim	Si	Adaviki	velthuna	Simhanni	vetadaniki	Meeru	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	iki	ki	vet	ve	velthuna	Simhanni	vetadaniki	Meeru	andi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	eru	ru	Mee	Me	Simhanni	vetadaniki	Meeru	andi	baitaki	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ndi	di	and	an	vetadaniki	Meeru	andi	baitaki	velli	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	aki	ki	bai	ba	Meeru	andi	baitaki	velli	malli	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	lli	li	vel	ve	andi	baitaki	velli	malli	venakki	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	lli	li	mal	ma	baitaki	velli	malli	venakki	vachadu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	kki	ki	ven	ve	velli	malli	venakki	vachadu	Emaindhi	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	adu	du	vac	va	malli	venakki	vachadu	Emaindhi	malli	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dhi	hi	Ema	Em	venakki	vachadu	Emaindhi	malli	vachav	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	lli	li	mal	ma	vachadu	Emaindhi	malli	vachav	Em	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	hav	av	vac	va	Emaindhi	malli	vachav	Em	ledhu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	malli	vachav	Em	ledhu	baita	0	0	0	0	0	1	1	0	0	0	0	0	0	PRON
+1	dhu	hu	led	le	vachav	Em	ledhu	baita	kukka	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ita	ta	bai	ba	Em	ledhu	baita	kukka	undhi	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	kka	ka	kuk	ku	ledhu	baita	kukka	undhi	andhuke	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dhi	hi	und	un	baita	kukka	undhi	andhuke	arthm	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	uke	ke	and	an	kukka	undhi	andhuke	arthm	ithe	0	0	0	0	0	0	0	1	0	0	0	0	0	SCONJ
+1	thm	hm	art	ar	undhi	andhuke	arthm	ithe	kottu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	the	he	ith	it	andhuke	arthm	ithe	kottu	null	0	0	0	0	0	0	0	1	0	0	0	0	0	SCONJ
+1	ttu	tu	kot	ko	arthm	ithe	kottu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nte	te	kuk	ku	null	null	kukkalnte	andhari	byam	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ari	ri	and	an	null	kukkalnte	andhari	byam	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	yam	am	bya	by	kukkalnte	andhari	byam	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	com	om	sai	sa	null	null	saicom	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	udu	du	Ipp	Ip	null	null	Ippudu	Navvala	Navvandi	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ala	la	Nav	Na	null	Ippudu	Navvala	Navvandi	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ndi	di	Nav	Na	Ippudu	Navvala	Navvandi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	dam	am	Ard	Ar	null	null	Ardam	kavatle	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	tle	le	kav	ka	null	Ardam	kavatle	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aki	ki	Kuk	Ku	null	null	Kukalaki	bayapade	vadu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ade	de	bay	ba	null	Kukalaki	bayapade	vadu	eka	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	adu	du	vad	va	Kukalaki	bayapade	vadu	eka	simhani	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	bayapade	vadu	eka	simhani	am	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ani	ni	sim	si	vadu	eka	simhani	am	champuthadu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	eka	simhani	am	champuthadu	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	adu	du	cha	ch	simhani	am	champuthadu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	A	a	anthaku	0	0	0	0	0	0	0	0	0	0	0	0	0	SYM
+0	null	null	null	null	null	A	a	anthaku	minchi	0	0	0	0	0	0	0	0	1	0	0	0	0	SYM
+1	aku	ku	ant	an	A	a	anthaku	minchi	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	chi	hi	min	mi	a	anthaku	minchi	null	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	1	null	null	0	1	0	0	0	0	0	0	0	0	0	0	0	NUM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	czz	zz	Roc	Ro	null	null	Roczz	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ram	am	vik	vi	null	null	vikram	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aku	ku	ant	an	null	null	anthaku	minche	anthaku	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	che	he	min	mi	null	anthaku	minche	anthaku	minche	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	aku	ku	ant	an	anthaku	minche	anthaku	minche	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	che	he	min	mi	minche	anthaku	minche	null	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Nt	a	range	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	null	Nt	a	range	mveonly	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	nge	ge	ran	ra	Nt	a	range	mveonly	steels	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	nly	ly	mve	mv	a	range	mveonly	steels	our	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	els	ls	ste	st	range	mveonly	steels	our	heart	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	mveonly	steels	our	heart	null	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	art	rt	hea	he	steels	our	heart	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	tha	ha	ant	an	null	null	antha	null	null	0	0	0	1	0	1	0	0	0	0	0	0	0	PRON
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	HR	null	null	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ki	gunapatam	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	tam	am	gun	gu	null	ki	gunapatam	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	luu	uu	mat	ma	null	null	matlaluu	levuuuu	nijam	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	uuu	uu	lev	le	null	matlaluu	levuuuu	nijam	kada	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	jam	am	nij	ni	matlaluu	levuuuu	nijam	kada	amma	0	0	1	1	0	0	0	0	0	0	0	0	0	NOUN
+1	ada	da	kad	ka	levuuuu	nijam	kada	amma	duram	0	0	0	0	0	0	0	0	0	0	0	0	0	PART
+1	mma	ma	amm	am	nijam	kada	amma	duram	ga	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ram	am	dur	du	kada	amma	duram	ga	vunapudeee	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	amma	duram	ga	vunapudeee	amma	0	0	0	0	0	0	1	0	0	0	0	0	0	PART
+1	eee	ee	vun	vu	duram	ga	vunapudeee	amma	prema	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	mma	ma	amm	am	ga	vunapudeee	amma	prema	villuva	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ema	ma	pre	pr	vunapudeee	amma	prema	villuva	thelusthundi	0	0	1	0	0	0	1	0	0	0	0	0	0	NOUN
+1	uva	va	vil	vi	amma	prema	villuva	thelusthundi	na	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ndi	di	the	th	prema	villuva	thelusthundi	na	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	villuva	thelusthundi	na	null	null	0	0	0	0	0	1	0	0	1	0	0	0	0	PART
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	jokes	with	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	null	Telugu	jokes	with	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ith	th	wit	wi	Telugu	jokes	with	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	How	many	like	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	any	ny	man	ma	null	How	many	like	this	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ike	ke	lik	li	How	many	like	this	song	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	his	is	thi	th	many	like	this	song	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ong	ng	son	so	like	this	song	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	dha	ha	Bve	Bv	null	null	Bvedha	Vedee	prati	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	dee	ee	Ved	Ve	null	Bvedha	Vedee	prati	talli	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	ati	ti	pra	pr	Bvedha	Vedee	prati	talli	tana	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	lli	li	tal	ta	Vedee	prati	talli	tana	koduku	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ana	na	tan	ta	prati	talli	tana	koduku	kosam	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	uku	ku	kod	ko	talli	tana	koduku	kosam	padalanukune	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	sam	am	kos	ko	tana	koduku	kosam	padalanukune	paat	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	une	ne	pad	pa	koduku	kosam	padalanukune	paat	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	aat	at	paa	pa	kosam	padalanukune	paat	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	my	null	null	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	dha	ha	bad	ba	null	null	badha	vasthundi	kaani	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ndi	di	vas	va	null	badha	vasthundi	kaani	Edurinti	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ani	ni	kaa	ka	badha	vasthundi	kaani	Edurinti	vasthundaaa	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+1	nti	ti	Edu	Ed	vasthundi	kaani	Edurinti	vasthundaaa	Cheppandi	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	aaa	aa	vas	va	kaani	Edurinti	vasthundaaa	Cheppandi	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ndi	di	Che	Ch	Edurinti	vasthundaaa	Cheppandi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	dhi	hi	Vas	Va	null	null	Vasthadhi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	eel	el	fee	fe	null	null	feel	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Naa	eppudu	maa	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	udu	du	epp	ep	null	Naa	eppudu	maa	amma	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	Naa	eppudu	maa	amma	daggara	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	mma	ma	amm	am	eppudu	maa	amma	daggara	untundhi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ara	ra	dag	da	maa	amma	daggara	untundhi	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	dhi	hi	unt	un	amma	daggara	untundhi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ari	ri	mar	ma	null	null	mari	nenu	chesinappudu	0	0	0	0	0	0	1	1	0	0	0	0	0	ADV
+1	enu	nu	nen	ne	null	mari	nenu	chesinappudu	mee	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	udu	du	che	ch	mari	nenu	chesinappudu	mee	ki	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	nenu	chesinappudu	mee	ki	dorikipova	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+0	null	null	null	null	chesinappudu	mee	ki	dorikipova	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ova	va	dor	do	mee	ki	dorikipova	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	enu	nu	nen	ne	null	null	nenu	ne	ani	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	null	nenu	ne	ani	chesa	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+0	null	null	null	null	nenu	ne	ani	chesa	nvu	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+1	esa	sa	che	ch	ne	ani	chesa	nvu	chesi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	ani	chesa	nvu	chesi	nappudalla	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	esi	si	che	ch	chesa	nvu	chesi	nappudalla	ma	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	lla	la	nap	na	nvu	chesi	nappudalla	ma	naku	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	chesi	nappudalla	ma	naku	echi	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	aku	ku	nak	na	nappudalla	ma	naku	echi	pettamantundhi	0	0	1	0	0	1	0	0	0	0	0	0	0	PRON
+1	chi	hi	ech	ec	ma	naku	echi	pettamantundhi	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dhi	hi	pet	pe	naku	echi	pettamantundhi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	boy	oy	Bab	Ba	null	null	Baboy	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	INTJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	5	null	null	0	1	0	1	0	0	0	0	0	0	0	0	0	ADJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	adu	du	kad	ka	null	null	kadu	null	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ndi	di	Eds	Ed	null	null	Edsinatlundi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ite	te	naa	na	null	null	naaite	vesey	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	sey	ey	ves	ve	null	naaite	vesey	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ndi	di	avt	av	null	null	avthundi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	De	vu	Da	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+0	null	null	null	null	null	De	vu	Da	null	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+0	null	null	null	null	De	vu	Da	null	null	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ndi	di	eva	ev	null	null	evandi	ekada	unaru	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ada	da	eka	ek	null	evandi	ekada	unaru	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	aru	ru	una	un	evandi	ekada	unaru	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	lo	bangaram	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ram	am	ban	ba	null	lo	bangaram	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	una	na	avu	av	null	null	avuna	Entha	paduthundi	0	0	0	0	0	0	0	0	0	0	0	0	0	AUX
+1	tha	ha	Ent	En	null	avuna	Entha	paduthundi	intki	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ndi	di	pad	pa	avuna	Entha	paduthundi	intki	ravatani	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	tki	ki	int	in	Entha	paduthundi	intki	ravatani	ki	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ani	ni	rav	ra	paduthundi	intki	ravatani	ki	oka	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	intki	ravatani	ki	oka	paduthundi	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+0	null	null	null	null	ravatani	ki	oka	paduthundi	25	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ndi	di	pad	pa	ki	oka	paduthundi	25	lo	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	oka	paduthundi	25	lo	meru	0	1	0	1	0	0	0	0	0	0	0	0	0	ADJ
+0	null	null	null	null	paduthundi	25	lo	meru	raka	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	eru	ru	mer	me	25	lo	meru	raka	pothe	0	0	1	0	0	1	0	0	0	0	0	0	0	PRON
+1	aka	ka	rak	ra	lo	meru	raka	pothe	vachina	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	the	he	pot	po	meru	raka	pothe	vachina	ne	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ina	na	vac	va	raka	pothe	vachina	ne	malli	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	pothe	vachina	ne	malli	chaduvu	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	lli	li	mal	ma	vachina	ne	malli	chaduvu	ko	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	uvu	vu	cha	ch	ne	malli	chaduvu	ko	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	malli	chaduvu	ko	null	null	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nkq	kq	tan	ta	null	null	tankq	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	hna	na	Kri	Kr	null	null	Krishna	Krishna	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	hna	na	Kri	Kr	null	Krishna	Krishna	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Don	Devik	rama	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	vik	ik	Dev	De	null	Don	Devik	rama	rama	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	ama	ma	ram	ra	Don	Devik	rama	rama	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	ama	ma	ram	ra	Devik	rama	rama	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ali	li	Bom	Bo	null	null	Bommali	darling	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	ing	ng	dar	da	null	Bommali	darling	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	hna	na	kri	kr	null	null	krishna	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	jokes	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	null	Telugu	jokes	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	oka	nimisham	e	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ham	am	nim	ni	null	oka	nimisham	e	chadavndi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	oka	nimisham	e	chadavndi	null	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	ndi	di	cha	ch	nimisham	e	chadavndi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	alu	lu	Asa	As	null	null	Asalu	repanedhi	untundho	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	dhi	hi	rep	re	null	Asalu	repanedhi	untundho	undadhooo	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dho	ho	unt	un	Asalu	repanedhi	untundho	undadhooo	namakam	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ooo	oo	und	un	repanedhi	untundho	undadhooo	namakam	leni	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	kam	am	nam	na	untundho	undadhooo	namakam	leni	erojulooo	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	eni	ni	len	le	undadhooo	namakam	leni	erojulooo	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ooo	oo	ero	er	namakam	leni	erojulooo	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ana	na	man	ma	null	null	mana	manasuku	nachina	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	uku	ku	man	ma	null	mana	manasuku	nachina	ammai	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ina	na	nac	na	mana	manasuku	nachina	ammai	gurinchi	0	0	0	1	0	0	0	0	0	0	0	0	0	VERB
+1	mai	ai	amm	am	manasuku	nachina	ammai	gurinchi	loo	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	chi	hi	gur	gu	nachina	ammai	gurinchi	loo	chupinchinatlu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADP
+0	null	null	null	null	ammai	gurinchi	loo	chupinchinatlu	uhinchukontuuu	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	tlu	lu	chu	ch	gurinchi	loo	chupinchinatlu	uhinchukontuuu	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	uuu	uu	uhi	uh	loo	chupinchinatlu	uhinchukontuuu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	uuu	uu	nel	ne	null	null	nelaaluuu	sanvatsaralu	amailaa	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	alu	lu	san	sa	null	nelaaluuu	sanvatsaralu	amailaa	chuttu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	laa	aa	ama	am	nelaaluuu	sanvatsaralu	amailaa	chuttu	thirigi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ttu	tu	chu	ch	sanvatsaralu	amailaa	chuttu	thirigi	padu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	igi	gi	thi	th	amailaa	chuttu	thirigi	padu	chesukokandi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	adu	du	pad	pa	chuttu	thirigi	padu	chesukokandi	raa	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ndi	di	che	ch	thirigi	padu	chesukokandi	raa	by	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	padu	chesukokandi	raa	by	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	chesukokandi	raa	by	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	iku	ku	nik	ni	null	null	niku	aaa	ammai	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	null	niku	aaa	ammai	nachithe	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	mai	ai	amm	am	niku	aaa	ammai	nachithe	oka	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	the	he	nac	na	aaa	ammai	nachithe	oka	rupaii	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	ammai	nachithe	oka	rupaii	petii	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	aii	ii	rup	ru	nachithe	oka	rupaii	petii	buble	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	tii	ii	pet	pe	oka	rupaii	petii	buble	gum	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ble	le	bub	bu	rupaii	petii	buble	gum	konukoni	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	petii	buble	gum	konukoni	notlo	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	oni	ni	kon	ko	buble	gum	konukoni	notlo	namulukuntu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	tlo	lo	not	no	gum	konukoni	notlo	namulukuntu	velllliii	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ntu	tu	nam	na	konukoni	notlo	namulukuntu	velllliii	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	iii	ii	vel	ve	notlo	namulukuntu	velllliii	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ani	chepu	cheppedhedho	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+1	epu	pu	che	ch	null	ani	chepu	cheppedhedho	dairyagangaa	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dho	ho	che	ch	ani	chepu	cheppedhedho	dairyagangaa	cheppu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	gaa	aa	dai	da	chepu	cheppedhedho	dairyagangaa	cheppu	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ppu	pu	che	ch	cheppedhedho	dairyagangaa	cheppu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	aa	ammai	antee	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	mai	ai	amm	am	null	aa	ammai	antee	vadhantee	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	tee	ee	ant	an	aa	ammai	antee	vadhantee	ventanee	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	tee	ee	vad	va	ammai	antee	vadhantee	ventanee	inko	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nee	ee	ven	ve	antee	vadhantee	ventanee	inko	ammai	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	nko	ko	ink	in	vadhantee	ventanee	inko	ammai	ki	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	mai	ai	amm	am	ventanee	inko	ammai	ki	chesukoo	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	inko	ammai	ki	chesukoo	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	koo	oo	che	ch	ammai	ki	chesukoo	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	the	he	ant	an	null	null	anthe	ganiii	na	0	0	0	1	0	0	1	0	0	0	0	0	0	*CONJ
+1	iii	ii	gan	ga	null	anthe	ganiii	na	manasu	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+0	null	null	null	null	anthe	ganiii	na	manasu	padaipoindhani	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	asu	su	man	ma	ganiii	na	manasu	padaipoindhani	ki	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ani	ni	pad	pa	na	manasu	padaipoindhani	ki	phone	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	manasu	padaipoindhani	ki	phone	chesi	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	one	ne	pho	ph	padaipoindhani	ki	phone	chesi	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	esi	si	che	ch	ki	phone	chesi	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	chi	hi	the	th	null	null	thechi	ooo	posii	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	null	thechi	ooo	posii	savadhobbakandaiii	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	sii	ii	pos	po	thechi	ooo	posii	savadhobbakandaiii	andharniii	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	iii	ii	sav	sa	ooo	posii	savadhobbakandaiii	andharniii	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	iii	ii	and	an	posii	savadhobbakandaiii	andharniii	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	sam	am	Nek	Ne	null	null	Nekosam	paina	aa	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ina	na	pai	pa	null	Nekosam	paina	aa	okaaa	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+0	null	null	null	null	Nekosam	paina	aa	okaaa	nii	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	aaa	aa	oka	ok	paina	aa	okaaa	nii	chesi	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+0	null	null	null	null	aa	okaaa	nii	chesi	pette	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	esi	si	che	ch	okaaa	nii	chesi	pette	untadu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	tte	te	pet	pe	nii	chesi	pette	untadu	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	adu	du	unt	un	chesi	pette	untadu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	tee	ee	end	en	null	null	endhukantee	devudu	agna	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	udu	du	dev	de	null	endhukantee	devudu	agna	lenidhe	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	gna	na	agn	ag	endhukantee	devudu	agna	lenidhe	chimaina	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dhe	he	len	le	devudu	agna	lenidhe	chimaina	kuttadhantaruu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ina	na	chi	ch	agna	lenidhe	chimaina	kuttadhantaruu	kadha	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ruu	uu	kut	ku	lenidhe	chimaina	kuttadhantaruu	kadha	mamaaa	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dha	ha	kad	ka	chimaina	kuttadhantaruu	kadha	mamaaa	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PART
+1	aaa	aa	mam	ma	kuttadhantaruu	kadha	mamaaa	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ham	am	mot	mo	null	null	motham	paiana	nadustunaii	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ana	na	pai	pa	null	motham	paiana	nadustunaii	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	aii	ii	nad	na	motham	paiana	nadustunaii	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ooo	oo	loo	lo	null	null	looo	kandi	raaa	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ndi	di	kan	ka	null	looo	kandi	raaa	desam	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	aaa	aa	raa	ra	looo	kandi	raaa	desam	bagupadudhi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	sam	am	des	de	kandi	raaa	desam	bagupadudhi	mana	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dhi	hi	bag	ba	raaa	desam	bagupadudhi	mana	vallu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ana	na	man	ma	desam	bagupadudhi	mana	vallu	bagupadatharuuu	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	llu	lu	val	va	bagupadudhi	mana	vallu	bagupadatharuuu	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	uuu	uu	bag	ba	mana	vallu	bagupadatharuuu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	haa	aa	tha	th	null	null	tharvathaa	evaraina	ninnu	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ina	na	eva	ev	null	tharvathaa	evaraina	ninnu	vethukuntu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	nnu	nu	nin	ni	tharvathaa	evaraina	ninnu	vethukuntu	ravalsindheee	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ntu	tu	vet	ve	evaraina	ninnu	vethukuntu	ravalsindheee	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	eee	ee	rav	ra	ninnu	vethukuntu	ravalsindheee	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aru	ru	Oka	Ok	null	null	Okaru	pothe	inkokarini	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	the	he	pot	po	null	Okaru	pothe	inkokarini	chusukovadaniki	0	0	0	0	0	0	1	0	0	0	0	0	0	VERB
+1	ini	ni	ink	in	Okaru	pothe	inkokarini	chusukovadaniki	Manushulammanasumanavathvam	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	iki	ki	chu	ch	pothe	inkokarini	chusukovadaniki	Manushulammanasumanavathvam	kaligina	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	vam	am	Man	Ma	inkokarini	chusukovadaniki	Manushulammanasumanavathvam	kaligina	vallam	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ina	na	kal	ka	chusukovadaniki	Manushulammanasumanavathvam	kaligina	vallam	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	lam	am	val	va	Manushulammanasumanavathvam	kaligina	vallam	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ame	chepnav	babu	0	0	0	0	0	1	1	0	0	0	0	0	0	ADV
+1	nav	av	che	ch	null	ame	chepnav	babu	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	abu	bu	bab	ba	ame	chepnav	babu	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	lo	ieyaka	Avarthi	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	aka	ka	iey	ie	null	lo	ieyaka	Avarthi	iena	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	thi	hi	Ava	Av	lo	ieyaka	Avarthi	iena	vasthadi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ena	na	ien	ie	ieyaka	Avarthi	iena	vasthadi	aavakaa	0	0	0	0	0	0	0	1	0	0	0	0	0	SCONJ
+1	adi	di	vas	va	Avarthi	iena	vasthadi	aavakaa	mundha	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	kaa	aa	aav	aa	iena	vasthadi	aavakaa	mundha	Nammakam	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dha	ha	mun	mu	vasthadi	aavakaa	mundha	Nammakam	tho	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	kam	am	Nam	Na	aavakaa	mundha	Nammakam	tho	vacha	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	mundha	Nammakam	tho	vacha	danikosam	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	cha	ha	vac	va	Nammakam	tho	vacha	danikosam	chudali	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	sam	am	dan	da	tho	vacha	danikosam	chudali	Nakinchi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ali	li	chu	ch	vacha	danikosam	chudali	Nakinchi	vadilasadi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	chi	hi	Nak	Na	danikosam	chudali	Nakinchi	vadilasadi	dani	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	adi	di	vad	va	chudali	Nakinchi	vadilasadi	dani	kosam	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ani	ni	dan	da	Nakinchi	vadilasadi	dani	kosam	kaadhuu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	sam	am	kos	ko	vadilasadi	dani	kosam	kaadhuu	null	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	huu	uu	kaa	ka	dani	kosam	kaadhuu	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	ga	chepav	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADP
+1	pav	av	che	ch	null	ga	chepav	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aaa	aa	abb	ab	null	null	abbaaaaaaaaaaaa	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	INTJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	na	null	null	0	0	0	0	0	1	0	0	1	0	0	0	0	PART
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	jji	ji	Buj	Bu	null	null	Bujji	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	nti	ti	ent	en	null	null	enti	prathi	okka	0	0	0	0	0	1	1	0	0	0	0	0	0	ADV
+1	thi	hi	pra	pr	null	enti	prathi	okka	lo	0	0	0	1	0	0	1	0	0	0	0	0	0	ADV
+1	kka	ka	okk	ok	enti	prathi	okka	lo	ee	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+0	null	null	null	null	prathi	okka	lo	ee	kanipistundi	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+0	null	null	null	null	okka	lo	ee	kanipistundi	evaru	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	ndi	di	kan	ka	lo	ee	kanipistundi	evaru	ee	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	aru	ru	eva	ev	ee	kanipistundi	evaru	ee	babu	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	kanipistundi	evaru	ee	babu	null	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	abu	bu	bab	ba	evaru	ee	babu	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Om	Namah	Shivayya	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	mah	ah	Nam	Na	null	Om	Namah	Shivayya	Namah	0	0	1	0	0	0	0	0	0	0	0	0	0	VERB
+1	yya	ya	Shi	Sh	Om	Namah	Shivayya	Namah	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	mah	ah	Nam	Na	Namah	Shivayya	Namah	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	jokes	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	null	Telugu	jokes	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	tel	te	null	null	telugu	jokes	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	null	telugu	jokes	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	me	thisukunta	me	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	nta	ta	thi	th	null	me	thisukunta	me	paristhithi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	me	thisukunta	me	paristhithi	eda	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	thi	hi	par	pa	thisukunta	me	paristhithi	eda	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	me	paristhithi	eda	null	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	tha	ha	Ant	An	null	null	Antha	Sepu	chustavu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	epu	pu	Sep	Se	null	Antha	Sepu	chustavu	Ra	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	avu	vu	chu	ch	Antha	Sepu	chustavu	Ra	nenu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	Sepu	chustavu	Ra	nenu	chesa	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	enu	nu	nen	ne	chustavu	Ra	nenu	chesa	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	esa	sa	che	ch	Ra	nenu	chesa	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aga	ga	Che	Ch	null	null	Chesaga	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Kan	Ka	null	null	Kandi‎Telugu	jokes	null	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+1	kes	es	jok	jo	null	Kandi‎Telugu	jokes	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	లని	ని	పిల	పి	null	null	పిల్లలని	ఇలా	పెంచాలి	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	null	పిల్లలని	ఇలా	పెంచాలి	అని	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ాలి	లి	పెం	పె	పిల్లలని	ఇలా	పెంచాలి	అని	నా	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	ఇలా	పెంచాలి	అని	నా	ఆశ	0	0	0	0	0	0	0	1	0	0	0	0	0	SCONJ
+0	null	null	null	null	పెంచాలి	అని	నా	ఆశ	మరి	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	అని	నా	ఆశ	మరి	మి	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	నా	ఆశ	మరి	మి	ఆశ	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+0	null	null	null	null	ఆశ	మరి	మి	ఆశ	చెప్పండి	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	మరి	మి	ఆశ	చెప్పండి	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ండి	డి	చెప	చె	మి	ఆశ	చెప్పండి	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ade	de	cha	ch	null	null	champasthunade	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	రీ‬	ీ‬	‪‎శ	‪‎	null	null	‪‎శ్రీ‬	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	alo	lo	Pre	Pr	null	null	Premalo	unnappudu	ni	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	udu	du	unn	un	null	Premalo	unnappudu	ni	neglect	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	Premalo	unnappudu	ni	neglect	chestham	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ect	ct	neg	ne	unnappudu	ni	neglect	chestham	adhi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ham	am	che	ch	ni	neglect	chestham	adhi	appudu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dhi	hi	adh	ad	neglect	chestham	adhi	appudu	prama	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	udu	du	app	ap	chestham	adhi	appudu	prama	matthulo	0	0	1	0	0	0	1	0	0	0	0	0	0	NOUN
+1	ama	ma	pra	pr	adhi	appudu	prama	matthulo	manaki	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ulo	lo	mat	ma	appudu	prama	matthulo	manaki	thelidhu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aki	ki	man	ma	prama	matthulo	manaki	thelidhu	Kani	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	dhu	hu	the	th	matthulo	manaki	thelidhu	Kani	aa	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ani	ni	Kan	Ka	manaki	thelidhu	Kani	aa	prema	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+0	null	null	null	null	thelidhu	Kani	aa	prema	manaki	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	ema	ma	pre	pr	Kani	aa	prema	manaki	dhuram	0	0	1	0	0	0	1	0	0	0	0	0	0	NOUN
+1	aki	ki	man	ma	aa	prema	manaki	dhuram	avuthundhi	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ram	am	dhu	dh	prema	manaki	dhuram	avuthundhi	anukunnappudu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	dhi	hi	avu	av	manaki	dhuram	avuthundhi	anukunnappudu	manam	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	udu	du	anu	an	dhuram	avuthundhi	anukunnappudu	manam	mana	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nam	am	man	ma	avuthundhi	anukunnappudu	manam	mana	bhadha	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ana	na	man	ma	anukunnappudu	manam	mana	bhadha	ni	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	dha	ha	bha	bh	manam	mana	bhadha	ni	mana	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	mana	bhadha	ni	mana	dhaggara	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ana	na	man	ma	bhadha	ni	mana	dhaggara	lenappudu	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	ara	ra	dha	dh	ni	mana	dhaggara	lenappudu	kadha	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	udu	du	len	le	mana	dhaggara	lenappudu	kadha	manaki	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dha	ha	kad	ka	dhaggara	lenappudu	kadha	manaki	thelisedhi	0	0	0	0	0	0	0	0	0	0	0	0	0	PART
+1	aki	ki	man	ma	lenappudu	kadha	manaki	thelisedhi	Aa	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	dhi	hi	the	th	kadha	manaki	thelisedhi	Aa	prema	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	manaki	thelisedhi	Aa	prema	matthulo	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	ema	ma	pre	pr	thelisedhi	Aa	prema	matthulo	padi	0	0	1	0	0	0	1	0	0	0	0	0	0	NOUN
+1	ulo	lo	mat	ma	Aa	prema	matthulo	padi	entha	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	adi	di	pad	pa	prema	matthulo	padi	entha	peddha	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	tha	ha	ent	en	matthulo	padi	entha	peddha	thappu	0	0	0	1	0	1	1	0	0	0	0	0	0	ADV
+1	dha	ha	ped	pe	padi	entha	peddha	thappu	chesamu	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ppu	pu	tha	th	entha	peddha	thappu	chesamu	ani	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	amu	mu	che	ch	peddha	thappu	chesamu	ani	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	thappu	chesamu	ani	null	null	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Urs	null	null	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	unu	nu	Avu	Av	null	null	Avunu	nijjame	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ame	me	nij	ni	null	Avunu	nijjame	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aku	ku	nak	na	null	null	naku	ippudu	artham	0	0	1	0	0	1	0	0	0	0	0	0	0	PRON
+1	udu	du	ipp	ip	null	naku	ippudu	artham	ayindhi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ham	am	art	ar	naku	ippudu	artham	ayindhi	kani	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dhi	hi	ayi	ay	ippudu	artham	ayindhi	kani	naku	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ani	ni	kan	ka	artham	ayindhi	kani	naku	yevaru	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+1	aku	ku	nak	na	ayindhi	kani	naku	yevaru	dhuram	0	0	1	0	0	1	0	0	0	0	0	0	0	NOUN
+1	aru	ru	yev	ye	kani	naku	yevaru	dhuram	kaledhu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ram	am	dhu	dh	naku	yevaru	dhuram	kaledhu	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	dhu	hu	kal	ka	yevaru	dhuram	kaledhu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	e	chisina	taruva	0	0	0	0	0	1	0	0	1	0	0	0	0	PRON
+1	ina	na	chi	ch	null	e	chisina	taruva	nenu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	uva	va	tar	ta	e	chisina	taruva	nenu	chayanu	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	enu	nu	nen	ne	chisina	taruva	nenu	chayanu	babu	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	anu	nu	cha	ch	taruva	nenu	chayanu	babu	meru	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	abu	bu	bab	ba	nenu	chayanu	babu	meru	eam	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	eru	ru	mer	me	chayanu	babu	meru	eam	antaru	0	0	1	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	babu	meru	eam	antaru	‪‎శ్రీ‬	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	aru	ru	ant	an	meru	eam	antaru	‪‎శ్రీ‬	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	రీ‬	ీ‬	‪‎శ	‪‎	eam	antaru	‪‎శ్రీ‬	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	aya	ya	May	Ma	null	null	Maya	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	05	null	null	0	1	0	0	0	0	0	0	0	0	0	0	0	NUM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	రీ‬	ీ‬	‪‎శ	‪‎	null	null	‪‎శ్రీ‬	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	jokes	chasa	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	null	Telugu	jokes	chasa	pani	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	asa	sa	cha	ch	Telugu	jokes	chasa	pani	lo	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ani	ni	pan	pa	jokes	chasa	pani	lo	unna	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	chasa	pani	lo	unna	eantha	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	nna	na	unn	un	pani	lo	unna	eantha	ga	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	tha	ha	ean	ea	lo	unna	eantha	ga	avuthunde	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	unna	eantha	ga	avuthunde	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADP
+1	nde	de	avu	av	eantha	ga	avuthunde	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	jokes	chusava	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	null	Telugu	jokes	chusava	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ava	va	chu	ch	Telugu	jokes	chusava	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	lly	ly	rea	re	null	null	really	ilanti	valla	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	nti	ti	ila	il	null	really	ilanti	valla	nunchi	0	0	1	1	0	1	0	0	0	0	0	0	0	NOUN
+1	lla	la	val	va	really	ilanti	valla	nunchi	manam	0	0	0	0	0	1	0	1	1	0	0	0	0	PRON
+1	chi	hi	nun	nu	ilanti	valla	nunchi	manam	chala	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	nam	am	man	ma	valla	nunchi	manam	chala	nerchukovali	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ala	la	cha	ch	nunchi	manam	chala	nerchukovali	anni	0	0	0	1	0	0	1	0	0	0	0	0	0	ADJ
+1	ali	li	ner	ne	manam	chala	nerchukovali	anni	unnolu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nni	ni	ann	an	chala	nerchukovali	anni	unnolu	kastabadadam	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	olu	lu	unn	un	nerchukovali	anni	unnolu	kastabadadam	ledu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dam	am	kas	ka	anni	unnolu	kastabadadam	ledu	really	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	edu	du	led	le	unnolu	kastabadadam	ledu	really	she	0	0	1	0	0	0	1	0	0	0	0	0	0	NOUN
+1	lly	ly	rea	re	kastabadadam	ledu	really	she	is	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	ledu	really	she	is	grate	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	really	she	is	grate	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ate	te	gra	gr	she	is	grate	null	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Oka	Lo	Velthunnaaru	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+0	null	null	null	null	null	Oka	Lo	Velthunnaaru	gaa	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	aru	ru	Vel	Ve	Oka	Lo	Velthunnaaru	gaa	Ayindhi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	Lo	Velthunnaaru	gaa	Ayindhi	Oka	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	dhi	hi	Ayi	Ay	Velthunnaaru	gaa	Ayindhi	Oka	Thaadu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	gaa	Ayindhi	Oka	Thaadu	Icchi	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	adu	du	Tha	Th	Ayindhi	Oka	Thaadu	Icchi	Andharnee	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	chi	hi	Icc	Ic	Oka	Thaadu	Icchi	Andharnee	Kindhaki	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nee	ee	And	An	Thaadu	Icchi	Andharnee	Kindhaki	Dhigamannaadu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aki	ki	Kin	Ki	Icchi	Andharnee	Kindhaki	Dhigamannaadu	null	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	adu	du	Dhi	Dh	Andharnee	Kindhaki	Dhigamannaadu	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ruu	uu	And	An	null	null	Andharuu	Aaa	Thaadukivelaaduthunaru	0	0	1	1	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	null	Andharuu	Aaa	Thaadukivelaaduthunaru	Ee	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	aru	ru	Tha	Th	Andharuu	Aaa	Thaadukivelaaduthunaru	Ee	Thaadu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	Aaa	Thaadukivelaaduthunaru	Ee	Thaadu	oka	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	adu	du	Tha	Th	Thaadukivelaaduthunaru	Ee	Thaadu	oka	Manishi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	Ee	Thaadu	oka	Manishi	Vadhileste	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	shi	hi	Man	Ma	Thaadu	oka	Manishi	Vadhileste	Andharuu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ste	te	Vad	Va	oka	Manishi	Vadhileste	Andharuu	gaa	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ruu	uu	And	An	Manishi	Vadhileste	Andharuu	gaa	untaam	0	0	1	1	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	Vadhileste	Andharuu	gaa	untaam	ani	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	aam	am	unt	un	Andharuu	gaa	untaam	ani	cheptaduBut	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	gaa	untaam	ani	cheptaduBut	Yevaruu	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+1	But	ut	che	ch	untaam	ani	cheptaduBut	Yevaruu	cheyyatledhu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ruu	uu	Yev	Ye	ani	cheptaduBut	Yevaruu	cheyyatledhu	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dhu	hu	che	ch	cheptaduBut	Yevaruu	cheyyatledhu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	alo	lo	Int	In	null	null	Inthalo	Nenu	Thaadu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	enu	nu	Nen	Ne	null	Inthalo	Nenu	Thaadu	vadhilesthaanu	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	adu	du	Tha	Th	Inthalo	Nenu	Thaadu	vadhilesthaanu	Antene	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	anu	nu	vad	va	Nenu	Thaadu	vadhilesthaanu	Antene	chesevaallu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ene	ne	Ant	An	Thaadu	vadhilesthaanu	Antene	chesevaallu	Maa	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	llu	lu	che	ch	vadhilesthaanu	Antene	chesevaallu	Maa	jivitham	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	Antene	chesevaallu	Maa	jivitham	anthaa	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	ham	am	jiv	ji	chesevaallu	Maa	jivitham	anthaa	kosame	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	haa	aa	ant	an	Maa	jivitham	anthaa	kosame	chesthaam	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ame	me	kos	ko	jivitham	anthaa	kosame	chesthaam	Andhi	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	aam	am	che	ch	anthaa	kosame	chesthaam	Andhi	IlaaThana	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dhi	hi	And	An	kosame	chesthaam	Andhi	IlaaThana	Avagaane	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ana	na	Ila	Il	chesthaam	Andhi	IlaaThana	Avagaane	Aaa	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ane	ne	Ava	Av	Andhi	IlaaThana	Avagaane	Aaa	Thaadu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	IlaaThana	Avagaane	Aaa	Thaadu	pattukunna	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+1	adu	du	Tha	Th	Avagaane	Aaa	Thaadu	pattukunna	10boys	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	nna	na	pat	pa	Aaa	Thaadu	pattukunna	10boys	Kindhapadipoyaaru	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	oys	ys	10b	10	Thaadu	pattukunna	10boys	Kindhapadipoyaaru	null	0	1	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aru	ru	Kin	Ki	pattukunna	10boys	Kindhapadipoyaaru	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ina	na	che	ch	null	null	cheppina	ki	Andharuu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	null	cheppina	ki	Andharuu	Okesaari	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ruu	uu	And	An	cheppina	ki	Andharuu	Okesaari	Kottaaru	0	0	1	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ari	ri	Oke	Ok	ki	Andharuu	Okesaari	Kottaaru	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aru	ru	Kot	Ko	Andharuu	Okesaari	Kottaaru	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	mma	ma	Dhe	Dh	null	null	Dhenamma	jeevitham	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ham	am	jee	je	null	Dhenamma	jeevitham	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	రీ‬	ీ‬	‪‎శ	‪‎	null	null	‪‎శ్రీ‬	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	రీ‬	ీ‬	‪‎శ	‪‎	null	null	‪‎శ్రీ‬	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	842	42	184	18	null	null	1842	null	null	0	1	0	0	0	0	0	0	0	0	0	0	0	NUM
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ers	rs	oth	ot	null	null	others	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	bai	ai	abb	ab	null	null	abbai	ammai	na	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	mai	ai	amm	am	null	abbai	ammai	na	E	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	abbai	ammai	na	E	ni	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+0	null	null	null	null	ammai	na	E	ni	chadhavandi	0	0	0	0	0	0	0	0	1	0	0	0	0	DET
+0	null	null	null	null	na	E	ni	chadhavandi	kani	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ndi	di	cha	ch	E	ni	chadhavandi	kani	nenu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ani	ni	kan	ka	ni	chadhavandi	kani	nenu	evarni	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+1	enu	nu	nen	ne	chadhavandi	kani	nenu	evarni	thappuga	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	rni	ni	eva	ev	kani	nenu	evarni	thappuga	anadam	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	uga	ga	tha	th	nenu	evarni	thappuga	anadam	ledhu	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	dam	am	ana	an	evarni	thappuga	anadam	ledhu	manalo	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dhu	hu	led	le	thappuga	anadam	ledhu	manalo	konthamandhi	0	0	0	0	0	0	1	0	0	0	0	0	0	VERB
+1	alo	lo	man	ma	anadam	ledhu	manalo	konthamandhi	murgalu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dhi	hi	kon	ko	ledhu	manalo	konthamandhi	murgalu	vunaru	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	alu	lu	mur	mu	manalo	konthamandhi	murgalu	vunaru	valla	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aru	ru	vun	vu	konthamandhi	murgalu	vunaru	valla	marupu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	lla	la	val	va	murgalu	vunaru	valla	marupu	kosam	0	0	0	0	0	1	0	1	1	0	0	0	0	PRON
+1	upu	pu	mar	ma	vunaru	valla	marupu	kosam	na	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	sam	am	kos	ko	valla	marupu	kosam	na	e	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+0	null	null	null	null	marupu	kosam	na	e	chinna	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+0	null	null	null	null	kosam	na	e	chinna	prayathnam	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	nna	na	chi	ch	na	e	chinna	prayathnam	Rey	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	nam	am	pra	pr	e	chinna	prayathnam	Rey	meeru	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	chinna	prayathnam	Rey	meeru	okka	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	eru	ru	mee	me	prayathnam	Rey	meeru	okka	ammaini	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	kka	ka	okk	ok	Rey	meeru	okka	ammaini	chestharu	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ini	ni	amm	am	meeru	okka	ammaini	chestharu	aa	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aru	ru	che	ch	okka	ammaini	chestharu	aa	ammai	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	ammaini	chestharu	aa	ammai	ni	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	mai	ai	amm	am	chestharu	aa	ammai	ni	chesthune	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	aa	ammai	ni	chesthune	inko	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	une	ne	che	ch	ammai	ni	chesthune	inko	ammai	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	nko	ko	ink	in	ni	chesthune	inko	ammai	ni	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	mai	ai	amm	am	chesthune	inko	ammai	ni	lo	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	inko	ammai	ni	lo	pedatharu	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+0	null	null	null	null	ammai	ni	lo	pedatharu	kani	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	aru	ru	ped	pe	ni	lo	pedatharu	kani	aa	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ani	ni	kan	ka	lo	pedatharu	kani	aa	ammai	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+0	null	null	null	null	pedatharu	kani	aa	ammai	vere	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	mai	ai	amm	am	kani	aa	ammai	vere	abbai	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ere	re	ver	ve	aa	ammai	vere	abbai	tho	0	0	0	1	0	0	0	0	1	0	0	0	0	ADJ
+1	bai	ai	abb	ab	ammai	vere	abbai	tho	matladethe	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	vere	abbai	tho	matladethe	chalu	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	the	he	mat	ma	abbai	tho	matladethe	chalu	bokku	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	alu	lu	cha	ch	tho	matladethe	chalu	bokku	ani	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	kku	ku	bok	bo	matladethe	chalu	bokku	ani	meeru	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	chalu	bokku	ani	meeru	antaru	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+1	eru	ru	mee	me	bokku	ani	meeru	antaru	mari	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	aru	ru	ant	an	ani	meeru	antaru	mari	meeru	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ari	ri	mar	ma	meeru	antaru	mari	meeru	kuda	0	0	0	0	0	0	1	1	0	0	0	0	0	CONJ
+1	eru	ru	mee	me	antaru	mari	meeru	kuda	bokkule	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	uda	da	kud	ku	mari	meeru	kuda	bokkule	kadha	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	ule	le	bok	bo	meeru	kuda	bokkule	kadha	aa	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dha	ha	kad	ka	kuda	bokkule	kadha	aa	lekka	0	0	0	0	0	0	0	0	0	0	0	0	0	PART
+0	null	null	null	null	bokkule	kadha	aa	lekka	lo	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	kka	ka	lek	le	kadha	aa	lekka	lo	chusthe	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	aa	lekka	lo	chusthe	edhaina	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	the	he	chu	ch	lekka	lo	chusthe	edhaina	ante	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ina	na	edh	ed	lo	chusthe	edhaina	ante	chalu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	nte	te	ant	an	chusthe	edhaina	ante	chalu	ma	0	0	0	0	0	0	1	0	0	0	0	0	0	VERB
+1	alu	lu	cha	ch	edhaina	ante	chalu	ma	ma	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	ante	chalu	ma	ma	antaru	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+0	null	null	null	null	chalu	ma	ma	antaru	ma	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	aru	ru	ant	an	ma	ma	antaru	ma	ni	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	ma	antaru	ma	ni	ammai	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+0	null	null	null	null	antaru	ma	ni	ammai	mosam	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	mai	ai	amm	am	ma	ni	ammai	mosam	chesindhi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	sam	am	mos	mo	ni	ammai	mosam	chesindhi	ma	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dhi	hi	che	ch	ammai	mosam	chesindhi	ma	prema	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	mosam	chesindhi	ma	prema	kosam	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	ema	ma	pre	pr	chesindhi	ma	prema	kosam	katinchadu	0	0	1	0	0	0	1	0	0	0	0	0	0	NOUN
+1	sam	am	kos	ko	ma	prema	kosam	katinchadu	me	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	adu	du	kat	ka	prema	kosam	katinchadu	me	ammai	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	kosam	katinchadu	me	ammai	lu	0	0	0	0	0	1	0	0	1	0	0	0	0	DET
+1	mai	ai	amm	am	katinchadu	me	ammai	lu	prema	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	me	ammai	lu	prema	kosam	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+1	ema	ma	pre	pr	ammai	lu	prema	kosam	em	0	0	1	0	0	0	1	0	0	0	0	0	0	NOUN
+1	sam	am	kos	ko	lu	prema	kosam	em	chesaru	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+0	null	null	null	null	prema	kosam	em	chesaru	ani	0	0	0	0	0	1	1	0	0	0	0	0	0	ADV
+1	aru	ru	che	ch	kosam	em	chesaru	ani	antunare	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+0	null	null	null	null	em	chesaru	ani	antunare	meeru	0	0	0	0	0	0	1	1	0	0	0	0	0	SCONJ
+1	are	re	ant	an	chesaru	ani	antunare	meeru	manaku	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	eru	ru	mee	me	ani	antunare	meeru	manaku	prema	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	aku	ku	man	ma	antunare	meeru	manaku	prema	tho	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ema	ma	pre	pr	meeru	manaku	prema	tho	janmanichindhi	0	0	1	0	0	0	1	0	0	0	0	0	0	NOUN
+0	null	null	null	null	manaku	prema	tho	janmanichindhi	prema	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	dhi	hi	jan	ja	prema	tho	janmanichindhi	prema	ga	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ema	ma	pre	pr	tho	janmanichindhi	prema	ga	chuskuntundhi	0	0	1	0	0	0	1	0	0	0	0	0	0	ADV
+0	null	null	null	null	janmanichindhi	prema	ga	chuskuntundhi	adhi	0	0	0	0	0	0	1	0	0	0	0	0	0	ADP
+1	dhi	hi	chu	ch	prema	ga	chuskuntundhi	adhi	chaladha	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dhi	hi	adh	ad	ga	chuskuntundhi	adhi	chaladha	manaku	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dha	ha	cha	ch	chuskuntundhi	adhi	chaladha	manaku	ammailu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	aku	ku	man	ma	adhi	chaladha	manaku	ammailu	medha	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ilu	lu	amm	am	chaladha	manaku	ammailu	medha	postharu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dha	ha	med	me	manaku	ammailu	medha	postharu	chestharu	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	aru	ru	pos	po	ammailu	medha	postharu	chestharu	kani	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	aru	ru	che	ch	medha	postharu	chestharu	kani	memu	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ani	ni	kan	ka	postharu	chestharu	kani	memu	goppa	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+1	emu	mu	mem	me	chestharu	kani	memu	goppa	premekulam	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	ppa	pa	gop	go	kani	memu	goppa	premekulam	ani	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	lam	am	pre	pr	memu	goppa	premekulam	ani	petukuntaru	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	goppa	premekulam	ani	petukuntaru	siggu	0	0	0	0	0	0	1	1	0	0	0	0	0	VERB
+1	aru	ru	pet	pe	premekulam	ani	petukuntaru	siggu	ledhura	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ggu	gu	sig	si	ani	petukuntaru	siggu	ledhura	meeku	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ura	ra	led	le	petukuntaru	siggu	ledhura	meeku	okka	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	eku	ku	mee	me	siggu	ledhura	meeku	okka	ammai	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	kka	ka	okk	ok	ledhura	meeku	okka	ammai	prema	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	mai	ai	amm	am	meeku	okka	ammai	prema	lo	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ema	ma	pre	pr	okka	ammai	prema	lo	padi	0	0	1	0	0	0	1	0	0	0	0	0	0	NOUN
+0	null	null	null	null	ammai	prema	lo	padi	meeru	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	adi	di	pad	pa	prema	lo	padi	meeru	mosapothe	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	eru	ru	mee	me	lo	padi	meeru	mosapothe	okka	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+1	the	he	mos	mo	padi	meeru	mosapothe	okka	thali	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	kka	ka	okk	ok	meeru	mosapothe	okka	thali	runam	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ali	li	tha	th	mosapothe	okka	thali	runam	thiruchukunam	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	nam	am	run	ru	okka	thali	runam	thiruchukunam	anukondi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	nam	am	thi	th	thali	runam	thiruchukunam	anukondi	bharath	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ndi	di	anu	an	runam	thiruchukunam	anukondi	bharath	matha	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ath	th	bha	bh	thiruchukunam	anukondi	bharath	matha	antaru	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	tha	ha	mat	ma	anukondi	bharath	matha	antaru	kani	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	aru	ru	ant	an	bharath	matha	antaru	kani	bharath	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ani	ni	kan	ka	matha	antaru	kani	bharath	petha	0	0	0	0	0	0	0	1	0	0	0	0	0	CONJ
+1	ath	th	bha	bh	antaru	kani	bharath	petha	ani	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	tha	ha	pet	pe	kani	bharath	petha	ani	anaru	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	bharath	petha	ani	anaru	adhi	0	0	0	0	0	0	1	1	0	0	0	0	0	VERB
+1	aru	ru	ana	an	petha	ani	anaru	adhi	gurthupetukondi	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	dhi	hi	adh	ad	ani	anaru	adhi	gurthupetukondi	amma	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ndi	di	gur	gu	anaru	adhi	gurthupetukondi	amma	veru	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	mma	ma	amm	am	adhi	gurthupetukondi	amma	veru	ammai	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	eru	ru	ver	ve	gurthupetukondi	amma	veru	ammai	veru	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	mai	ai	amm	am	amma	veru	ammai	veru	kadhu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	eru	ru	ver	ve	veru	ammai	veru	kadhu	prapancham	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	dhu	hu	kad	ka	ammai	veru	kadhu	prapancham	lo	0	0	0	0	0	0	1	0	0	0	0	0	0	VERB
+1	ham	am	pra	pr	veru	kadhu	prapancham	lo	prathi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	kadhu	prapancham	lo	prathi	ammai	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	thi	hi	pra	pr	prapancham	lo	prathi	ammai	thali	0	0	0	1	0	0	1	0	0	0	0	0	0	ADJ
+1	mai	ai	amm	am	lo	prathi	ammai	thali	avuthundhi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ali	li	tha	th	prathi	ammai	thali	avuthundhi	ammaini	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dhi	hi	avu	av	ammai	thali	avuthundhi	ammaini	ammaila	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	ini	ni	amm	am	thali	avuthundhi	ammaini	ammaila	kadhu	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	ila	la	amm	am	avuthundhi	ammaini	ammaila	kadhu	amma	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	dhu	hu	kad	ka	ammaini	ammaila	kadhu	amma	la	0	0	0	0	0	0	1	0	0	0	0	0	0	ADV
+1	mma	ma	amm	am	ammaila	kadhu	amma	la	chudandi	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+0	null	null	null	null	kadhu	amma	la	chudandi	meeku	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ndi	di	chu	ch	amma	la	chudandi	meeku	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	eku	ku	mee	me	la	chudandi	meeku	null	null	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	anu	nu	ped	pe	null	null	pedathanu	nenu	lo	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+1	enu	nu	nen	ne	null	pedathanu	nenu	lo	kadhu	0	0	0	0	0	1	0	0	0	0	0	0	0	PRON
+0	null	null	null	null	pedathanu	nenu	lo	kadhu	lo	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	dhu	hu	kad	ka	nenu	lo	kadhu	lo	kadhu	0	0	0	0	0	0	1	0	0	0	0	0	0	PART
+0	null	null	null	null	lo	kadhu	lo	kadhu	lo	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	dhu	hu	kad	ka	kadhu	lo	kadhu	lo	ni	0	0	0	0	0	0	1	0	0	0	0	0	0	PART
+0	null	null	null	null	lo	kadhu	lo	ni	kadhu	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+0	null	null	null	null	kadhu	lo	ni	kadhu	lo	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	dhu	hu	kad	ka	lo	ni	kadhu	lo	bhadhiyathagala	0	0	0	0	0	0	1	0	0	0	0	0	0	PART
+0	null	null	null	null	ni	kadhu	lo	bhadhiyathagala	okka	0	0	0	0	0	0	0	0	0	0	0	0	0	ADP
+1	ala	la	bha	bh	kadhu	lo	bhadhiyathagala	okka	manishini	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	kka	ka	okk	ok	lo	bhadhiyathagala	okka	manishini	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ini	ni	man	ma	bhadhiyathagala	okka	manishini	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	రీ‬	ీ‬	‪‎శ	‪‎	null	null	‪‎శ్రీ‬	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	jokes	null	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	null	Telugu	jokes	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ugu	gu	Tel	Te	null	null	Telugu	jokes	కృతజ్ఞతలు	0	0	0	0	0	0	0	0	0	0	0	0	0	PROPN
+1	kes	es	jok	jo	null	Telugu	jokes	కృతజ్ఞతలు	మిత్రమా	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	తలు	లు	కృత	కృ	Telugu	jokes	కృతజ్ఞతలు	మిత్రమా	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+1	రమా	మా	మిత	మి	jokes	కృతజ్ఞతలు	మిత్రమా	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+1	ame	me	nij	ni	null	null	nijame	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Ur	super	frind	0	0	0	0	0	0	0	0	0	0	0	0	1	X
+1	per	er	sup	su	null	Ur	super	frind	null	0	0	0	1	0	0	0	0	0	0	0	0	0	ADJ
+1	ind	nd	fri	fr	Ur	super	frind	null	null	0	0	1	0	0	0	0	0	0	0	0	0	0	NOUN
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
+0	null	null	null	null	null	null	Em	chepava	null	0	0	0	0	0	1	1	0	0	0	0	0	0	ADV
+1	ava	va	che	ch	null	Em	chepava	null	null	0	0	0	0	0	0	0	0	0	0	0	0	0	VERB
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	O
+
